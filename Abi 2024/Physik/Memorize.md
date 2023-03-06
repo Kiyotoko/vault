@@ -309,8 +309,8 @@ Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 ## Die Größe der elektrischen Ladung
 Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektronenüberschuss) oder positive (Elektronenmangel) Ladung ist.
 
-- Formelzeichen (Symbol): $Q$
-- Einheit: $[Q] = 1 C$ (ein Coulomb)
+- Formelzeichen $Q$
+- Einheit $[Q] = 1 C$ (ein Coulomb)
 - Formel $Q=N*e$
 
 Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
@@ -318,7 +318,7 @@ Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird 
 Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
 ### Nachweis elektrostatischer Ladungen
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
-![[Elektrometer.png]]
+![Elektrometer](Working%20Materials/Elektrisches%20Feld/Elektrometer.png)
 ### Ladungsausgleich
 Beim Ladungsausgleich fließen zuvor getrennt Ladungen zurück.
 #### Influenz
@@ -342,47 +342,73 @@ In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
 $Q=Q_1$
 ## Nah- und Fernwirkungstheorie
 - **Fernwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt unmittelbar (instantan) und ohne „Vermittler“.
-- **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungs-geschwindigkeit) und durch einen „Vermittler“.
+- **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungsgeschwindigkeit) und durch einen „Vermittler“.
 ## Elektrostatisches Feld
-In dem Raum (Wirkungsbereich) um einen elektrostatisch gela-denen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
+In dem Raum (Wirkungsbereich) um einen elektrostatisch geladenen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
 ### Das Feldlinienbild des elektrischen Feldes
 ### Homogenes Feld
 Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 ### Faradayscher Käfig
-### Die elektrische Feldstärke
+## Die elektrische Feldstärke
 Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
-- Formelzeichen (Symbol): 
-- Einheit: \[\] = 1  
-- Formel: 
+- Formelzeichen $E$
+- Einheit $N$
+- Formel $\vec{E}=\frac{\vec{F}}{q}$
 
-Kraft auf einen positiv geladenen Körper
-Ladung dieses Körpers
-![[Polarisation.png]]
-![[Potenzial.png]]
+![Polarisation](Working%20Materials/Elektrisches%20Feld/Polarisation.png)
+![Potenzial](Working%20Materials/Elektrisches%20Feld/Potenzial.png)
 ## Coulombsches Gesetz
 ### Relative Permittivität
 Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
-![[Relative Permittivität.png]]
-### Elektrisches Potential
+![Relative Permittivität](Working%20Materials/Elektrisches%20Feld/Relative%20Permittivität.png)
+## Elektrisches Potential
 Das elektrische Potential in einem Punkt  des elektrischen Feldes bezieht sich auf die Arbeit , die benötigt wird, um eine Probeladung  von einem festen Bezugspunkt  zu einem Punkt  zu verschieben.
-- Formelzeichen (Symbol): 
-- Einheit: [] = 1  
-- Formel:
+- Formelzeichen $\varphi$
+- Einheit $V$
+- Formel
 ### Äuipotentialflächen
 Die Flächen, die das gleiche Potential besitzen, heißen Äquipotentialflächen
-## Elektische Spannung
+## Elektrische Spannung
 Wir eine Probeladung  von einem Anfangspunkt zu einem Endpunkt innerhalb eines elektrischen Feldes verschoben, ändert sich das Potential  für die Ladung . Diese Änderung des Potentials  wird als Spannung bezeichnet.
-- Formelzeichen (Symbol): 
-- Einheit: [] = 1  
-- Formel: 
+- Formelzeichen $U$
+- Einheit $V$
+- Formel $U=E*d$ 
 ## Kondensatoren
 Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und somit elektrischer Energie. Er besteht aus sich gegenüberliegenden leitenden Schichten, die durch einen Isolator (Di-elektrikum) getrennt sind. 
-![[Plattenkondensator.png]]
-### Kapazität und gespeicherte Energie
-Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von 1 V speichern kann.
-- Formelzeichen (Symbol): 
-- Einheit: [] = 1 F (ein Farad)
-- Formel: 
-- gespeicherte Energie: 
-### Die elektrische Feldstärke in homogenen Feldern
-### Energie im Plattenkondensator
+![Plattenkondensator](Working%20Materials/Elektrisches%20Feld/Plattenkondensator.png)
+### Kapazität
+Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von $1 V$ speichern kann.
+- Formelzeichen $C$
+- Einheit $F=\frac{C}{V}$
+- Formel $C=\frac{Q}{U}$
+- Idealer Plattenkondensator $C=\varepsilon_0*\varepsilon_r*\frac{A}{d}$
+### Speicherung elektrischer Energie
+Die elektrische Energie lässt sich auch mithilfe der Feldstärke $E=\frac{U}{d}$ ausdrücken.
+
+$W=\frac{1}{2}\varepsilon_0*\varepsilon_r*A*d*E^2$
+
+Die Kapazität und damit das Speichervermögen eines Kondensators ist umso größer,
+- je größer die Flächen der Platten ist,
+- je kleiner der Abstand der Platten ist,
+- je größer die Permittivität des Dialektrikums ist.
+
+#### Parallelschaltung
+$C_{ges}=C_1+C_2+C_3+\dots+C_n$
+#### Reihenschaltung
+$\frac{1}{C_{ges}}=\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}+\dots+\frac{1}{C_n}$
+### Auf und Entladen eines Kondensators
+#### Aufladungsvorgang
+$U_0=U_R+U_C=R*I+\frac{Q}{C}$
+#### Entladungsvorgang
+$I(t)=\frac{\Delta Q}{\Delta t}$
+## Magnete und magnetische Felder
+### Magnetische Körper
+Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor und bestimmten keramischen Werkstoffen (so genannte Ferrite) oder stromdurchflossenen Leitern wirken magnetische Kräfte
+![](Working%20Materials/Elektrisches%20Feld/Cobalt.png)
+![](Working%20Materials/Elektrisches%20Feld/Eisen.png)
+![](Working%20Materials/Elektrisches%20Feld/Ferrit.png)
+### Permanentmagnet
+Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
+### Kräfte zwischen Magneten
+### Elektromagnete
+- je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
