@@ -187,10 +187,10 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 - Es soll die richtige Mitte zwischen Mangel und Übermaß gefunden werden
 ~~~mermaid
 graph LR
-	Z((<b>Mitte</b><div>das Beste in uns</div>))
-	Z-->A[<i>Tugend</i> Tapferkeit]
-	Z-->B[<i>Mangel</i> Feigheit]
-	Z-->C[<i>Übermaß</i> Tollkühnheit]
+	Z((<h2>Mitte</h2>Das Beste in uns))
+	Z-->A[<h4>Tugend</h4>Tapferkeit]
+	Z-->B[<h4>Mangel</h4>Feigheit]
+	Z-->C[<h4>Übermaß</h4>Tollkühnheit]
 ~~~
 ## Arthur Schopenhauer
 ### Zum Begriff des Mitleids
@@ -198,10 +198,10 @@ graph LR
 	- mit-leiden → Gefühl der Anteilnahme am Schmerz und Leid anerer
 	- ein mit-Gefühl → vergleich mit-freuen
 	- im christlichen Kontext Voraussetzung
-- negativ
+- **negativ**
 	- pathologische Mitleid → ich empfinde Leid, welches nicht in mir entsteht
 	- Thomas Hobbes → Mitleid entsteht aus Furcht vor späterem eigenem Leid, die das richtige Denken behindert
-## Egoismus und Mitleid
+### Egoismus und Mitleid
 Die Handlungsziele des Menschen sind in der Regel egoistisch
 - direkt egoistisch → unmittelbarer Eigennutz
 - indirekt egoistisch → mittelbarer Eigennutz
@@ -212,3 +212,17 @@ Die Handlungsziele des Menschen sind in der Regel egoistisch
 - *Aber*: auch das Wohl und Wehe eines anderen kann meinen Willen bestimmen
 - Dies muss voll und ganz mein antrieb sein → Mitleid
 - sie handeln dann moralisch, wenn das Leiden sie so stark beschäftigt, dass sie es selbst abstellen möchten
+### Der Wille
+- Der Wille ist Grund allen Leidens
+→ der Wille will immer etwas
+→ das heißt ihm fehlt etwas
+
+- Leiden ist unvermeidlich, da der Wille nie zufrieden ist
+→ der Mensch ist zum Leiden bestimme, da durch Wille bestimme
+### Bosheit
+Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht lindern kann. Aus dieser inneren Qual geht die uneigennützige Freude an fremden Leiden hervor. Dieser ist das fremde Leiden nicht mehr Mittel zur Erlangung der Zwecke des eigenen Willens, sondern Zweck an sich.
+- **Ursprung der Bosheit**
+	- Eigenes Leid erscheint in Betrachtung fremden Glücks um vieles schlimmer
+	- Eigenes Leid erscheint im Vergleich zu fremden Leiden als weniger schlimm
+	- Fremdes Leiden lindert das eigene Leiden
+	- Beruht auf der Erkenntnis, dass mein eigenes Leben niemals Enden wird. Deshalb soll fremdes Leid mein eigenes Mindern und zudem die eigene Macht demonstrieren.

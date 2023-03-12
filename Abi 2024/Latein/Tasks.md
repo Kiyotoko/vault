@@ -235,3 +235,11 @@ HANNIBAL, Sohn des Hamilcar, ist ein Karthager. Wenn es wahr ist, was niemand be
 	- Oratoribus
 	- Oratores
 	- Oratoribus
+## 2023-03-09
+- sanctissimum
+- potentissimum
+- sapientissimum
+- arcissivit
+- iussit
+- piissimo
+- nobilissimorum

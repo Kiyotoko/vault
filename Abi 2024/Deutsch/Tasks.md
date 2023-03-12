@@ -1,5 +1,5 @@
 ## 2022-09-09
-- __Abschnitte:__
+- **Abschnitte**
 	- „Wahlspruch der Aufklärung“ Z. 1 - 10
 	- „Unmündigkeit“ Z. 11 - 35
 	- „Unausweichlichkeit der Aufklärung“ Z. 36 - 44
@@ -59,19 +59,14 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 	4. Die Handlung darf nie fantastisch, sondern immer gebunden an die Wirklichkeit, sein.
 ---
 1. Aussagen zuordnen.
-	- __Lessing:__
-		~~~ad-quote
-		title:Lessig
-		Die beste Person muss die unglücklichste sein.
+	- **Lessing**
+		>Die beste Person muss die unglücklichste sein.
 		Tugend entsteht nur, wenn wir Mitleid empfinden.
-		Das Theater kann in der Aufklärung nur eine Sittenschule sein, wenn an die _Empfindsamkeit_ appelliert wird.
-		~~~
-	- __Gottsched:__
-		~~~ad-quote
-		Die Handlung im Drama muss natürlich, klar und nachvollziehbar sein, sodass sie genau so passieren könnte.
+		Das Theater kann in der Aufklärung nur eine Sittenschule sein, wenn an die *Empfindsamkeit* appelliert wird.
+	- **Gottsched**
+		>Die Handlung im Drama muss natürlich, klar und nachvollziehbar sein, sodass sie genau so passieren könnte.
 		Der Schauspieler soll in seinem Beruf anerkannt werden.
 		Es soll im Drama nur ein Stil erkennbar sein.
-		~~~
 2. Reflektiere „prodesse et declare“ (nutzen und belehren) im Zusammenhang mit Digitalen Medien.
 	- Digitale Medien können durch ihre Interaktivität gleichzeitig unterhalten und belehrend sein. Durch das Schauen eines Videos oder das Spielen eines Videospiels ist er prinzipiell möglich, gleichzeitig unterhalten zu werden und selbst zu lernen. Allerdings denke ich, dass dies nur auf einen kleinen Teil auch tatsächlich zutrifft, da aufgrund der Algorithmen Videos zum Beispiel immer kürzer werden und somit folglich weniger Platz für Lerninhalte im selben Video noch bleibt.
 	- Ich halte das Theater für unersetzlich. Dies liegt schlichtweg daran, das ein Theater ein Event ist, welches nicht einfach von etwas Digitalem ersetzt werden kann. Ein Theaterstück braucht sehr lange, von der Planung bis zur Umsetzungen, und ist dadurch auch mit viel Aufwand verbunden. Auf Plattformen wie YouTube™, wo man für den Algorithmus jede Woche ein Video hochladen muss, ist es schlichtweg nicht möglich, sich die Zeit zu nehmen, um etwas von dem Aufwand eines Theaterstücks zu produzieren.
@@ -90,37 +85,20 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 	- Briefromane
 	- Innerer Monolog
 ## 2022-09-23
+
 Im Gedicht „Prometheus“ von Johann Wolfgang von Goethe sieht das lyrische ich, hier Prometheus, die Götter als kümmerlich an, da sie es nicht Wert sind, geehrt zu werden. Er sieht die Götter als die Ärmsten an, da sie von den Opfersteuern und Gebetshauch der Menschen abhängig ist. Selbst hingegen sieht er sich als Schöpfer, da er Menschen nach *seinem* Bilde formt.
 
 ---
 Das Gedicht „Prometheus“ ist in sofern für Sturm & Drang typisch, da es den Schöpferischen Gedanken des Genies sowie die Kritik an den Göttern beinhaltet. Prometheus selbst ist hier der Schöpfer, alles was er braucht erschafft er sich selbst; während gleichzeitig die Götter für ihn nur unnütz und ärmlich sind.
-## 2022-09-27
-~~~mermaid
-graph LR
-	S((Stoffsammlung))---A(Einleitung) & B(Hauptteil) & C(Schluss)
-	
-	A-->A1[Willkommen und Abschied]
-	A-->A2[J. W. Goethe]
-	A-->A3[1785]
-	A-->A4[Gedicht]
-	A-->A5[%DEUTUNGSHYPOTHESE%]
-	A-->A6[Sturm und Drang]
-	
-	B-->B1[4 Strophen mit je 8 Versen]
-	B-->B2[%SPRACHLICHE ANALYSE%]
-	B-->B3[%INHALTLICHE ANALYSE%]
 
-	C-->C1[%RÜCKBEZUG%]
-~~~
-
-~~~ad-hint
-Textbelege nicht vergessen!
-~~~
 ## 2022-10-04
+
 - Goethe ist zuerst nach Weimar gekommen, wo er dort unterstützt wird
 - Haben zusammen gearbeitet und veröffentlicht
 - Möchten zu „Humanität und Vernunft“ erziehen
+
 ## 2022-10-05
+
 „Willkommen und Abschied“ ist einer der wenigen Gedichte, die in gleich zwei Versionen veröffentlicht wurden. Es ist ein Musterbeispiel des Sturm und Drang und wurde 1785 von J. W. Goethe geschrieben. Es handelt vom treffen und verabschieden der Geliebten.
 
 Inhaltlich geht es darum, wie ein Jüngling in der Nacht seine Liebe trifft, und sie doch wieder am nächsten morgen verabschieden muss. Ein prägender Unterschied hierbei Inhaltlich ist, das in der ersten Fassung das Mädchen ihn noch bis zum Pferd begleitet.  Es enthält viele autobiographische Bezüge zu Goethes Leben und seiner Beziehung, so sind zum Beispiel Parallelen zu seiner Liebe Friederike Brion zu erkennen.
@@ -430,3 +408,9 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 - hinter einem Reihenhaus
 - Geschwister saßen eng umschlungen auf dem Brett der Schaukel
 - wohnten in einem Stall mit Hühnern, Enten und Schweinen
+## 2023-03-07
+[Autonomie](Working%20Materials/Nachkriegszeit/Autonomie.pdf)
+
+Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigenständigkeit von dem vorherig abhängigem. Da Autonomie aber immer auch mit Sich-Unterscheidung und Trennung verbunden ist, ist dies auch mit Schuldgefühlen und Trennungsängsten verbunden
+
+Oliver hat keine Konfliktbereitschaft. Nachdem er zu Unrecht eingesperrt wurde, hat er sich Radikalisiert. Er hat sich vom staatstreuen Weltbild seiner Eltern getrennt.

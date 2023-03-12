@@ -191,3 +191,26 @@ Danke.
 - to thank his supporters, show his vision, for the next four years
 - - -
 Examine how President Obama sends a message of shared values to his supporters after being declared the winner in the election. Consider his line of the argument and use of rhetorical devices.
+[Obama Speech](https://www.theguardian.com/world/2012/nov/07/barack-obama-speech-full-text)
+
+„President Obama's victory speech in Chicago after the 2012 election was a masterclass in rhetorical devices and messaging. In his speech, he aimed to connect with his supporters by emphasizing shared values, while also extending an olive branch to those who had not supported him.
+
+One of the most prominent rhetorical devices used in Obama's speech was anaphora, the repetition of a phrase at the beginning of successive clauses. He used this device to great effect in the opening of his speech, saying "We want out kids to grow up (...). We want our children to live (...). We want to pass on a country (...)" By repeating "We want" three times, Obama emphasized that his message was for everyone, not just his supporters.
+
+Another rhetorical device that Obama used was parallelism. For example, he said, "That's the future we hope for. That's the vision we share. That's where we need to go forward. That's where we need to go." By using parallelism, Obama showed that his message of unity applied to everyone.
+
+Throughout his speech, Obama emphasized the importance of shared values, such as hard work, responsibility, and sacrifice. He said, "[...] with your help and God's grace, we will continue our journey forward [...]" By emphasizing that the change he sought could only happen with the help of his supporters, Obama showed that they shared a commitment to creating a better future for everyone.
+
+Overall, Obama's victory speech was a masterful display of rhetorical devices and messaging. By emphasizing shared values and reaching out to those who had not supported him, he was able to unite the country and inspire hope for a better future.“
+## 2023-03-08
+- Title: Lana del Rey's Speech at the "Billboard Women in Music" event
+- Speaker: Lana del Rey's 
+- Where and when: at the "Billboard Women in Music" event in Los Angeles, March 1st 2023
+- Occasion: She have won the „Visionary Award“
+- Topics: COVID, her first album, her fans and supporters
+- Main aim: giving thanks to her fans
+- - -
+1. State what the "American Dream" means to the four people on your worksheet.
+	- The American Deam means that you can reach anything and fulfill their dreams.
+2. State the similarities and differences of their concept of "The American Dream"
+	- They think different about the way to fulfill their dreams. For example, Tyra Banks think that the american dream can be fulfilled with hard work and determination. In opposite, 

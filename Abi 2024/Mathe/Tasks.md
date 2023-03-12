@@ -1,3 +1,4 @@
+# Analysis
 ## 2022-09-06
 $f(x) = \frac{2x}{2x+5}$
 $\lim\limits_{x\to\infty}\frac{2}{2+5/x}=\frac{2}{2+0}=1$
@@ -1330,5 +1331,37 @@ $f_k'(x)=-x+k$
 2. $y=-\frac{1}{2}x^2+kx+k$
 $y=-\frac{1}{2}x^2+x^2+x$
 3. $y=\frac{1}{2}x^2+x$
-- - -
+# Matritxen
+
 $\begin{pmatrix}1&2&4\\2&4&3\\5&4&3\end{pmatrix}$
+# Storastik
+## 2023-03-07
+2 rote, 4 blaue und 6 grüne Kugeln (3 ziehen mit zurücklegen)
+Gesucht ist die Wahrscheinlichkeit für folgende Ereignisse:
+1. Alle gezogenen Kugeln sind grün $\frac{6}{12}^3=\frac{1}{2}^3=\frac{1}{8}$
+2. Zwei Kugeln sind blau, eine Kugel ist grün $\frac{4}{12}*\frac{4}{12}*\frac{6}{12}*3=\frac{1}{3}*\frac{1}{3}*\frac{1}{2}*3=\frac{1}{6}$
+3. Die zweite gezogene Kugel ist rot $\frac{2}{12}=\frac{1}{6}$
+4. Mindestens eine gezogene Kugel ist blau $1-\frac{8}{12}^3=1-\frac{2}{3}^3=\frac{19}{27}$
+## 2023-03-09
+
+$0=-5*\frac{5}{8}+(y-5)*\frac{5}{16}-5*\frac{1}{16}$
+$0=-\frac{50}{16}+\frac{5}{16}*y-\frac{25}{16}-\frac{5}{16}$
+$\frac{80}{16}=\frac{5}{16}y\quad y=16$
+
+- - -
+
+Erfahrungsgemäß ist bei 3% der Dosen die Zugvorrichtung zum Entfernen des Deckels 
+
+~~~mermaid
+graph TB;
+	A[ ]
+	A-->A0[R]
+	A-->A1[F]
+	A0-->A00[R]
+	A0-->A01[F]
+	A1-->A10[R]
+	A1-->A11[F]
+~~~
+
+$P(R>1)=0.9*0.03+0.97*0.95=0.9485$
+$P(R;F)=0.97*0.05=0.0485$

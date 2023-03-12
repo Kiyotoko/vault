@@ -1,6 +1,5 @@
 # Kinematik
-<pre style="background-color:#3CB371;"><code style="color:white;">Lehre von der Beschreibung von Bewegungen aller Art
-</code></pre>
+Lehre von der Beschreibung von Bewegungen aller Art
 ## Bewegungsarten
 - geradlinig
 - krummlinig
@@ -52,32 +51,27 @@ Der Flächeninhalt, der von dem Graphen im $a$-$t$-Diagramm und der Zeitachse ei
 - Mathematisch $\int a(t)dt =s(t)$
 ## Gleichförmige Bewegung
 Bei der Gleichförmigen Bewegung ist die Geschwindigkeit konstant. Die Fläche bildet unter dem Graphen im $t$-$v$-Diagramm ein Rechteck mit der Fläche $\Delta s=v*t$.
-~~~ad-important
-title:Formeln
-- $v(t)=v=konst.$
-- $s(t)=v*t+s_0$
-~~~
+- Formeln
+	- $v(t)=v=konst.$
+	- $s(t)=v*t+s_0$
 ## Gleichmäßig beschleunigte Bewegung
 Bei der Gleichmäßig beschleunigten Bewegung ist die Beschleunigung konstant.
-~~~ad-important
-- $a(t)=a=konst.$
-- $v(t)=a*t+v_0$
-- $s(t)=\frac{1}{2}a*t²+v_0*t+s_0$
-~~~
+- Formeln
+	- $a(t)=a=konst.$
+	- $v(t)=a*t+v_0$
+	- $s(t)=\frac{1}{2}a*t²+v_0*t+s_0$
 ## Freier Fall
 Ein Körper fällt aufgrund der Erdanziehungskraft beschleunigt nach unten.
-~~~ad-important
-- $s=\frac{1}{2}gt²$
-- $t=\sqrt{\frac{2s}{g}}$
-- $v=\sqrt{2sg}$
-~~~
+- Formeln
+	- $s=\frac{1}{2}gt²$
+	- $t=\sqrt{\frac{2s}{g}}$
+	- $v=\sqrt{2sg}$
 ## Senkrechter Wurf
 Die Bewegung startet mit einer Geschwindigkeit von $v_0$. Senkrechte Würfe sind Fallbewegungen mit der Anfangsgeschwindigkeit.
-~~~ad-important
-- $t_s=\frac{v_0}{g}$
-- $a(t)=-g$
-- $v(t)=-g*t$
-~~~
+- Formeln
+	- $t_s=\frac{v_0}{g}$
+	- $a(t)=-g$
+	- $v(t)=-g*t$
 ## Mehrdimensionale Bewegung
 ### Zusammengesetzte Bewegungen
 Zwei Teilbewegungen können sich zu einer zusammengesetzten Bewegung überlagern. Die Teilbewegungen können:
@@ -88,16 +82,11 @@ Zwei Teilbewegungen können sich zu einer zusammengesetzten Bewegung überlagern
 
 erfolgen.
 ### Geschwindigkeit als vektorielle (gerichtete) Größe
-- sie ist entlang der Bewegungsrichtung orientiert -> wir als Vektor (Pfeil) dargestellt:
-	$$\vec{v}\text{-beschreibt den Vector(-pfeil)}$$
-- Betrag des Vektors (Länge des Pfeils) gibt die Geschwindigkeit an:
-	$$v\text{-Zahlenwert mit Einheit}$$
+- sie ist entlang der Bewegungsrichtung orientiert → wir als Vektor (Pfeil) dargestellt $\vec{v}$-beschreibt den Vector(-pfeil)
+- Betrag des Vektors (Länge des Pfeils) gibt die Geschwindigkeit an $v$-Zahlenwert mit Einheit
 ### Addition von Geschwindigkeitsvektoren
 Vektoren werden addiert, indem man sie aneinander legt. Der Gesamtvektor zeigt dann von Anfang des ersten bis zum Ende des letzten Vektors.
-~~~ad-important
-title:$v_{ges}$
-$\sqrt{v_0²+2v_0v_1\cos{\alpha}+v_1²}$
-~~~
+- Formel $v_{ges}=\sqrt{v_0²+2v_0v_1\cos{\alpha}+v_1²}$
 ## Waagerechter Wurf
 Ein waagerechter Wurf wird durch die Erdanziehungskraft nach unten beschleunigt, er bewegt sich in einer gekrümmten Bahn. Unter idealen Bedingungen wird der Körper in horizontaler Richtung weder langsamer noch schneller, senkrecht nach unten wird er hingegen gleichmäßig beschleunigt.
 
@@ -111,63 +100,42 @@ disableZoom: true
 f(x)=-0.1x^2+9
 ~~~
 
-~~~ad-important
-title:Formeln
-- $a_x=0$
-- $v_x=v_0$
-- $s_x=v_0*t$
-- $a_y=-g$
-- $v_y=-g*t$
-- $s_y=-\frac{1}{2}g*t²$
-~~~
-
-~~~ad-important
-title: Hergeleitet
-$y(t=\frac{x}{2v_0})=-\frac{g}{2v_0²}*x²+h_0$
-~~~
-
-~~~ad-note
-Siehe Tafelwerk Seite 108
-~~~
+- Formeln
+	- $a_x=0$
+	- $v_x=v_0$
+	- $s_x=v_0*t$
+	- $a_y=-g$
+	- $v_y=-g*t$
+	- $s_y=-\frac{1}{2}g*t²$
+- Herleitung $y(t=\frac{x}{2v_0})=-\frac{g}{2v_0²}*x²+h_0$
 ## Schiefer Wurf
-~~~ad-important
-title:Formeln
-$x(t=v_0x*t=v_0\cos{\alpha}*t$
-$y(t)=-\frac{g}{2}t²+v_0y*t+y_0=-\frac{g}{2}t²+v_0\sin{\alpha}*t+y_0$
-~~~
-
-~~~ad-important
-title:Hergeleitet
-$v_x=v_0\cos{\alpha}\quad v_y=-gt+v_0\sin{\alpha}$
-$y(t=\frac{x}{v_0\cos{\alpha}})=\frac{-g}{2}(\frac{x}{v_0\cos{\alpha}})^2+v_0\sin{\alpha}\frac{x}{\cos{\alpha}}+y_0=\frac{-g}{2v_0^2\cos{\alpha}^2}+\tan{\alpha}x+y_0$
-$v=\sqrt{v_y^2+v_x^2}=\sqrt{(-gt+v_0\sin{\alpha})^2+(v_0\cos{\alpha})^2}$
-~~~
+- Formeln
+	- $x(t=v_0x*t=v_0\cos{\alpha}*t$
+	- $y(t)=-\frac{g}{2}t²+v_0y*t+y_0=-\frac{g}{2}t²+v_0\sin{\alpha}*t+y_0$
+- Herleitung
+	- $v_x=v_0\cos{\alpha}\quad v_y=-gt+v_0\sin{\alpha}$
+	- $y(t=\frac{x}{v_0\cos{\alpha}})=\frac{-g}{2}(\frac{x}{v_0\cos{\alpha}})^2+v_0\sin{\alpha}\frac{x}{\cos{\alpha}}+y_0=\frac{-g}{2v_0^2\cos{\alpha}^2}+\tan{\alpha}x+y_0$
+	- $v=\sqrt{v_y^2+v_x^2}=\sqrt{(-gt+v_0\sin{\alpha})^2+(v_0\cos{\alpha})^2}$
 ## Kreisbewegung
 |Kenngröße|Beschreibung|Formel|
 |-|-|-|
 |Umlaufdauer $T$|Gibt die Dauer für eine vollständige Umdrehung an.|$T=\frac{t}{N}$|
 |Drehzahl $f$|Gibt die Anzahl der Umdrehungen pro Zeiteinheit an.|$f=\frac{N}{t}=\frac{1}{T}$|
 ### Winkel- und Bahngeschwindigkeit
-~~~ad-important
 Gibt den Winkel auf einer Kreisbahn an, den ein Körper in einer bestimmten Zeit überstreicht.
 - Formelzeichen $\omega$
 - Einheit $s^{-1}$
 - Formel $\omega=\frac{2\pi}{T}=2\pi f$
-~~~
 
-~~~ad-important
 Gibt an, wie viel Weg ein Körper auf seiner Kreisbahn in einer bestimmten Zeit zurücklegt.
 - Formelzeichen $v$
 - Einheit $\frac{m}{s}$
 - Formel $v=\frac{s}{t}=\frac{2\pi r}{T}=\omega r$
-~~~
 ### Radialbeschleunigung
-~~~ad-important
 Da sich die Richtung der Geschwindigkeit ändert, wirkt auf den Körper ständig eine Beschleunigung. Sie ist stets zum Kreismittelpunkt gerichtet.
 - Formelzeichen $a_r$
 - Einheit $\frac{m}{s^2}$
 - Formel $a_r=\frac{v^2}{r}=\omega^2r$
-~~~
 # Dynamik
 ## Die Newton'schen Axiome
 ### 1. Axiom (Trägheitsprinzip)
@@ -210,10 +178,9 @@ Ein vollkommen unelastischer Stoß liegt vor, wenn beide Körper nach dem Stoß 
 Berechnung der Geschwindigkeit:
 - $v'=\frac{m_1*v_1+m_2*v_2}{m_1+m_2}$
 ## Schiefe Ebene
-~~~ad-important
 $F_H=mg\cos{\alpha}$
 $F_N=mg\sin{\alpha}$
-~~~
+
 Normalkraft $F_N$ und Hangabtriebskraft $F_g$ sind keine neuen Kräfte, sondern $F_N$ ist der Anteil von $F_g$, der senkrecht zur schiefen Ebene wirkt und $F_H$ ist der Anteil von $F_g$, der parrallel zur schiefen Ebene wirkt.
 ## Reibungskraft
 $F_R=\mu*F_N$
@@ -276,11 +243,10 @@ Energie kann weder erzeugt noch verbraucht werden. Es ist lediglich möglich, ve
 	- Ist die in den Feldern gespeicherte Energie.
 	- Spannkraft $F=D*s$
 	- Spannenergie $E_{spann}=\frac{1}{2}D*s^2$
-~~~ad-example
+- - -
 - **Fadenpendel**
 	- Die potenzielle Energie wird in kinetische Energie beim loslassen des Pendels umgewandelt.
 	- Die potenzielle Energie entspricht der Höhe des Pendels beim loslassen.
-~~~
 ### Energieübertragung
 Die Übertragung von Energie von einem System auf ein anderes kann in verschiedener Weiser erfolgen. Energie kann in Form von Wärme übertragen werden, Dabei ist zwischen Wärmeleitung, Wärmeströmung und Wärmestrahlung zu unterscheiden.
 ### Energieumwandlung
@@ -410,5 +376,46 @@ Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor 
 ### Permanentmagnet
 Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
 ### Kräfte zwischen Magneten
+Zwischen zwei Magnetpolen können anziehende und abstoßende Kräfte auftreten. Ungleichnahmige Pole ziehen sich an, gleichnamige Polen stoßen sich ab.
 ### Elektromagnete
 - je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
+## $U(t)$ und $I(t)$ Diagramme: Kondensator
+![Kondensator](Working%20Materials/Elektrisches%20Feld/Kondensator.png)
+### Aufladungsvorgang
+Die obere Platte wurde positiv, und die untere negativ aufgeladen.
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,0,10]
+ylabel: U(t)
+---
+U(x)=(x/10)^2*10
+~~~
+
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,0,10]
+---
+I(x)=-(x/10)^2*10+10
+~~~
+### Endladungsvorgang
+Der Kondensator wird entladen. Der Strom fließt nun entgegengesetzt.
+
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,0,10]
+---
+U(x)=-(x/10)^2*10+10
+~~~
+
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,-10,0]
+---
+I(x)=(x/10)^2*10-10
+~~~
+## Hysterese von ferromagnetischen Stoffen
+Fläche, die von der Hysteresekurve eingeschlossen wird, ist ein Maß für die Energie, die Für das Ummagnetisieren benötigt wird.
