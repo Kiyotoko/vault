@@ -1,1 +1,0 @@
-![[Gesteinskreislauf.png]]

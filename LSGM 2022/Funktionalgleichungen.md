@@ -1,4 +1,11 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 # Funktionalgleichungen
+
 Finde alle Funktionen $f: R\in\mathbb{R}$ mit $a*f(ab)= f(b)$
 - $b=1$
 - $a - f(a) = f(1)$
@@ -15,8 +22,8 @@ Finde alle Funktionen $f: R \in\mathbb{R}$ mit $2a - f(a) +\frac{1}{2}a - f(\fra
 - a = $\frac{1}{a}$
 - $\frac{2}{a} - f(\frac{1}{a}) + \frac{2}{a} - f(a) = 10$
 
-1) $8a*f(a)+\frac{2}{a}*f(\frac{1}{a})=40$
-2) $\frac{a}{2}*f(a)+\frac{2}{a}*f(\frac{1}{a})=10$
+1. $8a*f(a)+\frac{2}{a}*f(\frac{1}{a})=40$
+1. $\frac{a}{2}*f(a)+\frac{2}{a}*f(\frac{1}{a})=10$
 
 - $I - II$
 - $(8a-\frac{a}{2})*f(a)=30$
@@ -34,8 +41,11 @@ Probe:
 - $a+2(-a)+-(-b-a)=b$
 - $a-2a+b+a=b$
 - $b=b$
+
 ## Involutionen
+
 <pre class="vault" style="background-color:#3CB371;"><code class="vault" style="color:white;">Funktionen mit $g(g(x)) = x$ heißen Involutionen</code></pre>
+
 |Beispiele|
 |-|
 |$g(x)=\frac{1}{x}$|
@@ -52,8 +62,8 @@ Finde alle Funktionen $f: [0, 2] \in \mathbb{R}$ mit $f(a) + 2f(\sqrt(4 - a^2)) 
 - $f(\sqrt{4-a^2})+2f(\sqrt{a^2}) = 3(\sqrt{4 - a^2})$
 - $f(\sqrt{4-a^2})+2f(a) = 3(\sqrt{4 - a^2})$
 
-1) $2f(\sqrt{4-a^2}) + 4f(a) = 6(\sqrt{4 - a^2})$
-2) $f(a)+2f(\sqrt{4-a^2})=3a$
+1. $2f(\sqrt{4-a^2}) + 4f(a) = 6(\sqrt{4 - a^2})$
+1. $f(a)+2f(\sqrt{4-a^2})=3a$
 
 - $I-II$
 - $3f(a) = 6(\sqrt{4 - a²}) - 3a$

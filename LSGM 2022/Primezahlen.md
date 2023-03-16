@@ -1,4 +1,11 @@
-# Primzahlen 
+---
+author: karlz
+tags:
+- topic/math
+---
+
+# Primzahlen
+
 $\DeclareMathOperator\rev{rev}$
 * Satz: $P$ ist eine unendliche Menge
 * Beweis: 
@@ -9,7 +16,9 @@ $\DeclareMathOperator\rev{rev}$
 		* 1.Fall: $m$ ist eine Primzahl
 		* 2.Fall: $m$ist keine Primzahl
 	* PI(x) > x / \log(x) V >= 17
+
 # Sheldon-Primzahlen
+
 * ### Beispiel 37:
 	* 73 ist die 21 Primzahl
 	* 37 ist die 12 Primzahl
@@ -17,15 +26,15 @@ $\DeclareMathOperator\rev{rev}$
 	* 21 =  7 x 3
 * ### Definition:
 	* Sei $n \in N$ und $Pn \in N$  die n-te Primzahl
-		1) $Pn$ hat die Produkteigenschaft, wenn für all seine Ziffern $a1, a2, a3, ..., an$  ($R$ $e$ $N$ gilt: $k~j=1 aj = n$)
-		2) Für $m \in N$ ist rev(m) die Zahl, deren Ziffern in umgekehrter Reihenfolge im Vergleich zu $m$ angeordnet sind. Bsp.: m = 51.792 => rev(m) = 29.715
-		3) $P_n$ hat die Spiegeleigenschaft, wenn gilt: $\rev{P_n} = P*\rev{n}$
-		4) $P_n$ ist eine Shelton-Primzahl, wenn sie sowohl die Produkt-, als auch die Spiegeleigenschat besitzt
+		1. $Pn$ hat die Produkteigenschaft, wenn für all seine Ziffern $a1, a2, a3, ..., an$  ($R$ $e$ $N$ gilt: $k~j=1 aj = n$)
+		1. Für $m \in N$ ist rev(m) die Zahl, deren Ziffern in umgekehrter Reihenfolge im Vergleich zu $m$ angeordnet sind. Bsp.: m = 51.792 => rev(m) = 29.715
+		1. $P_n$ hat die Spiegeleigenschaft, wenn gilt: $\rev{P_n} = P*\rev{n}$
+		1. $P_n$ ist eine Shelton-Primzahl, wenn sie sowohl die Produkt-, als auch die Spiegeleigenschat besitzt
 * ### Satz:
 	* 73 ist eine Sheldon-Primzahl
 * ### Beweis:
-	1) $P_n = 73 \to n = 21; k~j=1 aj = 3 * 7 = 21 = n$
-	2) $\rev(73) = 37$ mit $P21 = 73; rev(21) = 12 \to P rev(21) = P12 = 37 = \rev(73)$
+	1. $P_n = 73 \to n = 21; k~j=1 aj = 3 * 7 = 21 = n$
+	1. $\rev(73) = 37$ mit $P21 = 73; rev(21) = 12 \to P rev(21) = P12 = 37 = \rev(73)$
 * ### Satz:
 	* Es gibt nur endlich viele Sheldon-Primzahlen
 * ### Beweis:
@@ -36,6 +45,7 @@ $\DeclareMathOperator\rev{rev}$
 	* Für alle $k >= 46$ gilt aber $k x \log(10) < (10 / 9) ^ k-1$
 
 # Vollständige Induktion
+
 * Für alle $n \in N$:  $2^n > n²$
 * ### Induktionsanfang: n0 = 5
 	* $2^n0 = 2⁵ = 32 > n0² = 5² = 25$
@@ -46,7 +56,8 @@ $\DeclareMathOperator\rev{rev}$
 * ### Induktionsschluss:
 	* $(n+1)² = n² + 2n + 1 < 2^n + 2n + 1 < 2^n + 2^n = 2 x 2^n = 2^n+1$
 
-# Beweis durch vollständige Induktion nach $k \in \mathbb{N}$
+# Beweis Durch Vollständige Induktion Nach $k \in \mathbb{N}$
+
 * ### Satz:
 	* $k x \log(10) > (10 / 9)^k-1$
 	* $k x \log(10) < (10 / 9)^k-1$

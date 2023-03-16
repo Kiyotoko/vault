@@ -1,4 +1,10 @@
-## Multiplizieren / Dividieren negativer Zahlen
+---
+author: karlz
+tags:
+- topic/math
+---
+
+# Multiplizieren / Dividieren Negativer Zahlen
 
 $3x>5x+1|-5x$
 $-2x>1|*-\frac{1}{2}$
@@ -37,7 +43,7 @@ $x^2\leq\frac{x^4+1}{2}$
 $0\leq x^4+1-2x^2$
 $0\leq (x^2-1)^2$
 
-## Bernoulli-Ungleichung
+# Bernoulli-Ungleichung
 
 Für alle $x\in\mathbb{R}, x\geq -1$ und $\forall n\in\mathbb{N}$ gilt: $(1+x)^n\geq1+n*x$.
 ~~~functionplot
@@ -57,7 +63,7 @@ Beweis für die Bernoulli-Ungleichung.
 	- $(1+x)^{n+1}\geq1+nx+x+nx^2$
 	- $(1+x)^{n+1}\geq1+x(n+1)+nx^2\geq1+x(n+1)$
 
-## Mittelunggleichungen
+# Mittelunggleichungen
 
 - Harmonisches Mittel $\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots+\frac{1}{x_n}}$
 - Geometrisches Mittel $\sqrt[n]{x_1+x_2+\dots+x_n}$
