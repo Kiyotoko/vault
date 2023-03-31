@@ -1,0 +1,22 @@
+# obsidian settings
+.obsidian
+
+# private files
+Noten.md
+
+# microsoft office
+*.docx
+*.xls
+*.slsx
+*.msg
+*.ppt
+*.pptx
+
+# libre office
+*.odt
+*.ods
+*.odp
+*.odg
+
+# plain text
+*.txt
