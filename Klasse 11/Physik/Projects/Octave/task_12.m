@@ -29,20 +29,49 @@ for t=0:dt:20
   n += 1;
 endfor
 
+n = 1;
+X2 = [];
+Y2 = [];
+I = 0;
+
+for t=0:1:20
+  X2(n) = t;
+  Y2(n) = I;
+  I = I0 * (1- e^(-R/L*t));
+  n += 1;
+endfor
+
+n = 1;
+X3 = [];
+Y3 = [];
+
+for t=0:1:20
+  X3(n) = t;
+  Y3(n) = I;
+  I = I0 * e^(-R/L*t);
+  n += 1;
+endfor
+
 grid on
 set(gca, "Fontsize", 18)
 
 subplot(1, 2, 1)
 plot(X0, Y0, "-b")
+% legend(legend("Simulation"), "location", "southeast")
+hold on
+plot(X2, Y2, "^g")
 title("Einschaltvorgang")
+% legend(legend("Formel"), "location", "southeast")
 xlabel("Zeit t [s]")
 ylabel("Stromstärke I [A]")
-legend(legend("Simulation"), "location", "southeast")
 
 subplot(1, 2, 2)
 plot(X1, Y1, "-b")
+% legend(legend("Simulation"), "location", "southeast")
+hold on
+plot(X3, Y3, "^g")
+% legend(legend("Formel"), "location", "southeast")
 title("Ausschaltvorgang")
 xlabel("Zeit t [s]")
 ylabel("Stromstärke I [A]")
-legend(legend("Simulation"), "location", "southeast")
 
