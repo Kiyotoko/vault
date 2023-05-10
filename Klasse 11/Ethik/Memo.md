@@ -373,7 +373,7 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 -  Mittel zur Berechnung von Freude und Leid aller betroffenen Personen
 - 7 Umstände, die die Rechnung beeinflussen
 - Je Person werden zu erwartende Freude und Leid gegengerechnet
-- Alle Werte für Frude und alle Werte für Leid pro Person zusammenrechen → Bilanz
+- Alle Werte für Freude und alle Werte für Leid pro Person zusammenrechen → Bilanz
 - Wiederholen der Prozedur für alle betroffenen Personen
 - Endbilanz ziehen
 - Betrachtung des gesamten Handlungsausmaßes
