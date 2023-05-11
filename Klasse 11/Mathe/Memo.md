@@ -796,6 +796,21 @@ Ein Vektor wird vervielfacht, indem man jede Koordinate mit der selben reellen Z
 
 Ist $r<0$, haben die Pfeile die entgegengesetzte Richtung
 
+### Mittelpunkt einer Strecke
+
+**Beispiel**
+$A(1|2|3)$
+$B(3|8|5)$
+$\vec{OM}=\begin{pmatrix}1\\2\\3\end{pmatrix}+\frac{1}{2}\begin{pmatrix}3\\8\\5\end{pmatrix}$
+
+### Schwerpunkt eines Dreiecks
+
+**Beispiel**
+$A(2|1|4)$
+$B(3|-5|5)$
+$C(1|3|5)$
+$\vec{OS}=\frac{1}{3}\begin{pmatrix}\begin{pmatrix}2\\1\\4\end{pmatrix}+\begin{pmatrix}3\\-5\\5\end{pmatrix}+\begin{pmatrix}1\\3\\-3\end{pmatrix}\end{pmatrix}=\begin{pmatrix}2\\-\frac{1}{3}\\2\end{pmatrix}$
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit

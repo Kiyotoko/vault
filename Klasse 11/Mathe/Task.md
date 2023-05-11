@@ -1750,3 +1750,7 @@ $b_{1}=6+\sqrt{36-70}$
 $\vec{AD}=\vec{BC}$
 $\begin{pmatrix}x-1 \\ y-2 \\ z-3 \end{pmatrix}=\begin{pmatrix}0 \\ -10 \\ -6 \end{pmatrix}$
 $D(1|-8|9)$
+
+- - -
+
+$S(2|0|2)$
