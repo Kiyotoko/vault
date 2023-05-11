@@ -1717,3 +1717,36 @@ Lösen durch systematisches Probieren
 | --- | ------------------- |
 | 24  | 0.8857              |
 | 23  | 0.83657             |
+
+## 2023-05-11
+
+$A=(5|2|5)$
+$B=(6|4|b)$
+$AB=\begin{pmatrix}6-5 \\ 4-2 \\ b-5\end{pmatrix}=\begin{pmatrix}1 \\ 2 \\ b-5 \end{pmatrix}$
+$3=\sqrt{1^{2}+2^{4}+(b-5)^{2}}$
+$9=5+b^2+25-10b$
+$0=b^2+21-10b$
+$b_{1}=5+\sqrt{25-21}=7$
+$b_{2}=5-\sqrt{25-21}=3$
+
+- - -
+
+$S=(72|31|95)$
+$P=(68|45|83)$
+$\vec{SP}=\begin{pmatrix}72-68 \\ 31-45 \\ 95-83\end{pmatrix}=\begin{pmatrix}4 \\ -14 \\ 12 \end{pmatrix}$
+
+- - -
+
+$A=(6|3|-5)$
+$B=(b|2|-2)$
+$\vec{AB}=\begin{pmatrix}b-6 \\ 2-3 \\ -2-5\end{pmatrix}=\begin{pmatrix}b-6 \\ -1 \\ -7 \end{pmatrix}$
+$4=\sqrt{(b-6)^{2}+1^{2}+7^{2}}$
+$16=(b-6)^{2}+1+49$
+$0=b^{2}-12b+70$
+$b_{1}=6+\sqrt{36-70}$
+
+- - -
+
+$\vec{AD}=\vec{BC}$
+$\begin{pmatrix}x-1 \\ y-2 \\ z-3 \end{pmatrix}=\begin{pmatrix}0 \\ -10 \\ -6 \end{pmatrix}$
+$D(1|-8|9)$

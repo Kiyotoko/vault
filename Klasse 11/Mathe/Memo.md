@@ -788,6 +788,14 @@ $\vec{AB}=A+B$
 
 $\vec{PQ}+\vec{QR}=\vec{PR}$
 
+### Vervielfachen von Vektoren
+
+Ein Vektor wird vervielfacht, indem man jede Koordinate mit der selben reellen Zahl multipliziert.
+
+- Geometrische Bedeutung: Der Vektorpfeil hat die r-fache Länge
+
+Ist $r<0$, haben die Pfeile die entgegengesetzte Richtung
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
