@@ -448,11 +448,33 @@ Senator nuntium magnae rei aportavit.
 
 ## 2023-05-11
 
-| amare  | amari   |
-| ------ | ------- |
-| amo    | amor    |
-| amas   | amaris  |
-| amat   | amatur  |
-| amamus | amamur  |
-| amatis | amamini |
-| amant  | amantur |
+| amare P. I. A. | videre P. I. P. | amari P. I. P. |
+| -------------- | --------------- | -------------- |
+| amo            | videor          | amor           |
+| amas           | videaris        | amaris         |
+| amat           | videatur        | amatur         |
+| amamus         | videamur        | amamur         |
+| amatis         | videamini       | amamini        |
+| amant          | videantur       | amantur        |
+
+- - -
+
+- intrant
+- audiunt
+- legit
+- sunt
+- venit
+- accurant
+- cogitant
+- sum
+- videmus
+- vocatis
+- audis
+- salutat
+- quaerat
+- dormit
+- ardet
+- sumamus
+
+- - -
+
