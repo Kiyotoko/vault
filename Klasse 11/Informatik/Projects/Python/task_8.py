@@ -1,27 +1,23 @@
+# Arrays
 array = ["Karl", "Carl", "Til", "Philip"]
 array.append("Hannah")
 array += ["Cora", "Wilhelm"]
 array.extend(["Max", "Leni", "Mailin"])
-array.sort()
 print(array)
 
+# Dictionaries
 dict = {
     "alter":17,
     "vorname":"Carl",
     "nachname":"Zimmermann"
 }
-print(dict["vorname"])
+print(dict)
 
+# Tuple
 tuple = (17, "Carl", "Zimmermann")
-print(tuple.index(17))
+print(tuple)
 
-class Bewohner:
-
-    def __init__(self, vorname, nachname, alter) -> None:
-        self.vorname = vorname
-        self.nachname = nachname
-        self.alter = alter
-
-carl = Bewohner(alter=17,vorname="Carl", nachname="Zimmermann")
-
-print(carl.alter)
+# Sets
+set = {2, 5, 9, frozenset([5,2])}
+print(set.intersection({2,5, 'a'}))
+print(set)
