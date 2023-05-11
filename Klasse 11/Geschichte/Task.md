@@ -227,3 +227,17 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 - Einung durch den Deutschen Kaiser
 - Beteiligung der 25 Bundesländer
 - Wahl durch die Befölkerung
+
+## 2023-05-11
+
+Kaiser
+Aristrokratie
+Imperialismus
+Sozialversicherung
+Einigungskriege
+Rückversicherungsvertrag
+Reichsfeinde
+Expansion
+Innenpolitik
+Cäsarismus
+Hohenzollern
