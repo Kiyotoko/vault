@@ -67,16 +67,16 @@ Durch viele Jahre war die Macht der römischen Bürgerschaft gewachsen; viele St
 ## 2022-09-15
 
 1. expectare
-1. intrare
-1. cessare
-1. canare
-1. ambulare
-1. vocare
-1. laborare
-1. spectare
-1. rogare
-1. portare
-1. narrare
+2. intrare
+3. cessare
+4. canare
+5. ambulare
+6. vocare
+7. laborare
+8. spectare
+9. rogare
+10. portare
+11. narrare
 
 ## 2022-09-19
 
@@ -128,18 +128,18 @@ Heute ist eine große Menge der Römer auf dem Marktplatz. Männer, Frauen, Jung
 ## 2022-11-21
 
 1. puelle
-1. puer
-1. frumentum
-1. mercator
-1. porta
-1. verbum
-1. periculum
-1. poeta
-1. forum
-1. fabula
-1. avus
-1. vir
-1. fama
+2. puer
+3. frumentum
+4. mercator
+5. porta
+6. verbum
+7. periculum
+8. poeta
+9. forum
+10. fabula
+11. avus
+12. vir
+13. fama
 
 - - -
 
@@ -153,17 +153,17 @@ Schon bereitet Romulus vor, den Ort mit einer Mauer zu umziehen.  Remus aber lac
 ## 2022-11-24
 
 1. puella
-1. vir
-1. auxilium
-1. oppidium
-1. nox
-1. auctoritas
-1. res publica
-1. periculum
-1. imperator
-1. uxor
-1. beneficium
-1. frater
+2. vir
+3. auxilium
+4. oppidium
+5. nox
+6. auctoritas
+7. res publica
+8. periculum
+9. imperator
+10. uxor
+11. beneficium
+12. frater
 
 - - -
 
@@ -188,17 +188,17 @@ Tarquinius, nachdem er die Worte des Boten hörte, war in großer Furcht. Auf de
 ## 2022-12-08
 
 1. gaudium
-1. vox
-1. vita
-1. dominus
-1. donum
-1. filia
-1. littera
-1. pax
-1. porta
-1. rex
-1. ignis
-1. filis
+2. vox
+3. vita
+4. dominus
+5. donum
+6. filia
+7. littera
+8. pax
+9. porta
+10. rex
+11. ignis
+12. filis
 
 ## 2022-12-15
 
@@ -445,3 +445,14 @@ Senator nuntium magnae rei aportavit.
 - laetum hominum 
 - iudices
 - pulchris verbis
+
+## 2023-05-11
+
+| amare  | amari   |
+| ------ | ------- |
+| amo    | amor    |
+| amas   | amaris  |
+| amat   | amatur  |
+| amamus | amamur  |
+| amatis | amamini |
+| amant  | amantur |
