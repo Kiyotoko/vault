@@ -11,6 +11,8 @@ dict = {
     "vorname":"Carl",
     "nachname":"Zimmermann"
 }
+dict["kurs"]="MatheLK"
+dict.update({"geschlecht": "männlich"})
 print(dict)
 
 # Tuple
@@ -19,5 +21,5 @@ print(tuple)
 
 # Sets
 set = {2, 5, 9, frozenset([5,2])}
-print(set.intersection({2,5, 'a'}))
+print(set.intersection({2,5, 'a', 2, 5, frozenset([5,2])}))
 print(set)
