@@ -191,3 +191,6 @@ Beim Tiefdruckgebiet erwärmt sich die Luft und der Luftdruck nimmt ab.
 Isobaren sind Linien gleichen Luftdrucks.
 
 Die Gradientkraft ist die Kraft, die entgegen dem Druckgradienten vom hohen zum tiefen Druck gerichtet ist.
+
+- - -
+
