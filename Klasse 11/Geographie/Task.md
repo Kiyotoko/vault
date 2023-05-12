@@ -195,3 +195,27 @@ Die Gradientkraft ist die Kraft, die entgegen dem Druckgradienten vom hohen zum 
 - - -
 
 Das Land-Seewind-System entsteht dadurch, dass das Land tagsüber schneller erwärmt und nachtsüber schneller abkühlt als das Meer. Dadurch entsteht tagsüber am Land ein Tiefdruckgebiet und am Meer ein Hochdruckgebiet. Zwischen dem Hochdruck und dem Tiefdruckgebiet wirkt die Gradientkraft, wodurch Wind entsteht.
+
+- - -
+
+Absolute Luftfeuchte ist die Luftfeuchtigkeit, die in Gramm angegeben ist.
+
+Maximale Luftfeuchte ist die maximale Luftfeuchtigkeit, die den Übergang zwischen Gasförmig und Flüssig kennzeichnet.
+
+Relative Luftfeuchte ist die Luftfeuchtigkeit, die in Prozent angegeben ist.
+
+Der Taupunkt ist die Temperatur, bei der Wasserdampf zu Wasser bei konstantem Druck übergeht. Am Taupunkt beträgt die relative Luftfeuchtigkeit 100 % und die Luft ist mit Wasserdampf gesättigt.
+
+Adiabatische Vorgänge sind atmosphärische Vorgänge, bei denen Luftströme vertikal bewegt werden. Bei der trockenadiabatischen Abkühlung entstehen keine Wolken, bei der feuchtadiabatischen Abkühlung entstehen Wolken.
+
+- - -
+
+![](Working%20Materials/Atmosphärische%20Prozesse/Taupunktkurve.png)
+
+Bei zehn Grad beträgt sie $9.4 \frac{g}{m^{3}}$ und bei dreißig Grad $30.4 \frac{g}{m^{3}}$.
+
+Bei einer Temperatur von fünfzehn Grad und einer Luftfeuchtigkeit von $5 \frac{g}{m^{3}}$ regnet es nicht, da die Temperatur für diese Luftfeuchtigkeit unter der maximalen Luftfeuchtigkeit liegt.
+
+- - -
+
+Steigt Luft auf, verringert sich der Luftdruck und die Luft kühlt sich ab. 
