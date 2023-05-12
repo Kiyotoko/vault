@@ -218,4 +218,4 @@ Bei einer Temperatur von fünfzehn Grad und einer Luftfeuchtigkeit von $5 \frac{
 
 - - -
 
-Steigt Luft auf, verringert sich der Luftdruck und die Luft kühlt sich ab. 
+Steigt Luft auf, verringert sich der Luftdruck und die Luft kühlt sich ab. Kühlt die Luft nun ab, wird der Taupunkt überschritten. Dadurch überschreitet wiederum die absolute Luftfeuchtigkeit die Maximale Luftfeuchtigkeit, und der 
