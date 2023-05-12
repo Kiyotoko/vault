@@ -177,3 +177,17 @@ Weshalb wird es innerhalb der Troposphäre kälter und im Bereich der Stratosph�
 Kurz vor Sonnenaufgang ist es am kältesten, da die Wärme über die Nacht entweicht. Das maximum der Temperatur ist daher verzögert, da die Luft erst erwärmt werden muss. Die Tagesschwankungen entstehen durch einen anderen Winkel der Sonneneinstrahlung. Da der Tag ein wolkenloser Apriltag ist, wird nur wenig Strahlung durch die Wolken reflektiert. 
 
 Im Winter ist der Strahlungwinkel der Sonne geringer als im Sommer, da sich der Einfallswinkel aufgrund der Wanderung der Erde sich ändert und somit $Q_{G}$ im Sommer größer ist. Da ein Wolkenloser Tag ist, wird nur wenig Strahlung zurückgeworfen.  Daher kann angenommen werden, das $aQ_{G}$ und $A_{E}$ annähernd im Winter wie auch im Sommer gleich groß ist. Da $Q_{G}$ jedoch im Sommer jedoch größer ist, wird der Nettohaushalt im Sommer größer sein als im Winter. Daher gilt $Q^{G}_{sommer}>Q^{G}_{winter}$ und somit $Q^{G}_{sommer}−aQ_{G}−A_{E}>Q^{G}_{winter}−aQ_{G}−A_{E}$ und $R_{sommer}>R_{winter}$.
+
+## 2023-05-12
+
+Luftdruck ist das Gewicht der Luft, die Auf einer Fläche liegt. Diese kann sich durch die Temperatur ändern.
+
+Wind entsteht, wenn die Luft zwischen einem Hochdruck und einem Tiefdruckgebiet ausgeglichen wird.
+
+Bei Hochdruck kühlt sich die Luft ab und der Luftdruck nimmt zu.
+
+Beim Tiefdruckgebiet erwärmt sich die Luft und der Luftdruck nimmt ab.
+
+Isobaren sind Linien gleichen Luftdrucks.
+
+Die Gradientkraft ist die Kraft, die entgegen dem Druckgradienten vom hohen zum tiefen Druck gerichtet ist.
