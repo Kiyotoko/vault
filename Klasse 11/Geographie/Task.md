@@ -194,3 +194,4 @@ Die Gradientkraft ist die Kraft, die entgegen dem Druckgradienten vom hohen zum 
 
 - - -
 
+Das Land-Seewind-System entsteht dadurch, dass das Land tagsüber schneller erwärmt und nachtsüber schneller abkühlt als das Meer. Dadurch entsteht tagsüber am Land ein Tiefdruckgebiet und am Meer ein Hochdruckgebiet. Zwischen dem Hochdruck und dem Tiefdruckgebiet wirkt die Gradientkraft, wodurch Wind entsteht.
