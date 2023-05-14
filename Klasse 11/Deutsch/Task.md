@@ -558,4 +558,9 @@ Bei Corpus Delicti handelt es sich um einen Modernen Roman, da gebrochene Heldin
 
 Ich stimme der Aussage zu, dass jeder etwas zu verbergen hat, und man daher auch seine Privatsphäre schützen sollte.
 Ich lehne die Aussage ab, dass es schlecht wäre, das Kindern ein Chip eingepflanzt wird, und halte den Vergleich mit Haustieren verzerrt. Diese Chips lassen sich nicht von einem Satelliten aus Orten. Die Identifikationsnummer ist nur für Tierheime oder Tierärtze bestimmt. Solange dies so bleibt, wäre Chips ein Abbau für die Verwaltung und eine Verbesserung der Versorgung, und nicht das nächste Überwachungssystem.
-Ebenfalls lehne ich die Aussage ab, das man nicht verführerisch einfachen Aussagen glauben sollte. Stattdessen sollte man allgemein alle Aussagen auf ihrer Richtigkeit hinterfragen. 
+Ebenfalls lehne ich die Aussage ab, das man nicht verführerisch einfachen Aussagen glauben sollte. Stattdessen sollte man allgemein alle Aussagen auf ihrer Richtigkeit hinterfragen.
+
+## 2023-05-12
+
+Santé! Ich bin Heinrich Kramer, klug, gut aussehend und selbstverständlich sehr schlau. Mein Erfolg kennt keine Grenzen. Vielleicht habe sie mich als Journalist schon einmal in einer Fernsehsendung gesehen. Sie erkennen mich an meinen dunklen Haar, schwarzen Augen, den langen Gliedern und natürlich an meiner wahren Eleganz.
+Ich stehe für die METHODE. Gesundheit ist der Normalzustand, das höchstes Gut, welches wir haben. Ich schrieb ein Buch, nebenbei Bestseller, über Gesundheit. Im neuen Gerichtsprozess habe ich das gute Recht durchgesetzt und dazu beigetragen, dass sie verurteilt wird.
