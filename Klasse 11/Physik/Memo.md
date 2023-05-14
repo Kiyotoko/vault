@@ -604,7 +604,9 @@ Dauerhafte Magnetisierung bedeutet, dass aus einem magnetisierbaren Körper ein 
 
 Entmagnetisierung bedeutet, dass die Magnetisierung eines Körpers rückgängig gemacht wird.
 
-### Modell der Elementarmagneten4
+### Modell der Elementarmagneten
+
+Wird ein Magnet geteilt, entstehen zwei kleinere neue Magneten. Denkt man sich diesen Prozess sehr of fortgesetzt, kann man sich vorzustellen, dass ein Magnet aus vielen kleinen Magneten besteht. Diese kleinen Magnete werden als Elementarmagneten bezeichnet.
 
 ### Elektromagnete
 
