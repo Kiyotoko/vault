@@ -389,7 +389,7 @@ Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 
 # Modellierung
 
-# Elektrostatik ud Elektrodynamik
+# Elektrostatik und Elektrodynamik
 
 ## Die Größe der elektrischen Ladung
 
@@ -493,7 +493,7 @@ Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 
 Der faradaysche Käfig ist eine allseitig geschlossene Hülle aus einem elektrischen Leiter, die als elektrische Abschirmung wirkt. Bei äußeren statischen oder quasistatischen elektrischen Feldern bleibt der innere Bereich infolge der Influenz feldfrei.
 
-## Die Elektrische Feldstärke
+## Die elektrische Feldstärke
 
 Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
 - Formelzeichen $E$
@@ -611,6 +611,31 @@ Wird ein Magnet geteilt, entstehen zwei kleinere neue Magneten. Denkt man sich d
 ### Elektromagnete
 
 - je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
+- je größer die Windungszahl der Spule ist, desto größer ist die magnetische Kraftwirkung
+- befindet sich innerhalb der Spule ein Eisenstück, dann vergrößert sich die magnetische Kraftwirkung der Spule
+
+### Das magnetische Feld
+
+In dem Raum (Wirkungsbereich) um einen Magneten werden Kräfte auf magnetisierbare Körper ausgeübt. Das Magnetfeld beschreibt dieses Raum.
+
+### Das Feldlinienbild des magnetischen Feldes
+
+Das magnetische Feldlinienbild ist ein Modell für das magnetische Feld. Es ermöglicht Aussagen über die Ausrichtung von Magnetnadeln und die Stärke der magnetischen Kraftwirkungen
+
+- **Merke**
+	- Magnetische Feldlinien laufen im Außenraum eines Stabmagneten vom Nord- zum Südpol
+	- Im Inneren eines Dauermagneten laufen die Feldlinien dagegen vom Südpol zum Norpol
+	- Sie geben die Kraftrichtung auf einen magnetischen Nordpol an
+	- Je dichter die Feldlinien dargestellt sind, desto stärker ist die magnetischen Kraftwirkung
+
+### Homogenes magnetisches Feld
+
+Die Feldlinien verlaufen parallel und besitzen immer den gleichen Abstand zueinander. Die magnetische Kraftwirkung ist in einem homogenen Feld überall gleich groß.
+
+### Magnetfeld von Elektromagneten
+
+Jeder stromdurchflossene Leiter erzeugt ein magnetisches Feld.
+Um einen geradlinigen stromdurchflossenen Leiter bilden sich kreisförmige Feldlinien
 
 ### $U(t)$ Und $I(t)$ Diagramme: Kondensator
 
@@ -774,3 +799,15 @@ Durch die Änderung der vom Magnetfeld durchsetzten wirksamen Spulenfläche (sch
 #### Hochspannungsübertragung ohne Umspannwerke
 
 ### Lenzsche Regel
+
+### Selbstinduktion
+
+### Induktivität
+
+### Selbstinduktion Spule
+
+#### Einschaltvorgang
+
+#### Ausschaltvorgang
+
+#### $I(t)$ und $U(t)$ Graphen
