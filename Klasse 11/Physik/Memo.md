@@ -476,11 +476,22 @@ In dem Raum (Wirkungsbereich) um einen elektrostatisch geladenen Körper werden 
 
 ### Das Feldlinienbild des elektrischen Feldes
 
+Das elektrische Feldlinienbild ist ein Modell für das elektrische Feld. Es ermöglicht Aussagen über die Wirkungsrichtung einer Kraft auf einen geladenen Körper und die Stärke der elektrischen Kraftwirkung.
+
+- **Merke**
+	- Elektrische Feldlinien laufen von positiver Ladung zur negativen Ladung
+	- Treten senkrecht zur Oberfläche aus
+	- Je dichter die Feldlinien dargestellt sind, desto stärker ist die elektrische Kraftwirkung
+	- Sie geben die Kraftrichtung auf eine positive Ladung an
+	- Feldlinien schneiden sich nicht
+
 ### Homogenes Feld
 
 Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 
 ### Faradayscher Käfig
+
+Der faradaysche Käfig ist eine allseitig geschlossene Hülle aus einem elektrischen Leiter, die als elektrische Abschirmung wirkt. Bei äußeren statischen oder quasistatischen elektrischen Feldern bleibt der innere Bereich infolge der Influenz feldfrei.
 
 ## Die Elektrische Feldstärke
 
@@ -493,6 +504,8 @@ Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem 
 ![Potenzial](Working%20Materials/Elektrisches%20Feld/Potenzial.png)
 
 ## Coulombsches Gesetz
+
+$F=\frac{1}{4\pi\epsilon_{0}\epsilon} \frac{Q_{1}Q_{2}}{r^{2}}$
 
 ### Relative Permittivität
 
@@ -508,8 +521,8 @@ Die relative Permeabilitätszahl  ist eine Stoffkonstante. Sie gibt an, um wie v
 
 Das elektrische Potential in einem Punkt  des elektrischen Feldes bezieht sich auf die Arbeit , die benötigt wird, um eine Probeladung  von einem festen Bezugspunkt  zu einem Punkt  zu verschieben.
 - Formelzeichen $\varphi$
-- Einheit $V$
-- Formel
+- Einheit $V=\frac{J}{C}$
+- Formel $\varphi_{P}=\frac{W_{P_{0}\to P}}{q}$
 
 ### Äuipotentialflächen
 
@@ -519,7 +532,7 @@ Die Flächen, die das gleiche Potential besitzen, heißen Äquipotentialflächen
 
 Wir eine Probeladung  von einem Anfangspunkt zu einem Endpunkt innerhalb eines elektrischen Feldes verschoben, ändert sich das Potential  für die Ladung . Diese Änderung des Potentials  wird als Spannung bezeichnet.
 - Formelzeichen $U$
-- Einheit $V$
+- Einheit $V=\frac{J}{C}$
 - Formel $U=E*d$ 
 
 ## Kondensatoren
@@ -577,9 +590,21 @@ Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor 
 
 Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
 
+Ein Magnet besitzt zwei Pole, einen Süd- und einen Nordpol. An den Polen sind die magnetischen Kräfte am größten. Von den Polen Richtung Mitte des Magneten werden die magnetischen Kraftwirkungen schwächer.
+
 ### Kräfte Zwischen Magneten
 
 Zwischen zwei Magnetpolen können anziehende und abstoßende Kräfte auftreten. Ungleichnahmige Pole ziehen sich an, gleichnamige Polen stoßen sich ab.
+
+### Dauerhafte Magnetisierung
+
+Dauerhafte Magnetisierung bedeutet, dass aus einem magnetisierbaren Körper ein Permanentmagnet hergestellt wird.
+
+### Entmagnetisierung
+
+Entmagnetisierung bedeutet, dass die Magnetisierung eines Körpers rückgängig gemacht wird.
+
+### Modell der Elementarmagneten4
 
 ### Elektromagnete
 
