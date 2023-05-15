@@ -811,3 +811,10 @@ Durch die Änderung der vom Magnetfeld durchsetzten wirksamen Spulenfläche (sch
 #### Ausschaltvorgang
 
 #### $I(t)$ und $U(t)$ Graphen
+
+## Energie des Magnetfeldes
+
+Feldenergie Spule
+$E_{mag}=\frac{1}{2}LI^{2}$
+
+Leistung am Widerstand nach dem Ausschalten der Spule
