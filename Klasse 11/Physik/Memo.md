@@ -810,11 +810,29 @@ Durch die Änderung der vom Magnetfeld durchsetzten wirksamen Spulenfläche (sch
 
 #### Ausschaltvorgang
 
-#### $I(t)$ und $U(t)$ Graphen
+#### $I(t)$ Und $U(t)$ Graphen
 
-## Energie des Magnetfeldes
+### Energie des Magnetfeldes
 
-Feldenergie Spule
+#### Feldenergie Spule
+
 $E_{mag}=\frac{1}{2}LI^{2}$
 
-Leistung am Widerstand nach dem Ausschalten der Spule
+#### Leistung am Widerstand nach dem Ausschalten der Spule
+
+#### Herleitung Formel
+
+$P=\frac{dE}{dt}=U_{ind}*I=N\frac{d\Phi}{dt}=L \frac{dI}{dt}*I$
+$\frac{dE}{dt}=LI \frac{dI}{dt}$
+$dE=LI*dI$
+$\int1*dE=L\int I*dI$
+$E_{mag}=L \frac{1}{2}I^{2}=\frac{1}{2}LI^{2}$
+
+#### Vergleich von Energieformen
+
+| Energieform | Formel              | Körper      | Körpereigenschaft |
+| ----------- | ------------------- | ----------- | ----------------- |
+| $E_{kin}$   | $\frac{1}{2}mv^{2}$ | Massen      | Masse m           |
+| $E_{spann}$ | $\frac{1}{2}Ds^{2}$ | Feder       | Federkonstante D  |
+| $E_{el}$    | $\frac{1}{2}CU^{2}$ | Kondensator | Kapazität C       |
+| $E_{mag}$   | $\frac{1}{2}LI^{2}$ | Spule       | Induktivität L    |
