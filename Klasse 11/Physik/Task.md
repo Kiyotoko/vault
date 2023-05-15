@@ -898,3 +898,9 @@ Beim Generator ändert sich die vom Magnetfeld effektiv durchsetzte Fläche $A_{
 - - -
 
 Beim Transformator liegt an Spule 1 (Primärspule) ein Wechselstrom an. Dadurch ändert sich das von der Primärspule erzeugte Magnetfeld. Das sich ändernde Magnetfeld wird durch den Eisenkern zur Sekundärspule übertragen.. Somit umschließt die Sekundärspule ein sich veränderndes Magnetfeld. Da sich der magnetische Fluss ändert, wird auch in der Sekundärspule eine Spannung induziert.
+
+## 2023-05-15
+
+- $\mu_{r}$ vergrößert $L$, da $L=\mu_{0}\mu_{r}N^{2} \frac{A}{l}$
+- Dadurch vergrößert sich auch $E_{mag}$, da $E_{mag}=\frac{1}{2}LI^{2}$
+- Die Elementarmagnete in dem Eisenkern richten sich alle in die gleiche Richtung aus. Dazu ist zusätzliche Energie notwendig. Diese zusätzliche Energie wird im Magnetfeld gespeichert.

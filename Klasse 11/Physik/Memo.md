@@ -836,3 +836,5 @@ $E_{mag}=L \frac{1}{2}I^{2}=\frac{1}{2}LI^{2}$
 | $E_{spann}$ | $\frac{1}{2}Ds^{2}$ | Feder       | Federkonstante D  |
 | $E_{el}$    | $\frac{1}{2}CU^{2}$ | Kondensator | Kapazität C       |
 | $E_{mag}$   | $\frac{1}{2}LI^{2}$ | Spule       | Induktivität L    |
+
+### Wirbelströme
