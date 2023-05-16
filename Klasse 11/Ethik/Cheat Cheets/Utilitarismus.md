@@ -1,4 +1,32 @@
-## Klassicher Utilitarismus von J. Bentham
+## Die 4 Grundprinzipien
+
+„Moralisch richtig ist die Handlung, deren Folgen nützlich sind für das Wohlergehen aller Betroffenen.“
+
+### Hedonistisches Prinzip
+
+Der Nutzen wird im Hinblick auf das Wohlergehen, Glücks- oder Lustempfinden der Menschen beurteilt.
+
+### Universatistisches Sozialprinzip
+
+- Kollektiv steht über einzelnen
+- Ziel: es sollen möglichst viele profitieren
+- Problem: Minderheiten können ausgeschlossen werden
+
+### Folgenprinzip
+
+- Abschätzung von Folgen und Konsequenzen
+- Unterscheidung von mittelbaren und unmittelbaren Folgen
+- Motivation oder Werte von Menschen sind nicht relevant
+- Ziel: Bewusstmachen bzw. Abschätzen des weiteren Verlaufes
+- Problem: keine Rücksicht auf Normen und Werte
+
+### Utilitätsprinzip
+
+- Nutzen durch Abwägen von Argumenten herausfinden
+- Ziel: optimalen Nutzen anstreben
+- Problem: Aller Werte werden auf einen Wert reduziert
+
+## Klassischer Utilitarismus von J. Bentham
 
 - „Größtes Glück für die größte Masse“
 - Mensch egoistisch
