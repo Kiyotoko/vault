@@ -189,9 +189,9 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 → innere Verpflichtung
 → keine Betrachtung der Folgen
 
-## Glücks- Und Strebensethik
+## Glücks- und Strebensethik
 
-### Glück Ist Nicht Gleich Glück
+### Glück ist nicht gleich Glück
 
 - **Zufallsglück**
 	- früher für positive und negative Ereignisse
