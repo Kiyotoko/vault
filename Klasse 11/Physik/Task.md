@@ -904,3 +904,50 @@ Beim Transformator liegt an Spule 1 (Primärspule) ein Wechselstrom an. Dadurch 
 - $\mu_{r}$ vergrößert $L$, da $L=\mu_{0}\mu_{r}N^{2} \frac{A}{l}$
 - Dadurch vergrößert sich auch $E_{mag}$, da $E_{mag}=\frac{1}{2}LI^{2}$
 - Die Elementarmagnete in dem Eisenkern richten sich alle in die gleiche Richtung aus. Dazu ist zusätzliche Energie notwendig. Diese zusätzliche Energie wird im Magnetfeld gespeichert.
+
+## 2023-05-17
+
+$l=79.8m$
+$v=1020\frac{km}{h}=283.33\frac{m}{s}$
+$B=40\mu T=0.00004T$
+
+$U_{ind}=B*l*v=0.904389V$
+
+Die Spannung lässt sich nicht nutzen, da sie zu gering ist.
+
+- - -
+
+Die Kraft A zeigt nach hinten, während die Kraft C nach vorne zeigt. B geht nach hinten oder nach vorne, je nachdem, ob sie etwas rechts oder links vom Zentrum ist.
+
+Mit einer Erhöhung der der Rotationsgeschwindigkeit wird die Zeitdifferenz $\Delta t$ kleiner, wodurch die  Spannung nach $U_{ind}=\frac{\Delta \Phi}{\Delta t}$ größer wird.
+
+- - -
+
+$A=0.03m^{2}$
+$B=200mT=0.2T$
+$U=325V$
+$n=50Hz$
+$\alpha=\frac{360}{50}=7.2$
+$\Delta t=\frac{1}{50}s$
+
+$U=N\frac{\Delta \Phi}{\Delta t}=NB\frac{\Delta A\cos{\alpha}}{\Delta t}$
+$N=\frac{U}{B}\frac{\Delta t}{\Delta A\cos{\alpha}}=1092$
+
+- - -
+
+$l=8cm=0.08m$
+$A=4cm^{2}=0.0004m^{2}$
+$\mu_{r}=620$
+$L=150mH=0.15H$
+
+$N=\sqrt{\frac{L*l}{\mu_{0}\mu_{r}A}}=196.227$
+
+$N=\sqrt{\frac{L*l}{\mu_{0}A}}=4886.03$
+
+- - -
+
+$L=900mH=0.9H$
+$R=330\Omega$
+$U_{0}=12V$
+
+$$
