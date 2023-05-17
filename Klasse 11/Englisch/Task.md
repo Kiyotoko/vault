@@ -312,3 +312,11 @@ Parents with a good income conceive this to their children and they will also ha
 - motivation
 - bad internet connetion
 - not having all working materials
+
+## 2023-05-17
+
+- Reduced costs
+- Happier employees
+- Fewer health issues
+- Increase in productivity levels
+- Recruitment and retention
