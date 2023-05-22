@@ -4,11 +4,13 @@
 		{"type":"text","text":"Das Relativpronomen ersetzt ein gleichlautendes Nomen aus dem Vorsatz. Dieses Nomen im Vorsatz ist sein Bezugswort.","id":"d61421c00f245c90","x":-285,"y":-330,"width":410,"height":200},
 		{"type":"text","text":"Das Relativpronomen ersetzt ein gleichlautendes Nomen aus dem Vorsatz. Dieses Nomen im Vorsatz ist sein Bezugswort.","id":"321c8256e7065eed","x":-790,"y":-460,"width":460,"height":170},
 		{"type":"text","text":"Merkregeln","id":"e72748604a84f8ea","x":-260,"y":-620,"width":250,"height":60},
-		{"id":"14fde87a7d6f4255","x":-382,"y":-940,"width":494,"height":206,"type":"file","file":"Klasse 11/Latein/Working Materials/Formen des Relativpronoms.png"}
+		{"id":"4bfac7185d841a4f","x":-323,"y":-860,"width":343,"height":54,"type":"text","text":"##### Relativpronomen"},
+		{"id":"14fde87a7d6f4255","x":-860,"y":-936,"width":494,"height":206,"type":"file","file":"Klasse 11/Latein/Working Materials/Formen des Relativpronoms.png"}
 	],
 	"edges":[
 		{"id":"a3f7a33691279274","fromNode":"e72748604a84f8ea","fromSide":"bottom","toNode":"321c8256e7065eed","toSide":"top"},
 		{"id":"485b9021068018aa","fromNode":"e72748604a84f8ea","fromSide":"bottom","toNode":"d61421c00f245c90","toSide":"top"},
-		{"id":"e999c066981a71ab","fromNode":"e72748604a84f8ea","fromSide":"bottom","toNode":"702fff17c4142a96","toSide":"top"}
+		{"id":"e999c066981a71ab","fromNode":"e72748604a84f8ea","fromSide":"bottom","toNode":"702fff17c4142a96","toSide":"top"},
+		{"id":"589e8cd9b583c4d8","fromNode":"4bfac7185d841a4f","fromSide":"left","toNode":"14fde87a7d6f4255","toSide":"right"}
 	]
 }
