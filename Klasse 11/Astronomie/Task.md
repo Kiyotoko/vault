@@ -303,3 +303,11 @@ Bei Refraktorteleskope entstehen Abbildungsfehler, da die Linsen relativ groß u
 1. Newton-Teleskop
 2. Refraktorteleskop
 3. Cassegrain-Teleskop
+
+## 2023-05-22
+
+$f_{ob}=1000mm$
+$f_{ok}=-40mm$
+$V=\frac{f_{ob}}{|f_{ok}|}=\frac{1000mm}{40mm}=25$
+
+- - -
