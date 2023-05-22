@@ -328,3 +328,17 @@ Parents with a good income conceive this to their children and they will also ha
 3.  "I wish I'd had the courage to express my feelings."
 4.  "I wish I had stayed in touch with my friends."
 5.  "I wish that I had let myself be happier."
+
+- - -
+
+John has worked long and hard for many years. His wife wants him to retire and travel the world with her. It took Margaret 15 years to convince him. When he finally agreed to retire, he wanted to finish one last job. In that last year, Margaret dies and they never travel together.
+
+John and a person unknown to the reader meet for days in the last moments of John's life. John dies and tells her the story of his life. He regrets having worked so hard.
+
+- - -
+
+I think the story is really sad because John realised in his last moments that he had wasted a lot of time of his life and was lonely in the end.
+
+- - -
+
+Yes, it really is all about balance. Es ist wichtig, seine Träume zu verwirklichen. Aber um diese Träume vollständig zu leben, braucht man normalerweise viele Dinge: und Geld ist oft das beste Mittel zum Zweck. Um Geld zu verdienen, muss man arbeiten. Aber wenn man die ganze Zeit arbeitet, verliert man mit der Zeit seine Träume aus den Augen, das, was man eigentlich erreichen wollte, so wie es bei John der Fall war.
