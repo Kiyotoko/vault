@@ -320,3 +320,11 @@ Parents with a good income conceive this to their children and they will also ha
 - Fewer health issues
 - Increase in productivity levels
 - Recruitment and retention
+
+## 2023-05-22
+
+1.  "I wish I'd had the courage to live a life true to myself, not the life others expected of me."
+2.  "I wish I hadn't worked so hard."
+3.  "I wish I'd had the courage to express my feelings."
+4.  "I wish I had stayed in touch with my friends."
+5.  "I wish that I had let myself be happier."
