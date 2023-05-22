@@ -306,8 +306,29 @@ Bei Refraktorteleskope entstehen Abbildungsfehler, da die Linsen relativ groß u
 
 ## 2023-05-22
 
+Die Baulänge des Teleskopes wird durch die negative Brennweite verkürzt.
+
+Die Sammellinse und Zerstreuungslinse sind in einer Reihe mit einem Abstand von 960 mm zueinander angeordnet.
+
 $f_{ob}=1000mm$
 $f_{ok}=-40mm$
 $V=\frac{f_{ob}}{|f_{ok}|}=\frac{1000mm}{40mm}=25$
 
 - - -
+
+[Memo](Memo.md#Abbildungsfehler)
+
+- - -
+
+Der Spiegel sammelt das Licht und wirft es auf einen Punkt zurück
+Der zweite Spiegel ist konvex, damit das Licht in einem kleineren Winkel zusammenläuft.
+
+$\frac{\frac{1}{4}\pi(60mm)^{2}}{\frac{1}{4}\pi(200mm)^{2}}=0.09\%$
+
+- - -
+
+$d=2.4m$
+$\lambda=500nm=5*10^{-7}m$
+$\alpha=0.05''=0.000014=14*10^{-6}$
+
+$\alpha\ge1.22*\frac{\lambda}{d}=2.54*10^{-7}$
