@@ -1,9 +1,20 @@
 ## Konfuzianismus
 
+### Grundlagen
+
+- Gegründet von Konfuzius
 - Konfuzius gehört neben Lao-Tse zu den bedeutendsten Philosophen Chinas
 - Mitmenschlichkeit als höchste Tugend des Konfuzius
 
 ### Ratschläge des Konfuzius für ein gutes Leben
+
+- Tugenden kultivieren: Konfuzius betonte die Bedeutung der Kultivierung von Tugenden wie Wohlwollen, Rechtschaffenheit, Anstand, Weisheit und Aufrichtigkeit. Er glaubte, dass der Einzelne durch die Verkörperung dieser Tugenden zu einer harmonischen und moralisch aufrechten Gesellschaft beiträgt.
+- Üben Sie sich in kindlicher Pietät: Konfuzius betonte die Bedeutung der kindlichen Pietät, die darin besteht, den eigenen Eltern und Vorfahren Respekt, Fürsorge und Gehorsam zu erweisen. Dazu gehört auch, die familiären Beziehungen zu ehren und starke Familienbande als Grundlage für eine gut funktionierende Gesellschaft zu erhalten.
+- Bildung und Selbstkultivierung anstreben: Konfuzius betonte den Wert von Bildung und Selbstvervollkommnung. Er glaubte, dass ständiges Lernen, Selbstreflexion und das Streben nach Wissen und Weisheit für das persönliche Wachstum und die Entwicklung zu einem moralisch kultivierten Menschen unerlässlich sind.
+- Wahrung von Ritualen und Etikette: Konfuzius plädierte für die Einhaltung von Ritualen und Umgangsformen als Mittel zur Förderung der sozialen Harmonie und Ordnung. Angemessene Umgangsformen und respektvolles Verhalten im sozialen Miteinander tragen dazu bei, eine stabile und respektvolle Gesellschaft zu erhalten.
+- Rechtschaffenheit in der Regierungsführung praktizieren: Konfuzius war der Ansicht, dass die Führer mit Rechtschaffenheit, moralischer Integrität und einem Gefühl der Pflicht gegenüber dem Wohl des Volkes regieren sollten. Er betonte die Bedeutung einer tugendhaften Führung, die das Wohl der Gesellschaft über den persönlichen Gewinn stellt.
+- Harmonische Beziehungen fördern: Konfuzius betonte die Bedeutung der Pflege harmonischer Beziehungen in allen Lebensbereichen, einschließlich Familie, Freundschaften und Gemeinschaft. Er ermutigte die Menschen, andere mit Freundlichkeit, Einfühlungsvermögen und Respekt zu behandeln und so ein Gefühl der Einheit und Zusammenarbeit zu fördern.
+- Umarmung des Weges des Junzi: Konfuzius idealisierte das Konzept des Junzi, der moralisch edlen Person. Er ermutigte die Menschen, danach zu streben, Junzi zu sein, indem sie Weisheit, Integrität und vorbildliches Verhalten verkörpern, als Vorbilder fungieren und andere positiv beeinflussen.
 
 ### Tugendethik des Konfuzius
 
@@ -12,8 +23,18 @@
 3. Xiao (kindliche Pietät): Respektieren und Ehren der Eltern, Vorfahren und Älteren. Es betont die Bedeutung der Erfüllung familiärer Pflichten und der Aufrechterhaltung starker Familienbande als Grundlage für eine harmonische Gesellschaft.
 4. Junzi (Der Gentleman): Strebt danach, ein moralisch kultiviertes Individuum zu werden, das Weisheit, Integrität und einen edlen Charakter verkörpert. Der Junzi strebt danach, ein Vorbild zu sein und andere durch sein Handeln und seine Tugenden positiv zu beeinflussen.
 
+### Kritikpunkte
+
+- Hierarchische Sozialstruktur: Der Konfuzianismus fördert eine hierarchische Sozialstruktur mit Schwerpunkt auf kindlicher Frömmigkeit und Gehorsam gegenüber Autoritäten. Kritiker argumentieren, dass dies zu einem Mangel an individueller Autonomie, zur Unterdrückung von Randgruppen und zu eingeschränkter sozialer Mobilität führen kann.
+- Ungleichheit der Geschlechter: Der traditionelle Konfuzianismus wird für seine patriarchalischen Ansichten und die Festschreibung von Geschlechterrollen kritisiert. Er ordnet Frauen den Männern unter und schränkt ihre Chancen auf Bildung und Teilnahme am öffentlichen Leben ein.
+- Konservatismus und Widerstand gegen Veränderungen: Einige Kritiker argumentieren, dass die Betonung von Traditionen und Ritualen im Konfuzianismus zu Widerstand gegen soziale und kulturelle Veränderungen führen kann. Dies kann den Fortschritt und die Innovation in der Gesellschaft behindern.
+- Mangelnder Individualismus: Der Konfuzianismus legt großen Wert auf die kollektive Identität und die gesellschaftliche Harmonie, was manchmal auf Kosten des individuellen Ausdrucks und der persönlichen Wünsche geht. Kritiker argumentieren, dass dies den Individualismus unterdrücken und verschiedene Perspektiven unterdrücken kann.
+
 ## Taoismus
 
+### Grundlagen
+
+- Gegründet von Lao-Tes
 - Lao-Tse gehört neben Konfuzius zu den bedeutendsten Philosophen Chinas
 - Schrieb das Buch Tao te king
 - Tao bedeutet soviel wie Ordnung oder rechter Weg
@@ -28,6 +49,13 @@ Im Taoismus steht das Dao für die ultimative Realität und die natürliche Ordn
 2. Wu Wei (Nicht-Handeln): Ein Plädoyer für müheloses Handeln oder Nicht-Handeln im Einklang mit dem Dao. Es legt nahe, dass man handeln sollte, ohne etwas zu erzwingen oder anzustreben, indem man den Dingen erlaubt, sich natürlich zu entfalten und sich den Umständen anzupassen, anstatt zu versuchen, sie zu kontrollieren oder zu manipulieren.
 3. Pu (Einfachheit): Der Daoismus legt Wert auf Einfachheit und Bescheidenheit und ermutigt den Einzelnen, sich von materiellen Besitztümern, sozialem Status und künstlichen Wünschen zu lösen. Es wird angenommen, dass man durch die Vereinfachung des eigenen Lebens inneren Frieden und Harmonie erreichen kann.
 4. Ziran (Natürlichkeit): Die Wertschätzung der natürlichen Rhythmen und Zyklen des Lebens und die Ausrichtung auf sie. Der Daoismus ermutigt den Einzelnen, seine angeborene Spontaneität anzunehmen, seinen Instinkten zu folgen und authentisch zu leben, frei von gesellschaftlichen Zwängen und Erwartungen.
+
+### Kritikpunkte
+
+- Rückzug aus der Gesellschaft: Die Betonung des Daoismus auf Einfachheit, Spontaneität und Loslösung von weltlichen Belangen ist kritisiert worden, weil er den Rückzug aus der Gesellschaft befürwortet. Kritiker argumentieren, dass dies zu Apathie und zum Verzicht auf die Auseinandersetzung mit sozialen Fragen und Verantwortlichkeiten führen kann.
+- Mangel an praktischer Anleitung: Die Betonung des Daoismus auf die unaussprechliche Natur des Dao und das Konzept des Wu Wei (Nichthandeln) kann als Mangel an praktischer Anleitung zur Bewältigung komplexer ethischer Dilemmata und realer Entscheidungen angesehen werden.
+- Passivität und Untätigkeit: Kritiker argumentieren, dass die Betonung des Wu Wei und des Nichthandelns im Daoismus als Passivität oder als Rechtfertigung dafür missverstanden werden kann, dass man sich vor Verantwortung oder notwendigen Handlungen in der Gesellschaft drückt.
+- Vagheit und Unbestimmtheit: Daoistische Texte und Lehren sind oft poetisch und voller paradoxer Sprache, was ihre Interpretation und Anwendung auf praktische Situationen erschwert. Dies kann zu Mehrdeutigkeit und Schwierigkeiten beim vollständigen Verständnis der Lehren führen.
 
 ## Zusammenfassung
 
