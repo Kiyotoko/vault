@@ -23,6 +23,13 @@
 3. Xiao (kindliche Pietät): Respektieren und Ehren der Eltern, Vorfahren und Älteren. Es betont die Bedeutung der Erfüllung familiärer Pflichten und der Aufrechterhaltung starker Familienbande als Grundlage für eine harmonische Gesellschaft.
 4. Junzi (Der Gentleman): Strebt danach, ein moralisch kultiviertes Individuum zu werden, das Weisheit, Integrität und einen edlen Charakter verkörpert. Der Junzi strebt danach, ein Vorbild zu sein und andere durch sein Handeln und seine Tugenden positiv zu beeinflussen.
 
+### Gesellschaft
+
+- Ethischer Rahmen: Der Konfuzianismus hat einen moralischen und ethischen Rahmen für Individuen und Gesellschaften geschaffen. Seine Betonung von Tugenden, kindlicher Pietät und sozialer Harmonie hat dazu beigetragen, moralische Werte, soziale Normen und ethisches Verhalten in ostasiatischen Gesellschaften zu formen.
+- Bildung und Meritokratie: Der Konfuzianismus legt großen Wert auf Bildung und die Kultivierung von Tugenden. Dies hat dazu beigetragen, dass Bildung, Gelehrsamkeit und das Streben nach Wissen in den vom Konfuzianismus geprägten Gesellschaften einen hohen Stellenwert haben. Konfuzianische Ideale haben auch die Entwicklung meritokratischer Systeme beeinflusst, in denen der Einzelne nach seinen Fähigkeiten und Tugenden beurteilt wird.
+- Familie und soziale Struktur: Der Konfuzianismus legt großen Wert auf die Werte der Familie, den Respekt vor Älteren und die Aufrechterhaltung der sozialen Ordnung. Er hat die Familienstrukturen, die Beziehungen zwischen den Generationen und die hierarchischen sozialen Strukturen in den ostasiatischen Gesellschaften maßgeblich geprägt.
+- Einfluss auf das Regieren: Der Konfuzianismus hat einen tiefgreifenden Einfluss auf die Regierungssysteme in Ostasien gehabt. Seine Betonung von tugendhafter Führung, moralischer Integrität und dem Wohlergehen des Volkes hat die Vorstellungen von Regierungsführung, öffentlicher Verwaltung und Politik in vielen ostasiatischen Ländern beeinflusst.
+
 ### Kritikpunkte
 
 - Hierarchische Sozialstruktur: Der Konfuzianismus fördert eine hierarchische Sozialstruktur mit Schwerpunkt auf kindlicher Frömmigkeit und Gehorsam gegenüber Autoritäten. Kritiker argumentieren, dass dies zu einem Mangel an individueller Autonomie, zur Unterdrückung von Randgruppen und zu eingeschränkter sozialer Mobilität führen kann.
@@ -49,6 +56,13 @@ Im Taoismus steht das Dao für die ultimative Realität und die natürliche Ordn
 2. Wu Wei (Nicht-Handeln): Ein Plädoyer für müheloses Handeln oder Nicht-Handeln im Einklang mit dem Dao. Es legt nahe, dass man handeln sollte, ohne etwas zu erzwingen oder anzustreben, indem man den Dingen erlaubt, sich natürlich zu entfalten und sich den Umständen anzupassen, anstatt zu versuchen, sie zu kontrollieren oder zu manipulieren.
 3. Pu (Einfachheit): Der Daoismus legt Wert auf Einfachheit und Bescheidenheit und ermutigt den Einzelnen, sich von materiellen Besitztümern, sozialem Status und künstlichen Wünschen zu lösen. Es wird angenommen, dass man durch die Vereinfachung des eigenen Lebens inneren Frieden und Harmonie erreichen kann.
 4. Ziran (Natürlichkeit): Die Wertschätzung der natürlichen Rhythmen und Zyklen des Lebens und die Ausrichtung auf sie. Der Daoismus ermutigt den Einzelnen, seine angeborene Spontaneität anzunehmen, seinen Instinkten zu folgen und authentisch zu leben, frei von gesellschaftlichen Zwängen und Erwartungen.
+
+### Gesellschaft
+
+- Wertschätzung der Natur und des Gleichgewichts: Die Betonung des Daoismus, in Harmonie mit der Natur zu leben und das Gleichgewicht zu suchen, hat die Wertschätzung der Natur, die Umweltethik und die Praxis der Nachhaltigkeit beeinflusst. Er hat einen tiefen Respekt für die natürliche Welt und die Erhaltung des ökologischen Gleichgewichts inspiriert.
+- Achtsamkeit und innere Gelassenheit: Die Lehren des Daoismus über Spontaneität, Nicht-Handeln und innere Ruhe haben Praktiken wie Meditation, Achtsamkeit und Kontemplation beeinflusst. Diese Praktiken zielen darauf ab, ein Gefühl des Friedens, der Selbsterkenntnis und des geistigen Wohlbefindens zu kultivieren.
+- Kunst, Literatur und Ästhetik: Der Daoismus hat die Kunst, Literatur und Ästhetik in Ostasien maßgeblich beeinflusst. Seine Betonung von Einfachheit, Natürlichkeit und der Wertschätzung von Schönheit hat verschiedene Kunstformen, Kalligraphie, Poesie und Landschaftsmalerei beeinflusst.
+- Alternative philosophische Sichtweise: Der Daoismus bietet eine alternative philosophische Perspektive, die die Betonung von sozialen Normen, Hierarchien und starren Strukturen in Frage stellt. Er stellt ein Gegengewicht zum Konfuzianismus dar und bietet dem Einzelnen einen Weg, sich mit persönlicher Spiritualität, existenziellen Fragen und der Suche nach Sinn auseinanderzusetzen.
 
 ### Kritikpunkte
 
