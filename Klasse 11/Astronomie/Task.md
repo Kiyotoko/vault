@@ -320,10 +320,10 @@ $V=\frac{f_{ob}}{|f_{ok}|}=\frac{1000mm}{40mm}=25$
 
 - - -
 
-Der Spiegel sammelt das Licht und wirft es auf einen Punkt zurück
-Der zweite Spiegel ist konvex, damit das Licht in einem kleineren Winkel zusammenläuft.
+Der Spiegel sammelt das Licht und wirft es auf einen Punkt zurück. Wäre der Spiegel nicht da, würde der Beobachter den Strahlengang blockieren und somit das Licht wegnehmen.
+Der zweite Spiegel ist konvex, damit das Licht in einem kleineren Winkel zusammenläuft, die Brennweite somit vergrößert wird und somit das.
 
-$\frac{\frac{1}{4}\pi(60mm)^{2}}{\frac{1}{4}\pi(200mm)^{2}}=0.09\%$
+$\frac{\frac{1}{4}\pi(60mm)^{2}}{\frac{1}{4}\pi(200mm)^{2}}=9\%$
 
 - - -
 
