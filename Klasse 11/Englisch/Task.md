@@ -358,3 +358,15 @@ Yes, it really is all about balance. Es ist wichtig, seine Träume zu verwirklic
 11. social recognition
 12. type of company
 13. perks
+
+- - -
+
+A chief funster reviews festivals and events and posts them online.
+
+A park ranger protects the unique animals and plants of a park. He promotes the native plants and animals, rainforest walks and spectacular waterfalls.
+
+A taste master tastes and promotes the different gourmet products of Australia.
+
+- - -
+
+I would like to work as a park ranger, because every working day is special. You would be always in nature and could explore the park on your own.
