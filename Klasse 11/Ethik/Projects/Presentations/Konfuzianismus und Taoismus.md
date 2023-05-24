@@ -74,3 +74,6 @@ Im Taoismus steht das Dao für die ultimative Realität und die natürliche Ordn
 ## Zusammenfassung
 
 Während sich der Konfuzianismus auf soziale Harmonie, moralische Kultivierung und ethisches Verhalten konzentriert, betont der Daoismus das Leben in Harmonie mit der natürlichen Welt, die Umarmung der Einfachheit und die Kultivierung eines Gefühls der inneren Ruhe. Trotz ihrer Unterschiede zielen beide Philosophien darauf ab, den Einzelnen zu einer ausgewogenen und tugendhaften Lebensweise anzuleiten.
+
+## Positionierung
+

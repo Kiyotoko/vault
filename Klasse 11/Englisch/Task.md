@@ -342,3 +342,19 @@ I think the story is really sad because John realised in his last moments that h
 - - -
 
 Yes, it really is all about balance. Es ist wichtig, seine Träume zu verwirklichen. Aber um diese Träume vollständig zu leben, braucht man normalerweise viele Dinge: und Geld ist oft das beste Mittel zum Zweck. Um Geld zu verdienen, muss man arbeiten. Aber wenn man die ganze Zeit arbeitet, verliert man mit der Zeit seine Träume aus den Augen, das, was man eigentlich erreichen wollte, so wie es bei John der Fall war.
+
+## 2023-05-24
+
+1. work-life balance
+2. salary
+3. working environment
+4. field of work
+5. security
+6. social travel opportunities
+7. career
+8. location
+9. reputation of company
+10. regular working hours
+11. social recognition
+12. type of company
+13. perks
