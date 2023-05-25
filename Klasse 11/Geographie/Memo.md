@@ -126,18 +126,18 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 
 ## Wetter, Witterung und Klima
 
--  Wetter
+-  **Wetter**
 	- Beschreibt die kunrzfristige Beobachtung an einem Ort
-- Witterung
+- **Witterung**
 	- Beschreibt das Wetter über mehrere Tage bis zu einer ganzen Jahreszeit
-- Klima
+- **Klima**
 	- Beschreibt das Wetter über einen langen Zeitraum
 	- Generelle Wetterphänomene
 	- Durchschnittswerte der Monate ergeben zusammen das Klimadiagramm
 
 ## Aufbau und Zusammenhang der Atmosphäre
 
-![](Working%20Materials/Atmosphärische%20Prozesse/Aufbau%20der%20Atmosphäre.jpg)
+![Aufbau der Atmosphäre](Working%20Materials/Atmosphärische%20Prozesse/Aufbau%20der%20Atmosphäre.jpg)
 
 ## Strahlungshaushalt der Erde
 
