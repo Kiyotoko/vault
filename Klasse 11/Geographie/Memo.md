@@ -139,8 +139,16 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 
 ![Aufbau der Atmosphäre](Working%20Materials/Atmosphärische%20Prozesse/Aufbau%20der%20Atmosphäre.jpg)
 
-## Strahlungshaushalt der Erde
+## Strahlungs- und Wärmehaushalt der Athmosphäre
 
 Der Albedowert ist das Verhältnis von einfallender zu ausfallender Strahlung. Die sphärische Albedo liegt stets zwischen 0 und 1. Der Wert 0 entspricht einer vollständigen Absorption und 1 einer vollständigen Reflexion des einfallenden Lichts.
 
 Die Strahlung die Aufgenommen wird setzt sich aus der kurzwelligen Globalstrahlung abzüglich der absorbierten Kurzstrahlung und der effektiven Ausstraglung ab. Die effektive Ausstrahlung ist die langwellige Oberflächenstrahlung minus der Gegenstrahlung. Die Gegenstrahlung ist von den Spurengasen in der Atmosphäre abhängig.
+
+## Globalstrahlung und Temperatur
+
+## Luftdruck und Wind
+
+## Wolkenbildung und Niederschlag
+
+Die Entstehung von Wolken und Niederschlag ist ein Zusammenwirken aus Temperatur und Wasser bzw. Wasserdampf, das bzw. der sich in der Atmosphäre befindet. Vereinfacht ist der Zusammenhang in der Taupunktkurve.
