@@ -153,6 +153,17 @@ Die Strahlung die Aufgenommen wird setzt sich aus der kurzwelligen Globalstrahlu
 
 ![](Working%20Materials/Atmosphärische%20Prozesse/Wärmehaushalt%20der%20Erde.png)
 
+- **Fühlbarer Wärmestrom (H)**
+	- Wärmeleitung und Wärmeabstrahlung der Luftbewegung
+	- Ist gerichtet zwischen der 
+- **Verdunstungswärmestrom (V)**
+	- Verdunsten des in der Luft enthaltenden Wasserdampfes
+- **Bodenwärmestrom (B)**
+	- Verläuft am Boden und hängt von der Wärmeleitfähigkeit ab
+- **Horizontale Wärmetransporte (W)**
+	- Durch Meeresströmungen
+	- Hängt von der Differenz der zugeführten und abgeführten Wärme ab
+
 ## Globalstrahlung und Temperatur
 
 ## Luftdruck und Wind
