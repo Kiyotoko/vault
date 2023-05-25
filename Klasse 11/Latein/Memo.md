@@ -150,6 +150,38 @@ tags:
 
 ## Indefinitpronomen
 
+## Relativpronomen
+
+![Formen des Relativpronoms](Working%20Materials/Formen%20des%20Relativpronoms.png)´
+
+|      | m.    | f.    | n.    |
+| ---- | ----- | ----- | ----- |
+| Nom. | hic   | haec  | hoc   |
+| Gen. | huius | huius | huius |
+| Dat. | huic  | huic  | huic  |
+| Akk. | hunc  | hanc  | hoc   |
+| Abl. | hoc   | hae   | hoc   |
+|      |       |       |       |
+| Nom. | hi    | hae   | haec  |
+| Gen. | horum | harum | horum |
+| Dat. | his   | his   | his   |
+| Akk. | hos   | has   | haec  |
+| Abl. | his   | his   | his   |
+
+|      | m.      | f.      | n.      |
+| ---- | ------- | ------- | ------- |
+| Nom. | iste    | ista    | istud   |
+| Gen. | istum   | istam   | istud   |
+| Dat. | istius  | istius  | istius  |
+| Akk. | isti    | isti    | isti    |
+| Abl. | isto    | ista    | istis   |
+|      |         |         |         |
+| Nom. | isti    | istae   | ista    |
+| Gen. | istos   | istas   | ista    |
+| Dat. | istorum | istarum | istorum |
+| Akk. | istis   | istis   | istis   |
+| Abl. | istis   | istis   | istis    |
+
 # Adjektive
 
 ## Komparativ
@@ -166,7 +198,7 @@ tags:
 | Gen. | um      | um       | um      |
 | Dat. | ibus    | ibus     | ibus    |
 | Akk. | es      | es       | a       |
-| Abl. | ibus    | ibus     | ibus      |
+| Abl. | ibus    | ibus     | ibus    |
 
 ## Superlativ
 

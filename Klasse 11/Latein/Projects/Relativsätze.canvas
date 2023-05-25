@@ -4,12 +4,13 @@
 		{"type":"text","text":"Das Relativpronomen ersetzt ein gleichlautendes Nomen aus dem Vorsatz. Dieses Nomen im Vorsatz ist sein Bezugswort.","id":"d61421c00f245c90","x":-285,"y":-330,"width":410,"height":200},
 		{"type":"text","text":"## Grundlagen","id":"e72748604a84f8ea","x":-260,"y":-620,"width":360,"height":60},
 		{"type":"text","text":"Die Form des Relativpronomens ist\n\n1.  im K (= Kasus) unabhängig vom Bezugswort (eigene Satzgliedfunktion im Relativsatz),\n2.  in N und G (= Numerus und Genus) abhängig vom Bezugswort.","id":"173cfff62c661df1","x":-820,"y":-480,"width":477,"height":300},
-		{"id":"8a0a25a4bf74cac1","x":-262,"y":-730,"width":362,"height":77,"type":"text","text":"# Relativsätze"},
+		{"type":"text","text":"# Relativsätze","id":"8a0a25a4bf74cac1","x":-262,"y":-730,"width":362,"height":77},
 		{"type":"text","text":"## Relativpronomen","id":"4bfac7185d841a4f","x":-269,"y":-885,"width":377,"height":50},
 		{"type":"file","file":"Klasse 11/Latein/Working Materials/Formen des Relativpronoms.png","id":"14fde87a7d6f4255","x":-920,"y":-963,"width":494,"height":206},
-		{"id":"7add79161da8372b","x":242,"y":-721,"width":250,"height":60,"type":"text","text":"## Beispiele"},
-		{"id":"6ff4fa93f39bcca1","x":620,"y":-661,"width":320,"height":83,"type":"text","text":"Subjekt *Attribut* Prädikat Objekt"},
-		{"id":"4f2951afa265d23a","x":620,"y":-859,"width":320,"height":138,"type":"text","text":"Hannibal *quem Romani timebant* vicit copias Romanas"}
+		{"type":"text","text":"## Beispiele","id":"7add79161da8372b","x":242,"y":-721,"width":250,"height":60},
+		{"type":"text","text":"Subjekt *Attribut* Prädikat Objekt","id":"6ff4fa93f39bcca1","x":620,"y":-661,"width":320,"height":83},
+		{"type":"text","text":"Hannibal *quem Romani timebant* vicit copias Romanas","id":"4f2951afa265d23a","x":620,"y":-859,"width":320,"height":138},
+		{"id":"cd3a8db8c781ba25","x":-329,"y":-1037,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"485b9021068018aa","fromNode":"e72748604a84f8ea","fromSide":"bottom","toNode":"d61421c00f245c90","toSide":"top"},
