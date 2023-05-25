@@ -249,3 +249,10 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 - Abgeordneter Ebert soll neuer Reichskanzler werden
 - Einführung allgemeiner Wahlen für eine verfassungsgebende deutsche Nationalversammlung
 - Künftige Staatsform soll festgestellt werden
+
+- - -
+
+- Schliefen-Plan: Plan, um an zwei Fronten zu kämpfen, indem man schnell an der Front von Frankreich gewinnt und danach Russland besiegt, was kurz später scheiterte
+- Stellungskriege: Beide Fronten sind in Stellungen festgesetzt, passiv wo sich die Fronten kaum verschieben
+- Materialschlacht: Munition und Soldaten werden in Massen eingesetzt
+- Niemandsland: Land zwischen den Frontlinien, welche umkämpft wird
