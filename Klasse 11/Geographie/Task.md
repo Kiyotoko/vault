@@ -159,6 +159,8 @@ Beurteilen Sie die Nachhaltigkeit der Erdölförderung in Norwegen hinsichtlich 
 	- Ökologisch gesehen ist Norwegen nachhaltig, da es selbst aufgrund von regenerativen Energien nicht auf Erdöl als Energiequelle angewiesen ist. Hinzu kommt, dass Norwegen bis 2030 C 0<sub>2</sub> neutral werden will.
 	- Im großen und ganzen ist Norwegen noch nicht nachhaltig, da zurzeit ein zu großer Teil der Wirtschaft vom Erdöl abhängig ist. Jedoch ist sich Norwegen dieses Problems bewusst, weshalb es selbst durch einen Staatsfond und mit regenerativen Energien versucht, unabhängig zu werden.
 
+# Atmosphärische Prozesse
+
 ## 2023-04-28
 
 ![](Working%20Materials/Atmosphärische%20Prozesse/Atmosphäre%20Schichten.png)

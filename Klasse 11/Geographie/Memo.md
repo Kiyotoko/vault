@@ -127,7 +127,7 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 ## Wetter, Witterung und Klima
 
 -  **Wetter**
-	- Beschreibt die kunrzfristige Beobachtung an einem Ort
+	- Beschreibt die kurzfristige Beobachtung an einem Ort
 - **Witterung**
 	- Beschreibt das Wetter über mehrere Tage bis zu einer ganzen Jahreszeit
 - **Klima**
