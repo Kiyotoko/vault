@@ -230,14 +230,22 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 
 ## 2023-05-11
 
-Kaiser
-Aristrokratie
-Imperialismus
-Sozialversicherung
-Einigungskriege
-Rückversicherungsvertrag
-Reichsfeinde
-Expansion
-Innenpolitik
-Cäsarismus
-Hohenzollern
+- Kaiser
+- Aristrokratie
+- Imperialismus
+- Sozialversicherung
+- Einigungskriege
+- Rückversicherungsvertrag
+- Reichsfeinde
+- Expansion
+- Innenpolitik
+- Cäsarismus
+- Hohenzollern
+
+## 2023-05-25
+
+- Der Kaiser hat abgedankt
+- Der Reichskanzler bleibt solange im Amt, bis verbundene Fragen geregelt sind
+- Abgeordneter Ebert soll neuer Reichskanzler werden
+- Einführung allgemeiner Wahlen für eine verfassungsgebende deutsche Nationalversammlung
+- Künftige Staatsform soll festgestellt werden
