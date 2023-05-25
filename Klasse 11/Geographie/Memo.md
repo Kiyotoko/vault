@@ -141,9 +141,7 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 
 ## Strahlungs- und Wärmehaushalt der Athmosphäre
 
-![](Working%20Materials/Atmosphärische%20Prozesse/Atmosphärische%20Prozsse.png)
-
-![](Working%20Materials/Atmosphärische%20Prozesse/Strahlungshaushalt%20der%20Erde.png)
+![Strahlungshaushalt der Erde](Working%20Materials/Atmosphärische%20Prozesse/Strahlungshaushalt%20der%20Erde.png)
 
 Der Albedowert ist das Verhältnis von einfallender zu ausfallender Strahlung. Die sphärische Albedo liegt stets zwischen 0 und 1. Der Wert 0 entspricht einer vollständigen Absorption und 1 einer vollständigen Reflexion des einfallenden Lichts.
 
