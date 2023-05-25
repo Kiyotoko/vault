@@ -141,11 +141,17 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 
 ## Strahlungs- und Wärmehaushalt der Athmosphäre
 
+### Strahlungshaushalt
+
 ![Strahlungshaushalt der Erde](Working%20Materials/Atmosphärische%20Prozesse/Strahlungshaushalt%20der%20Erde.png)
 
 Der Albedowert ist das Verhältnis von einfallender zu ausfallender Strahlung. Die sphärische Albedo liegt stets zwischen 0 und 1. Der Wert 0 entspricht einer vollständigen Absorption und 1 einer vollständigen Reflexion des einfallenden Lichts.
 
 Die Strahlung die Aufgenommen wird setzt sich aus der kurzwelligen Globalstrahlung abzüglich der absorbierten Kurzstrahlung und der effektiven Ausstraglung ab. Die effektive Ausstrahlung ist die langwellige Oberflächenstrahlung minus der Gegenstrahlung. Die Gegenstrahlung ist von den Spurengasen in der Atmosphäre abhängig.
+
+### Wärmehaushalt
+
+![](Working%20Materials/Atmosphärische%20Prozesse/Wärmehaushalt%20der%20Erde.png)
 
 ## Globalstrahlung und Temperatur
 
