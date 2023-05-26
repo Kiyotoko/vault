@@ -564,3 +564,9 @@ Ebenfalls lehne ich die Aussage ab, das man nicht verführerisch einfachen Aussa
 
 Santé! Ich bin Heinrich Kramer, klug, gut aussehend und selbstverständlich sehr schlau. Mein Erfolg kennt keine Grenzen. Vielleicht habe sie mich als Journalist schon einmal in einer Fernsehsendung gesehen. Sie erkennen mich an meinen dunklen Haar, schwarzen Augen, den langen Gliedern und natürlich an meiner wahren Eleganz.
 Ich stehe für die METHODE. Gesundheit ist der Normalzustand, das höchstes Gut, welches wir haben. Ich schrieb ein Buch, nebenbei Bestseller, über Gesundheit. Im neuen Gerichtsprozess habe ich das gute Recht durchgesetzt und dazu beigetragen, dass sie verurteilt wird.
+
+## 2023-05-26
+
+- Wächterhäuser (S. 77 ff.): Personen kontrollieren sich gegenseitig
+- Staat (S. 11 ff.): Die Bevölkerung muss regelmäßig Proben zum Staat schicken
+- Apps: Bevölkerung wird durch Hometrainer überwacht
