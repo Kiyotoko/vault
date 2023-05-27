@@ -96,9 +96,13 @@ Während sich der Konfuzianismus auf soziale Harmonie, moralische Kultivierung u
 
 ### Bildquellen
 
+- https://media.istockphoto.com/id/1436086336/de/vektor/konfuzianismus-ikone-schwarzes-religi%C3%B6ses-symbol-des-konfuzianismus-vektorsymbol.jpg?s=170667a&w=0&k=20&c=Jj-YGgPSYwARKcbvEYtZe4ISpNQnrEPPLAnF_BoxBIA=
+- https://instituttcw.files.wordpress.com/2021/10/img_1247.jpg?w=568
+
 - - -
 
 - https://taiji-forum.de/wp-content/uploads/Tao_der-Weg.jpg
 - https://taiji-forum.de/wp-content/uploads/dao1.jpg
 - https://www.br.de/radio/bayern2/sendungen/radiowissen/laotse-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=61e17
 - https://www.rainerwerb.de/assets/images/Dao.gif
+- https://www.zheng.cz/jin-jang.jpg
