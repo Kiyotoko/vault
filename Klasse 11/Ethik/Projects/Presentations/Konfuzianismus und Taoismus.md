@@ -77,3 +77,28 @@ Während sich der Konfuzianismus auf soziale Harmonie, moralische Kultivierung u
 
 ## Positionierung
 
+## Quellen
+
+### Textquellen
+
+- https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2F2007%2F10%2FReligion-Konfu-Kasten
+- https://www.staatslexikon-online.de/Lexikon/Konfuzianismus
+- https://www.spektrum.de/lexikon/philosophie/konfuzianismus/1105
+
+- - -
+
+- https://www.spektrum.de/lexikon/psychologie/taoismus/15294
+- https://religion.orf.at/stories/3210150/
+- https://relilex.de/taoismus-philosophie/
+- https://www.goruma.de/kunst-und-kultur/religionen/taoismus
+- https://www.deutschlandfunk.de/daoismus-viel-mehr-als-yin-und-yang-100.html
+- https://www.br.de/radio/bayern2/sendungen/radiowissen/ethik-und-philosophie/daoismus-taoismus-china100.html
+
+### Bildquellen
+
+- - -
+
+- https://taiji-forum.de/wp-content/uploads/Tao_der-Weg.jpg
+- https://taiji-forum.de/wp-content/uploads/dao1.jpg
+- https://www.br.de/radio/bayern2/sendungen/radiowissen/laotse-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=61e17
+- https://www.rainerwerb.de/assets/images/Dao.gif
