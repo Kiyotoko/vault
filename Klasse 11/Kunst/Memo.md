@@ -124,6 +124,22 @@ tags:
 
 # Abstraktion
 
+## Klassische Moderne
+
+- diese Epoche gehört zu den spannendsten Phasen der Kunstgeschichte. Denn es entwickelten sich zahlreiche Kunststile und Kunstrichtungen, die alle unter dem Begriff der klassischen Moderne zusammengefasst werden.
+- gilt für die abendländische Kunst zwischen 1900 und 1945
+- nach der Erfindung des Fotoapparates, der die abbildende Funktion der Kunst infrage stellt, und angesichts zahlreicher gesellschaftlicher (z.B. Industrialisierung, Zuspitzung der Sozialen Widersprüche, …) und politischer (Machtverhältnisse, Nationalismus, 1. und 2. WK, ..) stellen sich einige Künstler die Frage: Was soll Kunst leisten?
+
+### Kunststile
+
+- Expressionismus (1900 bis 1920)
+- Kubismus (1906 bis 1918)
+- Futurismus (1909 bis 1915)
+- Konstruktivismus (1913 bis 1933)
+- Dadaismus (1916 bis 1922)
+- Surrealismus (ab etwa 1924)
+- Neue Sachlichkeit (1920 bis 1933)
+
 ## Künstlerische Strategien
 
 ### Erzählen
@@ -147,6 +163,16 @@ tags:
 
 - Alegorische Techniken ermöglichen dem Künstler unbewusste Vorstellungen zu aktivieren, indem er Kontrolle abgibt.
 
+### Abstrahieren
+
+- Konzentration auf das Wesentliche
+- Lat. abstrahere = wegnehmen
+- Natürliche komplexe Formen werden reduziert, Wesentliches herausgearbeitet
+
+### Verfremden
+
+- Verfremden bedeutet immer, das Gewohnte, Vertraute, Alltägliche so verändert darzustellen, dass der Betrachter irritiert ist und dadurch zum Nachdenken angeregt wird
+
 ## Wege zur Abstraktion
 
 - Abstraktion: bezeichnet meist den induktiven Denkprozess
@@ -162,7 +188,33 @@ tags:
 
 - Kompositorisch-musikalisch - Wassily Kadinsky
 
-## Pablo Picasso
+### Metaphysisch
+
+- Metaphysisch bei K. Malewitsch
+- Die Stunde Null der Kunst
+- Keine Abstraktion mehr, sondern die Befreiung vom Gegenstand
+
+### Abstraktrer Expressionismus
+
+- Nach 1945 vorherrschende Kunstrichtung im westlich geprägten Europa
+
+### Informel
+
+- Formlosigkeit
+
+## Aleatorische Verfahren
+
+- Frottage: Durchreibeverfahren
+- Grattage: Kratz- oder Schabtechnik
+- Decalcomanie: Abklatschverfahren
+- Monotypie: Einmaldruck
+- Decollage: Abreißverfahren
+- Klecksografie: Klecksverfahren
+- Drip-Painting: Tropfmalerei
+
+## Künstler
+
+### Pablo Picasso
 
 - 1881 - 1973
 - Umfangreiches Schaffen
@@ -174,8 +226,7 @@ tags:
 - 194 6 zieht er nach Antibes ans Mittelmeer
 - 1949 Friedenstaube als Symbol
 
-## Bridget Riley
+### Bridget Riley
 
 - Pointillismus
 - Erhielt eine Reihe von Auszeichnungen
-- 
