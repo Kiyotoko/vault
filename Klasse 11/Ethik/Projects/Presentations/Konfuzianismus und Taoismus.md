@@ -41,7 +41,7 @@
 
 ### Grundlagen
 
-- Gegründet von Lao-Tes
+- Gegründet von Lao-Tse
 - Lao-Tse gehört neben Konfuzius zu den bedeutendsten Philosophen Chinas
 - Schrieb das Buch Tao te king
 - Tao bedeutet soviel wie Ordnung oder rechter Weg
