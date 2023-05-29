@@ -2,7 +2,7 @@
 
 ### Grundlagen
 
-- Gegründet von Konfuzius
+- Gegründet von Konfuzius (551 - 479 vor Christus)
 - Konfuzius gehört neben Lao-Tse zu den bedeutendsten Philosophen Chinas
 - Mitmenschlichkeit als höchste Tugend des Konfuzius
 
