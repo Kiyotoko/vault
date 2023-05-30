@@ -1530,7 +1530,7 @@ $y=-\frac{1}{2}x^2+x^2+x$
 # Matritxen
 
 $\begin{pmatrix}1&2&4\\2&4&3\\5&4&3\end{pmatrix}$
-
+v
 # Storastik
 
 ## 2023-03-07
@@ -1754,3 +1754,9 @@ $D(1|-8|9)$
 - - -
 
 $S(2|0|2)$
+
+## 2023-05-30
+
+$\vec{a}=\begin{pmatrix}5\\3\\-4\end{pmatrix}$
+$|\vec{a}|=\sqrt{25+9+16}=\sqrt{50}$
+$\vec{a}_{e}=\frac{1}{\sqrt{50}}\begin{pmatrix}5\\3\\-4\end{pmatrix}$

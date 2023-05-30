@@ -1,4 +1,4 @@
----
+\begin{pmatrix}5\\3\\-4\end{pmatrix}\begin{pmatrix}5\\3\\-4\end{pmatrix}---
 tags:
 - Mathe
 - FGB
@@ -810,6 +810,25 @@ $A(2|1|4)$
 $B(3|-5|5)$
 $C(1|3|5)$
 $\vec{OS}=\frac{1}{3}\begin{pmatrix}\begin{pmatrix}2\\1\\4\end{pmatrix}+\begin{pmatrix}3\\-5\\5\end{pmatrix}+\begin{pmatrix}1\\3\\-3\end{pmatrix}\end{pmatrix}=\begin{pmatrix}2\\-\frac{1}{3}\\2\end{pmatrix}$
+
+
+
+$k,t\in\mathbb{R}$
+
+$0\ge k\ge1$
+$0\ge t\ge1$
+
+$k+t\ge1$
+
+### Einheitsvektor
+
+Der Einheitsvektor ist ein Vektor mit der Länge 1.
+
+$\vec{v}=\begin{pmatrix}1\\2\\-2\end{pmatrix}$
+$|\vec{v}|=\sqrt{1^{2}+2^{2}+(2)^{2}}=\sqrt{9}=3$
+$\vec{v}_{e}=\frac{1}{|\vec{v}|}\vec{v}=\frac{1}{3}\begin{pmatrix}1\\2\\-2\end{pmatrix}$
+
+### Linearkombination von Vektoren
 
 # Stochastik
 
