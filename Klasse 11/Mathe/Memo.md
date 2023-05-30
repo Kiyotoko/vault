@@ -830,6 +830,8 @@ $\vec{v}_{e}=\frac{1}{|\vec{v}|}\vec{v}=\frac{1}{3}\begin{pmatrix}1\\2\\-2\end{p
 
 ### Linearkombination von Vektoren
 
+Als Linearkombination von Vektoren bezeichnet man die Summe von Vielfachen des Vektors.
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
