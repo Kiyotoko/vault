@@ -340,3 +340,11 @@ $d=2.4m$
 
 ## 2023-05-31
 
+Das Very-Large-Telescope wurde daher  an einem so abgeschiedenen Ort errichtet, da die Atacama-Wüste, da diese der trockendste und klarste Ort der Welt ist, und somit möglichst wenig Störfaktoren hat.
+
+Das Teleskop hat eine maximale Vergrößerung von hunderttausend mal.
+
+$d_{1}=0.94m$
+$d_{2}=8.20m$
+$m=\frac{d_{1}^{2}}{d_{2}^{2}}=0.0131$
+
