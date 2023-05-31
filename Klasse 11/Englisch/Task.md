@@ -370,3 +370,8 @@ A taste master tastes and promotes the different gourmet products of Australia.
 - - -
 
 I would like to work as a park ranger, because every working day is special. You would be always in nature and could explore the park on your own.
+
+## 2023-05-31
+
+- Brainstorm
+- Analysis
