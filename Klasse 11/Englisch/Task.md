@@ -373,5 +373,14 @@ I would like to work as a park ranger, because every working day is special. You
 
 ## 2023-05-31
 
-- Brainstorm
-- Analysis
+- Mention
+	- Covering the same information as your CV
+	- Why the company should hire you
+	- What your skills are
+- Structure
+	- Include your name
+	- Introduce yourself
+	- Mention important point
+	- Say why you want the job
+	- End with a friendly sentence and your signature
+- Short
