@@ -1760,3 +1760,24 @@ $S(2|0|2)$
 $\vec{a}=\begin{pmatrix}5\\3\\-4\end{pmatrix}$
 $|\vec{a}|=\sqrt{25+9+16}=\sqrt{50}$
 $\vec{a}_{e}=\frac{1}{\sqrt{50}}\begin{pmatrix}5\\3\\-4\end{pmatrix}$
+
+## 2023-06-01
+
+$\begin{pmatrix}-1\\1\\0\end{pmatrix}=k\begin{pmatrix}0\\0\\1\end{pmatrix}+t\begin{pmatrix}1\\0\\1\end{pmatrix}+s\begin{pmatrix}2\\-3\\0\end{pmatrix}$
+
+$-1=0k+1t+2s$
+$1=0k+0t-3s$
+$1=1k+1s+0s$
+
+- - -
+
+
+$\begin{pmatrix}-2\\1\\-1\end{pmatrix}=b\begin{pmatrix}0\\1\\3\end{pmatrix}+c\begin{pmatrix}1\\-2\\2\end{pmatrix}+d\begin{pmatrix}3\\0\\2\end{pmatrix}$
+
+$-2=0b+2c+3d$
+$1=1b-2c+0d$
+$-1=3b+2c+2d$
+
+$b=- \frac{5}{11}$
+$c=- \frac{8}{11}$
+$d = \frac{10}{11}$

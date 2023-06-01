@@ -1,4 +1,4 @@
-\begin{pmatrix}5\\3\\-4\end{pmatrix}\begin{pmatrix}5\\3\\-4\end{pmatrix}---
+---
 tags:
 - Mathe
 - FGB
@@ -831,6 +831,14 @@ $\vec{v}_{e}=\frac{1}{|\vec{v}|}\vec{v}=\frac{1}{3}\begin{pmatrix}1\\2\\-2\end{p
 ### Linearkombination von Vektoren
 
 Als Linearkombination von Vektoren bezeichnet man die Summe von Vielfachen des Vektors.
+
+$\vec{a}=k\vec{b}t\vec{c}+s\vec{d}$
+
+### Lineare Abhängigkeit und Unabhängigkeit von Vektoren
+
+Zwei Vektoren sind linear abhängig, wenn sie Vielfache voneinander sind.
+
+
 
 # Stochastik
 
