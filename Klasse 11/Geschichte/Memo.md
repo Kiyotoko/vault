@@ -112,3 +112,12 @@ deutscher Dualismus oder auch preußisch-österreichischer Dualismus bezeichnet 
 8. Matrosenaufstände, -streiks, Kundgebungen und Demonstrationen in Kiel fordern Ende des Krieges und kritisieren Niederschlagung von Meuterern. Bildung von Soldaten- und Arbeiterräten.
 9. Ausdehnung der revolutionären Bewegung auf Norddeutschland. Viele Arbeiter - und Soldatenräte bilden sich und tagen. Sie vertreten demokratische, pazifistische und antimilitaristische Gesinnungen. Sie entmachten Fürsten und Generalkommandos.
 10. Es folgt ein Generalstreik: SPD-Führung unterstützt den Streik, ohne dazu autorisiert zu sein, lässt der Reichskanzler Max von Baden per Telegramm die Meldung verbreiten, der Kaiser habe abgedankt. Kurz danach überträgt er die Reichskanzlerschaft an SPD Friedrich Ebert.
+
+### Ausrufung der Republik
+
+|                    | Philipp Scheidemann                                   | Karl Liebknecht                                |
+| ------------------ | ----------------------------------------------------- | ---------------------------------------------- |
+| Zeit und Ort       | 9.11.1918, 14 Uhr, Reichstag                          | 9.11.1918, 16 Uhr                              |
+| Partei             | MSPD                                                  | Spartakusbund                                  |
+| Deutung Niedergang | Sieg des Volkes durch die Bekämpfung des Militarismus | Revolution, die den Kapitalismus gebrochen hat |
+| Wer soll regieren? | Arbeiter, Soldaten, Volk                              | Rätesystem                                     |
