@@ -838,7 +838,7 @@ $\vec{a}=k\vec{b}t\vec{c}+s\vec{d}$
 
 Zwei Vektoren sind linear abhängig, wenn sie Vielfache voneinander sind.
 
-
+$k\vec{a}=\vec{b}$
 
 # Stochastik
 
