@@ -162,7 +162,7 @@ tags:
 | Akk. | hunc  | hanc  | hoc   |
 | Abl. | hoc   | hae   | hoc   |
 |      |       |       |       |
-| Nom. | hi    | hae   | haec  |
+| Nom. | hic   | hae   | haec  |
 | Gen. | horum | harum | horum |
 | Dat. | his   | his   | his   |
 | Akk. | hos   | has   | haec  |
