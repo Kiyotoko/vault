@@ -265,13 +265,14 @@ Dass es am 9. November 1918 gleich zwei Mal zur Ausrufung der Republik kam, kön
 
 Erläutert die gemeinsame Interressensbasis zwischen Heeresführung und Sozialdemokraten. Welche Motivation steckt dahinter?
 
-- Niederschlagung linksradikaler Kräfte
+- Machtbasis konservativer Eliten bleiben erhalten
+- Beamtenapparat & Militär
 
 - - -
 
 Erkläre den Zusammenhang zwischen dem Ebert-Groener-Pakt und dem Spartakusaufstand.
 
-- Sicherung des Übergangs von der Monarchie zur Demokratie
+- Ermordung Luxemburgs und Liebknechts
 
 - - -
 
