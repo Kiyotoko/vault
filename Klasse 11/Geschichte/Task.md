@@ -260,3 +260,10 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 ## 2023-06-01
 
 Dass es am 9. November 1918 gleich zwei Mal zur Ausrufung der Republik kam, könnte für die Entwicklung der Weimarer Republik bedeuten, dass die Bevölkerung politisch gespalten wird.
+
+- - -
+
+Erläutert die gemeinsame Interressensbasis zwischen Heeresführung und Sozialdemokraten. Welche Motivation steckt dahinter?
+
+- Niederschlagung linksradikaler Kräfte
+- 
