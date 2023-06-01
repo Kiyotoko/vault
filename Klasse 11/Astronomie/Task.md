@@ -357,3 +357,7 @@ $m=\frac{d_{1}^{2}}{d_{2}^{2}}=0.0131$
 $\alpha=0.05''=0.05*3600*\frac{\pi}{180}=2.4*10^{-7}$
 $d=8.2m$
 $\lambda=\frac{\alpha*d}{1.22}=1.6*10^{-6}m=1.6\mu m$
+
+- - -
+
+Das James Webb Teleskop hat einen Durchmesser von 6.5 Meter, steht im Weltraum und ist im Langrange-Punkt 2 1.5 Millionen Kilometer von der Erde entfernt und bewegt sich synchron mit der Erde um die Sonne. Das Teleskop kann aufgrund seiner Lage nicht repariert werden.
