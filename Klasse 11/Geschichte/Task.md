@@ -256,3 +256,7 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 - Stellungskriege: Beide Fronten sind in Stellungen festgesetzt, passiv wo sich die Fronten kaum verschieben
 - Materialschlacht: Munition und Soldaten werden in Massen eingesetzt
 - Niemandsland: Land zwischen den Frontlinien, welche umkämpft wird
+
+## 2023-06-01
+
+Dass es am 9. November 1918 gleich zwei Mal zur Ausrufung der Republik kam, könnte für die Entwicklung der Weimarer Republik bedeuten, dass die Bevölkerung politisch gespalten wird.
