@@ -1,3 +1,3 @@
-1. Hätte man den Attentat von Hanau verhindern können?
-2. Inwieweit sind die Situationen von Migranten und Ostdeutschen miteinander vergleichbar?
-3. 
+1. Das Attentat von Hanau ist ein gesellschaftliches Versagen.
+2. Die Situationen von Migranten und Ostdeutschen sind nahezu identisch.
+3. Durch das 

@@ -1,0 +1,2 @@
+- Karte Gehälter Ost/West
+- Abstimmung, ob sich die Besucher als Ostdeutsche ungerecht behandelt fühlen
