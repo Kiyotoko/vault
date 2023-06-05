@@ -838,3 +838,38 @@ $E_{mag}=L \frac{1}{2}I^{2}=\frac{1}{2}LI^{2}$
 | $E_{mag}$   | $\frac{1}{2}LI^{2}$ | Spule       | Induktivität L    |
 
 ### Wirbelströme
+
+# Physikalisches Praktikum
+
+## Messfehler
+
+### Formeln mit Multiplikation und Division
+
+- relative Fehler werden addiert (in Prozent)
+
+### Formeln mit Addition und Subtraktion
+
+- absolute Fehler werden addiert (in jeweiliger Einheit)
+
+### Fehlerbetrachtung der Ermittlung der Ladung anhand der Fläche unter dem Graphen
+
+$Q_1=\frac{I_1+I_2}{2}*\Delta t_1$
+
+$u=24.47mA*0.01=0.2447mA$
+$a=0.5mA$
+$g=u+a=0.8mA$
+
+$u=\frac{1}{200}s=0.005s$
+$a=\frac{0.01s}{2}=0.005s$
+$g=u+a=0.01s$
+
+|        | $I$                                 | $\Delta t$                                 | Gesamt  |
+| ------ | ----------------------------------- | ------------------------------------------ | ------- |
+| Fehler | $\frac{0.8mA}{24.47mA}=0.033=3.3\%$ | $\frac{0.02s}{0.35s}=0.0571428\approx5.8\%$ | $9.1\%$ |
+
+|          | $Q_1$    | $Q_2$    | $Q_3$     | $\sum$     |
+| -------- | -------- | -------- | --------- | ---------- |
+| Ergebnis | $5.9mC$  | $3.8mc$  | $0.13mC$  | $9.83mC$   |
+| Fehler   | $0.5369$ | $0.3458$ | $0.01183$ | $0.8945mC$ |
+
+$Q=(9.8\pm0.9)mC$

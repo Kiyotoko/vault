@@ -475,3 +475,32 @@ Senator nuntium magnae rei aportavit.
 - dormit
 - ardet
 - sumamus
+
+## 2023-06-05
+
+1. Übung: Übersetze die folgenden deutschen Sätze ins Lateinische und verwende dabei Relativsätze:
+
+- Der Junge, welcher das Buch liest, ist mein Bruder.
+- Die Frau, die im Park spazieren geht, ist meine Mutter.
+- Das Haus, das ich gekauft habe, ist sehr groß.
+- Der Hund, der vor der Tür sitzt, gehört meinem Nachbarn.
+- Die Schüler, welche lange Arbeiten mussten, sind erschöpft.
+- Die Minderheit, welche überstimmt wurde, war mit der Entscheidung unzufrieden.
+
+2. Ordnen sie die folgenden Felder richtig zu!
+
+|             |             |             |             |
+| ----------- | ----------- | ----------- | ----------- |
+| quae        | quis        | qui         | quibus      |
+| Akk. Pl. N. | Akk. Pl. M. | Abl. Pl. M. | Nom. Sg. M. |
+
+Vergilius poeta de fato Troianorum et de itineribus narravit, $\underline{\quad\quad\quad\quad}$ (Kasus: $\underline{\quad\quad\quad\quad}$) Aeneas per mare internum fecerat.
+
+Libri xii, $\underline{\quad\quad\quad\quad}$ (Kasus: $\underline{\quad\quad\quad\quad}$) scripserat de fatis Aeneae et comitum, postea a poetis laudabantur, a multis discipulis legebantur.
+
+Viele Dichter erzählten über den troianischen Krieg...
+
+Notissimus eorum certe Homerus poeta est, $\underline{\quad\quad\quad\quad}$ (Kasus: $\underline{\quad\quad\quad\quad}$) xxiv libris narrat de ira Achilis.
+
+Nonnulli his libris praeponunt illos, in $\underline{\quad\quad\quad\quad}$ (Kasus: $\underline{\quad\quad\quad\quad}$) Homerus errores Ulixis explicat.
+
