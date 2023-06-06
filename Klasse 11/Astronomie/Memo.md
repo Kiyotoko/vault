@@ -370,6 +370,17 @@ Es entsteht ein Bild, wenn sich die Strahlen im Brennpunkt treffen.
 
 ## Optische Teleskope
 
+### Linsenteleskope
+
+- Durch das Eigengewicht der Linsen verformen sie sich, was zu einer Chromatischen Aberration führt.
+
+### Spiegelteleskope
+
+- Spiegel verkürzen die Baulänge und führen zu einer größeren Vergrößerung
+- Der zweite Spiegel nimmt Licht weg
+- Das Licht breitet sich auch im Schattenraum aus, was zu einem Beugungsmuster führt
+- Das Licht darf nicht schräg einfallen
+
 ## Abbildungsfehler
 
 ### Chromatische Aberration
