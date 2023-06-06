@@ -1,2 +1,5 @@
-- Karte Gehälter Ost/West
-- Abstimmung, ob sich die Besucher als Ostdeutsche ungerecht behandelt fühlen
+![Deutschlandkarte](Deutschlandkarte.jpg)
+
+Auf der Karte sehen sie die Gehälter in Ost- und Westdeutschland. Fühlen Sie sich zurückgelassen?
+- [ ] Ja
+- [ ] Nein

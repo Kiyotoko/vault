@@ -1781,3 +1781,48 @@ $-1=3b+2c+2d$
 $b=- \frac{5}{11}$
 $c=- \frac{8}{11}$
 $d = \frac{10}{11}$
+
+# Vektoren
+
+## 2023-06-06
+
+$\vec{x}=\begin{pmatrix}-2\\5\\3\end{pmatrix}+k\begin{pmatrix}4\\-8\\-2\end{pmatrix}$
+$P(-7|-17|3)$
+
+$-14=-2+4k\quad k=-3$
+$29=5-8k\quad k=-3$
+$9=3-2k\quad k=-3$
+
+- - -
+
+$\vec{x}=\begin{pmatrix}5\\-3\\-1\end{pmatrix}+k\begin{pmatrix}-3\\-4\\3\end{pmatrix}$
+$P(-1|1|6)$
+
+$-1=5-3k\quad k=2$
+$1=-3-4k\quad k=2$
+$6=-1+3k\quad k=\frac{3}{7}$
+
+- - -
+
+$\vec{x}=\begin{pmatrix}-4\\2\\-2\end{pmatrix}+k\begin{pmatrix}-2\\-4\\4\end{pmatrix}$
+$P(-1|8|-8)$
+
+$-1=-4-2k\quad k=-\frac{3}{2}$
+$8=2-4k\quad k=-\frac{3}{2}$
+$-8=-2+4k\quad k=-\frac{3}{2}$
+
+- - -
+
+$\vec{x}=\begin{pmatrix}5\\5\\-1\end{pmatrix}+t\begin{pmatrix}-2\\-5\\2\end{pmatrix}$
+$\vec{x}=\begin{pmatrix}7\\10\\-3\end{pmatrix}+k\begin{pmatrix}8\\20\\-8\end{pmatrix}$
+
+Richtungsvektor
+$5=7+8k$
+$5=10+20k$
+$-1=-3-8k$
+
+$8k=-2$
+$k=-\frac{1}{4}$
+$5=10-\frac{20}{4}=5$
+$-1=-3-\frac{8}{4}=-1$
+

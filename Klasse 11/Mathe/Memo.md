@@ -834,11 +834,101 @@ Als Linearkombination von Vektoren bezeichnet man die Summe von Vielfachen des V
 
 $\vec{a}=k\vec{b}t\vec{c}+s\vec{d}$
 
-### Lineare Abhängigkeit und Unabhängigkeit von Vektoren
+## Lineare Abhängigkeit und Unabhängigkeit von Vektoren
 
 Zwei Vektoren sind linear abhängig, wenn sie Vielfache voneinander sind.
 
 $k\vec{a}=\vec{b}$
+
+### Punktprobe
+
+Liegt ein Punkt $P$ auf der Geraden $G$, so musses einen Wert für den Parameter $k$ geben, der die Gleichung $\vec{x}=\vec{0A}+k\vec{AB}$ erfüllt.
+
+**Beispeil**
+$\vec{x}=\begin{pmatrix}2\\-2\\0\end{pmatrix}+k\begin{pmatrix}3\\5\\-1\end{pmatrix}$
+$P(-7|-17|3)$
+
+$-7=2+3k\quad k=-3$
+$-17=-2+5k\quad k=-3$
+$3=0-1k\quad k=-3$
+
+### Geometrische Deutung
+
+$\vec{x}=\begin{pmatrix}2\\-2\\0\end{pmatrix}+k\begin{pmatrix}3\\5\\-1\end{pmatrix}$
+$P(-7|-17|3)$
+Der Vektor zeigt den Punkt auf einer Geraden an. $k$ gibt dabei an, wo genau der Punkt auf der Geraden liegt.
+
+### Besondere Lage von Geraden
+
+Parallel zur $y-z$-Ebene: $\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}1\\0\\2\end{pmatrix}$
+
+Parallel zur $x-y$-Ebene: 
+$\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}1\\2\\0\end{pmatrix}$
+
+Parallel zur $x$-Achse: 
+$\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}1\\0\\0\end{pmatrix}$
+
+Parallel zur $y$-Achse: 
+$\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}0\\2\\0\end{pmatrix}$
+
+Parallel zur $z$-Achse: 
+$\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}0\\0\\3\end{pmatrix}$
+
+### Lagebeziehung von Geraden im Raum
+
+- parallel
+- identisch
+- windschief
+- schneiden sich
+
+#### Untersuchen der LB von Geraden
+
+~~~mermaid
+graph TB;
+A[Sind sie vielfache voneinander?]
+A-- ja -->A0[parallel oder identisch]
+A0-->A00[Punktprobe]
+A00-- w.A. -->A001[identisch]
+A00-- ø -->A002[parallel]
+A-- nein -->A1[windschief oder Schnittpunkt]
+A1-->A10[gleichsetzen]
+A10-- w.A -->A100[Schnittpunt]
+A10-- ø -->A101[windschieg]
+~~~
+
+Wenn in beiden Gleichungen der Parameter denselben Buchstaben hat, muss einer der beiden umbenannt werden.
+
+**Beispiel**
+$\vec{x}=\begin{pmatrix}3\\0\\1\end{pmatrix}+t\begin{pmatrix}2\\5\\-2\end{pmatrix}$
+$\vec{x}=\begin{pmatrix}5\\5\\-1\end{pmatrix}+t\begin{pmatrix}1\\4\\2\end{pmatrix}$
+
+Richtungsvektoren
+$\begin{pmatrix}2\\5\\-2\end{pmatrix}=k\begin{pmatrix}1\\4\\2\end{pmatrix}$
+
+Gleichsetzen
+$3+2t=5+k$
+$5t=5+4k$
+$1-2t=-1+2k$
+
+$t=1+\frac{4}{5}k$
+$1-2(1+\frac{4}{5}k)=-1+2k$
+$-1-\frac{4}{5}k=-1+2k$
+
+**Beispiel**
+$\vec{x}=\begin{pmatrix}3\\0\\1\end{pmatrix}+t\begin{pmatrix}2\\5\\-2\end{pmatrix}$
+$\vec{x}=\begin{pmatrix}2\\-1\\7\end{pmatrix}+t\begin{pmatrix}-4\\-10\\4\end{pmatrix}$
+
+Richtungsvektoren
+$-2=4k$
+$5=-10k$
+$-2=4k$
+
+Gleichsetzen
+$3=2-4k$
+$0=-1-10k$
+$1=7+4k$
+
+
 
 # Stochastik
 
