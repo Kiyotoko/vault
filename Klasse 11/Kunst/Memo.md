@@ -235,6 +235,8 @@ tags:
 
 ## Höhlenmalerei
 
+- Von 35.000 v. Chr. bis 4000 v. Chr.
+
 ## Ägyptische Kunst
 
 ## Antike

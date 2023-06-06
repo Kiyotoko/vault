@@ -350,6 +350,8 @@ Bei der Beobachtung des Sterns 𝛿 Orionis, des rechten Gürtelsterns im Sternb
 
 Der amerikanische Astronom Milton Humason gilt als Entdecker der galaktischen Rotverschiebung. Letztere zeigt sich in der Verschiebung der Spektrallinien von entfernten Galaxien hinzu längeren Wellenlängen.
 
+# Beobachtungstechniken
+
 ## Reflexion und Brechung
 
 ### Reflexionsgesetzt
@@ -359,27 +361,32 @@ $\alpha=\alpha'$
 
 ### Rund um das Brechungsgesetz
 
+Die Brechzahl $n$ eines optischen Mediums entspricht dem Verhältnis zwischen der Geschwindigkeit im Vakuum und der Geschwindigkeit im Medium.
+$n=\frac{c_\text{Vakuum}}{c_\text{Medium}}$
+
 ### Bildentstehung an Sammellinsen
+
+Es entsteht ein Bild, wenn sich die Strahlen im Brennpunkt treffen.
 
 ## Optische Teleskope
 
-### Abbildungsfehler
+## Abbildungsfehler
 
-#### Chromatische Aberration
+### Chromatische Aberration
 
 Als chromatische Aberration bezeichnet man einen Abbildungsfehler optischer Linsen, der dadurch entsteht, dass Licht unterschiedlicher Wellenlänge bzw. Farbe unterschiedlich stark gebrochen wird. Bei Linsen mit großer Brechkraft (kleiner Brennweite) fällt er besonders ins Gewicht.
 
-#### Begungsmuster
+### Begungsmuster
 
 Beugungsmuster entstehen, wenn sich Licht im Teleskop aufgrund seiner Welleneigenschaften nicht strahlenförmig ausbreitet, z. B. in Schattenräume hinein. Bei Spiegelteleskopen werden Lichtkreuze durch den Zweitspeigel und dessen Aufhängung verursacht, die im Strahlengang hängen. Kreisförmige Beugungsscheiben rühren daher, dass die kreisförmige Teleskopöffnung von endlichem Durchmesser ist.
 
-#### Astigmatismus
+### Astigmatismus
 
 Mit Astigmatismus bezeichnen wir einen Abbildungsfehler, der entsteht, wenn schief einfallende Strahlen unterschiedlich stark gebrochen werden. Er tritt zum einen bei Refraktorteleskopen auf, wenn Linsen nicht von optimaler Form sind. Bedeutender ist der Fehler bei Spiegelteleskopen, da nur parallel zur optischen Achse einfallende Lichtstrahlen vom parabolischen Hauptspiegel in den Brennpunkt gelenkt werden. Objekte weit außerhalb der optischen Achse werden unscharf dargestellt. Der nutzbare Bilddurchmesser von großen parabolischen Hauptspiegeln beträgt deshalb nur wenige Bogenminuten.
 
-### Leistungsmerkmale
+## Leistungsmerkmale
 
-#### Vergrößerung
+### Vergrößerung
 
 Die Vergrößerung ist das Verhältnis des Winkels, unter dem Licht des Objektes auf das Auge trifft, und dem Sehwinkel, unter dem das Licht ohne Teleskop auf das Auge treffen würde.
 
@@ -389,7 +396,7 @@ $$V=\frac{f_{ob}}{f_{ok}}$$
 
 Was dargestellt werden kann, bestimmt aber das Objektiv durch Lichtsammel- und Auflösungsvermögen. Durch den Wechsel des Okulars kann die Vergrößerung eines Teleskopes verändert werden.
 
-#### Lichtsammelvermögen
+### Lichtsammelvermögen
 
 Mit dem Lichtsammelvermögen wird die Menge des Lichts angegeben, die in ein optisches Instrument im Verhältnis zur Pupille des Auges einfällt.
 
@@ -403,7 +410,7 @@ Des Weiteren hat die Qualität der verwendeten optischen Bauteile einen Einfluss
 
 Große Teleskope haben ein großes Lichtsammelvermögen.
 
-#### Auflösungsvermögen
+### Auflösungsvermögen
 
 Das Auflösungsvermögen ist der Kehrwert des kleinsten Winkels $\delta_{min}$, unter dem man zwei Objekte noch als getrennt wahrnehmen kann.
 
