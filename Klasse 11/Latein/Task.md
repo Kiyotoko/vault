@@ -504,3 +504,18 @@ Notissimus eorum certe Homerus poeta est, $\underline{\quad\quad\quad\quad}$ (Ka
 
 Nonnulli his libris praeponunt illos, in $\underline{\quad\quad\quad\quad}$ (Kasus: $\underline{\quad\quad\quad\quad}$) Homerus errores Ulixis explicat.
 
+- - -
+
+- Der Junge, welcher das Buch liest, ist mein Bruder.
+- Die Frau, die im Park spazieren geht, ist meine Mutter.
+- Das Haus, das ich gekauft habe, ist sehr groß.
+- Der Hund, der vor der Tür sitzt, gehört meinem Nachbarn.
+- Die Schüler, welche lange Arbeiten mussten, sind erschöpft.
+- Die Minderheit, welche überstimmt wurde, war mit der Entscheidung unzufrieden.
+
+- Puer qui librum legit, frater meus est.
+- Femina quae in hortus ambulat, mater mea est.
+- Domus quod emebam, maximus est.
+- Canis qui ante portam sedet, vicini mei est.
+- Discipuli qui diu laborare debebant, defessi sunt.
+- Minoritas quae suffragio praeterita est, de decreto non contenta erat.Minoritas quae suffragio praeterita est, de decreto non contenta erat.

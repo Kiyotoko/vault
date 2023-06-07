@@ -368,8 +368,15 @@ Das Teleskop liegt daher im nördlichen Kaukasus, da es dort meist durch die Ber
 
 - - -
 
-Der Durchmesser bestimmt Lichtsammelvermögen und Aulösevermögen.
+Der effektive Fläche bestimmt das Lichtsammelvermögen. Obwohl der Durchmesser besonders groß ist, ist die Fläche sehr gering, da diese ein Loch hat. Das Auflösungsvermögen ist sehr groß, 
 
 - - -
 
-Nachteile sind, dass durch die vielen Spiele sich auch viele Abbildungsfehler ereignen können, was auch dazu führt, dass diese eine schlechte Quälität haben.
+Vorteil: hohe Auflösungsvermögen für Radioteleskop
+Nachteile: geringe Spiegelfläche, geringes Lichtsammelvermögen, starre Anordnung
+
+- - -
+
+$\lambda=0.008m$
+$d=576m$
+$\alpha=1.22*\frac{0.008m}{576m}=1.69*10^{-5}$
