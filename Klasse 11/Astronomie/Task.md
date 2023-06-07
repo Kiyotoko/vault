@@ -278,7 +278,7 @@ Mit einem Porroprisma kann die hervorgerufene Drehung des Originalbildes r√ºckg√
 
 Zeige durch eine Skizze, dass das Bild hinter einem Reflexionsprisma kopfsteht.
 
-![](Working%20Materials/Geschichte%20der%20Astronomie/Reflexionsprisma.png)
+![](Reflexionsprisma.png.md)
 
 - - -
 
