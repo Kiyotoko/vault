@@ -361,3 +361,15 @@ $\lambda=\frac{\alpha*d}{1.22}=1.6*10^{-6}m=1.6\mu m$
 - - -
 
 Das James Webb Teleskop hat einen Durchmesser von 6.5 Meter, steht im Weltraum und ist im Langrange-Punkt 2 1.5 Millionen Kilometer von der Erde entfernt und bewegt sich synchron mit der Erde um die Sonne. Das Teleskop kann aufgrund seiner Lage nicht repariert werden.
+
+## 2023-06-07
+
+Das Teleskop liegt daher im nördlichen Kaukasus, da es dort meist durch die Berge wolkenlos ist und viel freie Fläche hat. Die unbewohnte Gegend führt zu einer geringen Luftverschmutzung und kaum Staub.
+
+- - -
+
+Der Durchmesser bestimmt Lichtsammelvermögen und Aulösevermögen.
+
+- - -
+
+Nachteile sind, dass durch die vielen Spiele sich auch viele Abbildungsfehler ereignen können, was auch dazu führt, dass diese eine schlechte Quälität haben.
