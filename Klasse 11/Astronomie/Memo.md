@@ -387,7 +387,7 @@ Es entsteht ein Bild, wenn sich die Strahlen im Brennpunkt treffen.
 
 Als chromatische Aberration bezeichnet man einen Abbildungsfehler optischer Linsen, der dadurch entsteht, dass Licht unterschiedlicher Wellenlänge bzw. Farbe unterschiedlich stark gebrochen wird. Bei Linsen mit großer Brechkraft (kleiner Brennweite) fällt er besonders ins Gewicht.
 
-### Begungsmuster
+### Beugungsmuster
 
 Beugungsmuster entstehen, wenn sich Licht im Teleskop aufgrund seiner Welleneigenschaften nicht strahlenförmig ausbreitet, z. B. in Schattenräume hinein. Bei Spiegelteleskopen werden Lichtkreuze durch den Zweitspeigel und dessen Aufhängung verursacht, die im Strahlengang hängen. Kreisförmige Beugungsscheiben rühren daher, dass die kreisförmige Teleskopöffnung von endlichem Durchmesser ist.
 
