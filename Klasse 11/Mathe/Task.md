@@ -1868,4 +1868,17 @@ $t^2=0+4k$
 
 $t,k=0$
 $t,k=1$
-Gilt nicht für jeden Wert
+Schlussfolgerung: nicht alle Punkte A_t liegen auf einer Geraden.
+
+- - -
+
+$Q_t(t+3|-t|2t+1)$
+
+$Q_0(3|0|1)$
+$Q_1(4|-1|3)$
+
+$\vec{x}=\begin{pmatrix}3\\0\\1\end{pmatrix}+k\begin{pmatrix}1\\-1\\2\end{pmatrix}$
+
+$3+t=3+4k$
+$-t=-1k$
+$1+2t=1+2k$
