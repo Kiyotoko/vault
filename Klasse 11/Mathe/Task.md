@@ -1882,3 +1882,39 @@ $\vec{x}=\begin{pmatrix}3\\0\\1\end{pmatrix}+k\begin{pmatrix}1\\-1\\2\end{pmatri
 $3+t=3+4k$
 $-t=-1k$
 $1+2t=1+2k$
+
+- - -
+
+$A(-6713|4378|-236)$
+
+$\vec{u}=\begin{pmatrix}63\\-71\\-8\end{pmatrix}$
+
+$\vec{x}=\begin{pmatrix}-6713\\4378\\-236\end{pmatrix}+k\begin{pmatrix}63\\-71\\-8\end{pmatrix}$
+
+$-500=-236-8k$
+$k=33$
+$\vec{n}=\begin{pmatrix}-6713\\4378\\-236\end{pmatrix}+33\begin{pmatrix}63\\-71\\-8\end{pmatrix}=\begin{pmatrix}-4634\\2035\\-500\end{pmatrix}$
+
+$W(-4565|2115|-508)$
+
+- - -
+
+$\vec{x}=\begin{pmatrix}420\\-630\\120\end{pmatrix}+r\begin{pmatrix}40\\50\\11\end{pmatrix}$
+$P(1380|570|0)$
+
+$1280=420+40r$
+$570=-630+50r$
+$r=24$
+
+$h=24*11+120=384$
+
+- - -
+
+$P(8.5|-28|7.5)$
+$v=\begin{pmatrix}-0.12\\0.175\\0\end{pmatrix}$
+$|v|=\sqrt{0.12^2+0.175^2}=0.2122$
+
+$Q(22|15.5|7.3)$
+$v=\begin{pmatrix}0.1\\-0.05\\0.001\end{pmatrix}$
+$|v|=\sqrt{0.1^2+0.05^2+0.001^2}=0.1118$
+
