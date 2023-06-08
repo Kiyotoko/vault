@@ -274,6 +274,9 @@ Erkläre den Zusammenhang zwischen dem Ebert-Groener-Pakt und dem Spartakusaufst
 
 - Ermordung Luxemburgs und Liebknechts
 
-- - -
+## 2023-06-08
 
-Beurteile die Ereignisse des Spartakusaufstandes hinsichtlich des Liedes von Mark-Uwe Kling.
+- Keinen Kaiser, ersetzt vem Reichspräsidenten
+- Der Reichspräsident ernennt den Reichspräsidenten, den Reichskanzler und die Reichsminister, löst den Reichstag auf, hat den Oberbefehl über die Reichswehr und hat die Reichsexekutive inne
+- Der Reichsrat hat ein Einspruchsrecht auf die Gesetzgebung
+- Der Reichstag erstellt Gesetzentwürfe, Beratung und Beschlüsse
