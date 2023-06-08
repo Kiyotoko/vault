@@ -1826,3 +1826,19 @@ $k=-\frac{1}{4}$
 $5=10-\frac{20}{4}=5$
 $-1=-3-\frac{8}{4}=-1$
 
+## 2023-06-08
+
+$\vec{x}=\begin{pmatrix}-2\\3\\2\end{pmatrix}+r\begin{pmatrix}3\\-1.5\\1\end{pmatrix}$
+$\vec{x}=\begin{pmatrix}1\\-6\\5\end{pmatrix}+s\begin{pmatrix}15\\0\\2\end{pmatrix}$
+
+$-2+3r=1+15s$
+$3+-1.5r=-6$
+$2+r=5+2s$
+
+$-2+r=4$
+$r=6$
+
+$2+6=5+2s$
+$s=1.5$
+
+$-2+7.5$
