@@ -1837,8 +1837,35 @@ $2+r=5+2s$
 
 $-2+r=4$
 $r=6$
-
 $2+6=5+2s$
 $s=1.5$
 
-$-2+7.5$
+- - -
+
+$P_t(3+2t|5t|-2-4t)$
+
+$P_0(3|0|-2)$
+$P_1(5|5|-6)$
+
+$\vec{x}=\begin{pmatrix}3\\0\\-2\end{pmatrix}+k\begin{pmatrix}2\\5\\-4\end{pmatrix}$
+
+$3+2t=3+2k$
+$5t=0+5k$
+$-2-4t=-2-4k$
+
+- - -
+
+$A_t(2t-3|4-2t|t^2)$
+
+$A_0(-3|4|0)$
+$A_2(1|0|4)$
+
+$\vec{x}=\begin{pmatrix}-3\\4\\0\end{pmatrix}+k\begin{pmatrix}1\\0\\4\end{pmatrix}$
+
+$2t-3=-3+k$
+$4-2t=4-k$
+$t^2=0+4k$
+
+$t,k=0$
+$t,k=1$
+Gilt nicht für jeden Wert
