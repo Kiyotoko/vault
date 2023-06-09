@@ -254,3 +254,4 @@ Aufgrund der unregelmäßigen Grenze vor allem zwischen Polar- und Subtropenluft
 
 3. Erklären Sie den Zusammenhang zwischen dynamischen Hochdruck- und Tiefdruckgebieten.
 
+Bei dynamischen Druckgebieten handelt es sich um Druckgebiete, die durch die atmosphärische Zirkulation entstehen.
