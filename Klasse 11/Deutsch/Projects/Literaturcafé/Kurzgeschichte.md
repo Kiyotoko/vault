@@ -1,15 +1,7 @@
-„Schönes neues Deutschland“
+**„Schönes neues Deutschland“**
 
+1990 wurde Deutschland wiedervereinigt. Für viele begann eine neue Ära. Doch immer da, wo eine neue Zeit beginnt, endet eine andere. Während das Ende der DDR für viele Freiheit bedeutete, stand es gleichzeitig auch für Arbeitslosigkeit und Unsicherheit. Alle die in der DDR beim Staat angestellt waren, wurden über Nacht arbeitslos. Ein Schock für viele, der noch bis heute spürbar ist. 
 
+Auch Ute S. erinnert sich noch gut an diese Zeit. Zu dieser Zeitpunkt wollte sie gerade ihre Ausbildung und den Abschluss im Krankenhaus beenden. Doch mit der Wiedervereinigung gab es auch neue Regelungen. Keiner ihrer Abschlüsse wurden anerkannt. Sie musste jeden erneut nachweisen. Während viele Arbeiter in den Westen abwanderten, blieb sie bis heute in Ostdeutschland. Als sie einmal mit anderen Mitschülerinnen im Westen war, kehrten an darauffolgenden Tag acht Schülerinnen nie wieder zurück: sie nutzten die Gelegenheit und blieben im Westen zurück. Später arbeitete sie im Grundbuchamt. Viele reiche Investoren, die sich bis daher im Westen abgesetzt hatten, begannen nun, billig Land im Osten aufzukaufen. „Wie eine wilde Horde Raubtiere“, beschrieb sie die Situation im Grundbuchamt. Wenn es freies Land gab, was man kaufen konnte, so konnte man sicher sein, dass es auch einen Wessi gab, der es sich unter den Nagel riss. In dieser Zeit habe sie sich häufig Gedemütigt gefühlt. Als „Rote Socke“ wurde sie beschimpft.
 
-Wer sind Sie?
-
-U. Sontowskie wurde in 1938 in Dresden geboren. Sie erlebte das Ende des zweiten Weltkrieges sowie den Aufbau und den Zusammensturz der DDR selbst mit.
-
-Wo wurden Sie selbst schon einmal stigmatisiert?
-
-Fühlen Sie sich selbst manchmal von Deutschland im Stich gelassen.
-
-Wo sehen Sie eine Benachteiligung von Ostdeutschen gegenüber Westdeutschen?
-
-In wie weit unterscheidet sich ihrer Meinung nach Ostdeutsche von Migranten?
+Jedoch hat sich seit dem vieles Verändert. Auch wenn Ute S. insgesamt acht verschiedene Jobs hatte und immer wieder Rückschläge erleben musste, so war sie doch vor allem eins: Stolz. Stolz auf sich und dem, was sie alles geleistet hatte. Stolz auf ihre Eigenständigkeit als Frau. Eine Eigenständigkeit, die sie im Westen so vielleicht nie bekommen hätte. Auch wenn während der Wiedervereinigung vieles schief gelaufen sei, so ist sie trotz alle dem Glücklich und Zufrieden. „Migranten haben ihr Land verlassen. Ostdeutsche wurden von ihrem Land verlassen.“ Doch das Land besteht nicht nur aus ihrer Regierung, sondern vor allem aus den Menschen, die darin Leben. Und von den Menschen habe Ute S. sich nie im Stich gelassen gefühlt.
