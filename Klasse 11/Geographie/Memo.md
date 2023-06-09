@@ -171,3 +171,11 @@ Die Strahlung die Aufgenommen wird setzt sich aus der kurzwelligen Globalstrahlu
 ## Wolkenbildung und Niederschlag
 
 Die Entstehung von Wolken und Niederschlag ist ein Zusammenwirken aus Temperatur und Wasser bzw. Wasserdampf, das bzw. der sich in der Atmosphäre befindet. Vereinfacht ist der Zusammenhang in der Taupunktkurve.
+
+## Dynamische Druckgebiete
+
+1. Durch Gebirgsketten wird die Luft abgelenkt.
+2. Die Luft mäandriert. Es entstehen unterschiedlich breite Höhenrücken und Höhentroge. Wird der Jetstream verengt, verlangsamt sich die Luft, wird der Jetstream breiter, beschleunigt sich die Luft.
+3. Bei der Verengung des Jetstreams wird die Luft zusammengeschoben, es entsteht ein dynamisches Hochdruckgebiet und die Luft sinkt ab.
+4. Die Wolken lösen sich auf, da durch die Erwärmung die relative Luftfeuchtigkeit unter 100 % sinkt und sich keine Wolken mehr bilden
+5. Bei der Öffnung des Jetstreams wird die Luft auseinandergeschobe, die Luft wird in die Höhe gesaugt und es entsteht ein dynamisches Tiefdruckgebiet.
