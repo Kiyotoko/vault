@@ -237,3 +237,20 @@ Wetterphänomen in den Alpen: Auf der Südseite der Alpen regnet es oft, währen
 2. Föhnwind: Auf der Nordseite der Alpen kann es zu Föhnwinden kommen. Föhnwinde entstehen, wenn feuchte Luftmassen von der Südseite der Alpen aufsteigen und über die Gipfel nach Norden strömen. Während des Abstiegs auf der Nordseite erwärmt sich die Luft adiabatisch, was zu hohen Temperaturen führt. Der Druckgradient zwischen den hohen Gipfeln und tieferen Gebieten verstärkt den Wind, wodurch starke Winde entstehen können.
 
 Diese Wetterphänomene auf den verschiedenen Seiten der Alpen werden durch die topographische Beschaffenheit der Region, den Einfluss von Gebirgszügen und Luftströmungen beeinflusst.
+
+## 2023-06-09
+
+1. Erklären Sie die Entstehung und Eigenschaften der sog. Planetarischen Frontalzone und des darin enthaltenen Jetstreams.
+
+Mit der Planetarischen Frontalzone wird der Bereich des Westwinddrifts zwischen dem 35. und 65. Breitengrad bezeichnet. Hier, zwischen den Tropen und den Polargebieten, befinden sich die gemäßigten Breiten. Aufgrund des Druckunterschiedes zwischen der tropischen Warmluft und der polaren Kaltluft entsteht ein Gradientwind.
+
+- - -
+
+2. Begründen Sie, weshalb der Jetstream mäandriert, d.h. in Wellenform rings um die Erde verläuft.
+
+Aufgrund der unregelmäßigen Grenze vor allem zwischen Polar- und Subtropenluft verläuft der Strahlstrom nicht geradlinig, sondern mäandriert. Verstärkt wird dieser Effekt noch durch die Wirkung von Gebirgsketten wie Rocky Mountains und Himalya. Diese Mäander werden als Rossby- bzw. planetare Wellen bezeichnet.
+
+- - -
+
+3. Erklären Sie den Zusammenhang zwischen dynamischen Hochdruck- und Tiefdruckgebieten.
+
