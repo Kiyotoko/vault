@@ -22,3 +22,5 @@ Noten.md
 *.txt
 
 # backup files
+.orig
+.bak
