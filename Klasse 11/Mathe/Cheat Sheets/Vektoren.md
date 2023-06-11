@@ -38,8 +38,8 @@ $\vec{x}=\vec{0A}+k\vec{AB}$
 
 ## Lage von Geraden
 
-Parallel zur Ebene $x-y:\begin{pmatrix}x\\ y\\0\end{pmatrix}$
-Parallel zur Achse $x:\begin{pmatrix}x\\0\\0\end{pmatrix}$
+Parallel zur Ebene $x-y:\begin{pmatrix}1\\ 2\\3\end{pmatrix}+k\begin{pmatrix}x\\ y\\0\end{pmatrix}$
+Parallel zur Achse $x:\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}x\\0\\0\end{pmatrix}$
 
 ## Lagebeziehungen
 
