@@ -775,7 +775,7 @@ $|\vec{a}|=\sqrt{x_{a}^{2}+y_{a}^{2}+z_{a}^{2}}$
 
 ### Ortsvektor
 
-Der Ortsvektor eines Punktes P beginnt im Koordinatenursprung $\vec{OP}$.
+Der Ortsvektor eines Punktes P beginnt im Koordinatenursprung $\vec{0P}$.
 
 ### Addition und Subtraktion von Vektoren
 
