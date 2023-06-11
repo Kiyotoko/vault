@@ -1,5 +1,7 @@
 # Dreidimensionaler Vektor
 
+$\vec{ab}=\begin{pmatrix}x_b-x_a\\ y_b-y_a\\ z_b-z_a\end{pmatrix}$
+
 ## Betrag / Länge
 
 $|\vec{a}|=\sqrt{x_{a}^{2}+y_{a}^{2}+z_{a}^{2}}$
