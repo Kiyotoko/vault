@@ -893,7 +893,7 @@ A00-- ø -->A002[parallel]
 A-- nein -->A1[windschief oder Schnittpunkt]
 A1-->A10[gleichsetzen]
 A10-- w.A -->A100[Schnittpunt]
-A10-- ø -->A101[windschieg]
+A10-- ø -->A101[windschief]
 ~~~
 
 Wenn in beiden Gleichungen der Parameter denselben Buchstaben hat, muss einer der beiden umbenannt werden.

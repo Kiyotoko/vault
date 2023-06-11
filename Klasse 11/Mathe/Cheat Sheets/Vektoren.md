@@ -29,3 +29,21 @@ $\vec{e}=\frac{1}{|\vec{a}|}\vec{a}$
 $\vec{a}=k\vec{b}+t\vec{c}+s\vec{d}$
 
 # Lineare Abhängigkeit
+
+$k\vec{a}=\vec{b}$
+
+## Punktprobe
+
+$\vec{x}=\vec{0A}+k\vec{AB}$
+
+## Lage von Geraden
+
+Parallel zur Ebene $x-y:\begin{pmatrix}x\\ y\\0\end{pmatrix}$
+Parallel zur Achse $x:\begin{pmatrix}x\\0\\0\end{pmatrix}$
+
+## Lagebeziehungen
+
+- parallel
+- identisch
+- windschief
+- schneiden sich
