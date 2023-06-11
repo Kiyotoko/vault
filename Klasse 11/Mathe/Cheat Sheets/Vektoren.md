@@ -22,6 +22,10 @@ $\vec{m}=\frac{1}{3}(\vec{a}+\vec{b}+\vec{c})$
 
 ## Einheitsvektor
 
-Vektor der Länge 0.
-
 $\vec{e}=\frac{1}{|\vec{a}|}\vec{a}$
+
+## Linearkombination
+
+$\vec{a}=k\vec{b}+t\vec{c}+s\vec{d}$
+
+# Lineare Abhängigkeit

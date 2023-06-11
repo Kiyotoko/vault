@@ -844,7 +844,7 @@ $k\vec{a}=\vec{b}$
 
 Liegt ein Punkt $P$ auf der Geraden $G$, so musses einen Wert für den Parameter $k$ geben, der die Gleichung $\vec{x}=\vec{0A}+k\vec{AB}$ erfüllt.
 
-**Beispeil**
+**Beispiel**
 $\vec{x}=\begin{pmatrix}2\\-2\\0\end{pmatrix}+k\begin{pmatrix}3\\5\\-1\end{pmatrix}$
 $P(-7|-17|3)$
 
