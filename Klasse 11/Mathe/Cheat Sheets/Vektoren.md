@@ -46,6 +46,10 @@ Parallel zur Achse $x:\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}x\\0\\
 ## Lagebeziehungen
 
 - parallel
+	- Vielfache und keine Punktprobe
 - identisch
+	- Vielfache und Punktprobe
 - windschief
+	- Kein Vielfachen und nicht gleich
 - schneiden sich
+	- Keine Vielfachen und gleich
