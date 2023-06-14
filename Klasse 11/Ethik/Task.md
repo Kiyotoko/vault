@@ -271,4 +271,4 @@ Nach J. S. Mill haben Wesen mit geringeren Fähigkeiten zum Genus die besten Aus
 
 ## 2023-06-14
 
-Fernando Savater meint mit seiner Aussage, dass Mäßigung eine Grunlegende Fähigkeit des Menschens ist, es aber heute nicht mehr modern sei, dass nach Montaigne man sich an die Freude klammert und man dabei riskiert, die Kontrolle zu verlieren. Wir lehnen die Aussage ab. Zwar halten wir Mäßigung auch für eine grundlegende Fähigkeit, jedoch denken wir nicht, dass es heutzutage aus der Moderne verdrängt worden wäre.
+Fernando Savater meint mit seiner Aussage, dass Mäßigung eine Grunlegende Fähigkeit des Menschens ist, es aber heute nicht mehr modern sei, dass nach Montaigne man sich an die Freude klammert und man dabei riskiert, die Kontrolle zu verlieren. Wir lehnen die Aussage ab. Zwar halten wir Mäßigung auch für eine grundlegende Fähigkeit, jedoch denken wir nicht, dass es heutzutage aus der Moderne verdrängt worden wäre, sondern es lediglich schwerer geworden ist, die Kontrolle zu behalten, da mit einer größeren und schnellerem Angebot an Freuden es stetig schwerer wird, sich selbst zurück zu halten.
