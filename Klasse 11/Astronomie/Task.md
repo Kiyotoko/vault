@@ -380,3 +380,17 @@ Nachteile: geringe Spiegelfläche, geringes Lichtsammelvermögen, starre Anordnu
 $\lambda=0.008m$
 $d=576m$
 $\alpha=1.22*\frac{0.008m}{576m}=1.69*10^{-5}$
+
+## 2023-06-14
+
+- Lichtsammelvermögen
+- Vergrößerung
+- Auflösungsvermögen
+
+- - -
+
+Auflösungsvermögen und Lichtsammelvermögen, indem man die Amplitude des Signals in Abhängigkeit von der Zeit errechnet, nachdem man die Daten verschiedener Orte kombiniert.
+
+- - -
+
+Man erhält wie beim Very Large Telescope daher eine vielfach höheres Auflösungsvermögen, indem man die Wellenlängen kombiniert und somit eine vielfach größere Fläche und Durchmesser abdeckt.
