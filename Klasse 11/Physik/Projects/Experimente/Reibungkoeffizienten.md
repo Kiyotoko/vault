@@ -25,6 +25,7 @@ $\mu=\frac{a*m_2+\sin{\alpha}m_2g-m_1g}{-\cos{\alpha} m_2g}$
 $\mu=\frac{\frac{2s}{t^2}*m_2+\sin{\alpha}m_2g-m_1g}{-\cos{\alpha} m_2g}$
 
 ## Messergebnisse
+
 |     | Zeit | Weg   | Masse 1 | Masse 2 | Winkel | Reibungskoeffizient |
 | --- | ---- | ----- | ------- | ------- | ------ | ------------------- |
 | 1   | 0.76 | 0.385 | 0.03    | 0.04    | 10     | 0.60                |
@@ -46,14 +47,24 @@ $\mu=\frac{1}{3}(\mu_{1}+\mu_{2}+\mu_{3})=0.0067$
 $SE=1\text{digit}=0.01s$
 $FG=10\%$
 
+Relative Fehler
 $\frac{\Delta s}{s}=\frac{0.001m}{0.385m}=0.0130$
 $\frac{\Delta t}{t}=\frac{0.01s}{0.5633s}=0.0178$
 $\Delta \alpha_{\cos}=|\cos{\Big(10°+\frac{1°}{2}\Big)}-\cos{\Big(10°-\frac{1°}{2}\Big)}|=0.0031$
 $\Delta \alpha_{\sin}=|\sin{\Big(10°+\frac{1°}{2}\Big)}-\sin{\Big(10°-\frac{1°}{2}\Big)}|=0.0172$
-$\Omega=FG+\frac{\Delta s}{s}+2 \frac{\Delta t}{t}+\Delta\alpha_{\cos}+\Delta\alpha_{\sin}=0.1689$
+$\frac{\Delta m}{m}=1\%=0.01$
+
+
+$\mu=\frac{\frac{2s}{t^2}*m_2+\sin{\alpha}m_2g-m_1g}{-\cos{\alpha} m_2g}=-\frac{\frac{2s}{t^2}*m_2}{\cos{\alpha} m_2g}-\frac{\sin{\alpha}m_2g}{\cos{\alpha} m_2g}+\frac{m_1g}{\cos{\alpha} m_2g}$
+
+$\text{Rel. Fehler}_1=\frac{\Delta s}{s}+2\frac{\Delta t}{t}+\Delta \alpha_{\cos}+\frac{\Delta m}{m}=0.0617$
+$\text{Rel. Fehler}_2=\Delta\alpha_{\sin}+\Delta\alpha_{\sin}+\frac{\Delta m}{m}=0.0303$
+$\text{Rel. Fehler}_3=\Delta\alpha_{\cos}+\frac{\Delta m}{m}=0.0131$
+
+$\sum=\text{Rel. Fehler}_1+\text{Rel. Fehler}_2+\text{Rel. Fehler}_3=0.1051$
 
 Systematische Fehler
-$u=0.0067*\Omega=0.0011$
+$u=0.60*0.1051+0.33*0.1051+-0.91*0.1051=0.0011$
 $a=0.001$
 $g=u+a=0.0021$
 
