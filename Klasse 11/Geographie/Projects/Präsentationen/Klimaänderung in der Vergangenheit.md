@@ -39,8 +39,7 @@ Ein Großteil der heute existierenden Seen wurde am Ende des [Pleistozäns](http
 #### Tiefseebohrkerne
 
 | ![Warmzeit](Warmzeit.png) | ![Kaltzeit](Kaltzeit.png) |
-| ------------------------- | ----------------------------------------------- |
-
+| ------------------------- | ------------------------- |
 
 Wasser enthält sowohl die Sauerstoffisotope des leichten $^{16}O$ als auch des schwereren $^{18}O$. Wenn Eis eingefroren wird, wird allerdings vorallem leichtes $^{16}O$ eingefroren. Dadurch wird im Umkehrschluss der Anteil von $^{18}O$ im Ozean höher.
 
