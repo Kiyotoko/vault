@@ -27,6 +27,8 @@ Das Holozän ist die seit mehr als 11 000 Jahren andauernde warmzeitliche Epoche
 
 ### Temperaturkurve des Holozäns
 
+[[]]
+
 ### Einfluss auf den Menschen anhand von zwei Beispielen
 
 #### Kleine Eiszeit
