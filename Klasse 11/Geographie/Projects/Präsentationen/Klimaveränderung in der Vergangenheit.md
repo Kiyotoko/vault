@@ -11,6 +11,8 @@ tags:
 
 Die Aufgabe der Paläoklimatologie besteht darin, anhand von Messungen, Analysen sowie Datenreihen aus sogenannten Klimaarchiven die klimatischen Verhältnisse der erdgeschichtlichen Vergangenheit in Form einer Klimageschichte zu rekonstruieren und die Mechanismen von Klimawandel-Ereignissen in den verschiedenen Erdzeitaltern beziehungsweise historischen Epochen zu entschlüsseln.^[https://www.zamg.ac.at/cms/de/klima/informationsportal-klimawandel/klimaforschung/klimarekonstruktion]
 
+![Klimarekonstruktion](Klimarekonstruktion.png)
+
 ### Was ist Palaoklime?
 
 Die Paläoklimatologie ist die Untersuchung von Klimata, für die keine direkten Messungen vorgenommen wurden. Da die instrumentellen Aufzeichnungen nur einen winzigen Teil der Erdgeschichte abdecken, ist die Rekonstruktion des früheren Klimas wichtig, um die natürlichen Schwankungen und die Entwicklung des heutigen Klimas zu verstehen.^[https://en.wikipedia.org/wiki/Paleoclimatology]
@@ -18,6 +20,15 @@ Die Paläoklimatologie ist die Untersuchung von Klimata, für die keine direkten
 ### Proxydaten
 
 Ein Klimaproxy ist ein indirekter Anzeiger des Klimas, der in natürlichen Archiven wie Baumringen, Stalagmiten, Eisbohrkernen, Korallen, See- oder Ozeansedimenten, Pollen oder menschlichen Archiven wie historischen Aufzeichnungen oder Tagebüchern aufgezeichnet wurde.^[https://de.wikipedia.org/wiki/Proxy_(Klimaforschung)]
+
+#### Tiefseebohrkerne
+
+#### Sedimente
+
+#### Eisbohrkerne
+
+#### Tropfsteine
+
 
 ### Ableitung zur Rekonstruktion
 
@@ -27,7 +38,6 @@ Das Holozän ist die seit mehr als 11 000 Jahren andauernde warmzeitliche Epoche
 
 ### Temperaturkurve des Holozäns
 
-[[]]
 
 ### Einfluss auf den Menschen anhand von zwei Beispielen
 
