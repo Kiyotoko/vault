@@ -74,6 +74,8 @@ Das Holozän ist die seit mehr als 11 000 Jahren andauernde warmzeitliche Epoche
 
 ## Einfluss auf den Menschen
 
+[[]]
+
 ### Kleine Eiszeit
 
 1. War eine Natürliche Kaltzeit nach den warmen Temperaturen des Mittelalters 1450-1850 bis zur Zeit des Imperialismus ​
