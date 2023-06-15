@@ -1926,3 +1926,15 @@ $F_1=\begin{pmatrix}0\\0\\1\end{pmatrix}+t\begin{pmatrix}0\\4\\2\end{pmatrix}=\b
 $F_2=\begin{pmatrix}0\\0\\4\end{pmatrix}+t\begin{pmatrix}2.5\\3\\0\end{pmatrix}=\begin{pmatrix}2.5t\\3t\\4\end{pmatrix}$
 
 $d=\sqrt{(2.5t-0)^2+(3t-4t)^2+(4-1-2t)^2}=\sqrt{(2.5t)^2+t^2+(3-2t)^2)}$
+
+- - -
+
+$g:\vec{x}=\begin{pmatrix}140\\105\\-170\end{pmatrix}+t\begin{pmatrix}-60\\-90\\-30\end{pmatrix}$
+$|\vec{v}|=\sqrt{12600}$
+
+Negative z-Koordinate im Richtungsvektor.
+
+$\vec{v}=\frac{1}{3}\begin{pmatrix}-202-68\\-405-135\\-248+68\end{pmatrix}=\begin{pmatrix}-90\\-180\\-60\end{pmatrix}$
+$|\vec{v}|=\sqrt{90^2+180^2+60^2}=210$
+
+Stützvektor $\vec{A}$ addiert mit dem Richtungsvektor $\vec{AB}$.
