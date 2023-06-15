@@ -1918,3 +1918,11 @@ $Q(22|15.5|7.3)$
 $v=\begin{pmatrix}0.1\\-0.05\\0.001\end{pmatrix}$
 $|v|=\sqrt{0.1^2+0.05^2+0.001^2}=0.1118$
 
+## 2023-06-15
+
+Untersuche, wann sich die beiden Flugzeuge am nächsten sind und welchen Abstand sie dann haben.
+
+$F_1=\begin{pmatrix}0\\0\\1\end{pmatrix}+t\begin{pmatrix}0\\4\\2\end{pmatrix}=\begin{pmatrix}0\\4t\\1+2t\end{pmatrix}$
+$F_2=\begin{pmatrix}0\\0\\4\end{pmatrix}+t\begin{pmatrix}2.5\\3\\0\end{pmatrix}=\begin{pmatrix}2.5t\\3t\\4\end{pmatrix}$
+
+$d=\sqrt{(2.5t-0)^2+(3t-4t)^2+(4-1-2t)^2}=\sqrt{(2.5t)^2+t^2+(3-2t)^2)}$
