@@ -286,4 +286,3 @@ Erkläre den Zusammenhang zwischen dem Ebert-Groener-Pakt und dem Spartakusaufst
 - Freie geheime unmittelbare Wahlen
 - Briefgeheimnis
 - Parlament
-- 
