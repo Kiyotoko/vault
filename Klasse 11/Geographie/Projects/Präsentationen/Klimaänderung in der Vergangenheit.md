@@ -6,6 +6,8 @@ tags:
 ---
 
 # Einleitung
+%% Ideen %%
+Denkt ihr, dass der Klimawandel ausschließlich vom Menschen verursacht wurde? %% Problem → wir geben selbst im Vortrag keine Antwort auf diese Leitfrage %%
 
 
 # Hauptteil
@@ -26,14 +28,20 @@ Ein Klimaproxy ist ein indirekter Anzeiger des Klimas, der in natürlichen Archi
 
 #### Tiefseebohrkerne
 
+Wasser enthält sowohl die Sauerstoffisotope des leichten $^{16}O$ als auch des schwereren $^{18}O$. Wenn Eis eingefroren wird, wird allerdings vorallem leichtes $^{16}O$ eingefroren. Dadurch wird im Umkehrschluss der Anteil von $^{18}O$ im Ozean höher.
+
 #### Sedimente
 
 #### Eisbohrkerne
+
+Luftblasen enthalten fossile Luft. Aus der Luft kann man den $CO^2$ Gehalt bestimmen.
 
 #### Tropfsteine
 
 
 ### Ableitung zur Rekonstruktion
+
+
 
 ## Holozänen Klimawandel
 
@@ -45,6 +53,7 @@ Das Holozän ist die seit mehr als 11 000 Jahren andauernde warmzeitliche Epoche
 ### Einfluss auf den Menschen anhand von zwei Beispielen
 
 #### Kleine Eiszeit
+
 
 
 # Schluss
