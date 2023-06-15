@@ -18,7 +18,7 @@ Die Aufgabe der Paläoklimatologie besteht darin, anhand von Messungen, Analysen
 
 ![Klimarekonstruktion](Klimarekonstruktion.png)
 
-### Was ist Palaoklime?
+### Was ist Palaoklima?
 
 Die Paläoklimatologie ist die Untersuchung von Klimata, für die keine direkten Messungen vorgenommen wurden. Da die instrumentellen Aufzeichnungen nur einen winzigen Teil der Erdgeschichte abdecken, ist die Rekonstruktion des früheren Klimas wichtig, um die natürlichen Schwankungen und die Entwicklung des heutigen Klimas zu verstehen.^[https://en.wikipedia.org/wiki/Paleoclimatology]
 
