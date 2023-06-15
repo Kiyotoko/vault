@@ -280,3 +280,10 @@ Erkläre den Zusammenhang zwischen dem Ebert-Groener-Pakt und dem Spartakusaufst
 - Der Reichspräsident ernennt den Reichspräsidenten, den Reichskanzler und die Reichsminister, löst den Reichstag auf, hat den Oberbefehl über die Reichswehr und hat die Reichsexekutive inne
 - Der Reichsrat hat ein Einspruchsrecht auf die Gesetzgebung
 - Der Reichstag erstellt Gesetzentwürfe, Beratung und Beschlüsse
+
+##  2023-06-15
+
+- Freie geheime unmittelbare Wahlen
+- Briefgeheimnis
+- Parlament
+- 
