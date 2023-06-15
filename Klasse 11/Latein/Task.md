@@ -584,6 +584,6 @@ Romanis post victoruam Scupionis, a quo Hannibal superatus est, multos servos ex
 
 | Ausgelöst | Kasus |
 | --------- | ----- |
-| a quo       | Dativ |
+| a quo     | Dativ |
 
 Die Römer brachten nach dem Sieg Scipionis, welcher Hannibal besiegte, viele Sklaven aus Afrika nach Italien.

@@ -1938,3 +1938,9 @@ $\vec{v}=\frac{1}{3}\begin{pmatrix}-202-68\\-405-135\\-248+68\end{pmatrix}=\begi
 $|\vec{v}|=\sqrt{90^2+180^2+60^2}=210$
 
 Stützvektor $\vec{A}$ addiert mit dem Richtungsvektor $\vec{AB}$.
+
+$140-60k=68-90j$
+$105-90k=135-180j$
+$j=\frac{46}{15}$
+$k=\frac{29}{5}$
+Höhenunterschied: $90m$
