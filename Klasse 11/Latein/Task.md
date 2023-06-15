@@ -519,3 +519,71 @@ Nonnulli his libris praeponunt illos, in $\underline{\quad\quad\quad\quad}$ (Kas
 - Canis qui ante portam sedet, vicini mei est.
 - Discipuli qui diu laborare debebant, defessi sunt.
 - Minoritas quae suffragio praeterita est, de decreto non contenta erat.Minoritas quae suffragio praeterita est, de decreto non contenta erat.
+
+## 2023-06-15
+
+Die Frauen, die in Asien zu Billiglöhnen arbeiten, sind nichts anderes als moderne Sklavinnen.
+
+| Bezugswort | Kasus     | Numerus | Genus   |
+| ---------- | --------- | ------- | ------- |
+| Die Frauen | Nominativ | Plural  | Feminin |
+
+Das Subjekt im übergeordneten Satz bestimmt den Numerus & Genus näher (hier: die Frauen).
+
+Das Prädikat im NS bestimmt den Numerus. (hier Arbeiten)
+
+- - -
+
+Syrus servus est, qui apud senatorem Metellum laborat.
+
+| Ausgelöst    | Numerus  | Genus    |
+| ------------ | -------- | -------- |
+| Syrus servus | Singular | Maskulin |
+
+| Ausgelöst | Kasus     |
+| --------- | --------- |
+| qui       | Nominativ |
+
+Syrus ist ein Sklave, der bei dem Sanator Metellus arbeitet.
+
+- - -
+
+Syrus, quem Metellus saepe laudat, in Africa natus est.
+
+| Ausgelöst | Numerus  | Genus    |
+| --------- | -------- | -------- |
+| Syrus     | Singular | Maskulin |
+
+| Ausgelöst | Kasus    |
+| --------- | -------- |
+| quem      | Akusativ |
+
+Syrus, der von Metellus häufig gelobt wird, ist in Afrika geboren.
+
+- - -
+
+Metellus, cui Syrus semper paret, dominus bonus est.
+
+| Ausgelöst | Numerus  | Genus    |
+| --------- | -------- | -------- |
+| Metellus  | Singular | Maskulin |
+
+| Ausgelöst | Kasus |
+| --------- | ----- |
+| cui       | Dativ |
+
+Metellus, welchen Syrus immer gehorscht, ist ein guter Herr.
+
+- - -
+
+Romanis post victoruam Scupionis, a quo Hannibal superatus est, multos servos ex Africa in Italiuam duxerunt.
+
+| Ausgelöst | Numerus  | Genus    |
+| --------- | -------- | -------- |
+| Scupionis | Singular | Maskulin |
+
+| Ausgelöst | Kasus |
+| --------- | ----- |
+| a quo       | Dativ |
+
+Die Römer brachten nach dem Sieg Scipionis, welcher Hannibal besiegte, viele Sklaven aus Afrika nach Italien.
