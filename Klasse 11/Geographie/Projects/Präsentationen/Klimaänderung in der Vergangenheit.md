@@ -52,6 +52,10 @@ Luftblasen enthalten fossile Luft. Aus der Luft kann man den $CO^2$ Gehalt besti
 
 #### Tropfsteine
 
+![Tropfsteine](Tropfsteine.jpg)
+
+Ein weiteres indirektes Klimaarchiv sind Tropfsteine, deren Ausprägungen in Form von Stalagmiten und Stalaktiten in Höhlen nahezu aller Regionen der Welt zu finden sind. Die Sauerstoffisotopen im Kalk dieser Tropfsteine, die Dicke der Wachstumslagen und Konzentrationen von Spurenelementen speichern klimarelevante Daten und ermöglichen mit geochemischen Analysemethoden Rückschlüsse auf vergangene Temperatur- und Niederschlagsverhältnisse.
+
 ### Datenanalyse
 
 ![Klimaschwankungen in der Vergangenheit](Klimaschwankungen%20in%20der%20Vergangenheit.png)
