@@ -32,7 +32,14 @@ Wasser enthält sowohl die Sauerstoffisotope des leichten $^{16}O$ als auch des 
 
 #### Sedimente
 
+| ![Warmzeit Sedimente](Warmzeit%20Sedimente.png)                                                                                        | ![Kaltzeit Sedimente](Kaltzeit%20Sedimente.png)                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Organismen leben an der Oberfläche, sterben ab und bilden am Boden Sedimente. Durch den Druck grenzen sich die einzelnen Sedimente ab. | Durch die Eisdecke senkt sich der Meeresspiegel ab und die Organismen reagieren auf diese Änderung. |
+
+
 #### Eisbohrkerne
+
+![Eiskern](Eiskern.jpg)
 
 Luftblasen enthalten fossile Luft. Aus der Luft kann man den $CO^2$ Gehalt bestimmen.
 
@@ -50,10 +57,18 @@ Das Holozän ist die seit mehr als 11 000 Jahren andauernde warmzeitliche Epoche
 ### Temperaturkurve des Holozäns
 
 
-### Einfluss auf den Menschen anhand von zwei Beispielen
+## Einfluss auf den Menschen
 
-#### Kleine Eiszeit
+### Kleine Eiszeit
 
+1. War eine Natürliche Kaltzeit nach den warmen Temperaturen des Mittelalters 1450-1850 bis zur Zeit des Imperialismus ​
+2. Beischreibt eine Zeit der Kriege und des Hungers in Europa, aber auch der Weiterentwicklung und Anpassung
+3. Sie endet mit dem Jahr ohne Sommer 1816 und der Irischen Hungersnot 1846-1850, beide ausgelöst durch einen Vulkanausbruch in Indonesien​
 
+### Römische Wärmephase
+
+1. Darunter fallen auch die Hochkulturen der Griechen, Phönizier, Perser und die letzten Ägyptischen Pharaonen​
+2. War eine Blütezeit für Kunst und Philosophie ​
+3. Allerdings auch für Feldzüge und Eroberungen (Alexander der Große, Cäsar oder Xerxes)
 
 # Schluss
