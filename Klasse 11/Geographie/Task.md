@@ -255,3 +255,7 @@ Aufgrund der unregelmäßigen Grenze vor allem zwischen Polar- und Subtropenluft
 3. Erklären Sie den Zusammenhang zwischen dynamischen Hochdruck- und Tiefdruckgebieten.
 
 Bei dynamischen Druckgebieten handelt es sich um Druckgebiete, die durch die atmosphärische Zirkulation entstehen.
+
+## 2023-06-16
+
+Am 29.März 2017 kommt warme Luft aus dem Südwesten. In Hamburg befindet sich zu diesem Zeitpunkt jedoch noch kalte Luft. Dadurch ist Hamburg kalt und mit Wolken bedeckt.
