@@ -1,4 +1,4 @@
-# Schönes neues Deutschland".
+# „Schönes neues Deutschland“
 
 Im Jahr 1990 wurde Deutschland wiedervereinigt. Für viele begann eine neue Zeit. Doch wo eine neue Zeit beginnt, endet auch immer eine andere. Das Ende der DDR bedeutete für viele Freiheit, aber auch Arbeitslosigkeit und Unsicherheit. Wer in der DDR beim Staat angestellt war, wurde über Nacht arbeitslos. Für viele ein Schock, der bis heute nachwirkt. 
 
