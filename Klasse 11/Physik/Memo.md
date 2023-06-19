@@ -873,3 +873,8 @@ $g=u+a=0.01s$
 | Fehler   | $0.5369$ | $0.3458$ | $0.01183$ | $0.8945mC$ |
 
 $Q=(9.8\pm0.9)mC$
+
+## Fehlerbetrachtung
+
+Reaktionszeit
+$\Delta t=0.1-0.25s$ (zufälliger Fehler)
