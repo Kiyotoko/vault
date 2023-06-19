@@ -882,7 +882,8 @@ $\Delta t=0.1-0.25s\text{ (zufälliger Fehler)}$
 Wegstrecke
 $\Delta s=1cm \text{ (zufälliger Fehler)}+1Skala\text{ (systematischer Fehler)}$
 
-Reibungskoeffizient
+### Reibungskoeffizient
+
 $a=\frac{2s}{t^2}$
 $\frac{\Delta a}{a}=\frac{\Delta s}{s}+2\frac{\Delta t}{t}$
 Fehler der Masse kann vernachlässigt werden, da Fehler durch Zeitmessung wesentlich größer ist.
@@ -899,8 +900,14 @@ $\mu=\frac{m_1}{m_2\cos{\alpha}}-\frac{a(m_1+m_2)}{m_2g\cos{\alpha}}-\frac{\sin{
 $\sum=A_1+A_2+A_3=0.2$
 $\mu=0.34\pm0.2$
 
+### Bestimmung Abwurfgeschwindigkeit
+
+$v=\sqrt{\frac{gx^2}{2\cos{\alpha}^2(\tan{\alpha}x+y)}}$
+
 ## Partielle Ableitung
 
 $\frac{\text{d}}{\text{d}s}(s)=\frac{2}{t^2}$
 $\frac{\text{d}}{\text{d}t}(t)=-4st^{-3}$
 $\Delta a=\frac{\text{d}}{\text{d}s}\Delta s+\frac{\text{d}}{\text{d}t}\Delta t=2t^{-2}\Delta s-4st^{-3}\Delta t$
+
+## Maschinenfehler
