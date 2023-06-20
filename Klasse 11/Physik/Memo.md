@@ -910,4 +910,4 @@ $\frac{\text{d}}{\text{d}s}(s)=\frac{2}{t^2}$
 $\frac{\text{d}}{\text{d}t}(t)=-4st^{-3}$
 $\Delta a=\frac{\text{d}}{\text{d}s}\Delta s+\frac{\text{d}}{\text{d}t}\Delta t=2t^{-2}\Delta s-4st^{-3}\Delta t$
 
-## Maschinenfehler
+## Maschinenfehler 
