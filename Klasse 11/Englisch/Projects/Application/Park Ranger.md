@@ -10,8 +10,9 @@ My educational background in Environmental Science, coupled with my hands-on exp
 
 I am confident that my combination of knowledge, passion, and interpersonal skills will make me a valuable asset to the park ranger team at [Park Name]. I am eager to contribute to the park's mission of conservation, environmental education, and ensuring an enjoyable experience for visitors. With my strong work ethic, attention to detail, and ability to adapt to dynamic situations, I believe I can thrive in the fast-paced and challenging environment of a park ranger.
 
-Thank you for considering my application. I have attached my resume for your review. I would welcome the opportunity to discuss my qualifications and enthusiasm further in an interview. I am available at your convenience and can be reached at [Phone Number] or zskar16b@schueler.freies-gymnasium-borsdorf.de.
+Thank you for considering my application. I have attached my resume for your review. I would welcome the opportunity to discuss my qualifications and enthusiasm further in an interview. I am available at your convenience and can be reached at +12 3456 7890 or zskar16b@schueler.freies-gymnasium-borsdorf.de.
 
 Thank you for your time and consideration.
 
 Sincerely,
+Karl
