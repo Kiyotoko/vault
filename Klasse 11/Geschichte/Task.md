@@ -286,3 +286,7 @@ Erkläre den Zusammenhang zwischen dem Ebert-Groener-Pakt und dem Spartakusaufst
 - Freie geheime unmittelbare Wahlen
 - Briefgeheimnis
 - Parlament
+
+## 2023-06-22
+
+Im Herbst 1923 war der Zusammenhalt des krisengeschüttelten Deutschen Reichs erheblich gefährdet. Durch die Ruhrbesetzung französischer und belgischer Truppen erhielt der rheinische Separatismus, der bereits zuvor schon einmal mit der Errichtung einer eigenständigen Republik während der Revolution von 1918/19 gescheitert war, erheblichen Auftrieb. In der sogenannten Los-von-Berlin-Bewegung stieß die gezwungene Eingliederung des katholischen Rheinlands in Preußen auf dem Wiener Kongress 1815 auch noch über hundert Jahre später auf eine in Radikalismus umschlagende Ablehnung. Verstärkt wurde der Wunsch nach eigenstaatlicher Existenz durch wirtschaftliche und soziale Not in der  Weimarer Republik infolge der Inflation, deren Überwindung durch die Loslösung vom preußisch dominierten Deutschen Reich erreicht werden sollte. Militante Separatisten riefen daher in Aachen am 21. Oktober 1923 die unabhängige "Rheinische Republik" aus. In Koblenz, Bonn, Wiesbaden und Mainz kam es in den folgenden Tagen mit der Besetzung von öffentlichen Gebäuden zu ähnlichen Vorgängen. Mitte November 1923 war die Separatistenbewegung in der Pfalz erfolgreich, wo in Anlehnung an die rheinischen Gesinnungsgenossen die autonome "Pfälzische Republik" ausgerufen wurde.
