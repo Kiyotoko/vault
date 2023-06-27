@@ -928,7 +928,19 @@ $3=2-4k$
 $0=-1-10k$
 $1=7+4k$
 
+## Ebenen
 
+Ebenen sind eindeutig bestimmt durch:
+- 3 Punkte, die nicht auf einer Geraden liegen
+- 1 Punkt und ein Normalenvektor
+- 2 parallele Geraden
+- 1 Punkt und 2 verschiedene Richtungen
+
+### Parameterdarstellung einer Ebene
+
+**Beispiel**
+$A(1|2|3)$
+$\vec{u}=\begin{pmatrix}1\\-1\\2\end{pmatrix}$
 
 # Stochastik
 
