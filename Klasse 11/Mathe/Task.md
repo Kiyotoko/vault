@@ -1947,10 +1947,8 @@ Höhenunterschied: $90m$
 
 ## 2023-06-27
 
-$\vec{v}=\begin{pmatrix}10\\10\\-0.5\end{pmatrix}$
-$F_1=\begin{pmatrix}41\\45\\7.5\end{pmatrix}+t\begin{pmatrix}10\\10\\-0.5\end{pmatrix}$
+$F_1=\begin{pmatrix}41\\45\\9.5\end{pmatrix}+t\begin{pmatrix}10\\10\\-0.1\end{pmatrix}$
 
-$\vec{v}=\frac{1}{15}\begin{pmatrix}170+10\\150-30\\1.5-0\end{pmatrix}=\begin{pmatrix}12\\8\\0.1\end{pmatrix}$
 $F_2=\begin{pmatrix}-10\\30\\0\end{pmatrix}+t\begin{pmatrix}12\\8\\0.1\end{pmatrix}$
 
-$d(t)=\sqrt{(41+10)^2}$
+$d(t)=\sqrt{(51-2t)^2}$
