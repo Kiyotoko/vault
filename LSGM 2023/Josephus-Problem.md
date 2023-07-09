@@ -22,9 +22,9 @@ $JP=[3,6,9,12,2,7,11,4,10,5,1,8,13]$
 
 **Aufgabe**
 Bestimme die Josephus-Permutation für $n=10,k=4$
-$JP=[4,8,2,7,4,10,6]$
+$JP=[4,8,2,7,3,10,9,1,6,5]$
 
-#### k = 2
+#### Permutation für $k=2$
 
 $f:\mathbb{N}\to\mathbb{N}$, wobei $f(n)$ das letzte Objekt der Josephus-Permutation für n
 
@@ -51,8 +51,13 @@ Die Rekursionen
 beschreiben $f(n)$ vollständig.
 
 **Aufgabe**
-$f(11)=2f(5)+1=2(2f(2)+1)+1=2(2(2f(1)+1)+1)-1=2(2(3+1)-1=$
+$f(11)=2f(5)+1=2(2f(2)+1)+1=2(2(2f(1)-1)+1)+1=2*3+1$
 
-**Satz**
+**Beweis**
 $f(2^n)=1\forall n\in\mathbb{N}$
-$IA:n_0\to f(2^{n_0})$
+$IA: n_0\to f(2^{n_0})$
+$IV: f(2^n)=1\forall n\in\mathbb{N}$
+$IB: f(2^{n+1})=1$
+$IS: f(2^{n+1})=f(2*2^n)=2f(2^n)-1$
+
+Induktionsvorraussetzung: $2-1=1$
