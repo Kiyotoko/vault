@@ -1953,3 +1953,7 @@ $F_2=\begin{pmatrix}-10\\30\\0\end{pmatrix}+t\begin{pmatrix}12\\8\\0.1\end{pmatr
 
 $d(t)=\sqrt{(51-2t)^2+(15+2t)^2+(9.5-0.2t)^2}$
 $d'(t)=\frac{2.83549(t-9.19154)}{\sqrt{t^2-18.3831t+362.718}}$
+
+- - -
+
+$E:\vec{x}=\begin{pmatrix}4\\3\\1\end{pmatrix}+k\begin{pmatrix}5\\-2\\3\end{pmatrix}+t\begin{pmatrix}3\\0\\1\end{pmatrix}$

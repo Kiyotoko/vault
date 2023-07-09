@@ -941,6 +941,16 @@ Ebenen sind eindeutig bestimmt durch:
 **Beispiel**
 $A(1|2|3)$
 $\vec{u}=\begin{pmatrix}1\\-1\\2\end{pmatrix}$
+$\vec{v}=\begin{pmatrix}3\\4\\2\end{pmatrix}$
+
+$E:\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}1\\-1\\2\end{pmatrix}+t\begin{pmatrix}3\\4\\2\end{pmatrix}$
+
+**Beispiel**
+$A(1|2|3)$
+$B(4|1|5)$
+$C(-3|2|1)$
+
+$F: \vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}3\\-1\\2\end{pmatrix}+t\begin{pmatrix}-4\\0\\-2\end{pmatrix}$
 
 # Stochastik
 
