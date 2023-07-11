@@ -81,7 +81,7 @@ Bei einem indirekten Beweis (Reductio ad absurdum, Widerspruchsbeweis) zeigt man
 
 ### Vollständige Induktion
 
-Der Beweis durch vollständige Induktion ist ein oft angewendetes Verfahren zum Beweis von Sätzen der Form „Für jede natürliche Zahl n n gilt …“. Dazu zeigt man zuerst, dass die Aussage für $n=0$ (oder auch einen anderen Anfangswert $n_{0}$) gilt, und danach, dass sie immer auch für $n+1$ gilt, wenn sie für ein $n$ gilt.
+Der Beweis durch vollständige Induktion ist ein oft angewendetes Verfahren zum Beweis von Sätzen der Form „Für jede natürliche Zahl $n\in\mathbb{N}$ gilt …“. Dazu zeigt man zuerst, dass die Aussage für $n=0$ (oder auch einen anderen Anfangswert $n_{0}$) gilt, und danach, dass sie immer auch für $n+1$ gilt, wenn sie für ein $n$ gilt.
 
 ### Vollständige Fallunterscheidung
 
