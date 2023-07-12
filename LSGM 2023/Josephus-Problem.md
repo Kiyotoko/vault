@@ -116,3 +116,45 @@ Offensichtlich ist $n<2^{1+\log_{2}n}\forall n\in\mathbb{N}$. Daraus folgt $2n<2
 **Hinweise**
 Aufrundungsfunktion $[x]=\min{k\in\mathbb{Z}|k\ge x}$
 Rundungsfunktion $\text{round}(x)=[x+\frac{1}{2}]\forall x\in\mathbb{R}^+$
+
+Sei im Folgenden $\alpha\in\mathbb{R}$ eine Konstante mit $\alpha\approx0.8111$
+
+$\forall n\in\mathbb{N}$ sei $m(n)$ die größte ganze Zahl, für die gilt: $\text{round}(\alpha\frac{3}{2}^{m(n)})\le n$
+
+**Satz**
+Es gilt: $m(n)=\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})$ und $m(n)=\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})-1$
+
+**Beweis**
+Es gilt $\frac{n}{\alpha}=\frac{3}{2}^{\log_{\frac{3}{2}}\frac{n}{\alpha}}$ und somit $n=\alpha\frac{3}{2}^{\log_{\frac{3}{2}}\frac{n}{\alpha}}$. Ist $[\log_{\frac{3}{2}}\frac{n}{\alpha}]=\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})$, dann gilt $n=\alpha(\frac{3}{2})^{\log_{\frac{3}{2}}\frac{n}{\alpha}}\ge\alpha(\frac{3}{2})^{[\log_{\frac{3}{2}}\frac{n}{\alpha}]}=\alpha(\frac{3}{2})^{\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})}$.
+
+**Satz**
+$f_3(n)=3(n-\text{round}(\alpha\frac{3}{2})^{m(n)})+\Bigg\{\begin{matrix}2\quad\text{ wenn }\alpha(\frac{3}{2})^{m(n)}<\text{round}(\alpha(\frac{3}{2})^{m(n)})\\1\quad\text{ wenn }\alpha(\frac{3}{2})^{m(n)}>\text{round}(\alpha(\frac{3}{2})^{m(n)})\end{matrix}$
+
+**Beispiel**
+$n=41$
+1. $\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})=\text{round}(\log_{\frac{3}{2}}\frac{41}{0.8111})=\text{round}(9.81)=10=m'$
+2. $\text{round}(\alpha(\frac{3}{2})^{m'})=\text{round}(\alpha(\frac{3}{2})^{10})=47>n\to m(41)=m'-1=9$
+3. $\text{round}(0.8111(\frac{3}{2}^9))=\text{round}(31.18)=31$, es wird abgerundet, daher: $f_3(41)=3(41-31)+1=31$
+
+**Beispiel**
+$n=50$
+1. $\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})=\text{round}(\log_{\frac{3}{2}}\frac{50}{0.8111})=\text{round}(10.1646)=10=m'$
+2. $\text{round}(\alpha(\frac{3}{2})^{m'})=\text{round}(\alpha(\frac{3}{2})^{10})=47<n\to m(50)=m'=10$
+3. $\text{round}(0.8111(\frac{3}{2}^{10}))=\text{round}(46.7721)=47$, es wird aufgerundet, daher: $f_3(50)=3(50-47)+2=11$
+
+**Beispiel**
+$n=35$
+1. $\text{round}(\log_{\frac{3}{2}}\frac{n}{\alpha})=\text{round}(\log_{\frac{3}{2}}\frac{35}{0.8111})=\text{round}(9.28492)=9=m'$
+2. $\text{round}(\alpha(\frac{3}{2})^{m'})=\text{round}(\alpha(\frac{3}{2})^{9})=31<n\to m(31)=m'=9$
+3. $\text{round}(0.8111(\frac{3}{2}^{9}))=\text{round}(31.1814)=31$, es wird abgerundet, daher: $f_3(50)=3(35-31)+1=13$
+
+## Permutation für $k\ge4$
+
+**Satz**
+Es gilt $\forall n,k\in\mathbb{N}_{\ge2} f_k(n)=((f_k(n-1)+k-1)\mod n)+1$ mit $f_k(1)=1$
+
+**Beispiel**
+$f_3(7)=4$
+$f_5(17)$, wenn $f_5(15)=2$
+$f_5(16)=2+5-1+1=7$
+$f_5(17)=7+5-1+1=12$
