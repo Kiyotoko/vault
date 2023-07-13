@@ -31,3 +31,12 @@ $\frac{a^p-a}{p}+a\in\mathbb{N}$, ist Teil der Menge der natürlichen Zahlen, we
 Über vollständige Induktion.
 
 $IA: a=1$ für $a^p=a\mod p$
+$IV: p|a^p-a$
+$IB: p|(a+1)^p-(a+1)$
+$IS: 0=0\mod p$
+$\sum^{p-1}_\limits{i=1}\frac{p!}{i!(p-i)!}*a^i=0\mod p$
+$\sum^{p-1}_\limits{i=1}\binom{p}{i}*a^i=0\mod p$
+$p|(a+1)^p-a^p-1$
+$p|(a+1)^p-a^p-1+a-a$
+$p|(a+1)^p-a-1-(a^p-a)$
+$p|(a+1)^p-a-1$
