@@ -17,7 +17,7 @@ $\binom{n}{k}$ Anzahl der Möglichkeiten aus einer $n$-elementigen Mengen einer 
 
 # Der kleine Satz von Fermat
 
-Für jede Primzahl $p$ und jede natürliche Zahl a gilt: $a^p=a\mod p$
+Für jede Primzahl $p$ und jede natürliche Zahl $a$ gilt: $a^p=a\mod p$
 
 **Beweis**
 Über Kombinatorik.
@@ -40,3 +40,15 @@ $p|(a+1)^p-a^p-1$
 $p|(a+1)^p-a^p-1+a-a$
 $p|(a+1)^p-a-1-(a^p-a)$
 $p|(a+1)^p-a-1$
+
+# Die Propabilistische Methode
+
+- $S$ Die Menge aller Ergebnis
+- $\mathbb{P}$ Wahrscheinlichkeit mit $\mathbb{P}:S\to[0,1]$
+- Eine Zufallsvariable: $X:S\to\mathbb{R}$
+- Erwartungswert $E(x)=\sum_\limits{s\in\mathbb{S}}\mathbb{P}(s)*X(s)$
+
+**Beispiel**
+Eine faire Münze wird 3x geworfen.
+$X$ Anzahl der geworfenen Zahlen
+$E(x)=0*\frac{1}{8}+1*\frac{3}{8}+2*\frac{3}{8}+3*\frac{1}{8}=\frac{12}{8}=1.5$
