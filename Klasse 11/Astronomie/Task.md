@@ -73,7 +73,7 @@ tags:
 
 ## 2022-12-14
 
-![Spektralklassen](Working%20Materials/Sonne/Spektralklassen.png)
+![Spektralklassen](Spektralklassen.png)
 
 1. Erklären Sie die drei verschiedenen Spektralarten.
 - Kontinuierliches Spektrum
@@ -247,7 +247,7 @@ $\beta=90^{\circ}-20^{\circ}=70^{\circ}$
 
 ## 2023-05-03
 
-[AB Bildentstehung an Teleskopen](Working%20Materials/Beobachtungstechniken/AB%20Bildentstehung%20an%20Teleskopen.pdf)
+[AB Bildentstehung an Teleskopen](AB%20Bildentstehung%20an%20Teleskopen.pdf)
 
 Begründe, warum stets davon ausgegangen wird, dass die einfallenden vom Gegenstand kommenden Strahlen parallel sind.
 
@@ -316,7 +316,7 @@ $V=\frac{f_{ob}}{|f_{ok}|}=\frac{1000mm}{40mm}=25$
 
 - - -
 
-[Memo](Memo.md#Abbildungsfehler)
+[Memo](Klasse%2011/Astronomie/Memo.md#Abbildungsfehler)
 
 - - -
 

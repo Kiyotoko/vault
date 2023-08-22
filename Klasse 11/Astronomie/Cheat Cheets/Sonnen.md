@@ -32,7 +32,7 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 
 # Spektralklassen
 
-![Spektralklassen](../Working%20Materials/Sonne/Spektralklassen.png)
+![Spektralklassen](Spektralklassen.png)
 
 # Leuchtkraftklassen
 
@@ -64,7 +64,7 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 
 # Strahlunge (Spektren)
 
-![Wellenlänge](../Working%20Materials/Sonne/Wellenlänge.png)
+![Wellenlänge](Wellenlänge.png)
 
 - **Spektralarten**
 	- Kontinuierliches Spektrum
@@ -76,7 +76,7 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 		- Die Atome selbst senden elektromagnetische Strahlung aus
 		- Nur ein Paar streifen in jeweils einer Farbe
 
-![Absorptions- und Emissions-Spektrum](../Working%20Materials/Sonne/Absorptions-%20und%20Emissions-Spektrum.png)
+![Absorptions- und Emissions-Spektrum](Absorptions-%20und%20Emissions-Spektrum.png)
 
 - **Absorpionslinienspektrum (Frauenhofer-Linien)**
 	- Schwarzkörperstrahlung der Photosphäre enthält alle Wellenlängen

@@ -163,7 +163,7 @@ Beurteilen Sie die Nachhaltigkeit der Erdölförderung in Norwegen hinsichtlich 
 
 ## 2023-04-28
 
-![](Working%20Materials/Atmosphärische%20Prozesse/Atmosphäre%20Schichten.png)
+![](Atmosphäre%20Schichten.png)
 
 - Spurengase
 	- Spurengase nennt man alle Gase, die in der Luft in geringeren Anteilen vorkommen als die drei Hauptbestandteile Stickstoff, Sauerstoff und Argon.
@@ -212,7 +212,7 @@ Adiabatische Vorgänge sind atmosphärische Vorgänge, bei denen Luftströme ver
 
 - - -
 
-![](Working%20Materials/Atmosphärische%20Prozesse/Taupunktkurve.png)
+![](Taupunktkurve.png)
 
 Bei zehn Grad beträgt sie $9.4 \frac{g}{m^{3}}$ und bei dreißig Grad $30.4 \frac{g}{m^{3}}$.
 

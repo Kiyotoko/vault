@@ -31,11 +31,11 @@ tags:
 
 ## Plattentektonsiche Profilskizze
 
-![Profilskizze](Working%20Materials/Vulkanismus/Profilskizze.png)
+![Profilskizze](Profilskizze.png)
 
 ## Wilson Zyklus
 
-![Wilson Zyklus](Working%20Materials/Vulkanismus/Wilson%20Zyklus.png)
+![Wilson Zyklus](Wilson%20Zyklus.png)
 
 ## Die Entstehung der Alpen
 
@@ -88,7 +88,7 @@ tags:
 
 ## Begriff der statistischen Reichweite
 
-![](Working%20Materials/Rohstoffe/Statistische%20Reichweite%20bei%20Rohöl.png)
+![](Statistische%20Reichweite%20bei%20Rohöl.png)
 
 Die statistische Reichweite gibt laut Quelle das Verhältnis von Reserven und Produktion (R/P) an: Wenn die am Ende eines Jahres vorhandenen Reserven durch die Produktionsmenge dieses Jahres geteilt werden, ergibt sich daraus die Reichweite der verbleibenden Reserven bei unveränderten Produktionsmengen.
 
@@ -137,13 +137,13 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 
 ## Aufbau und Zusammenhang der Atmosphäre
 
-![Aufbau der Atmosphäre](Working%20Materials/Atmosphärische%20Prozesse/Aufbau%20der%20Atmosphäre.jpg)
+![Aufbau der Atmosphäre](Aufbau%20der%20Atmosphäre.jpg)
 
 ## Strahlungs- und Wärmehaushalt der Athmosphäre
 
 ### Strahlungshaushalt
 
-![Strahlungshaushalt der Erde](Working%20Materials/Atmosphärische%20Prozesse/Strahlungshaushalt%20der%20Erde.png)
+![Strahlungshaushalt der Erde](Strahlungshaushalt%20der%20Erde.png)
 
 Der Albedowert ist das Verhältnis von einfallender zu ausfallender Strahlung. Die sphärische Albedo liegt stets zwischen 0 und 1. Der Wert 0 entspricht einer vollständigen Absorption und 1 einer vollständigen Reflexion des einfallenden Lichts.
 
@@ -151,7 +151,7 @@ Die Strahlung die Aufgenommen wird setzt sich aus der kurzwelligen Globalstrahlu
 
 ### Wärmehaushalt
 
-![](Working%20Materials/Atmosphärische%20Prozesse/Wärmehaushalt%20der%20Erde.png)
+![](Wärmehaushalt%20der%20Erde.png)
 
 - **Fühlbarer Wärmestrom (H)**
 	- Wärmeleitung und Wärmeabstrahlung der Luftbewegung

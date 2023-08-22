@@ -50,7 +50,7 @@ tags:
 
 ## Die „Soziale Frage“ an Großstädtischen Ballungszentren
 
-![Mann der Arbeit aufgewacht - AB2 - Schüler](Working%20Materials/Industiraliesierung/Mann%20der%20Arbeit%20aufgewacht%20-%20AB2%20-%20Schüler.pdf)
+![Mann der Arbeit aufgewacht - AB2 - Schüler](Mann%20der%20Arbeit%20aufgewacht%20-%20AB2%20-%20Schüler.pdf)
 
 ## Wiener Kongress
 

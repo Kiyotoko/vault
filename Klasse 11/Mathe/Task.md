@@ -1957,3 +1957,64 @@ $d'(t)=\frac{2.83549(t-9.19154)}{\sqrt{t^2-18.3831t+362.718}}$
 - - -
 
 $E:\vec{x}=\begin{pmatrix}4\\3\\1\end{pmatrix}+k\begin{pmatrix}5\\-2\\3\end{pmatrix}+t\begin{pmatrix}3\\0\\1\end{pmatrix}$
+## 2023-08-22
+
+$\vec{x}=\begin{pmatrix}-2\\1\end{pmatrix}+k\begin{pmatrix}3\\4\end{pmatrix}$
+
+- - -
+
+$3=1+3k+t$
+$2=2+5k+t$
+
+$2k=-2$
+$k=-1$
+$3=1-3+t$
+$t=5$
+
+$5=3+1+10$
+$5\ne14$
+
+- - -
+
+$2=1-s+t$
+$3=2+t$
+$4=3+3s+t$
+
+$t=1$
+$s=0$
+$4=3+0+1$
+$4=4$
+
+- - -
+
+$-2=1-s+t$
+$1=2+t$
+$8=3+3s+t$
+
+$t=-1$
+$s=2$
+$8=8$
+
+- - -
+
+$1\frac{1}{6}=1-s+t$
+$2\frac{2}{3}=2+t$
+$1\frac{1}{6}=3+3s+t$
+
+$t=\frac{2}{3}$
+
+$1\frac{1}{6}=1-s+\frac{4}{6}$
+$s=\frac{3}{6}=\frac{1}{2}$
+
+$1\frac{1}{6}=3+\frac{9}{6}+\frac{4}{6}$
+$1\frac{1}{6}\ne5+\frac{1}{6}$
+
+- - -
+
+$\frac{7}{4}=1-s+t$
+$\frac{7}{4}=2+t$
+$-\frac{1}{4}=3+3s+t$
+
+$t=-\frac{1}{4}$
+$s=-1$
+$-\frac{1}{4}=-\frac{1}{4}$

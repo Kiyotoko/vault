@@ -659,7 +659,7 @@ $d=\frac{300\frac{V}{m}}{9V}=0.03m$
 - - - 
 $d=6cm$
 $m=2g$
-![Kräftegleichgewicht](Working%20Materials/Elektrisches%20Feld/Kräftegleichgewicht.png)
+![Kräftegleichgewicht](Kräftegleichgewicht.png)
 
 ## 2023-03-05
 
@@ -786,7 +786,7 @@ $U_{A}=1000V$
 $U_{B}=4000V$
 $q_{e}=1.6 022*10^{-19}As$
 $m_{e}=9.1*10^{-31}kg$
-![](Working%20Materials/Elektrisches%20Feld/Bronsche%20Röhre.png)
+![](Bronsche%20Röhre.png)
 $E_{kin}=E_{ele}$
 $\frac{m}{2}v^{2}=e(U_{A}+U_{B})$
 $v^2=2e\frac{U_{A}+U_{B}}{m}$
@@ -815,7 +815,7 @@ $F=evB=2.5635*10^{-19}N$
 
 - - -
 
-![](Working%20Materials/Elektrisches%20Feld/Hall-Sonde.png)
+![](Hall-Sonde.png)
 
 Wenn beide Plus beziehungsweise Minuspole aneinander liegen, ist die Spannung positiv. Ob die Pole jeweils aneinander liegen, hängt von der Lorenzkraft ab, die durch das B-Feld entsteht. Durch das vorzeichen der Spannung ist es hier also möglich, die Richtung des B-Feldes abzulesen.
 
@@ -845,7 +845,7 @@ $\delta t=0.01s$
 
 ## 2023-04-24
 
-![](Working%20Materials/Elektrisches%20Feld/Leiterschleife%20Induktion.png)
+![](Leiterschleife%20Induktion.png)
 
 Drei-Finger-Regel: Durch die Bewegung der Leiterschleife bewegen sich auch die Elektronen nach links. Da das Magnetfeld nach oben zeigt wirkt die Lorenzkraft nach unten. Daher ist unter der Minus- und ober der Pluspol.
 
@@ -879,7 +879,7 @@ $U_{ind}=lvB$
 
 ## 2023-05-03
 
-[Aufgaben Induktion Seite 5](Working%20Materials/Induktion/Aufgaben%20Induktion.pdf)
+[Aufgaben Induktion Seite 5](Aufgaben%20Induktion.pdf)
 
 Zwischen Induktionsspule und Magnetfeld erfolgt eine Relativbewegung.
 
@@ -1073,4 +1073,20 @@ $Q=(10.01\pm+0.35)mC$
 | x_7 | 0.3   | 0.253 & 0.237     | 0.256          |
 | x_8 | 0.2   | 0.211             | 0.209          |
 | x_9 | 0.5   | 0.326 & 0.325     | 0.33           |
-	
+
+## 2023-08-22
+
+Der Stein bewegt sich für Person A weg von ihr, während sich bei Person B und C der Stein auf sie zu bewegt.
+
+Bewegt sich das Boot gleichmäßig vom Ufer weg, bewegt sich der Stein von Person A und C weg, während er sich auf Person B hinzu bewegt.
+
+- - -
+
+$t_A=\frac{100m}{v_\text{Schwimmer}+v_\text{Fluss}}+\frac{100m}{v_\text{Schwimmer}-v_\text{Fluss}}$
+$t_A=\frac{100m*(v_\text{Schwimmer}-v_\text{Fluss})}{v_\text{Schwimmer}^2-v_\text{Fluss}^2}+\frac{100m*(v_\text{Schwimmer}+v_\text{Fluss})}{v_\text{Schwimmer}^2-v_\text{Fluss}^2}=\frac{200m*v_\text{Schwimmer}}{v_\text{Schwimmer}^2-v_\text{Fluss}^2}$
+$t_B=\frac{200m}{\sqrt{v_\text{Schwimmer}^2-v_\text{Fluss}^{2}}}$
+
+$t_{A}\le t_{B}$
+
+Der Schwimmer steht für das Licht, das Wasser für den Äther.
+Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen resultiert, müsste $v_{Fluss}=0$ sein, damit Schwimmer A und B zum selben Zeitpunkt den Startpunkt erreichen.

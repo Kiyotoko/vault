@@ -5,7 +5,7 @@ tags:
 - FGB
 ---
 
-![](../../Working%20Materials/Elektrisches%20Feld/Milikan-Versuch.png)
+![](Milikan-Versuch.png)
 
 ## Bestimmen der Elementarladung
 

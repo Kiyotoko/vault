@@ -129,7 +129,7 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 
 - - -
 
-![Mann der Arbeit aufgewacht - AB2 - Schüler](Working%20Materials/Industiraliesierung/Mann%20der%20Arbeit%20aufgewacht%20-%20AB2%20-%20Schüler.docx)
+![Mann der Arbeit aufgewacht - AB2 - Schüler](Mann%20der%20Arbeit%20aufgewacht%20-%20AB2%20-%20Schüler.docx)
 
 ## 2022-12-08
 

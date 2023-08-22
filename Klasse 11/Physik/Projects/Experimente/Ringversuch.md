@@ -7,7 +7,7 @@ tags:
 
 ## Skizze
 
-![](../../Working%20Materials/Induktion/Ringversuch.png)
+![](Ringversuch.png)
 
 ## Beobachtung
 

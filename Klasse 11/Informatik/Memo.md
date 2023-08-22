@@ -29,7 +29,7 @@ tags:
 
 ## TCP
 
-![OSI vs TCP](Working%20Materials/Netzwerke/OSI%20vs%20TCP.png)
+![OSI vs TCP](OSI%20vs%20TCP.png)
 
 # Algroithmen
 

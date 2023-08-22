@@ -952,6 +952,40 @@ $C(-3|2|1)$
 
 $F: \vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+k\begin{pmatrix}3\\-1\\2\end{pmatrix}+t\begin{pmatrix}-4\\0\\-2\end{pmatrix}$
 
+### Punktprobe in der Parameterdarstellung einer Ebene
+
+$3=1+3k+t$
+$2=2+5k+t$
+
+$2k=-2$
+$k=-1$
+$3=1-3+t$
+$t=5$
+
+$5=3+1+10$
+$5\ne14$
+
+### Koordinatengleichung einer Ebene
+
+$\vec{x}=\begin{pmatrix}1\\1\\3.5\end{pmatrix}+s\begin{pmatrix}2\\0\\4\end{pmatrix}+t\begin{pmatrix}1\\1\\5t\end{pmatrix}$
+
+$x=1+2s+t$
+$y=1+t$
+$z=3.5+4s+5t$
+
+$t=y-1$
+$x=1+2s+y-1$
+$2s=x-y$
+$s=0.5(x-y)$
+
+$z=3.5+2(x-y)+5y-5$
+$z=-1.5+2x+3y$
+$1.5=2y+3y+z$
+
+Jede Ebene kann durch die Koordinatenstellung der Form $ax+by+cz=d$ beschrieben werden. Ein Punkt $P(x,y,z)$ liegt genau dann in der Ebene, wenn seine Koordinaten die Koordinatengleichung erfüllen.
+
+Jede Koordinatengleichung der Form $ax+by+cz=d$ mit $a\ne0$ oder $b\ne0$ oder $c\ne0$ beschreibt eine Ebene.
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
@@ -1156,7 +1190,7 @@ binomCdf(count, percentage, min, max)
 
 ### Zeichnen von Histogrammen
 
-![](Working%20Materials/Storastik/Histogramm.png)
+![](Histogramm.png)
 
 $n=10$ $p=0.8$
 

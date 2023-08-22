@@ -465,7 +465,7 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 
 ## 2023-03-07
 
-[Autonomie](Working%20Materials/Nachkriegszeit/Autonomie.pdf)
+[Autonomie](Autonomie.pdf)
 
 Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigenständigkeit von dem vorherig abhängigem. Da Autonomie aber immer auch mit Sich-Unterscheidung und Trennung verbunden ist, ist dies auch mit Schuldgefühlen und Trennungsängsten verbunden
 
@@ -520,7 +520,7 @@ wolkewolkewolkewole
 
 ## 2023-03-30
 
-| Berthold Brecht | ![](../Deutsch/Working%20Materials/Nachkriegszeit/Berthold%20Brecht.png)                                                                                                                   |
+| Berthold Brecht | ![](Berthold%20Brecht.png)                                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Geboren         | 10.Februar.1898                                                                                                                                                                            |
 | Gestorben       | 14.August.1956^[Jürgen Smid: Brecht und Haindl]                                                                                                                                            |

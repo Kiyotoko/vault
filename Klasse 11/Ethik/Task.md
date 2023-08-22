@@ -178,7 +178,7 @@ Adam Smith war vor allem Moralphilosoph. Das Werk „Theorie der ethischen Gefü
 
 - - -
 
-[Antropologie der ökonomischen Klassiker](Working%20Materials/Antropologie%20der%20ökonomischen%20Klassiker.pdf)
+[Antropologie der ökonomischen Klassiker](Antropologie%20der%20ökonomischen%20Klassiker.pdf)
 
 - **Adam Smiths Gefühlsethik**
 	- Durch das Erbarmen oder Mitleid empfinden wir mit anderen mit
@@ -229,7 +229,7 @@ Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet. Ents
 
 ## 2023-04-19
 
-[Qualitativer Utilitarismus](Working%20Materials/Qualitativer%20Utilitarismus.pdf)
+[Qualitativer Utilitarismus](Qualitativer%20Utilitarismus.pdf)
 
 Gedankenexperiment: Stellen Sie sich vor Ihnen würde eine Pille angeboten, die Sie für den Rest Ihres Lebens in einen Zustand vollkommenen Glücks versetzt. Sie müssten diese nur einmal einnehmen und es gibt keine Nebenwirkungen. Würden Sie sie einnehmen? Formulieren Sie Gründe für Ihre Entscheidung.
 
@@ -251,7 +251,7 @@ Nach J. S. Mill haben Wesen mit geringeren Fähigkeiten zum Genus die besten Aus
 
 ## 2023-05-03
 
-[Präferenzutilitarismus](Working%20Materials/Präferenzutilitarismus.pdf)
+[Präferenzutilitarismus](Präferenzutilitarismus.pdf)
 
 1. Erarbeite anhand der Zitate den Begriff der Person bei Peter Singer.
 	- Rationales, bewusstes Wesen

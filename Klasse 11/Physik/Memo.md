@@ -428,7 +428,7 @@ Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körp
 ### Nachweis elektrostatischer Ladungen
 
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
-![Elektrometer](Working%20Materials/Elektrisches%20Feld/Elektrometer.png)
+![Elektrometer](Elektrometer.png)
 
 ### Ladungsausgleich
 
@@ -500,8 +500,8 @@ Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem 
 - Einheit $N$
 - Formel $\vec{E}=\frac{\vec{F}}{q}$
 
-![Polarisation](Working%20Materials/Elektrisches%20Feld/Polarisation.png)
-![Potenzial](Working%20Materials/Elektrisches%20Feld/Potenzial.png)
+![Polarisation](Polarisation.png)
+![Potenzial](Potenzial.png)
 
 ## Coulombsches Gesetz
 
@@ -511,7 +511,7 @@ $F=\frac{1}{4\pi\epsilon_{0}\epsilon} \frac{Q_{1}Q_{2}}{r^{2}}$
 
 Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
 
-![Relative Permittivität](Working%20Materials/Elektrisches%20Feld/Relative%20Permittivität.png)
+![Relative Permittivität](Relative%20Permittivität.png)
 
 Befindet sich innerhalb der Spule ein ferro-magnetischer Stoff, dann vergrößert sich die magnetische Flussdichte der Spule:
 
@@ -538,7 +538,7 @@ Wir eine Probeladung  von einem Anfangspunkt zu einem Endpunkt innerhalb eines e
 ## Kondensatoren
 
 Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und somit elektrischer Energie. Er besteht aus sich gegenüberliegenden leitenden Schichten, die durch einen Isolator (Di-elektrikum) getrennt sind. 
-![Plattenkondensator](Working%20Materials/Elektrisches%20Feld/Plattenkondensator.png)
+![Plattenkondensator](Plattenkondensator.png)
 
 ### Kapazität
 
@@ -582,9 +582,9 @@ $I(t)=\frac{\Delta Q}{\Delta t}$
 ### Magnetische Körper
 
 Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor und bestimmten keramischen Werkstoffen (so genannte Ferrite) oder stromdurchflossenen Leitern wirken magnetische Kräfte
-![](Working%20Materials/Elektrisches%20Feld/Cobalt.png)
-![](Working%20Materials/Elektrisches%20Feld/Eisen.png)
-![](Working%20Materials/Elektrisches%20Feld/Ferrit.png)
+![](Cobalt.png)
+![](Eisen.png)
+![](Ferrit.png)
 
 ### Permanentmagnet
 
@@ -639,7 +639,7 @@ Um einen geradlinigen stromdurchflossenen Leiter bilden sich kreisförmige Feldl
 
 ### $U(t)$ Und $I(t)$ Diagramme: Kondensator
 
-![Kondensator](Working%20Materials/Elektrisches%20Feld/Kondensator.png)
+![Kondensator](Kondensator.png)
 
 #### Aufladungsvorgang
 
@@ -687,7 +687,7 @@ Fläche, die von der Hysteresekurve eingeschlossen wird, ist ein Maß für die E
 
 ### Magnetfeld von Elektromagneten
 
-![](Working%20Materials/Elektrisches%20Feld/Magnetfeld%20von%20Elektromagneten.png)
+![](Magnetfeld%20von%20Elektromagneten.png)
 
 Das Magnetfeld einer stromdurchflossenen Spule gleicht dem eines Stabmagneten. Im Inneren der Spule herrscht annähernd ein homogenes Magnetfeld.
 
@@ -718,7 +718,7 @@ $\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}=4\pi*10^{-7}\frac{Vs}{Am}$
 
 Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im Abstand vom Radius R der Spulen aufgestellt. Die beiden Magnetfelder überlagern sich und ergeben im Bereich zwischen den Spulen ein annähernd homogenes Magnetfeld.
 
-![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
+![](Helmholtz-Spulen-Paar.png)
 
 ### Regressionsgerade
 
@@ -748,11 +748,11 @@ $qvB=m \frac{v^{2}}{r}$
 
 ### Hall-Effekt
 
-![Hall-Sonde](Working%20Materials/Elektrisches%20Feld/Hall-Sonde.png)
+![Hall-Sonde](Hall-Sonde.png)
 
 ### Magnetischer Fluss
 
-![](Working%20Materials/Induktion/Magnetischer%20Fluss.png)
+![](Magnetischer%20Fluss.png)
 
 Der magnetische Fluss ist im Sinne des Feldlinienmodells ein Maß für die Anzahl der Feldlinien, die durch eine bestimmte Fläche treten.
 
@@ -776,7 +776,7 @@ Je größer die zeitliche Änderungsrate des magnetischen Flusses ist, desto gr�
 
 ### Induktion und Lorenzkraft
 
-![Leiterschleife Induktion](Working%20Materials/Elektrisches%20Feld/Leiterschleife%20Induktion.png)
+![Leiterschleife Induktion](Leiterschleife%20Induktion.png)
 
 #### Änderung der Fläche
 
@@ -911,3 +911,22 @@ $\frac{\text{d}}{\text{d}t}(t)=-4st^{-3}$
 $\Delta a=\frac{\text{d}}{\text{d}s}\Delta s+\frac{\text{d}}{\text{d}t}\Delta t=2t^{-2}\Delta s-4st^{-3}\Delta t$
 
 ## Maschinenfehler 
+
+# Relativitätstheorie
+
+## Postulate der Speziellen Relativitätstheorie
+
+1. Relativitätsprinzip: Alle Inertialsysteme sind gleichberechtigt: Identische Experimente in unterschiedlichen Inertialsystemen liefern die gleichen Ergebnisse.
+2. Konstanz der Lichtgeschwindigkeit: Die Vakuumlichtgeschwindigkeit ist in allen Inertialsystemen gleich groß. Sie ist unabhängig von der Relativbewegung der Lichtquelle und von der Ausbreitungsrichtung des Lichts.
+
+## Experiment von Michelson und Morley
+
+- Theorie besagt, das Licht ein Ausbreitungsmedium, der Äther, benötigt
+- Da sich die Erde im Äther fortbewegt, muss die Geschwindigkeit des Lichts von der Raumrichtung abhängen
+- Experiment hat gezeigt, das die Theorie falsch ist -> Konstanz der Lichtgeschwindigkeit bewiesen
+
+## Relativität der Gleichzeitigkeit
+
+Ergebnisse an zwei Orten A und B in einem Inertialsystem sind gleichzeitig, wenn sich die von ihnen ausgesandten Lichtsignale genau in der Mitte zwischen A und B treffen.
+
+Zwei Ereignisse, die in einem Inertialsystem S gleichzeitig stattfinden, werden in einem relativ zu S bewegten Inertialsystem nicht als gleichzeitig registriert.

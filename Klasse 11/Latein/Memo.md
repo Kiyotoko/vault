@@ -39,7 +39,7 @@ tags:
 | Akk. | es      | es       | a       |
 | Abl. | ibus    | ibus     | ibus      |
 
-![Konsonantische Deklination](Working%20Materials/Konsonantische%20Deklination.png)
+![Konsonantische Deklination](Konsonantische%20Deklination.png)
 
 # Konjugationen
 
@@ -152,7 +152,7 @@ tags:
 
 ## Relativpronomen
 
-![Formen des Relativpronoms](Working%20Materials/Formen%20des%20Relativpronoms.png)´
+![Formen des Relativpronoms](Formen%20des%20Relativpronoms.png)´
 
 |      | m.    | f.    | n.    |
 | ---- | ----- | ----- | ----- |
