@@ -962,4 +962,4 @@ Zwei Ereignisse, die in einem Inertialsystem S gleichzeitig stattfinden, werden 
 	$t_{b}=t_{r}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
 		$t_{b}$ - Zeit im bewegten BS
 		$t_{r}$ - Zeit im ruhenden BS
-		$$
+		$v$ - Geschwindigkeit
