@@ -13,3 +13,9 @@ Adolf Hitler, Rede zur deutschen Jugend 1935
 3. Formulierung und sprachliche Mittel
 	- Spricht zum "Volk", bezieht Jugend mit ein -> Personalpronomen
 	- Pausen -> lässt bestimmte Sätze nachhallen
+
+- - -
+
+Joseph Goebbels, Wahlkampfrede
+
+1. Weisen Sie an geeigneten Textstellen nach, welche beiden zentralen Ziele Gobbels mit dieser Rede verfolgt
