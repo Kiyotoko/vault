@@ -945,3 +945,21 @@ $t=\frac{2d}{v_{ges}}=\frac{2d}{c\sqrt{1- \frac{v^{2}}{c^{2}}}}$
 Ergebnisse an zwei Orten A und B in einem Inertialsystem sind gleichzeitig, wenn sich die von ihnen ausgesandten Lichtsignale genau in der Mitte zwischen A und B treffen.
 
 Zwei Ereignisse, die in einem Inertialsystem S gleichzeitig stattfinden, werden in einem relativ zu S bewegten Inertialsystem nicht als gleichzeitig registriert.
+
+## Spezielle Relativitätstheorie
+
+- anhand Lichtuhr: Licht wandert zwischen zwei Spiegeln
+- ruhende Lichtuhr (von uns aus gesehen)
+	$t_{r}=\frac{2h}{c}$
+- bewegte Lichtuhr (von uns aus gesehen)
+	$t_{b}=\frac{2\sqrt{h^{2}+b^{2}}}{c}$
+	$l=\sqrt{b^{2}+h^{2}}=\sqrt{\frac{v*t_{b}}{2}+h^{2}}$
+	$t_{b}=\frac{2\sqrt{(\frac{v*t_{b}}{2})^2+h^{2}}}{c}$
+	$\frac{t_{b}c}{2}=\sqrt{(\frac{v*t_{b}}{2})^2+h^{2}}$
+	$\frac{(t_{b}c)^{2}}{4}=\frac{(v*t_{b})^2}{4}+h^{2}$
+	$(t_{b}c)^{2}=(vt_{b})^{2}+4h^{2}$
+	$(t_{b}c)^{2}=\frac{(v*t_{b})^2}{2}+4h^{2}$
+	$t_{b}=t_{r}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+		$t_{b}$ - Zeit im bewegten BS
+		$t_{r}$ - Zeit im ruhenden BS
+		$$
