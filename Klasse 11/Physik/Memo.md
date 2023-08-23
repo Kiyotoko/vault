@@ -925,6 +925,21 @@ $\Delta a=\frac{\text{d}}{\text{d}s}\Delta s+\frac{\text{d}}{\text{d}t}\Delta t=
 - Da sich die Erde im Äther fortbewegt, muss die Geschwindigkeit des Lichts von der Raumrichtung abhängen
 - Experiment hat gezeigt, das die Theorie falsch ist -> Konstanz der Lichtgeschwindigkeit bewiesen
 
+**Mit und gegen Ätherbewegung**
+
+Parallel zur Ätherbewegung
+$\bar{S_1S_2}=d=(c-v)t_1$
+$\bar{S_2S_1}=d=(c+v)t_2$
+
+$t=t_1+t_2=\frac{\bar{S_{1}S_{2}}}{c-v}+ \frac{\bar{S_{2}S_{1}}}{c+v}= \frac{d}{c-v}+\frac{d}{c+v}=\frac{d(c+v)+d(c-v)}{(c+v)(c-v)}=\frac{2dc}{c^{2}-v^{2}}=\frac{2dc}{c^{2}(1-\frac{v^{2}}{c^{2}})}=\frac{2d}{c(1-\frac{v^{2}}{c^{2}})}$
+
+Senkrecht zur Ätherbewegung
+$c^{2}=v^{2}+v_{ges}^{2}$
+$c^{2}-v^{2}=v_{ges}^{2}$
+$c^{2}(1- \frac{v^{2}}{c^{2}})=v_{ges}^{2}$
+
+$t=\frac{2d}{v_{ges}}=\frac{2d}{c\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+
 ## Relativität der Gleichzeitigkeit
 
 Ergebnisse an zwei Orten A und B in einem Inertialsystem sind gleichzeitig, wenn sich die von ihnen ausgesandten Lichtsignale genau in der Mitte zwischen A und B treffen.
