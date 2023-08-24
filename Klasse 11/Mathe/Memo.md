@@ -986,6 +986,32 @@ Jede Ebene kann durch die Koordinatenstellung der Form $ax+by+cz=d$ beschrieben 
 
 Jede Koordinatengleichung der Form $ax+by+cz=d$ mit $a\ne0$ oder $b\ne0$ oder $c\ne0$ beschreibt eine Ebene.
 
+Der Normalvektor $\vec{n}=\begin{pmatrix}a\\b\\c\end{pmatrix}$ ist der Vektor, der Senkrecht auf der Ebene steht.
+
+### Punktprobe in der Koordinatengleichung einer Ebene
+
+**Beispiel**
+Liegt $P(1|2|3)$ in $E$ mit $2x+3y-1z=1.5$?
+
+$2*1+3*2-3=1.5$
+$5\ne1.5$
+
+### Schrägbild mithilfe der Spurpunkte
+
+Spurpunkte sind die Schnittpunkte mit den Koordinatenachsen
+
+**Beispiel**
+$E: 2x+y+4z=6$
+
+$2x=6\quad x=3$
+$S_{x}(3|0|0)$
+
+$y=6$
+$S_{y}(0|6|0)$
+
+$4z=6\quad z=1.5$
+$S_{z}(0|0|\frac{3}{2})$
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
