@@ -1012,6 +1012,34 @@ $S_{y}(0|6|0)$
 $4z=6\quad z=1.5$
 $S_{z}(0|0|\frac{3}{2})$
 
+Ebene ist gegeben in der Form $ax+by+cz=1$
+
+| Achse   | Scnittpunkt         |
+| ------- | ------------------- |
+| x-Achse | $(\frac{1}{a};0;0)$ |
+| y-Achse | $(0;\frac{1}{b};0)$ |
+| z-Achse | $(0;\frac{1}{c};0)$ |
+
+**Beispiel**
+$E: 2x+y+4z=6$
+$E: \frac{1}{3}x+\frac{1}{6}y+\frac{2}{3}z=1$
+
+$S_{x}(3|0|0)$
+$S_{y}(0|6|0)$
+$S_{z}(0|0|\frac{3}{2})$
+
+### Besondere Lage von Ebenen
+
+Koordinatenebene $y-z$-Ebene
+$x=0$
+
+Koordinatenebene $x-z$-Ebene
+$y=0$
+
+Koordinatenebene $x-y$-Ebene
+$z=0$
+
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
