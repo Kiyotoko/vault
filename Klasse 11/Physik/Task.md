@@ -1096,4 +1096,4 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 ## 2023-08-27
 
 1. 18 Jahre
-2. $\Delta t=\frac{18\text{ Jahre}}{\sqrt{1- \frac{(0.5c)^{2}}{c^{2}}}}=\frac{18\text{ Jahre}}{\sqrt{1- \frac{1}{4}}}=\sqrt{3}\times 9\text{ Jahre}$
+2. $\Delta t=\frac{18\text{ Jahre}}{\sqrt{1- \frac{(0.5c)^{2}}{c^{2}}}}=\frac{18\text{ Jahre}}{\sqrt{1- \frac{1}{4}}}=20.7846\text{ Jahre}$
