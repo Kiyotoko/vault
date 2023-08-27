@@ -9,15 +9,15 @@ tags:
 
 ## Wahlfreiheit vs. Freier Wille
 
-Wahlfreihei bedeutet, aus einer Menge von Optionen zu wählen. So das Beispiel Herr Kauf. Wenn er Leistungerhebungen kontrollieren möchte har er mehrere Optionen, zwichen denen er frei Wählen kann; er kann sie heute, morgen, in einer Woche oder auf der Waschmachine „vergessen“.
+Wahlfreiheit bedeutet, aus einer Menge von Optionen zu wählen. So das Beispiel Herr Kauf. Wenn er Leistungerhebungen kontrollieren möchte har er mehrere Optionen, zwischen denen er frei Wählen kann; er kann sie heute, morgen, in einer Woche oder auf der Waschmaschine „vergessen“.
 
 Freier Wille bedeutet etwas aus eigener Kraft und eigenem Antrieb ohne äußere Einflüsse selbst zu wollen. Wenn Herr Kauf lust hat, sich ein Eis zu holen, kann er sich ein Eis kaufen, oder es lassen.
 
 ### Prüfen, Ob Eine Entscheidung „frei“ Ist
 
 1. Alternativen zur Wahl stehen
-1. Man selbst der Urheber der Entscheidung ist
-1. Wenn die Entscheidung autonom gefällt wird, durch anführen von Grübnden Prinzipen der Autonomie <-> Willkür oder Fremdbestimmung
+2. Man selbst der Urheber der Entscheidung ist
+3. Wenn die Entscheidung autonom gefällt wird, durch Anführen von Gründen und Prinzipen der Autonomie <-> Willkür oder Fremdbestimmung
 
 ### Handlungsfreiheit and Willensfreiheit
 
@@ -54,7 +54,7 @@ Hier kommt es zu einem Widerspruch, da ein Wille kaum frei als auch eingeschrän
 
 ### Faktoren Menschlichen Handelns
 
-- Die Antwort auf die Frage der rechtlichen und moralischen Schuld hängt von der Schuldfähigkeit ab. Also davon, ob die Willensfreiheit eingeschränkt ist oder nicht*
+- Die Antwort auf die Frage der rechtlichen und moralischen Schuld hängt von der Schuldfähigkeit ab. Also davon, ob die Willensfreiheit eingeschränkt ist oder nicht
 - __Mögliche Determinanten:__
 	- psychologisch: Kompensation einer „schlechten Kindheit“
 	- biologisch: hirnorganische Schädigung
