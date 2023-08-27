@@ -946,7 +946,7 @@ Ergebnisse an zwei Orten A und B in einem Inertialsystem sind gleichzeitig, wenn
 
 Zwei Ereignisse, die in einem Inertialsystem S gleichzeitig stattfinden, werden in einem relativ zu S bewegten Inertialsystem nicht als gleichzeitig registriert.
 
-## Spezielle Relativitätstheorie
+## Zeitdilatation
 
 - anhand Lichtuhr: Licht wandert zwischen zwei Spiegeln
 - ruhende Lichtuhr (von uns aus gesehen)
@@ -963,3 +963,5 @@ Zwei Ereignisse, die in einem Inertialsystem S gleichzeitig stattfinden, werden 
 		$t_{b}$ - Zeit im bewegten BS
 		$t_{r}$ - Zeit im ruhenden BS
 		$v$ - Geschwindigkeit
+
+Jede relativ zu einem Beobachter bewegte Uhr geht aus dessen Sicht langsamer. Es gilt: $\Delta t=\frac{\Delta t_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$

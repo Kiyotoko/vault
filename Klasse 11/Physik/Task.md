@@ -1074,6 +1074,8 @@ $Q=(10.01\pm+0.35)mC$
 | x_8 | 0.2   | 0.211             | 0.209          |
 | x_9 | 0.5   | 0.326 & 0.325     | 0.33           |
 
+# Relativitätstheorie
+
 ## 2023-08-22
 
 Der Stein bewegt sich für Person A weg von ihr, während sich bei Person B und C der Stein auf sie zu bewegt.
@@ -1090,3 +1092,8 @@ $t_{A}\le t_{B}$
 
 Der Schwimmer steht für das Licht, das Wasser für den Äther.
 Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen resultiert, müsste $v_{Fluss}=0$ sein, damit Schwimmer A und B zum selben Zeitpunkt den Startpunkt erreichen.
+
+## 2023-08-27
+
+1. 18 Jahre
+2. $\Delta t=\frac{18\text{ Jahre}}{\sqrt{1- \frac{(0.5c)^{2}}{c^{2}}}}=\frac{18\text{ Jahre}}{\sqrt{1- \frac{1}{4}}}=\sqrt{3}\times 9\text{ Jahre}$
