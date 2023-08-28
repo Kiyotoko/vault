@@ -949,19 +949,31 @@ Zwei Ereignisse, die in einem Inertialsystem S gleichzeitig stattfinden, werden 
 ## Zeitdilatation
 
 - anhand Lichtuhr: Licht wandert zwischen zwei Spiegeln
-- ruhende Lichtuhr (von uns aus gesehen)
-	$t_{r}=\frac{2h}{c}$
-- bewegte Lichtuhr (von uns aus gesehen)
-	$t_{b}=\frac{2\sqrt{h^{2}+b^{2}}}{c}$
+- bewegte Lichtuhr (im bewegten Bezugssystem)
+	$t_{b}=\frac{2h}{c}$
+- bewegte Lichtuhr (von uns aus gesehen -> wir sind in Ruhe)
+	$t_{r}=\frac{2\sqrt{h^{2}+b^{2}}}{c}$
 	$l=\sqrt{b^{2}+h^{2}}=\sqrt{\frac{v*t_{b}}{2}+h^{2}}$
-	$t_{b}=\frac{2\sqrt{(\frac{v*t_{b}}{2})^2+h^{2}}}{c}$
-	$\frac{t_{b}c}{2}=\sqrt{(\frac{v*t_{b}}{2})^2+h^{2}}$
-	$\frac{(t_{b}c)^{2}}{4}=\frac{(v*t_{b})^2}{4}+h^{2}$
-	$(t_{b}c)^{2}=(vt_{b})^{2}+4h^{2}$
-	$(t_{b}c)^{2}=\frac{(v*t_{b})^2}{2}+4h^{2}$
-	$t_{b}=t_{r}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+	$t_{r}=\frac{2\sqrt{(\frac{v*t_{r}}{2})^2+h^{2}}}{c}$
+	$\frac{t_{r}c}{2}=\sqrt{(\frac{v*t_{r}}{2})^2+h^{2}}$
+	$\frac{(t_{r}c)^{2}}{4}=\frac{(v*t_{r})^2}{4}+h^{2}$
+	$(t_{r}c)^{2}=(vt_{r})^{2}+4h^{2}$
+	$(t_{r}c)^{2}=\frac{(v*t_{r})^2}{2}+4h^{2}$
+	$t_{r}=t_{b}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
 		$t_{b}$ - Zeit im bewegten BS
 		$t_{r}$ - Zeit im ruhenden BS
 		$v$ - Geschwindigkeit
 
 Jede relativ zu einem Beobachter bewegte Uhr geht aus dessen Sicht langsamer. Es gilt: $\Delta t=\frac{\Delta t_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+
+### Lorenzfaktor
+
+$k=\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+
+### Zeitdilatation in der klassischen Mechanik
+
+$t_{r}=t_{b}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}\quad\text{ mit }v<<c\approx t_{b}$
+
+$v_{1}=0.01c$
+$v_{2}=0.1c$
+$t_{b}=\sqrt{1- \frac{v^{2}}{v^{2}}}t_{r}=\big(\begin{matrix}\end{matrix}$
