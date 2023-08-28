@@ -1096,7 +1096,7 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 ## 2023-08-27
 
 1. 18 Jahre
-2. $\Delta t=18\text{ Jahre}\times\sqrt{1- \frac{(0.5c)^{2}}{c}}=15.5885\text{ Jahre}$
+2. $\Delta t=18\text{ Jahre}\times\sqrt{1- \frac{(0.5c)^{2}}{c^{2}}}=15.5885\text{ Jahre}$
 3. $v=0.998456c$
 4. 10 Jahre
 5. 3 Lichtjahre
