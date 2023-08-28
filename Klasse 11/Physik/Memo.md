@@ -977,3 +977,15 @@ $t_{r}=t_{b}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}\quad\text{ mit }v<<c\approx 
 $v_{1}=0.01c$
 $v_{2}=0.1c$
 $t_{b}=\sqrt{1- \frac{v^{2}}{v^{2}}}t_{r}=\Bigg\{\begin{matrix}\sqrt{1- \frac{1}{10000}}=0.99995\\ \sqrt{1- \frac{1}{100}}=0.995\end{matrix}$
+
+## Längenkontraktion
+
+- $v_{tel}$ ist die Relativgeschwindigkeit zwischen zwei Bezugssystemen R und B.
+- $v_{tel}=\frac{x_{r}}{t_{r}}=\frac{x_{b}}{t_{b}}$
+- $t_{b}=t_{r}\sqrt{1- \frac{v^{2}}{c^{2}}}$
+- $\frac{x_{r}}{t_{r}}=\frac{x_{b}}{t_{r}\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+- $x_{r}=\frac{x_{b}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+
+Längenkontraktion bei Beobachtung senkrecht zur Bewegung
+
+### Verzerrte Wahrnehmung
