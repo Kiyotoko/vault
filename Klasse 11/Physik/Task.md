@@ -1109,4 +1109,9 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 	$\frac{v^{2}}{c^{2}}=0.75$
 	$v^{2}=0.75c^{2}$
 	$v=0.866c^{2}$
-2. 
+2. $10000m \sqrt{1-0.9995^{2}}=316.188m$
+	$0.9995*299752456 \frac{m}{s}\times2*10^{-6}s=599.205m$
+3. $350m=x_{0}\sqrt{1-0.4^{2}}$
+	$\frac{350m}{0.9165}=x_{0}$
+	$x_{0}=381.881m$
+	$x=381.881m \sqrt{1-0.2^{2}}=374.166m$
