@@ -972,7 +972,7 @@ $k=\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
 
 ### Zeitdilatation in der klassischen Mechanik
 
-$t_{r}=t_{b}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}\quad\text{ mit }v<<c\approx t_{b}$
+$t_{r}=t_{b}\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}\quad\text{ mit }v\ll c\approx t_{b}$
 
 $v_{1}=0.01c$
 $v_{2}=0.1c$
@@ -989,3 +989,25 @@ $t_{b}=\sqrt{1- \frac{v^{2}}{v^{2}}}t_{r}=\Bigg\{\begin{matrix}\sqrt{1- \frac{1}
 Längenkontraktion bei Beobachtung senkrecht zur Bewegung
 
 ### Verzerrte Wahrnehmung
+
+### Längenkontraktion in der klassischen Mechanik
+
+$t_{r}=t_{b}\sqrt{1- \frac{v^{2}}{c^{2}}}\quad\text{ mit }v\ll c\approx t_{b}$
+
+## Relativistische Masse
+
+- $m(v)=\frac{m_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+	$m(v)$ - Masse im Bewegten Bezugssystem
+	$m_{0}$ - Ruhemasse
+
+### Energiebilanz in der speziellen Relativitätstheorie
+
+Gesamtenergie: $E=m_{rel}c^{2}=\frac{m_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}c^{2}$
+Ruheenergie: $v=0$ => $E_{0}=m_{0}c^{2}$
+Kinetische Energie: $v>0$ => $E_{kin}=E-E_0=\frac{m_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}c^{2}-m_{0}c^{2}$
+$$E_{kin}=m_{0}c^{2}\Bigg(\frac{1}{\sqrt{\frac{v^{2}}{c^{2}}-1}}\Bigg)$$
+
+### Herleitung der klassischen Formel für $E_{kin}$
+
+$\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}\approx1+ \frac{1}{2} \frac{v^{2}}{c^{2}}\quad\text{ mit } v\ll c$
+$$E_{kin}=m_{0}c^{2}\Bigg(\frac{1}{\sqrt{\frac{v^{2}}{c^{2}}-1}}\Bigg)\approx m_{0}c^{2}\Bigg(\frac{1}{\sqrt{1+ \frac{1}{2} \frac{v^{2}}{c^{2}}-1}}\Bigg)=\frac{m_{0}v^{2}}{2}$$
