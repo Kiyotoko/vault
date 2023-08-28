@@ -1100,3 +1100,13 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 3. $v=0.998456c$
 4. 10 Jahre
 5. 3 Lichtjahre
+
+## 2023-08-28
+
+1. $0.5x=x \sqrt{1- \frac{v^{2}}{c^{2}}}$
+	$0.5=\sqrt{1- \frac{v^{2}}{c^{2}}}$
+	$0.25=1- \frac{v^{2}}{c^{2}}$
+	$\frac{v^{2}}{c^{2}}=0.75$
+	$v^{2}=0.75c^{2}$
+	$v=0.866c^{2}$
+2. 
