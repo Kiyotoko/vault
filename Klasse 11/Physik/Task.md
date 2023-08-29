@@ -1118,4 +1118,8 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 
 ## 2023-08-29
 
-1. 
+1. $m_{0}=2e6kg$
+	$m_{5\%}=2.0025e6$
+	$m_{50\%}=2.3094e6$
+2. Man kann nicht durch 0 teilen.
+3. 
