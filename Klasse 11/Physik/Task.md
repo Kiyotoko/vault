@@ -1115,3 +1115,7 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 	$\frac{350m}{0.9165}=x_{0}$
 	$x_{0}=381.881m$
 	$x=381.881m \sqrt{1-0.2^{2}}=374.166m$
+
+## 2023-08-29
+
+1. 
