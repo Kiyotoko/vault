@@ -2071,7 +2071,7 @@ $t=2$
 
 - - -
 
-$\vec{x}=\begin{pmatrix}2\\-3\\5\end{pmatrix}+t\begin{pmatrix}4\\-1\\3\end{pmatrix}$
+$\vec{x}=\begin{pmatrix}2\\-3\\5\end{pmatrix}+t\begin{pmatrix}4\\-1\\-3\end{pmatrix}$
 $A(1|2|0)$
 $B(3|5|0)$
 $C(1|4|6)$
@@ -2085,3 +2085,9 @@ $E: \begin{pmatrix}1\\2\\0\end{pmatrix}+s\begin{pmatrix}2\\3\\0\end{pmatrix}+v\b
 $2+4t=1+2s$
 $-3-t=2+3s+2v$
 $5+3t=6v$
+
+$k=- \frac{20}{9}$
+$s=\frac{109}{72}$
+$t=- \frac{49}{36}$
+
+$\vec{OS}=\vec{OA}+\mu\vec{AD}+\epsilon\vec{AD}$
