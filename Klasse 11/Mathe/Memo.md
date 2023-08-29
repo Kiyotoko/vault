@@ -1014,7 +1014,7 @@ $S_{z}(0|0|\frac{3}{2})$
 
 Ebene ist gegeben in der Form $ax+by+cz=1$
 
-| Achse   | Scnittpunkt         |
+| Achse   | Schnittpunkt        |
 | ------- | ------------------- |
 | x-Achse | $(\frac{1}{a};0;0)$ |
 | y-Achse | $(0;\frac{1}{b};0)$ |
@@ -1030,16 +1030,63 @@ $S_{z}(0|0|\frac{3}{2})$
 
 ### Besondere Lage von Ebenen
 
-Koordinatenebene $y-z$-Ebene
+$ax+by+cz=d$
+
+**Koordinatenebenen**
+Koordinatenebene $y$-$z$-Ebene
 $x=0$
 
-Koordinatenebene $x-z$-Ebene
+Koordinatenebene $x$-$z$-Ebene
 $y=0$
 
-Koordinatenebene $x-y$-Ebene
+Koordinatenebene $x$-$y$-Ebene
 $z=0$
 
+**Ebenen parallel zu den Koordinatenebenen**
+Parallel zur $y$-$z$-Ebene
+$x=d$
 
+Parallel zur $x$-$z$-Ebene
+$y=d$
+
+Parallel zur $x$-$y$-Ebene
+$z=d$
+
+**Ebenen parallel zu den Koordinatenachsen**
+Parallel zur x-Achse
+$by+cz=d$
+
+Parallel zur y-Achse
+$ax+cz=d$
+
+Parallel zur z-Achse
+$ax+by=d$
+
+### Beziehung von Geraden zu Ebenen
+
+- Schnittpunkt $g \perp E$
+- Parallel $g\parallel E$
+- Gerade in Ebene $g\in E$
+
+#### Gegeben in Parameterform
+
+$g: \vec{x}=\begin{pmatrix}5\\6\\1\end{pmatrix}+k\begin{pmatrix}-1\\-2\\3\end{pmatrix}$
+$E: \vec{x}=\begin{pmatrix}1\\0\\0\end{pmatrix}+r\begin{pmatrix}-1\\6\\0\end{pmatrix}+s\begin{pmatrix}0\\0\\20\end{pmatrix}$
+
+$5-k=1-r$
+$6-2k=6r$
+$1+3k=20s$
+
+$r=-\frac{1}{4}$
+$s=\frac{49}{80}$
+$k=\frac{15}{4}$
+
+$S(\frac{5}{4}|- \frac{3}{2}|\frac{49}{4})$
+
+- - -
+
+Falls Ausgabe `"false"`: $g\parallel E$
+Falls Ausgabe `c1, c2`: Es gibt unendlich viele Lösungen, $g\in E$
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
