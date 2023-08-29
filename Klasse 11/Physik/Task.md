@@ -1124,3 +1124,6 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 2. Man kann nicht durch 0 teilen.
 3. $v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{4}V}=5.93191e7$
 	$v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{6}V}=5.93101e8$
+	$v=0.000337$
+	$v=0.003372$
+4. 
