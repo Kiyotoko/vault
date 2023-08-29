@@ -2079,3 +2079,9 @@ $C(1|4|6)$
 Sei $ABCD$ ein Parallelogram.
 1. Untersuche, ob $g$ auf die Ebene trifft, in der das Parallelogram $ABCD$ liegt.
 2. Untersuche, ob die $g$ innerhalb der Parallelogrammfläche auftrifft.
+
+$E: \begin{pmatrix}1\\2\\0\end{pmatrix}+s\begin{pmatrix}2\\3\\0\end{pmatrix}+v\begin{pmatrix}0\\2\\6\end{pmatrix}$
+
+$2+4t=1+2s$
+$-3-t=2+3s+2v$
+$5+3t=6v$
