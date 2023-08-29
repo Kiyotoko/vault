@@ -1087,6 +1087,17 @@ $S(\frac{5}{4}|- \frac{3}{2}|\frac{49}{4})$
 
 Falls Ausgabe `"false"`: $g\parallel E$
 Falls Ausgabe `c1, c2`: Es gibt unendlich viele Lösungen, $g\in E$
+
+#### Gegeben in Koordinatenform
+
+$6(5-t)+(6-2t)=6$
+$30-6t+6-2t=6$
+$8t=30$
+$t=\frac{15}{4}$
+
+$t$ in $g$ einsetzen
+$S(1.25|-1.5|12.25)$
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit

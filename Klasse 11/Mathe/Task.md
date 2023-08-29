@@ -2040,3 +2040,42 @@ $E: \frac{2}{3}x+\frac{1}{3}y-\frac{2}{9}z=1$
 $P_{x}(\frac{3}{2}|0|0)$
 $P_{y}(0|3|0)$
 $P_{z}(0|0|-\frac{4}{5})$
+
+## 2023-08-29
+
+$g:\vec{x}=\begin{pmatrix}1\\-1\\4\end{pmatrix}+t\begin{pmatrix}2\\1\\-6\end{pmatrix}$
+$E: 8x+2y+3z=15$
+
+$8(1+2t)+2(-1+t)+3(4-6t)=15$
+$0=-3$
+
+- - -
+
+$g:\vec{x}=\begin{pmatrix}2\\-3\\5\end{pmatrix}+t\begin{pmatrix}4\\-1\\-3\end{pmatrix}$
+$E: 13x+22y+10z=10$
+
+$13(2+4t)+22(-3-t)+10(5-3t)=10$
+$26+52t-66-22t+50-30t=10$
+$10=10$
+
+- - -
+
+$g: \vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+t\begin{pmatrix}2\\1\\-3\end{pmatrix}$
+$E: x-2y-3z=6$
+
+$1(1+2t)-2(2+t)-3(3-3t)=6$
+$1+2t-4-2t-9+9t=6$
+$-12+9t=6$
+$9t=18$
+$t=2$
+
+- - -
+
+$\vec{x}=\begin{pmatrix}2\\-3\\5\end{pmatrix}+t\begin{pmatrix}4\\-1\\3\end{pmatrix}$
+$A(1|2|0)$
+$B(3|5|0)$
+$C(1|4|6)$
+
+Sei $ABCD$ ein Parallelogram.
+1. Untersuche, ob $g$ auf die Ebene trifft, in der das Parallelogram $ABCD$ liegt.
+2. Untersuche, ob die $g$ innerhalb der Parallelogrammfläche auftrifft.
