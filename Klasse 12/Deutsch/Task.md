@@ -19,3 +19,6 @@ Adolf Hitler, Rede zur deutschen Jugend 1935
 Joseph Goebbels, Wahlkampfrede
 
 1. Weisen Sie an geeigneten Textstellen nach, welche beiden zentralen Ziele Gobbels mit dieser Rede verfolgt
+	- Schwächung der SPD
+	- Diffamierung von politischen Gegnern
+2. 
