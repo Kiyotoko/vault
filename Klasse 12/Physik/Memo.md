@@ -1,3 +1,10 @@
+---
+author: karlz
+tags: 
+- Physik
+- FGN
+---
+
 # Schwingungen
 
 ## Hooksches Gesetz

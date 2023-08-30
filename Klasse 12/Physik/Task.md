@@ -1,3 +1,10 @@
+---
+author: karlz
+tags: 
+- Physik
+- FGN
+---
+
 # Schwingungen
 
 ## 2023-08-30

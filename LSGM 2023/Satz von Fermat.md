@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Mathe
+- LSGM
+---
+
 # Der binomische Satz von Fermat
 
 $(a+b)^2=\sum^n_\limits{i=0}\binom{n}{i}a^{i}b^{n-i}$

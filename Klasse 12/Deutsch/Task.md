@@ -1,3 +1,12 @@
+---
+author: karlz
+tags: 
+- Deutsch
+- FGB
+---
+
+# Reden
+
 ## 2023-08-23
 
 Adolf Hitler, Rede zur deutschen Jugend 1935

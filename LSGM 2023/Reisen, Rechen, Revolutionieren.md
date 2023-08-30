@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Mathe
+- LSGM
+---
+
 <div align=center>
 	<b> Reisen, Rechnen, Revolutionieren</b>
 	<p>oder</p>

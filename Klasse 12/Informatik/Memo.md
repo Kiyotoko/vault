@@ -1,3 +1,10 @@
+---
+author: karlz
+tags: 
+- Informatik
+- FGB
+---
+
 # Datenmodellierung und Datenbanken
 
 ## Modellierung in der Informatik

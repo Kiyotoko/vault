@@ -1,6 +1,6 @@
 ---
 author: karlz
 tags: 
-- Kunst
+- Astronomie
 - FGB
----  
+---
