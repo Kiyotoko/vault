@@ -9,13 +9,13 @@ tags:
 
 ## Interstellare Materie
 
-### Gas und Staub
+Als interstellare Materie (ISM) bezeichnet man die Materie im interstellaren Raum, die sich zwischen den Sternen einer Galaxie befindet.  
 
-- Chemische und physikalische Eigenschaften von Gas und Staub
+Genauer bezeichnet es die Materie im Raum zwischen den Astropausen der Sterne, da der Raum innerhalb der jeweiligen Astrosphären vom Sternwind des betreffenden Sterns erfüllt ist und andere Eigenschaften aufweist. Eine Astrosphäre ist eine blasenförmige Struktur im Weltraum um einen Stern, die von seinem Sternwind geschaffen und erfüllt ist. Die äußere Grenzschicht, an der die Vermischung der Teilchen des Sternwinds mit den Teilchen der interstellaren Materie abgeschlossen ist, wird Astropause genannt. Dahinter beginnt definitionsgemäß der interstellare Raum. 
 
-### Nebel und Wolken
+Interstellare Materie wird mit der elektromagnetischen Strahlung und dem galaktischen Magnetfeld zum interstellaren Medium gezählt. 
 
-- Emissions- und Reflexionsnebel, Dunkelwolken
+## Chemische und physikalische Eigenschaften
 
 ## Analysemethode
 
@@ -30,5 +30,3 @@ Die Absorption von Teilen der elektromagnetischen Strahlung beim Durchgang durch
 ### Wasserstofflinie
 
  Bezeichnung für die charakteristische Radiostrahlung des neutralen Wasserstoffs. Der auch verwendete Ausdruck 21-cm-Linie rührt von der entsprechenden Wellenlänge im Vakuum her. In der Radioastronomie spielt diese Strahlung eine wichtige Rolle, weil ihre Untersuchung Auskunft über die Dichteverteilung, Geschwindigkeit und Temperatur von Wasserstoffatomen im Universum gibt. 
-
-## Vorgänge in einem Stern
