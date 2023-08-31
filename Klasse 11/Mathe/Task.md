@@ -2091,7 +2091,3 @@ $s=\frac{109}{72}$
 $t=- \frac{49}{36}$
 
 $\vec{OS}=\vec{OA}+\mu\vec{AD}+\epsilon\vec{AD}$
-
-## 2023-08-31
-
-$\vec{v}=\begin{pmatrix}\end{pmatrix}$
