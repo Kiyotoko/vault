@@ -1098,6 +1098,28 @@ $t=\frac{15}{4}$
 $t$ in $g$ einsetzen
 $S(1.25|-1.5|12.25)$
 
+## Licht und Schatten
+
+Falls Licht auf einen Gegenstand fällt, wird ein Schatten erzeugt.
+
+**Beispiel**
+Ein 3m hoher Kletterpfahl steht $\perp$ zur x-y-Ebene. Sein Fußpunkt hat die Koordinaten F(0|0|0). Das Sonnenlicht verläuft in Richtung des Vektors $\vec{v}=\begin{pmatrix}3\\1\\-4\end{pmatrix}$. Eine Einheit entspricht einen Meter.
+
+Geradengleichung des Sonnenstrahls durch die Spitze des Kletterbaums: $\vec{x}=\begin{pmatrix}0\\0\\3\end{pmatrix}+k\begin{pmatrix}0\\0\\3\end{pmatrix}$
+
+$z=0$
+$3-4k=0\quad k=\frac{3}{4}$
+
+$\begin{pmatrix}0\\0\\3\end{pmatrix}+ \frac{3}{4}\begin{pmatrix}3\\1\\-4\end{pmatrix}=\begin{pmatrix}\frac{9}{4}\\\frac{\\3}{4}\\0\end{pmatrix}$
+$\vec{FS}=\sqrt{(\frac{9}{4})^{2}+ (\frac{3}{4})^{2}}=2.34m$
+
+**Beispiel**
+- quaderförmiges Objekt
+- Grundfläche $4m \times4m$
+- Höhe $3m$
+- Sonnenstrahlen $\vec{v}=\begin{pmatrix}\end{pmatrix}$
+
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
