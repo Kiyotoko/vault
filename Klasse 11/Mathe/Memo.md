@@ -1138,6 +1138,12 @@ $\vec{FS}=\sqrt{(\frac{9}{4})^{2}+ (\frac{3}{4})^{2}}=2.34m$
 3. Fläche berechnen
 	$4m*3m+4m*4.5m=4m*7.5m=30m^{2}$
 
+### Punktförmig Lichtquelle
+
+**Beispiel**
+Laserstrahl geht von $L(3|4|2)$. Gesucht ist der Schattenpunkt von $P(1|2|-3)$ in der x-y-Ebene.
+Lichtstrahl $\vec{x}=\begin{pmatrix}3\\4\\2\end{pmatrix}+k\begin{pmatrix}-2\\-2\\-5\end{pmatrix}$
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
