@@ -1,27 +1,24 @@
-# Vault
+<h1 align=center>Vault</h1>
 
-Hallo zusammen! 👋
+## Table of Contents
 
-Dies ist mein Obsidian Vault für Schul- und LSGM-Mathecamps, die ich hier als Backup und zum Teilen hochlade.
+- [Getting Started](#getting-started)
+- [Navigation](#navigation)
 
-## Inhaltsverzeichnis
+## Getting Started
 
-- [Herunterladen](#herunterladen)
-- [Orientierung](#orientierung)
+### Read-Only
 
-## Herunterladen
+You can directly view most of the content within the repository right here on GitHub. However, for the best experience, especially with interactive elements, consider using the Obsidian app.
 
-Prinzipiell ist es nicht notwendig, sich etwas herunterzuladen, da ich mich stets bemühe, alles auch über GitHub lesbar zu machen. **Allerdings** kann es sein, das in den Mathe-Mitschriften so viel `LaTeX` Blöcke sind, sodass diese irgendwann nicht mehr richtig gerendert werden. Auch kann GitHub keine Funktionen zeichnen, was ebenfalls mehrfach zu ladefehlern führt.
-Sollte dies der Fall sein, lade dir bitte [Obsidian](https://obsidian.md/) mit dem [Obsidian Functionplot Plugin](https://github.com/leonhma/obsidian-functionplot) herunter.
+### With Obsidian
 
-## Orientierung
+Download and install [Obsidian](https://obsidian.md/), a knowledge management app. Once installed, you can import this repository into Obsidian to enjoy a more dynamic and interactive experience.
 
-Da es häufig ziemlich schwierig für andere sein kann, sich zurecht zu finden, hier ein paar Hinweise:
-- Alle Ordner sind nach Jahr, Klasse und Thema sortiert.
-- In den meisten Fächern befinden sich verschiedene, standardisierte Dateien und Ordner.
-	- In `Cheat Cheets` sind Dateien zu Themen abgespeichert, mit denen ich selbst direkt lernen kann.
-	- `Projects` ist der Ordner, indem alle Projekte wie Handouts, Präsentationen, etc. abgespeichert werden.
-	- `Working Materials` ist mein persönliches Sammelsurium, in dem alle Bilder und Arbeitsblätter hinkommen
-	- `Memo` ist die Datei, wo alle später relevante Mitschriften hinkommen. Die Mitschriften sind hierbei immer nach dem Thema sortiert.
-	- `Task` ist die Datei, wo ich meine Aufgaben löse. Die Aufgaben sind dabei nach dem Datum sortiert.
--  Alle Dateien haben Tags, die Anzeigen, zu welchem Themenbereich die Mitschriften sind, oder in welcher Schule sie erstellt wurden sind.
+## Navigation
+
+Navigating through the Obsidian Vault is made easy by its structured organization:
+
+- The content is categorized into folders based on topics, themes, or subjects.
+- Each folder can contain various types of notes, such as articles, summaries, code snippets, and more.
+- You might find specific subfolders for images, attachments, or other related resources.

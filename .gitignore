@@ -1,9 +1,6 @@
 # obsidian settings
 .obsidian
 
-# private files
-Noten.md
-
 # microsoft office
 *.docx
 *.xls
