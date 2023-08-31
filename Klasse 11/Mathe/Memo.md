@@ -1114,11 +1114,29 @@ $\begin{pmatrix}0\\0\\3\end{pmatrix}+ \frac{3}{4}\begin{pmatrix}3\\1\\-4\end{pma
 $\vec{FS}=\sqrt{(\frac{9}{4})^{2}+ (\frac{3}{4})^{2}}=2.34m$
 
 **Beispiel**
-- quaderförmiges Objekt
+- quaderförmiges Objekt mit den Eckpunkten A,B,C,D,E,F,G und H
 - Grundfläche $4m \times4m$
 - Höhe $3m$
 - Sonnenstrahlen $\vec{v}=\begin{pmatrix}\end{pmatrix}$
-
+1. Welche Eckpunkte bestimmen die Schattenfläche?
+	$A(4|0|0)$
+	$B(4|4|0)$
+	$C(0|4|0)$
+	$D(0|0|0)$
+	$E(4|0|3)$
+	$F(4|4|3)$
+	$G(0|4|3)$
+	$H(0|0|3)$
+	
+	$[E,F,G]$ (wegen $\vec{v}$)
+1. Schattenpunkte ermitteln
+	$\vec{x}=\begin{pmatrix}4\\0\\3\end{pmatrix}+k\begin{pmatrix}2\\3\\-2\end{pmatrix}$
+	$z=0$
+	$0=3-2k$
+	$k=\frac{3}{2}$
+	$\vec{0E}=\begin{pmatrix}4\\0\\3\end{pmatrix}+ \frac{3}{2}\begin{pmatrix}2\\3\\-2\end{pmatrix}=\begin{pmatrix}7\\4.5\\0\end{pmatrix}$
+	$\vec{0F}=\begin{pmatrix}4\\4\\3\end{pmatrix}+ \frac{3}{2}\begin{pmatrix}2\\3\\-2\end{pmatrix}=\begin{pmatrix}7\\8.5\\0\end{pmatrix}$
+	$\vec{0G}=\begin{pmatrix}0\\4\\3\end{pmatrix}+ \frac{3}{2}\begin{pmatrix}2\\3\\-2\end{pmatrix}=\begin{pmatrix}3\\8.5\\0\end{pmatrix}$
 
 # Stochastik
 
