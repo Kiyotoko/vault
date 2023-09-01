@@ -13,3 +13,9 @@ tags:
 - Freiwillig, weil sie der Einsicht der Moral folgt
 - Zwang, weil sie keine andere zulässt
 - Eine Person ist dann moralisch hochstehen, wenn sie sich zugunsten des Wohls der Gesellschaft und gegen ihre persönlichen Neigungen entscheidet
+
+- - -
+
+Nur ein guter Wille kann ohne Einschränkungen für gut gehalten werden.
+Talente wie Verstand oder Witz sowie Temperamente wie Mut oder Entschlossenheit als auch Glücksgaben wie Reichtum können gut sein, hängen aber vom Charakter ab.
+Glücksseligkeit machen Mut und somit auch Übermut, was wiederum schlecht ist.
