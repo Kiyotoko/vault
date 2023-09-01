@@ -25,3 +25,6 @@ tags:
 	- Pflicht durch die Einsicht, dass Zuwiderhandlungen unvernünftig wären
 - Plicht entspringt meiner eigenen Vernunft
 	- moralisches Handeln einziger Weg, um nicht gegen meine eigene Vernunft zu handeln
+- Moralische Handlung gleichzeitig freiwillig und zwanghaft
+	- ich entscheide mich dazu nach meiner Einsicht
+	- ich verpflichte mich innerlich selbst

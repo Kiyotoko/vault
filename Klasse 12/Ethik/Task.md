@@ -1,3 +1,12 @@
+---
+author: karlz
+tags:
+  - Ethik
+  - FGB
+---
+
+# Fragen nach dem Guten Handeln
+
 ## 2023-09-01
 
 - Eine Voraussetzung für Pflicht ist die Einsicht, dass die Werte und Tugenden der Gesellschaft die Erkenntnis des Guten sind
