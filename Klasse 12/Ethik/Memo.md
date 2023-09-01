@@ -28,3 +28,6 @@ tags:
 - Moralische Handlung gleichzeitig freiwillig und zwanghaft
 	- ich entscheide mich dazu nach meiner Einsicht
 	- ich verpflichte mich innerlich selbst
+
+## Pflichtenethik nach Immanuel Kant - Der gute Wille
+
