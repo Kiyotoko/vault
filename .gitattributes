@@ -1,6 +1,3 @@
-*.m linguist-language=Matlab
-
-*.md linguist-detectable
-
-LICENSE.md -linguist-documentation
-README.md -linguist-documentation
+# Reclassifie `.m` files as Matlab
+*.m linguist-language=MATLAB
+*.matlab linguist-language=MATLAB
