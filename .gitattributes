@@ -1,0 +1,6 @@
+*.m linguist-language=Matlab
+
+*.md linguist-detectable
+
+LICENSE.md -linguist-documentation
+README.md -linguist-documentation
