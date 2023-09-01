@@ -26,3 +26,4 @@ Der Gini-Koeffizient oder auch Gini-Index ist ein statistisches Maß für die Un
 
 ### Human-Development-Index
 
+Der Human Development Index der Vereinten Nationen ist ein Indikator für Staaten, der auch als Wohlstandsindikator bezeichnet wird. Der HDI wird seit 1990 im jährlich erscheinenden Bericht über die menschliche Entwicklung des Entwicklungsprogramms der Vereinten Nationen (UNDP) veröffentlicht.
