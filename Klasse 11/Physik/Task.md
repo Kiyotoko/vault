@@ -1118,13 +1118,42 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 
 ## 2023-08-29
 
-1. $m_{0}=2e6kg$
-	$m_{5\%}=\frac{2E6}{\sqrt{1- \frac{1.5E7^{2}}{3E8^{2}}}}=2001880$
-	$m_{50\%}=\frac{2E6}{\sqrt{1- \frac{1.5E8^{2}}{3E8^{2}}}}=2.309E6$
-1. Man kann nicht durch 0 teilen.
-2. $v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{4}V}=5.93191e7$
-	$v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{6}V}=5.93101e8$
-	$v=0.000337$
-	$v=0.003372$
+$m_{0}=2e6kg$
+$m_{5\%}=\frac{2E6}{\sqrt{1- \frac{1.5E7^{2}}{3E8^{2}}}}=2001880$
+$m_{50\%}=\frac{2E6}{\sqrt{1- \frac{1.5E8^{2}}{3E8^{2}}}}=2.309E6$
+
+$\lim\limits_{v\to c} m(v)=\frac{m_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}=\infty$
+
+- - -
+
+$v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{4}V}=5.93191e7$
+$v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{6}V}=5.93101e8$
+
+$qU_{B}=E_{v}-E_{0}=E_{kin}$
+$qU_{B}=\frac{m_{0}c^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}-m_{0}c^{2}$
+
+- - -
+
 4. $100\%$
-5. 
+
+## 2023-09-02
+
+$4.3Ly=2.7\cdot10^{5} \text{ Radien}$
+$4.3Ly=4.1\cdot10^{6} m$
+
+$4.3Ly \times0.8c=5.375a$
+$5.375Ly \times \sqrt{1- \frac{0.8c^{2}}{c^{2}}}=3.225a$
+
+- - -
+
+$10a$
+$3Ly$
+$\sqrt{\frac{1.6c}{0.4c}}\cdot1a=2a$
+
+- - -
+
+$\tau=2.2\mu s=2.2\cdot10^{-6}s$
+$v=0.9998c$
+
+$s=v\cdot \tau=0.9998c\cdot2.2\cdot10^{-6}s=660m$
+$t=\frac{2.2\mu s}{\sqrt{\frac{1-v^{2}}{c^{2}}}}=110\mu s$
