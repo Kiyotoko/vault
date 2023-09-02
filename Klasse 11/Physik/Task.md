@@ -1119,10 +1119,10 @@ Damit das Experiment von Michelson und Morley hier in den selben Ergebnissen res
 ## 2023-08-29
 
 1. $m_{0}=2e6kg$
-	$m_{5\%}=2.0025e6$
-	$m_{50\%}=2.3094e6$
-2. Man kann nicht durch 0 teilen.
-3. $v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{4}V}=5.93191e7$
+	$m_{5\%}=\frac{2E6}{\sqrt{1- \frac{1.5E7^{2}}{3E8^{2}}}}=2001880$
+	$m_{50\%}=\frac{2E6}{\sqrt{1- \frac{1.5E8^{2}}{3E8^{2}}}}=2.309E6$
+1. Man kann nicht durch 0 teilen.
+2. $v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{4}V}=5.93191e7$
 	$v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{6}V}=5.93101e8$
 	$v=0.000337$
 	$v=0.003372$
