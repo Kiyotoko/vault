@@ -1126,11 +1126,22 @@ $\lim\limits_{v\to c} m(v)=\frac{m_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}=\infty$
 
 - - -
 
+$E_{kin}=\frac{m}{2}v^{2}=qU$
+$qU=\frac{m}{2}v^{2}$
+$v^2=\frac{2q}{2}U$
+$v=\sqrt{\frac{2q}{2}U}$
+
 $v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{4}V}=5.93191e7$
 $v=\sqrt{\frac{2q}{m}U}=\sqrt{\frac{2*1.6022*10^{-19}}{9.10939*10^{-31}}*10^{6}V}=5.93101e8$
 
-$qU_{B}=E_{v}-E_{0}=E_{kin}$
-$qU_{B}=\frac{m_{0}c^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}-m_{0}c^{2}$
+$qU=E_{v}-E_{0}=E_{kin}$
+$qU=\frac{m_{0}c^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}-m_{0}c^{2}$
+$qU+m_{0}c^{2}=\frac{m_{0}c^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+$\sqrt{1- \frac{v^{2}}{c^{2}}}=\frac{m_{0}c^{2}}{qU+m_{0}c^{2}}$
+$1-\frac{v^{2}}{c^{2}}=(\frac{m_{0}c^{2}}{qU+m_{0}c^{2}})^{2}$
+$\frac{v^{2}}{c^{2}}=1-(\frac{m_{0}c^{2}}{qU+m_{0}c^{2}})^{2}$
+$v^{2}=c^{2}\Big(1-\big(\frac{m_{0}c^{2}}{qU+m_{0}c^{2}}\big)^{2}\Big)$
+$v=c\sqrt{1-\big(\frac{m_{0}c^{2}}{qU+m_{0}c^{2}}\big)^{2}}$
 
 - - -
 
