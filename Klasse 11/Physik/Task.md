@@ -1161,7 +1161,7 @@ $E_{kin}=\frac{mc^{2}}{\sqrt\frac{1- v^{2}}{c^{2}}}-mc^{2}$
 $v=c\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}$
 $r=\frac{mv}{qB}=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}$
 
-$r=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}$
+$r=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}=1.295m$
 
 - - -
 
