@@ -12,10 +12,15 @@ tags:
 
 ## Experiment von Michelson und Morley
 
-Das Michelson-Morley-Experiment hatte zum Ziel, die Geschwindigkeit der Erde relativ zum Lichtäther auf ihrer Bahn um die Sonne nachzuweisen. Das Experiment zeigte, dass es keine Geschwindigkeitsabweichung gibt und somit der Lichtäther nicht existiert.
+Das Michelson-Morley-Experiment hatte zum Ziel, die Geschwindigkeit der Erde relativ zum Lichtäther auf ihrer Bahn um die Sonne nachzuweisen.
+
+Das Experiment bestand aus einer Lichtquelle, zwei Spiegeln, einem halbreflektierenden Spiegel und einem Detektor.
 
 $t_{1}=\frac{l}{c-v}+\frac{l}{c+v}=\frac{2cl}{c^{2}-v^{2}}$
 $t_{2}=\frac{2l}{\sqrt{c^2-v^2}}$
+
+Das Experiment zeigte, dass es keine Geschwindigkeitsabweichung gibt und somit der Lichtäther nicht existiert.
+
 
 ## Lorenzfaktor
 
