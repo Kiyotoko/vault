@@ -10,7 +10,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
 	- [Read-Only](#read-only)
 	- [With Obsidian](#with-obsidian)
