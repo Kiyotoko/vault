@@ -1153,7 +1153,15 @@ $E_{kin}=\frac{m}{2}v^{2}$
 
 $v^{2}=\frac{2E_{kin}}{m}$
 $v=\sqrt{\frac{2E_{kin}}{m}}$
-$r=\frac{mv}{qB}=\frac{m\sqrt{\frac{2E_{kin}}{m}}}{2qB}=\frac{\sqrt{2E_{kin}m}}{2qB}$
+$r=\frac{mv}{qB}=\frac{m\sqrt{\frac{2E_{kin}}{m}}}{qB}=\frac{\sqrt{2E_{kin}m}}{qB}$
+
+$r=\frac{\sqrt{2E_{kin}m}}{qB}=0.8219m$
+
+$E_{kin}=\frac{mc^{2}}{\sqrt\frac{1- v^{2}}{c^{2}}}-mc^{2}$
+$v=c\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}$
+$r=\frac{mv}{qB}=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}$
+
+$r=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}$
 
 - - -
 
