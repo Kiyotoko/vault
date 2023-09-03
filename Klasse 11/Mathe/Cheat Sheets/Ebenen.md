@@ -16,6 +16,10 @@ $5\ne1.5$
 
 ## Ebenengleichung
 
+### Parameterdarstellung einer Ebene
+
+$E=\begin{pmatrix}1\\2\\3\end{pmatrix}+u\begin{pmatrix}1\\2\\3\end{pmatrix}+v\begin{pmatrix}1\\2\\3\end{pmatrix}$
+
 ### Koordinatengleichung einer Ebene
 
 $1.5=2y+3y+z$
