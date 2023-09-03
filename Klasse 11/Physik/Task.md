@@ -1159,13 +1159,18 @@ $r=\frac{\sqrt{2E_{kin}m}}{qB}=0.8219m$
 
 $E_{kin}=\frac{mc^{2}}{\sqrt\frac{1- v^{2}}{c^{2}}}-mc^{2}$
 $v=c\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}$
-$r=\frac{mv}{qB}=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}$
+$r=\frac{mv}{qB}=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{\sqrt{1- \frac{v^{2}}{c^{2}}}qB}$
 
-$r=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{qB}=1.295m$
+$r=\frac{mc\sqrt{1-\big(\frac{1}{\frac{E_{kin}}{mc^{2}}+1}\big)^{2}}}{\sqrt{1- \frac{v^{2}}{c^{2}}}qB}=1.295m$
 
 - - -
 
-$100\%$
+$m=\frac{m_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+$m \cdot\sqrt{1- \frac{v^{2}}{c^{2}}}=m_{0}$
+$\sqrt{1- \frac{v^{2}}{c^{2}}}=\frac{m_{0}}{m}$
+$1- \frac{v^{2}}{c^{2}}=(\frac{m_{0}}{m})^{2}$
+$v^{2}=c^{2}\big(1-(\frac{m_{0}}{m})^{2}\big)$
+$v=c\sqrt{1-(\frac{m_{0}}{m})^{2}}=299999956\approx c$
 
 ## 2023-09-02
 
