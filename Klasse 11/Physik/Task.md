@@ -1148,6 +1148,15 @@ $v=c\sqrt{1-\big(\frac{m_{0}c^{2}}{qU+m_{0}c^{2}}\big)^{2}}=2.82291e8$
 
 - - -
 
+$m\frac{v^{2}}{r}=qvB$
+$E_{kin}=\frac{m}{2}v^{2}$
+
+$v^{2}=\frac{2E_{kin}}{m}$
+$v=\sqrt{\frac{2E_{kin}}{m}}$
+$r=\frac{mv}{qB}=\frac{m\sqrt{\frac{2E_{kin}}{m}}}{2qB}=\frac{\sqrt{2E_{kin}m}}{2qB}$
+
+- - -
+
 $100\%$
 
 ## 2023-09-02
