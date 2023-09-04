@@ -62,3 +62,14 @@ $v(t)=\frac{dy}{dt}=\hat{y}\omega\cos{(\omega t)}=\hat{v}\cos{(\omega t)}$ mit $
 
 Beschleunigung
 $a(t)=\frac{dv}{dt}=-\hat{y}\omega^{2}\sin{(\omega t)}=-\hat{a}\sin{(\omega t)}$ mit $\hat{a}=\hat{y}\omega^{2}$
+
+### Rückstellkraft
+
+
+$y(t)=\hat{y}\sin{(\omega t)}$
+$a(t)=-\hat{y}\omega^{2}\sin{(\omega t)}=-\omega\hat{y}\sin{(\omega t)}=-\omega^{2}y(t)$
+
+$a(t)\sim y(t)\to F_{r}(t)\sim a(t)\sim y(t)$
+
+**Beispiel Federschwinger**
+$F_{r}(t)=-Dy(t)$
