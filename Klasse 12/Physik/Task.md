@@ -35,5 +35,13 @@ $y(t)=R\cos{(\omega t)}$
 $y(t)=6357km\cos{\bigg(\sqrt{\frac{9.81\frac{km}{s^{2}}}{1.24 \cdot10^{-3}s^{-1}}}\cdot t\bigg)}$
 
 $v(t)=-R \omega\sin{(\omega t)}=-7.88 \frac{km}{s}\sin{(1.24 \cdot10^{-3}s^{-1}t)}$
-
 $a(t)=-R \omega^{2}\cos{(\omega t)}=-9.77 \frac{m}{s^{2}} \cos{(1.24\cdot10^{-3}s^{-1}t)}$
+
+$a(t)=-R \omega^{2}\cos{(\omega t)}=-g \cos{(\omega t)}$
+$y(t)=R\cos{\omega t}$
+
+$R \omega^{2}=g$
+$\omega=\sqrt{\frac{g}{R}}$
+
+$a(t)\sim y(t)$
+$a(t)\sim-\omega^{2}y(t)$
