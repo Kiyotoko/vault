@@ -51,3 +51,14 @@ Schwingungen, die durch eine Sinus- oder Kosinusfunktion beschrieben werden kann
 ![](Working%20Materials/Schwingungen/Zeigerdiagramm.png)
 
 Eine gleichförmige Kreisbewegung kann man gedanklich in zwei harmonische Schwingungen gleicher Frequenz und Amplitude zerlegen, die senkrecht zueinander verlaufen. Umgekehrt kann man sich auch jede harmonische Schwingung als Projektion einer Kreisbewegung denken. Deshalb wird zur Veranschaulichung von harmonischen Schwingungen oft eine Zeigerdiagramm verwendet, in dem ein Zeiger der Länge $A$ mit der Frequenz $f$ um einen festen Punkt rotiert.
+
+## Geschwindigkeit & Beschleunigung bei Schwingungen
+
+Auslenkung
+$y(t)=\hat{y}\sin{(\omega t)}$
+
+Geschwindigkeit
+$v(t)=\frac{dy}{dt}=\hat{y}\omega\cos{(\omega t)}=\hat{v}\cos{(\omega t)}$ mit $\hat{v}=\hat{y}\omega$
+
+Beschleunigung
+$a(t)=\frac{dv}{dt}=-\hat{y}\omega^{2}\sin{(\omega t)}=-\hat{a}\sin{(\omega t)}$ mit $\hat{a}=\hat{y}\omega^{2}$
