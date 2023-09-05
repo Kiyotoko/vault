@@ -42,3 +42,10 @@ Joseph Goebbels, Wahlkampfrede
 
 - - -
 
+Wollmäuse!
+Alle Lebewesen haben ihre Berechtigung. Viele setzen sich für mehr Tierschutz ein: Doch dabei wird ein ganz besonderes Tier vergessen:
+Wollmäuse!
+Haben sie jemals über das Geheime Liebesleben der Wollmäuse nachgedacht?
+Wenn nicht, dann sind sie hier genau richtig!
+
+Wollmäuse erfüllen unser leben! Wortwörtlich.
