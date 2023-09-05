@@ -7,8 +7,21 @@ tags:
 
 # Plastik
 
-Der Kontrapost ist ein Gestaltungsmittel in der Bildhauerei. Er bezeichnet das Nebeneinander von Stand- und Spielbein einer menschlichen Figur zum Ausgleich der Gewichtsverhältnisse. Das Becken tritt dabei aus der senkrechten Körperachse.
+- Plastik: formende, aufbauende Verfahren (modellieren)
+- Skulptur: abtragende Verfahren (hauen, schnitzen, schneiden)
+- Objektkunst (s.u.)
 
-Figura Serpentinata ist die Bezeichnung für eine gewundene gemalte oder plastisch ausgeführte Figur. In der Ornamentik bezeichnet man damit speziell Spiralmotive.
+## Gestaltungsmittel
 
-Eine Plinthe ist in der Architektur eine in der Regel quadratische Fußplatte von Säulen, Pfeilern und Statuen. Sie kann hier aber auch ein ganzes Gebäude tragen.
+- Plastizität (Erhebungen, Wölbungen, Ausbuchtungen, etc.)
+- Körper-Raum-Beziehung
+- Material
+- Größe (Monumental hin zu Klein)
+
+## Begriffe
+
+Der Kontrapost ist eine Stellung mit Standbein/Spielbein; wirkt wie kurzes Innehalten in einer Bewegung.
+
+Figura Serpentinata ist eine sich fließend aufwärts bewegende Gestalt mit einer in sich gedrehten Körperachse – wobei diese Drehung keineswegs durch die Handlung begründet sein muss.
+
+Eine Plinthe ist eine flache Platte unter der Skulptur, meist aus dem gleichen Material.
