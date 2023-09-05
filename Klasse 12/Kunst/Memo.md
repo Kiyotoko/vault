@@ -18,10 +18,22 @@ tags:
 - Material
 - Größe (Monumental hin zu Klein)
 
-## Begriffe
+## Epochen
+
+### Renaissance
 
 Der Kontrapost ist eine Stellung mit Standbein/Spielbein; wirkt wie kurzes Innehalten in einer Bewegung.
 
+### Spätrenaissance
+
 Figura Serpentinata ist eine sich fließend aufwärts bewegende Gestalt mit einer in sich gedrehten Körperachse – wobei diese Drehung keineswegs durch die Handlung begründet sein muss.
 
+### Beginn der Moderne
+
 Eine Plinthe ist eine flache Platte unter der Skulptur, meist aus dem gleichen Material.
+
+## Objektkunst
+
+- Ready made: ein zur Kunst umgewidmetes Industrieprodukt
+- Mit dieser „Antikunst“ stellt Duchamp 1917 die traditionelle Kunstauffassung in Frage. Eine Provokation, die bis heute nachwirkt.
+- Akkumulation = Zusammensetzung von vielen gleichen, industriell angefertigten Stücken
