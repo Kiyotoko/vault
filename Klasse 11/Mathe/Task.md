@@ -1530,7 +1530,7 @@ $y=-\frac{1}{2}x^2+x^2+x$
 # Matritxen
 
 $\begin{pmatrix}1&2&4\\2&4&3\\5&4&3\end{pmatrix}$
-v
+
 # Storastik
 
 ## 2023-03-07
@@ -2091,3 +2091,30 @@ $s=\frac{109}{72}$
 $t=- \frac{49}{36}$
 
 $\vec{OS}=\vec{OA}+\mu\vec{AD}+\epsilon\vec{AD}$
+
+## 2023-09-05
+
+$g:\vec{x}=\begin{pmatrix}t-2\\-3t+1\\5\end{pmatrix}+k\begin{pmatrix}1\\2\\3\end{pmatrix}$
+
+$A(3|-4|11)$
+$\begin{pmatrix}3\\-4\\11\end{pmatrix}=\begin{pmatrix}1\\-8\\5\end{pmatrix}+k\begin{pmatrix}1\\2\\3\end{pmatrix}$
+
+$k=2$
+
+- - -
+
+$\begin{pmatrix}2\\-17\\2\end{pmatrix}=\begin{pmatrix}t-2\\-3t+1\\5\end{pmatrix}+k\begin{pmatrix}1\\2\\3\end{pmatrix}$
+
+$2=5+3k$
+$k=-1$
+$2=t-2-1$
+$5=t$
+$-17=-15+1-2$
+$-17\ne-16$
+Es gibt kein t, für das $B\in g_{t}$.
+
+- - -
+
+$g:\vec{x}=\begin{pmatrix}t+1\\-2-t\\2\end{pmatrix}+k\begin{pmatrix}2\\-1\\0\end{pmatrix}$
+$P(8|-7|2)$
+
