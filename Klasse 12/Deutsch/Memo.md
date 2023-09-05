@@ -21,14 +21,16 @@ tags:
 ### Struktur
 
 1. Einleitung
-	- 
-2. Hauptteil
-3. Schluss
+	- Bedeutung/Relevanz
+1. Hauptteil
+	- 3. Argumente
+2. Schluss
+	- Zusammenfassung
 
 ### IDEMA-Methode
 
-- *Inventio* Ideen sammeln
-- *Dispositio* Gliederung der Gedanken
-- *Elocutio* Ausformulieren der Rede
-- *Memoria* Einprägung der Rede
-- *Actio* Rede Vortragen
+- *Inventio* Ideen sammeln (Canvas, Tabelle, Liste)
+- *Dispositio* Gliederung der Gedanken (Einstieg, Hauptteil, Schluss)
+- *Elocutio* Ausformulieren der Rede (Stil, Mittel, Pausen)
+- *Memoria* Einprägung der Rede (Karteikarten)
+- *Actio* Rede Vortragen (Mimik, Gestik, Betonung, Augenkontakt, Tempo, Lautstärke)
