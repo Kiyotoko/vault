@@ -367,7 +367,7 @@ Memes
 Pullover
 
 - - -
-**Karl Zschiebsch - Inventur**
+**Karl - Inventur**
 
 Dies sind meine Bücher,
 dies sind meine Mangas,

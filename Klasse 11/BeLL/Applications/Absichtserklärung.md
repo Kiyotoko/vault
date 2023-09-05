@@ -15,7 +15,7 @@ tags:
 
 # Absichtserklärung BeLL
 
-Ich, Karl Zschiebsch, Abiturjahrgang 2024, möchte eine BeLL zum Thema „Vergleich von privaten Kommunikationsnetzen Tor, Mixnets und VPNs anhand einer Simulationsumgebung“ bei Herrn Komischke in Informatik schreiben.
+Ich, Karl, Abiturjahrgang 2024, möchte eine BeLL zum Thema „Vergleich von privaten Kommunikationsnetzen Tor, Mixnets und VPNs anhand einer Simulationsumgebung“ bei Herrn Komischke in Informatik schreiben.
 
 Private Kommunikationsnetze gewinnen in einer zunehmend digitalisierten Welt an Wichtigkeit. Die existierenden Schutzmaßnahmen unterscheiden sich stark in Performance und gebotenem Schutz gegen verschiedene Arten von Angriffen.
 

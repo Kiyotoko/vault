@@ -14,4 +14,4 @@ Sports clubs in particular help to integrate refugees. Participating in sports c
 Unfortunately, this has not always been the case. Just a few decades ago, guest workers in Germany were treated badly and exploited. So it is all the more wonderful to be able to talk about participation and equal opportunities today!
 
 With kind regards
-Karl Zschiebsch
+Karl
