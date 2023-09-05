@@ -43,9 +43,17 @@ Joseph Goebbels, Wahlkampfrede
 - - -
 
 Wollmäuse!
-Alle Lebewesen haben ihre Berechtigung. Viele setzen sich für mehr Tierschutz ein: Doch dabei wird ein ganz besonderes Tier vergessen:
+Alle Lebewesen haben ihre Berechtigung. Viele setzen sich für mehr Tierschutz ein. Viele für mehr Artenschutz. Doch dabei wird eine ganz besonders gefährdete Art vergessen:
 Wollmäuse!
 Haben sie jemals über das Geheime Liebesleben der Wollmäuse nachgedacht?
 Wenn nicht, dann sind sie hier genau richtig!
+Hier sind drei Gründe, wieso sie mehr auf Wollmäuse achten sollten!
 
-Wollmäuse erfüllen unser leben! Wortwörtlich.
+Erstens: Wollmäuse erfüllen unser leben! Wortwörtlich. Ob unterm Bett, überm Schrank vor dem Zimmer, im Zimmer: Wollmäuse leben überall. Wollmäuse, mit ihren Putzigen Nasen, bereichern einfach euer Leben.
+Zweitens: Die Kultur der Wollmäuse ist so alt wie die Geschichte der Erde, und somit um mehr als das tausend fache älter als die Geschichte der Menschheit!
+Drittens: Wollmäuse stellen mit ihren komplexen Sozialstrukturen eine eigene Gesellschaft dar. Wissenschaftler haben gezeigt, das Wollmäuse die komplexeste Gesellschaft auf Erden haben.
+
+Doch eine dunkle Macht hat seinen langen Schatten über die Idylle der Wollmäuse geworfen: Staubsauger!
+Diese garstigen Viecher saugen die süßen Mäuse in ihr dunkles Höllenmaul, um sie für immer zu vernichten. Sie sind über all, unter uns, in unserem Haushalt! Helfen sie mit, und verbannen auch sie Staubsauger aus ihrem Haushalt, um das Idyll der Wollmäuse weiter bestehen zu lassen!
+
+Vielen Dank!
