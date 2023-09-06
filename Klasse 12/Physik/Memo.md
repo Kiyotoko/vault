@@ -75,3 +75,10 @@ $F_{r}(t)=-Dy(t)$
 
 ### Eigenfrequenz Federschwinger
 
+$w_{0}=\sqrt{\frac{D}{m}}$
+$f_{0}=\frac{1}{2\pi} \sqrt{\frac{D}{m}}$
+$T_{0}=2\pi \sqrt{\frac{m}{D}}$
+
+### Periodendauer Fadenpendel
+
+$\vartheta$
