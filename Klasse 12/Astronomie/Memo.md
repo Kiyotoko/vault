@@ -31,7 +31,13 @@ Die Absorption von Teilen der elektromagnetischen Strahlung beim Durchgang durch
 
  Bezeichnung für die charakteristische Radiostrahlung des neutralen Wasserstoffs. Der auch verwendete Ausdruck 21-cm-Linie rührt von der entsprechenden Wellenlänge im Vakuum her. In der Radioastronomie spielt diese Strahlung eine wichtige Rolle, weil ihre Untersuchung Auskunft über die Dichteverteilung, Geschwindigkeit und Temperatur von Wasserstoffatomen im Universum gibt.
 
-## Hydrostatisches Gleichgewicht
+## Sternenentwicklung
+
+### Sternenentstehung
+
+Sterne entstehen aus Wasserstoff, der in riesigen Gaswolken im Weltall vorkommt. Die Entstehung beginnt, wenn die Gasteilchen durch die Gravitationskraft zu verdichten beginnen. Im Zentrum der Wolke sammeln sich immer mehr Wasserstoffteilchen an, was die Gravitationskraft erhöht und weitere Teilchen anzieht. Dies führt zur Bildung einer Gaskugel. Der steigende Druck im Inneren erhöht die Temperaturen auf etwa 10 Millionen Grad Celsius. Bei dieser Hitze verschmelzen die Wasserstoffteilchen und setzen Strahlung frei, die der Gravitation entgegenwirkt. Ab diesem Punkt spricht man von einem Stern.
+
+### Hydrostatisches Gleichgewicht
 
 Das Hydrostatische Gleichgewicht ist ein mechanisches Gleichgewicht zwischen Gravitation und Auftrieb.
 
