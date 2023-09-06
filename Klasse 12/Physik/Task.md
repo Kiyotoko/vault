@@ -45,3 +45,16 @@ $\omega=\sqrt{\frac{g}{R}}$
 
 $a(t)\sim y(t)$
 $a(t)\sim-\omega^{2}y(t)$
+
+## 2023-09-06
+
+$f_{0}=\frac{1}{2\pi}\sqrt{\frac{D}{m}}$
+
+$\lim\limits_{D\to\infty}f_{0}=\infty$
+$\lim\limits_{D\to0}f_{0}=0$
+
+$\lim\limits_{m\to\infty}f_{0}=0$
+$\lim\limits_{m\to0}f_{0}=\infty$
+
+Begründung
+Es gilt $F=D \cdot y(t)=m \cdot a$. Da bei gleicher Kraft die Masse steigt, ist relativ gesehen die Federkonstante kleiner, und umgekehrt.
