@@ -64,11 +64,11 @@ Gleichung geht auf, Punkt lieft in der Ebene.
 $2x+3y-z=1.5$
 
 2 der Koordinaten mit Parametern ersetzen
-$x=k\quad y=t$
-$2k+3t-z=1.5$
+$x=t\quad y=k$
+$2t+3k-z=1.5$
 
 Dritte Koordinate in Abhängigkeit von den Parametern darstellen
-$z=2k+3t-1.5$
+$z=2t+3k-1.5$
 
 $\vec{x}=\begin{pmatrix}0\\0\\-1.5\end{pmatrix}+t\begin{pmatrix}1\\0\\2\end{pmatrix}+k\begin{pmatrix}0\\1\\3\end{pmatrix}$
 
