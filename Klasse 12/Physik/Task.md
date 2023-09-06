@@ -58,3 +58,6 @@ $\lim\limits_{m\to0}f_{0}=\infty$
 
 Begründung
 Es gilt $F=D \cdot y(t)=m \cdot a$. Da bei gleicher Kraft die Masse steigt, ist relativ gesehen die Federkonstante kleiner, und umgekehrt.
+
+- - -
+

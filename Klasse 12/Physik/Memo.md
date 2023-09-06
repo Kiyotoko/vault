@@ -84,3 +84,13 @@ $T_{0}=2\pi \sqrt{\frac{m}{D}}$
 $w_{0}=\sqrt{\frac{g}{l}}$
 $f_{0}=\frac{1}{2\pi} \sqrt{\frac{g}{l}}$
 $T_{0}=2\pi \sqrt{\frac{l}{g}}$
+
+## Energieerhaltung einer harmonischen Schwingung
+
+|                | $E_{\text{kin}}$   | $E_{{pot}}$         |
+| -------------- | ------------------ | ------------------- |
+| Federschwinger | $\frac{m}{2}v^{2}$ | $\frac{1}{2}Dx^{2}$ |
+| Fadenpendel    | $\frac{m}{2}v^{2}$ | $mgh$               |
+
+$E_{ges}=E_{pot}+E_{kin}=\frac{1}{2}Dx(t)^{2}+ \frac{1}{2}mv(t)^{2}=\frac{1}{2}D(\hat{x}\cos{\omega t})^{2}+ \frac{1}{2}m (-\hat{x}\omega \sin{\omega t})^{2}$
+$\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E_{ges}\cos^{2}{\omega t}+E_{ges}\sin^{2}{\omega t}=E_{ges}(\cos^{2}{\omega t}+\sin^{2}{\omega t})=E_{ges}$
