@@ -29,4 +29,10 @@ Die Absorption von Teilen der elektromagnetischen Strahlung beim Durchgang durch
 
 ### Wasserstofflinie
 
- Bezeichnung für die charakteristische Radiostrahlung des neutralen Wasserstoffs. Der auch verwendete Ausdruck 21-cm-Linie rührt von der entsprechenden Wellenlänge im Vakuum her. In der Radioastronomie spielt diese Strahlung eine wichtige Rolle, weil ihre Untersuchung Auskunft über die Dichteverteilung, Geschwindigkeit und Temperatur von Wasserstoffatomen im Universum gibt. 
+ Bezeichnung für die charakteristische Radiostrahlung des neutralen Wasserstoffs. Der auch verwendete Ausdruck 21-cm-Linie rührt von der entsprechenden Wellenlänge im Vakuum her. In der Radioastronomie spielt diese Strahlung eine wichtige Rolle, weil ihre Untersuchung Auskunft über die Dichteverteilung, Geschwindigkeit und Temperatur von Wasserstoffatomen im Universum gibt.
+
+## Hydrostatisches Gleichgewicht
+
+Das Hydrostatische Gleichgewicht ist ein mechanisches Gleichgewicht zwischen Gravitation und Auftrieb.
+
+In der Astrophysik bedeutet dies, dass bei größeren Himmelskörpern wie zum Beispiel Sterne eine Schichtung gibt, die durch Materialien unterschiedlicher Dichte hervorgerufen wird. Hierbei stellt sich für jede Schichtgrenze ein Gleichgewicht zwischen der Anziehungskraft darunterliegender Masse und dem durch verschiedene physikalische Vorgänge erzeugten Druck ein, so dass sich infolge der Rotation eine annähernde Kugelform ergibt.
