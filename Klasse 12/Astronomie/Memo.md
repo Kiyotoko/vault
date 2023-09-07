@@ -17,7 +17,7 @@ Interstellare Materie wird mit der elektromagnetischen Strahlung und dem galakti
 
 ## Chemische und physikalische Eigenschaften
 
-## Analysemethode
+### Analysemethode
 
 ### Interstellare Absorption
 
