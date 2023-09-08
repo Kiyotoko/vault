@@ -32,4 +32,8 @@ Der Human Development Index der Vereinten Nationen ist ein Indikator für Staate
 
 ### Geodeterminismus
 
+Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt, dass die unterschiedliche Wirtschaftsentwicklung in verschiedenen Teilen der Welt in erster Linie durch die natürliche Ausstattung bestimmt ist.
+
 ### Bedürfnispyramide
+
+![](Working%20Materials/Globale%20Disparität/Bedürfnispyramide.jpeg)

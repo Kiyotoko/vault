@@ -31,3 +31,11 @@ tags:
 
 ## Pflichtenethik nach Immanuel Kant - Der gute Wille
 
+- **Pflichtgemäß**: äußeren Gesetzen entsprechend
+	- Beweggründe liegen nicht in mir
+	- **Beispiel**: Ich habe Pflichgemäß meinen Dienst verrichtet.
+- **aus Pflicht**: durch eigene Vernunft verpflichtet
+	- Handlung nur auf Basis der Moralität der Handlung an sich
+	- frei von Absichten
+	- keine Betrachtung von Folgen
+	- **Beispiel**: Ich habe mich verpflichtet gefühlt zu helfen.
