@@ -49,3 +49,7 @@ tags:
 - meine Maximen bilden meine Lebenspraxis
 - spiegeln den Charakter wider
 - Teil der Identität einer Personengruppe
+
+-> Subjektives Gesetz, nach dem man wirklich handelt
+-> Subjektive Gründe des Wollens
+-> Übergeordnetes Handlungsprinzip
