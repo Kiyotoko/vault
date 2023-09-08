@@ -23,4 +23,9 @@ Glücksseligkeit machen Mut und somit auch Übermut, was wiederum schlecht ist.
 ## 2023-09-08
 
 Eine Handlung aus Pflicht ist rein moralisch gut und wird  auf Grund ihrer Moralität ausgeführt. Sie geschieht frei von Gefühlen, Neigungen, etc.
-Bei einer pflichtgemäße Handlung unterliegt die Handlung einem subjektiven Beweggrund. Es ist eine Selbstverpflichtung
+Bei einer pflichtgemäße Handlung unterliegt die Handlung einem subjektiven Beweggrund. Es ist eine Selbstverpflichtung durch die selbst entwickelte Moral.
+
+- - -
+
+Maxime sind Handlungsregeln
+Praxisnahe Gewohnheiten

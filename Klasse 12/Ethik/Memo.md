@@ -31,6 +31,8 @@ tags:
 
 ## Pflichtenethik nach Immanuel Kant - Der gute Wille
 
+### Pflichtgemäß und aus Pflicht Handeln
+
 - **Pflichtgemäß**: äußeren Gesetzen entsprechend
 	- Beweggründe liegen nicht in mir
 	- **Beispiel**: Ich habe Pflichgemäß meinen Dienst verrichtet.
@@ -39,3 +41,11 @@ tags:
 	- frei von Absichten
 	- keine Betrachtung von Folgen
 	- **Beispiel**: Ich habe mich verpflichtet gefühlt zu helfen.
+
+### Was sind Maximen?
+
+- praktische Handlungsgrundsätze
+- "von Gewohnheit geprägt"
+- meine Maximen bilden meine Lebenspraxis
+- spiegeln den Charakter wider
+- Teil der Identität einer Personengruppe
