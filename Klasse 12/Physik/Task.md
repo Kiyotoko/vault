@@ -63,8 +63,24 @@ Es gilt $F=D \cdot y(t)=m \cdot a$. Da bei gleicher Kraft die Masse steigt, ist 
 
 |     | 1   | 6   | 7   |
 | --- | --- | --- | --- |
-| A   | 119 | 30  | 11  |
-| B   | 122 | 31  | 17  |
+| B   | 119 | 30  | 11  |
+| A   | 122 | 31  | 17  |
 
-A: Absolut/Reibungskraft = konst.
-B: Relativ/Reibungskraft ~ Geschwindigkeit
+B: Absolut/Reibungskraft = konst.
+A: Relativ/Reibungskraft ~ Geschwindigkeit
+
+- - -
+
+$m=2kg$
+$D=400 \frac{N}{m}$
+$x=0.03m$
+
+$T=2\pi\sqrt{\frac{D}{m}}=0.444s$
+$E_{ges}=\frac{1}{2}Dx^{2}=0.18J$
+
+- - -
+
+$E_1=0.99E_0$
+$E_2=0.99*0.99E_1$
+
+$\Delta E=0.18-0.18$
