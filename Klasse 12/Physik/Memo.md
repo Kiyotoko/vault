@@ -97,7 +97,7 @@ $\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E
 
 ## Gedämpfte Schwingung
 
-Reibungskraft = konst.
+### Reibungskraft = konst.
 
 $W_{R}=\Delta E=F_{R}(\hat{y}_{1}+\hat{y}_{2})$
 $\Delta E=\frac{1}{2} D \hat{y}^{2}_{1}- \frac{1}{2}D\hat{y}^{2}_{2}$
@@ -110,3 +110,27 @@ $\hat{y}_{2}=\hat{y}_{1}-\frac{2F_{R}}{D}$
 
 Amplitude nimmt linear  über die Zeit ab.
 $\hat{y}_{n+1}=\hat{y}_{n}- \frac{2F_{R}}{D}$
+
+### Reibungskraft ~ Geschwindigkeit
+
+Ansatz
+$\vec{F_{s}}=-D\hat{y}$
+$\vec{F_{R}}=-b\vec{v}$
+$\vec{F_{ges}}=\vec{F_{s}}+\vec{F_{R}}$
+
+$m\vec{a}=-D\vec{y}-b\vec{v}$
+$m \frac{d^{2}\vec{y}}{dt}=-D\vec{y}-b \frac{d\vec{y}}{dt}$
+
+Lösung
+$y(t)=\hat{y}e^{-st}\cos{\omega t}\quad \text{ mit } \delta=\frac{b}{2m}$
+$\omega=\sqrt{\frac{D}{m}-\delta^{2}}$
+$f=\frac{1}{2\pi}\sqrt{\frac{D}{m}-\delta^{2}}$
+
+$\hat{y}(t)=\hat{y}e^{-st}$
+$y(t)=\hat{y}(t)\cos{(\omega t)}$
+
+## Starke Dämpfung
+
+(Aperiodischer Grenzfall: $\omega_{0}=\delta$)
+
+(Kriechfall: $\omega_{0}<\delta$)
