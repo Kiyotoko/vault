@@ -58,3 +58,13 @@ $\lim\limits_{m\to0}f_{0}=\infty$
 
 Begründung
 Es gilt $F=D \cdot y(t)=m \cdot a$. Da bei gleicher Kraft die Masse steigt, ist relativ gesehen die Federkonstante kleiner, und umgekehrt.
+
+## 2023-09-11
+
+|     | 1   | 6   | 7   |
+| --- | --- | --- | --- |
+| A   | 119 | 30  | 11  |
+| B   | 122 | 31  | 17  |
+
+A: Absolut/Reibungskraft = konst.
+B: Relativ/Reibungskraft ~ Geschwindigkeit
