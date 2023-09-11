@@ -4,6 +4,8 @@ Das **Fermi-Paradoxon** ist ein Widerspruch, den der Physiker 1950 aufzeigte. Da
 
 > „Sind wir Menschen die einzige technisch fortschrittliche Zivilisation im Universum?“
 
+Zur Erklärung des Paradoxons gibt es mehrere Ansätze; dabei kann zwischen prinzipiellen Argumenten (die auf Grund der Naturgesetze für sämtliche Zivilisationen gleichermaßen gelten) und schwachen Argumenten unterschieden werden. 
+
 ## Prinzipielle Argumente
 
 ### Hypothese der ungewöhnlichen Erde
@@ -84,3 +86,6 @@ Das **Fermi-Paradoxon** ist ein Widerspruch, den der Physiker 1950 aufzeigte. Da
 - Überlegungen, uns selbst zu tarnen, sprechen für die Möglichkeit anderer, technisch höher entwickelter Gesellschaften, dies viel besser zu können.
 
 ### Sie existieren - wir ignorieren sie
+
+- Dies ist in etlichen Science-Fiction-Romanen und -Filmen verarbeitet worden, so unter anderem in Per Anhalter durch die Galaxis, und wird ebenso bei Deutungen von UFO-Sichtungen, Verschwörungstheorien und von Anhängern verschiedener Pseudowissenschaften vertreten (siehe z. B. Prä-Astronautik oder Exopolitik).
+- Vielfach wird davon ausgegangen, dass unsere heutige Technik nicht in der Lage ist, extraterrestrische Kommunikationsversuche aufzunehmen, zu verarbeiten oder zu entschlüsseln, bzw. dass ein Signal nicht als Kommunikationsversuch erkannt wird.
