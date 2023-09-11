@@ -94,3 +94,19 @@ $T_{0}=2\pi \sqrt{\frac{l}{g}}$
 
 $E_{ges}=E_{pot}+E_{kin}=\frac{1}{2}Dx(t)^{2}+ \frac{1}{2}mv(t)^{2}=\frac{1}{2}D(\hat{x}\cos{\omega t})^{2}+ \frac{1}{2}m (-\hat{x}\omega \sin{\omega t})^{2}$
 $\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E_{ges}\cos^{2}{\omega t}+E_{ges}\sin^{2}{\omega t}=E_{ges}(\cos^{2}{\omega t}+\sin^{2}{\omega t})=E_{ges}$
+
+## Gedämpfte Schwingung
+
+Reibungskraft = konst.
+
+$W_{R}=\Delta E=F_{R}(\hat{y}_{1}+\hat{y}_{2})$
+$\Delta E=\frac{1}{2} D \hat{y}^{2}_{1}- \frac{1}{2}D\hat{y}^{2}_{2}$
+
+$F_{R}(\hat{y}_{1}+\hat{y}_{2})=\frac{1}{2}D(\hat{y}^{2}_{1}-\hat{y}^{2}_{2})$
+$F_{R}(\hat{y}_{1}+ \hat{y}_{2})=\frac{1}{2}D(\hat{y}_{1}+\hat{y}_{2})(\hat{y}_{1}-\hat{y}_{2})$
+$F_{R}=\frac{1}{2}D(\hat{y}_{1}-\hat{y}_{2})$
+$\frac{2F_{R}}{D}=(\hat{y}_{1}-\hat{y}_{2})$
+$\hat{y}_{2}=\hat{y}_{1}-\frac{2F_{R}}{D}$
+
+Amplitude nimmt linear  über die Zeit ab.
+$\hat{y}_{n+1}=\hat{y}_{n}- \frac{2F_{R}}{D}$
