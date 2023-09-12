@@ -1158,7 +1158,7 @@ $E_{2}\vec{x}=\begin{pmatrix}0\\8\\0\end{pmatrix}+k\begin{pmatrix}0\\0\\4\end{pm
 
 Geraden gleichsetzen
 $E_{1}=E_{2}$
-```js
+```python
 >>> solve([] + r[] + s[] = [] + k[] + t[], r, s, k, t)
 r=0 and s=(c-1) and t=(c+1)/2 and k=c
 ```
@@ -1169,7 +1169,57 @@ $\vec{x}=\begin{pmatrix}6\\0\\4\end{pmatrix}+s\begin{pmatrix}-3\\4\\-4\end{pmatr
 Oder zwei Parameter mit Variable einsetzen
 $\vec{x}=\begin{pmatrix}0\\8\\0\end{pmatrix}+c\begin{pmatrix}0\\0\\4\end{pmatrix}+ \frac{c+1}{2}\begin{pmatrix}6\\-8\\0\end{pmatrix}$
 $\vec{x}=\begin{pmatrix}0\\8\\0\end{pmatrix}+\begin{pmatrix}3c\\ -4c-4\\4c\end{pmatrix}=\begin{pmatrix}3\\4\\0\end{pmatrix}+c\begin{pmatrix}3\\-4\\4\end{pmatrix}$
+Ebenen schneiden sich!
 
+
+**Beispiel**
+$E_{1}:\vec{x}=\begin{pmatrix}1\\1\\1\end{pmatrix}+r\begin{pmatrix}2\\3\\1\end{pmatrix}+s\begin{pmatrix}1\\-2\\4\end{pmatrix}$
+$E_{2}:\vec{x}=\begin{pmatrix}1\\1\\1\end{pmatrix}+r\begin{pmatrix}4\\6\\2\end{pmatrix}+s\begin{pmatrix}2\\-4\\8\end{pmatrix}$
+```python
+r=2c and s=2c and t=c and k=c
+```
+Die Parameter der Ebenen sich Vielfache von einander.
+Ebenen sind identisch!
+
+### Ebenen gegeben in Koordinatenform
+
+$E_{1}:3x-2y+z=10$
+$E_{2}:x+2y-2z=-2$
+
+$E_{1}+E_{2}:4x-z=8$
+
+Wir ersetzen einen Parameter
+$4x-t=8$
+$4x=8+t$
+$x=2+ \frac{1}{4}t$
+
+In Ebene einsetzen
+$2+ \frac{1}{4}t+2y-2t=-2$
+$2y=-4+ \frac{7}{4}t$
+$y=-2+ \frac{7}{8}t$
+
+$\vec{x}=\begin{pmatrix}2\\-2\\0\end{pmatrix}+t\begin{pmatrix} \frac{1}{4}\\ \frac{7}{8}\\1\end{pmatrix}$
+
+Identische Ebenen sind Vielfache voneinander
+$E_{1}:2x+y-3z=1$
+$E_{2}:6x+3y-9z=3$
+
+Parallele Ebenen sind keine Vielfache voneinander, aber die beiden Normalenvektoren sind vielfache
+$E_{1}:2x+y-3z=1$
+$E_{2}:6x+3y-9z=5$
+
+### Ebenen in Parameter- und Koordinatenform
+
+$E_{1}:x+2y-z=2$
+$E_{2}:\vec{x}=\begin{pmatrix}1\\3\\2\end{pmatrix}+k\begin{pmatrix}3\\1\\-2\end{pmatrix}+t\begin{pmatrix}1\\4\\1\end{pmatrix}$
+
+Parameterform in Koordinatenform einsetzen
+$1+3k+t+2(3+k+4t)-(2-2k+t)=2$
+$7k+8t+5=2$
+$t=- \frac{3}{8}- \frac{7}{8}k$
+
+Parameter in Parameterform einsetzen
+$\vec{x}=\begin{pmatrix}1\\3\\2\end{pmatrix}+k\begin{pmatrix}3\\1\\-2\end{pmatrix}+(- \frac{3}{8}- \frac{7}{8}k)\begin{pmatrix}1\\4\\1\end{pmatrix}=\begin{pmatrix} \frac{5}{8}\\ \frac{5}{2}\\ \frac{13}{8}\end{pmatrix}+k\begin{pmatrix} \frac{17}{8}\\- \frac{5}{2}\\-3\end{pmatrix}$
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
