@@ -2122,3 +2122,21 @@ $P(8|-7|2)$
 $g_{a}:\vec{x}=\begin{pmatrix}6\\8\\5\end{pmatrix}+r\begin{pmatrix}1+2k\\2-2k\\2+k\end{pmatrix}$
 
 $P\Big(6+r(1+2k)\Big|8+r(2-2k)\Big|5+r(2+k)\Big)$
+
+- - -
+
+$E_{1}:3x-y+2z=-1$
+$E_{2}:2x+2y-2z=3$
+
+$5x+y=2$
+$y=t$
+
+$5x+t=2$
+$x=\frac{2}{5}+ \frac{1}{5}t$
+
+$2z=-1-3x-y$
+$2z=-1- \frac{6}{5} - \frac{3}{5}t-t$
+$2z=- \frac{11}{5}-\frac{8}{5}t$
+$z=- \frac{11}{10}- \frac{4}{5}t$
+
+$\vec{x}=\begin{pmatrix} \frac{2}{5}\\ 0\\ - \frac{11}{10}\end{pmatrix}+t\begin{pmatrix} \frac{1}{5}\\1 \\ - \frac{4}{5}\end{pmatrix}$
