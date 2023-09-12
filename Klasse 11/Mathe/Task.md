@@ -2117,3 +2117,8 @@ Es gibt kein t, für das $B\in g_{t}$.
 
 $g:\vec{x}=\begin{pmatrix}t+1\\-2-t\\2\end{pmatrix}+k\begin{pmatrix}2\\-1\\0\end{pmatrix}$
 $P(8|-7|2)$
+## 2023-09-12
+
+$g_{a}:\vec{x}=\begin{pmatrix}6\\8\\5\end{pmatrix}+r\begin{pmatrix}1+2k\\2-2k\\2+k\end{pmatrix}$
+
+$P\Big(6+r(1+2k)\Big|8+r(2-2k)\Big|5+r(2+k)\Big)$

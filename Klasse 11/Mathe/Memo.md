@@ -1144,6 +1144,32 @@ $\vec{FS}=\sqrt{(\frac{9}{4})^{2}+ (\frac{3}{4})^{2}}=2.34m$
 Laserstrahl geht von $L(3|4|2)$. Gesucht ist der Schattenpunkt von $P(1|2|-3)$ in der x-y-Ebene.
 Lichtstrahl $\vec{x}=\begin{pmatrix}3\\4\\2\end{pmatrix}+k\begin{pmatrix}-2\\-2\\-5\end{pmatrix}$
 
+## Lagebeziehungen von Ebenen
+
+- identisch
+- parallel
+- Schnittgerade
+
+### Ebenen gegeben in Parameterform
+
+**Beispiel**
+$E_{1}: \vec{x}=\begin{pmatrix}6\\0\\4\end{pmatrix}+r\begin{pmatrix}-3\\0\\4\end{pmatrix}+s\begin{pmatrix}-3\\4\\-4\end{pmatrix}$
+$E_{2}\vec{x}=\begin{pmatrix}0\\8\\0\end{pmatrix}+k\begin{pmatrix}0\\0\\4\end{pmatrix}+t\begin{pmatrix}6\\-8\\0\end{pmatrix}$
+
+Geraden gleichsetzen
+$E_{1}=E_{2}$
+```js
+>>> solve([] + r[] + s[] = [] + k[] + t[], r, s, k, t)
+r=0 and s=(c-1) and t=(c+1)/2 and k=c
+```
+
+Parameter mit Konstante in einer der Ebenen einsetzen
+$\vec{x}=\begin{pmatrix}6\\0\\4\end{pmatrix}+s\begin{pmatrix}-3\\4\\-4\end{pmatrix}$
+
+Oder zwei Parameter mit Variable einsetzen
+$\vec{x}=\begin{pmatrix}0\\8\\0\end{pmatrix}+c\begin{pmatrix}0\\0\\4\end{pmatrix}+ \frac{c+1}{2}\begin{pmatrix}6\\-8\\0\end{pmatrix}$
+$\vec{x}=\begin{pmatrix}0\\8\\0\end{pmatrix}+\begin{pmatrix}3c\\ -4c-4\\4c\end{pmatrix}=\begin{pmatrix}3\\4\\0\end{pmatrix}+c\begin{pmatrix}3\\-4\\4\end{pmatrix}$
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
