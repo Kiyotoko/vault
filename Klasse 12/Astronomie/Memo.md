@@ -49,8 +49,8 @@ In der Astrophysik bedeutet dies, dass bei größeren Himmelskörpern wie zum Be
 
 #### Luminosität
 
-Leuchtkraft ist die abgestrahlte Leistung der Sonne. 
+Die Leuchtkraft ($L$) ist die von der Sonne abgestrahlte Leistung. Sie wird bestimmt, indem man die Energie misst, die auf die Innenfläche einer Kugel trifft, die sich in einer Entfernung von $R$ um die Sonne befindet. Durch Berechnung der Energie, die diese Fläche erreicht, erhält man die Leuchtkraft. Die Leuchtkraft der Sonne kann mit der Formel
 
-Man bestimmt sie, indem in aus einer Entfernung $R$ die Energie misst, die auf einer Fläche aufkommt. Indem man die Energie der Fläche für die Kugel errechnet, erhält man die Energie.
-Die Leuchtkraft wird mit $L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$ berechnet.
-Leuchtkraft der Sonne $L=3.8\cdot10^{23}kW$
+$L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$
+
+berechnet werden, wobei $L$ die Leuchtkraft, $R$ die Entfernung, $\sigma$ die Stefan-Boltzmann-Konstante und $T_{O}$​ die Oberflächentemperatur der Sonne ist. Die Leuchtkraft der Sonne beträgt $L=3.8\cdot10^{23}kW$
