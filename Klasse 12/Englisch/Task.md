@@ -26,7 +26,7 @@ MICHAEL MAYER
 Here is Michael Müller, am I speaking with Maria Müller from the Messe Essen GmbH?
 
 MARIA MÜLLER
-Yes, that's right! Thank you for the call some days ago. I am quite sorry, that you couldn't reach me, because I was not available during lunch break. Which information do you need for the Schweisen&Schneiden fair?
+Speaking. Thank you for the call some days ago. I am quite sorry, that you couldn't reach me, because I was not available during lunch break. Which information do you need for the Schweisen&Schneiden fair?
 
 MICHAEL MAYER
 Thank you for your fast response. I have tryed to reach you for the prices of the trade fair stand for tree days as well the size of the trade fair stand.
