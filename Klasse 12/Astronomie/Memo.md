@@ -49,5 +49,8 @@ In der Astrophysik bedeutet dies, dass bei größeren Himmelskörpern wie zum Be
 
 #### Luminosität
 
-Leuchtkraft ist die abgestrahlte Leistung der Sonne. Die Leuchtkraft wird mit $L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$ berechnet.
-$L=3.8\cdot10^{23}kW$
+Leuchtkraft ist die abgestrahlte Leistung der Sonne. 
+
+Man bestimmt sie, indem in aus einer Entfernung $R$ die Energie misst, die auf einer Fläche aufkommt. Indem man die Energie der Fläche für die Kugel errechnet, erhält man die Energie.
+Die Leuchtkraft wird mit $L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$ berechnet.
+Leuchtkraft der Sonne $L=3.8\cdot10^{23}kW$
