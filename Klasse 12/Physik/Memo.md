@@ -210,3 +210,5 @@ $f_{0}=\frac{1}{2\pi}\sqrt{\frac{1}{LC}}$
 
 $U_{l}=U_{R}+U_{C}$
 $U=R \cdot I=R \frac{dQ}{dt}$
+$-L \frac{d^{2}Q}{dt}=R \frac{dQ}{dt}+ \frac{Q}{C}$
+$\omega=\sqrt{\omega_{0}^{2}-\delta^{2}}\quad\text{ mit }\delta= \frac{R}{2L}$
