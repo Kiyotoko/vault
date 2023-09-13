@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Kunst
+  - FGB
+---
+
+
 # Plastik
 
 ## 2023-09-05

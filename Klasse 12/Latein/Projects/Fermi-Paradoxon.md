@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+  - Latein
+  - FGB
+---
+
 # Inhalte
 
 Das **Fermi-Paradoxon** ist ein Widerspruch, den der Physiker 1950 aufzeigte. Das Paradoxon hinterfragt die Wahrscheinlichkeit intelligenten Lebens. Es versucht, eine grundlegende Frage zu beantworten:
