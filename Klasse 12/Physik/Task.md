@@ -83,4 +83,12 @@ $E_{ges}=\frac{1}{2}Dx^{2}=0.18J$
 $E_1=0.99E_0$
 $E_2=0.99*0.99E_1$
 
-$\Delta E=0.18-0.18$
+$\frac{E_{1}}{E_{2}}=0.99=\frac{\frac{1}{2}D\hat{y}_{1}^{2}}{\frac{1}{2}D\hat{y}_{0}^{2}}\to \frac{\hat{y}_{1}}{\hat{y}_{0}}=\sqrt{0.99}$
+$\hat{y}(t)=\hat{y}_{0}e^{-\delta t}\quad\text{ mit }\delta=\frac{b}{2m}$
+$\hat{y}_{1}=\hat{y}(t=T)=\hat{y}_{0}^{-\delta T}$
+$\frac{\hat{y}_{1}}{\hat{y}_{2}}=\frac{\hat{y}_{0}e^{-\delta T}}{\hat{y}_{0}}=\sqrt{0.99}\to e^{-\delta T}=\sqrt{0.99}$
+$e^{-\delta T}=\sqrt{0.99}$
+$-\delta T=\ln{\sqrt{0.99}}=\ln{0.99^{\frac{1}{2}}}=\frac{1}{2}\ln{0.99}$
+$\delta=\frac{-\ln{0.99}}{2T}$
+$\frac{b}{2m}=\frac{-\ln{0.99}}{2T}$
+$b=\frac{-m\ln{0.99}}{T}=\frac{-2kg\ln0.99}{0.444s}=0.045 \frac{kg}{s}$

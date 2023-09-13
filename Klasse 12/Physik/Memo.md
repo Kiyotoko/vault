@@ -97,6 +97,9 @@ $\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E
 
 ## Gedämpfte Schwingung
 
+$\delta=\frac{b}{2m}$
+$\omega=\sqrt{\omega_{0}^{2}-\delta^{2}}$
+
 ### Reibungskraft = konst.
 
 $W_{R}=\Delta E=F_{R}(\hat{y}_{1}+\hat{y}_{2})$
@@ -129,8 +132,18 @@ $f=\frac{1}{2\pi}\sqrt{\frac{D}{m}-\delta^{2}}$
 $\hat{y}(t)=\hat{y}e^{-st}$
 $y(t)=\hat{y}(t)\cos{(\omega t)}$
 
-## Starke Dämpfung
+### Starke Dämpfung
 
 (Aperiodischer Grenzfall: $\omega_{0}=\delta$)
 
 (Kriechfall: $\omega_{0}<\delta$)
+
+## Resonanz
+
+> Anregung und schwingendes System befinden sich in Resonanz, wenn die Erregerfrequenz und die Eigenfrequenz des Systems gleich sind.
+
+### Erzwungene Schwingung
+
+
+> Je mehr  sich die Eregerfreqenz einer Eigenfrequenz des Systems nähert, desto mehr Energie pro Periode wird vom Erreger auf dem Oszillator übertragen Im Resonanzfall ist die Energieübertragung maximal.
+
