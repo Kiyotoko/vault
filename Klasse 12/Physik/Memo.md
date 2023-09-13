@@ -168,7 +168,45 @@ $f>f_{0}\quad\Delta\varphi=\pi$
 
 **Skizze** ohne Dämpfung
 
+![](Working%20Materials/Schwingungen/Elektrischer%20Schwingkreis%20ohne%20Dämpfung.png)
 
 **Skizze** mit Dämpfung
 
 ![](Working%20Materials/Schwingungen/Elektrischer%20Schingkreis%20mit%20Dämpfung.png)
+
+### Vergleich elektrischer Schwingkreis mit Federschwinger
+
+| Schwingkreis                                 | Federschwinger                                    |
+| -------------------------------------------- | ------------------------------------------------- |
+| Kondensator wird geladen (maximale Spannung) | Wird gespannt (maximale Auslenkung)               |
+| Wird mit Spule verbunden (Schalter umlegen)  | Massestück wird losgelassen                       |
+| Spannung nimmt ab; Stromstärke wird größer   | Auslenkung nimmt ab, Geschwindigkeit wird größer  |
+| Spannung ist null; Stromstärke maximal       | Auslenkung ist null; Geschwindigkeit maximal      |
+| Spannung nimmt zu; Stromstärke wird kleiner  | Auslenkung nimmt zu; Geschwindigkeit wird kleiner |
+| Spannung maximal; Stromstärke ist null       | Auslenkung maximal; Geschwindigkeit ist null      |
+
+- Energie Schwingkreis
+	- $E_{el}=\frac{1}{2}CU^{2}$
+	- $E_{mag}=\frac{1}{2}LI^{2}$
+
+- Energie Federschwinger
+	- $E_{pot}=\frac{2}{2}Dy^{2}$
+	- $E_{kin}=\frac{1}{2}mv^{2}$
+
+### Ohne Dämpfung
+
+
+$U_{L}=-L \frac{dI}{dt}=-L \frac{d}{dt}(\frac{dQ}{dt})=-L \frac{d^{2}Q}{dt^{2}}$
+
+$U_{L}=U_{C}$
+$-L \frac{d^{2}Q}{dt^{2}}=\frac{Q}{C}$
+
+$-\frac{d^{2}Q}{dt^{2}}=\frac{1}{LC}Q$
+
+$w_{0}=\sqrt{\frac{1}{LC}}$
+$f_{0}=\frac{1}{2\pi}\sqrt{\frac{1}{LC}}$
+
+### Mit Dämpfung
+
+$U_{l}=U_{R}+U_{C}$
+$U=R \cdot I=R \frac{dQ}{dt}$
