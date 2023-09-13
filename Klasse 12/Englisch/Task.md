@@ -52,3 +52,17 @@ Thank you for your help. I am glad to receive the offer. I wish them another nic
 MARIA MÜLLER
 Thank you for your interest. I look forward to hearing from you.
 ```
+
+## 2023-09-13
+
+- Balance between speaking and listening
+- Don't multitask
+- Don't pontificate
+- Go with the flow
+- Use open ended questions
+- Say that you don't know
+- Don't equate experience
+- Try not to repeat yourself
+- Stay of the weeds
+- Listen
+- Be brief
