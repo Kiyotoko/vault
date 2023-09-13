@@ -33,12 +33,21 @@ Die Absorption von Teilen der elektromagnetischen Strahlung beim Durchgang durch
 
 ## Sternenentwicklung
 
-### Sternenentstehung
+### Grundlegende Vorgänge
+
+#### Sternenentstehung
 
 Sterne entstehen aus Wasserstoff, der in riesigen Gaswolken im Weltall vorkommt. Die Entstehung beginnt, wenn die Gasteilchen durch die Gravitationskraft zu verdichten beginnen. Im Zentrum der Wolke sammeln sich immer mehr Wasserstoffteilchen an, was die Gravitationskraft erhöht und weitere Teilchen anzieht. Dies führt zur Bildung einer Gaskugel. Der steigende Druck im Inneren erhöht die Temperaturen auf etwa 10 Millionen Grad Celsius. Bei dieser Hitze verschmelzen die Wasserstoffteilchen und setzen Strahlung frei, die der Gravitation entgegenwirkt. Ab diesem Punkt spricht man von einem Stern.
 
-### Hydrostatisches Gleichgewicht
+#### Hydrostatisches Gleichgewicht
 
 Das Hydrostatische Gleichgewicht ist ein mechanisches Gleichgewicht zwischen Gravitation und Auftrieb.
 
 In der Astrophysik bedeutet dies, dass bei größeren Himmelskörpern wie zum Beispiel Sterne eine Schichtung gibt, die durch Materialien unterschiedlicher Dichte hervorgerufen wird. Hierbei stellt sich für jede Schichtgrenze ein Gleichgewicht zwischen der Anziehungskraft darunterliegender Masse und dem durch verschiedene physikalische Vorgänge erzeugten Druck ein, so dass sich infolge der Rotation eine annähernde Kugelform ergibt.
+
+### Methoden zur Bestimmung von Zustandsgrößen
+
+#### Luminosität
+
+Leuchtkraft ist die abgestrahlte Leistung der Sonne. Die Leuchtkraft wird mit $L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$ berechnet.
+$L=3.8\cdot10^{23}kW$
