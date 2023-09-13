@@ -142,8 +142,28 @@ $y(t)=\hat{y}(t)\cos{(\omega t)}$
 
 > Anregung und schwingendes System befinden sich in Resonanz, wenn die Erregerfrequenz und die Eigenfrequenz des Systems gleich sind.
 
+![](Working%20Materials/Schwingungen/Resonanz.gif)
+
 ### Erzwungene Schwingung
 
 
 > Je mehr  sich die Eregerfreqenz einer Eigenfrequenz des Systems nähert, desto mehr Energie pro Periode wird vom Erreger auf dem Oszillator übertragen Im Resonanzfall ist die Energieübertragung maximal.
 
+Erregerfrequenz $f$
+Eigenfrequenz $f_{0}$
+
+$f<f_{0}\quad\Delta\varphi\approx0$
+
+![](Working%20Materials/Schwingungen/Erzwungen%200.png)
+
+$f=f_{0}\quad\Delta\varphi=\frac{\pi}{2}$
+
+![](Working%20Materials/Schwingungen/Erzwungen%20pi2.png)
+
+$f>f_{0}\quad\Delta\varphi=\pi$
+
+![](Working%20Materials/Schwingungen/Erzwungen%20pi.png)
+
+### Elektrischer Schwingkreis
+
+**Skizze** ohne Dämpfung
