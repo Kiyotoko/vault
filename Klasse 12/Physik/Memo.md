@@ -167,3 +167,8 @@ $f>f_{0}\quad\Delta\varphi=\pi$
 ### Elektrischer Schwingkreis
 
 **Skizze** ohne Dämpfung
+
+
+**Skizze** mit Dämpfung
+
+![](Working%20Materials/Schwingungen/Elektrischer%20Schingkreis%20mit%20Dämpfung.png)
