@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Deutsch
+  - FGB
+---
+
+
 # Der Kampf um Anerkennung
 
 Im Jahr 1990 erfolgte die Wiedervereinigung Deutschlands, was für viele den Beginn einer neuen Ära markierte. Doch wo eine neue Ära beginnt, geht auch immer eine andere zu Ende. Das Ende der DDR brachte für viele Menschen Freiheit, jedoch auch Arbeitslosigkeit und Unsicherheit. Diejenigen, die in der DDR im Staatsdienst standen, wurden über Nacht arbeitslos - ein Schock, der bis heute nachhallt.

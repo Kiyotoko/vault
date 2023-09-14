@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Geographie
+  - FGB
+---
+
+
 # Methoden zur Rekonstruktion von Palaoklima
 
 Die Paläoklimatologie ist die Untersuchung von Klimata, für die keine direkten Messungen vorgenommen wurden.

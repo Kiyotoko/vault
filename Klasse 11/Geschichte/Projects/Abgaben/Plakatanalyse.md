@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Geschichte
+  - FGB
+---
+
+
 # „Durch Koalition zum Sozialismus! Wählt kommunistisch!“
 
 Die KPD vertrat die Arbeiterbewegung und empfand dabei die SPD und USPD als zu gemäßigt. Ihr Ziel war es, die Revolution in Deutschland nach dem Vorbild der Sowjetunion zu vollenden, was zu Spaltungen und zu Unruhen führte^[https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/kpd.html]. Doch inwieweit spiegelte sich dieses Bild in den Wahlplakaten der Partei wider?
