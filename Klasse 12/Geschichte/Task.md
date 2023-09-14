@@ -48,3 +48,18 @@ tags:
 	- Bedürftige werden damit im Stich gelassen
 	- Extreme Positionen werden durch die Not der Bedürftigen attraktiver
 	- KPD und NSDAP erhalten mehr stimmen
+
+## 2023-09-14
+
+- Wirtschaftlich
+	- 40 % Produktionsrückgang
+	- Entlassungen
+	- Bankenschließung, keine Auszahlungen
+	- Kredite wurden nicht mehr verliehen
+	- Reparationszahlungen wurden nicht mehr verliehen
+- Politisch
+	- Zusammenbruch der SPD-Koalition
+	- Radikalisierung + Extremisierung
+- Gesellschaftlich
+	- Arbeitslosigkeit + Armut
+	- Hungerstreik
