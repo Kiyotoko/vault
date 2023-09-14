@@ -26,5 +26,8 @@ Sollte man aufgrund der Klimakrise und der anderen näherkommenden ökologischen
 - Ökonomisch wäre es langfristig schlecht, da eine Entwicklung in den Entwicklungsländern die Globalisierung und den Weltmarkt weiter voranbringen würden und es mehr wirtschaftliche Konkurrenz und Austausch geben könnte
 
 Welche Rollen spielen Industrieländer wie Deutschland bei der Gestaltung dieser Herausforderung?
-- Länder wie Deutschland spielen eine tragende Rolle bei der Gestaltung der Entwicklung von Entwicklungs- und Schwellenländern, da ihre Investition und Wissen benötigt wird, um solche Länder voran zubringen
-- 
+- Länder wie Deutschland spielen eine tragende Rolle bei der Gestaltung der Entwicklung von Entwicklungs- und Schwellenländern
+- **Entwicklungshilfe**: Die Investitionen von Industrieländern wird benötigt, um Entwicklungsländer voran zubringen
+- **Handel**: Industrieländer sind wichtige Handelspartner für Entwicklungs- und Schwellenländer, da sie Handelsabkommen und -vereinbarungen aushandeln, die den Zugang dieser Länder zu ihren Märkten erleichtern und den Export fördern
+- **Technologietransfer**: Industrieländer verfügen oft über fortschrittliche Technologien und Know-how
+- **Politische Einflussnahme**: Industrieländer haben in internationalen Organisationen wie den Vereinten Nationen und der Weltbank einen erheblichen politischen Einfluss
