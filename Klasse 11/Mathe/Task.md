@@ -2140,3 +2140,25 @@ $2z=- \frac{11}{5}-\frac{8}{5}t$
 $z=- \frac{11}{10}- \frac{4}{5}t$
 
 $\vec{x}=\begin{pmatrix} \frac{2}{5}\\ 0\\ - \frac{11}{10}\end{pmatrix}+t\begin{pmatrix} \frac{1}{5}\\1 \\ - \frac{4}{5}\end{pmatrix}$
+
+## 2023-09-14
+
+$H(-5|12|0)$
+$C(8|12|0)$
+$D(-5|14|0)$
+
+$V=15.6m^{3}$
+$V=A_{G}\cdot h$
+
+$\bar{HD}=2m$
+$\bar{HC}=13m$
+
+$A_{G}=\frac{2m\cdot12m}{2}=13m^{2}$
+$h=\frac{V}{A_{G}}=1.2m$
+
+$H'(-5|12|-1.2)$
+$C'(8|12|-1.2)$
+$D'(-5|14|-1.2)$
+
+- - -
+
