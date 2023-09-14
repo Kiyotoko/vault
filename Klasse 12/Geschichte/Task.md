@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+  - Geschichte
+  - FGB
+---
+
 # Demokratie und Diktatur
 
 ## 2023-09-12
@@ -21,3 +28,8 @@
 - Europäische Banken hatten kein Geld mehr
 - Weimarer Republik war mit ihren Schulden besonders betroffen
 - Armut stieg, NSDAP erhielt Stimmenzuwachs
+
+- - -
+
+- Abbau von Sozialleistungen zur Bekämpfung der Inflation
+- Geldwertstabilität soll erreicht werden

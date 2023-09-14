@@ -65,3 +65,36 @@ Nach der Modellierung der verwalteten Daten unterscheidet man folgende Datenbank
 - Regel 4a: Jede 1:n-Beziehung ohne eigene Attribute wird so dargestellt, dass der Pri- märschlüssel des 1-Entitätstyps Fremdschlüssel des n-Entitätstyps wird.
 - Regel 4b: Jede 1:1-Beziehung ohne eigene Attribute wird so dargestellt, dass der Pri- märschlüssel des ersten Entitätstyps beim zweiten Entitätstyp Primär- und Fremdschlüs- sel zugleich wird.
 - Regel 4c: Sind Regel 4a oder 4b nicht anwendbar, dann wird für die Beziehung eine gesonderte Tabelle angelegt.
+
+## Normalisation
+
+### 1. Normalform
+
+Jedes Attribut der Relation muss einen atomaren Wertebereich haben, und die Relation muss frei von Wiederholungsgruppen sein.
+
+Atomar heißt, dass zusammengesetzte, mengenwertige oder geschachtelte Wertebereiche (also Relationen wertige Attributwertebereiche) nicht erlaubt sind. In einer Relation, die sich in 1NF befindet, gibt es kein Attribut, dessen Wertebereich in weitere (sinnvolle) Teilbereiche aufgespaltet werden kann. 
+
+**Problem**
+![](Working%20Materials/Datenmodellierung%20und%20Datenbanken/1.%20Problem.png)
+
+**Lösung**
+![](Working%20Materials/Datenmodellierung%20und%20Datenbanken/1.%20Lösung.png)
+### 2. Normalform
+
+Jedes nicht-primäre Attribut (nicht Teil eines Schlüssels) ist jeweils von allen **ganzen** Schlüsseln abhängig, nicht nur von einem Teil eines Schlüssels. Wichtig ist hierbei, dass die Nichtschlüsselattribute wirklich von _allen_ Schlüsseln vollständig abhängen.
+
+**Problem**
+![](Working%20Materials/Datenmodellierung%20und%20Datenbanken/2.%20Problem.png)
+
+**Lösung**
+![](Working%20Materials/Datenmodellierung%20und%20Datenbanken/2.%20Lösung.png)
+
+### 3. Normalform
+
+Eine Relation befindet sich in der 3. Normalform, wenn sie die 2. NF erfüllt und keine funktionalen Abhängigkeiten der Nichtschlüssel-Attribute (hellgraue Zellen in der Tabelle) untereinander bestehen. Solche Abhängigkeiten bezeichnet man auch als **transitive** Abhängigkeiten. Weiterhin müssen alle Nichtschlüssel voll funktional abhängig vom Schlüsselattribut sein.
+
+**Problem**
+![](Working%20Materials/Datenmodellierung%20und%20Datenbanken/3.%20Problem.png)
+
+**Lösung**
+![](Working%20Materials/Datenmodellierung%20und%20Datenbanken/3.%20Lösung.png)
