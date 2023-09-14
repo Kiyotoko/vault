@@ -2162,8 +2162,11 @@ $D'(-5|14|-1.2)$
 
 - - -
 
-$E(4|0|12)$
+$M_{CD}=\frac{1}{2}\Bigg(\begin{pmatrix}8 \\ 12 \\ 0\end{pmatrix}+\begin{pmatrix}-5 \\ 14 \\ 0\end{pmatrix}\Bigg)=\begin{pmatrix}1.5 \\ 13 \\ 0\end{pmatrix}$
+$g:\vec{x}=\begin{pmatrix}1.5\\13\\0\end{pmatrix}+k\begin{pmatrix}2.5\\-13\\12\end{pmatrix}$
 
-$E:\vec{x}=\begin{pmatrix}8\\12\\0\end{pmatrix}+k \begin{pmatrix}13\\-2 \\  0\end{pmatrix}$
-
-$M_{CD}=\begin{pmatrix}8 \\ 12 \\ 0\end{pmatrix}+ \frac{1}{2}\begin{pmatrix}-5 \\ 14 \\ 0\end{pmatrix}$
+$F(8|12|8)$
+$|\vec{PF}|=\sqrt{(8-1.5-2.5k)^{2}+(12-13+12k)^{2}+(8-12k)^{2}}$
+$\frac{d}{dk}(\sqrt{(8-1.5-2.5k)^{2}+(12-13+12k)^{2}+(8-12k)^{2}})=0$
+$k=0.39$
+$P(2.475|7.93|4.68)$
