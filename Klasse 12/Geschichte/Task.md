@@ -9,14 +9,13 @@ tags:
 
 ## 2023-09-12
 
-- Weltwirtschaft stieg in den Goldenen Zwanzigern
-- Weltwirtschaftskriese 1929
-- Ursachen
+- Ursachen der Weltwirtschaftskriege
+	- Weltwirtschaft stieg in den Goldenen Zwanzigern
+	- Weltwirtschaftskriese 1929
 	- Rapides Wirtschaftswachstum
 	- Zunahme an Börseninvestitionen
 	- Wunsch nach Kreditaufnahme
 	- Aktienhandle wird Massenfähig
-- Folgen
 	- Vertrauen in die Wirtschaft
 	- Massenhafte Aktienkäufe
 	- Aktienkurse steigen schneller als Realwirtschaft
@@ -24,20 +23,28 @@ tags:
 	- Langsamer Aufwärtstrend führte zu Panik der Anleger
 	- Massenhaft wurden Aktien verkauft
 	- Kursabstürze an amerikanischer Börse
-- Amerikanische Banken riefen Kredite zurück
-- Europäische Banken hatten kein Geld mehr
-- Weimarer Republik war mit ihren Schulden besonders betroffen
-- Armut stieg, NSDAP erhielt Stimmenzuwachs
 
-- - -
+- Folgen für die Weimarer Republik
+	- Amerikanische Banken riefen Kredite zurück
+	- Europäische Banken hatten kein Geld mehr
+	- Weimarer Republik war mit ihren Schulden besonders betroffen
+	- Armut stieg, NSDAP erhielt Stimmenzuwachs
 
 - Brüningers Deflationspolitik
-- Abbau von Sozialleistungen zur Bekämpfung der Inflation
-- Geldwertstabilität soll erreicht werden, um Kredit- und Reparationszahlungen des Auslands zu erfüllen
-- Bei der Not der Bevölkerung stieß seine Verordnung auf immer weniger zuspruch
-- Bevölkerung liefen zur KPD oder zur NSDAP über
-- Mit seinem Rücktritt scheiterte seine Politik
+	- Abbau von Sozialleistungen zur Bekämpfung der Inflation
+	- Geldwertstabilität soll erreicht werden, um Kredit- und Reparationszahlungen des Auslands zu erfüllen
+	- Bei der Not der Bevölkerung stieß seine Verordnung auf immer weniger zuspruch
+	- Bevölkerung liefen zur KPD oder zur NSDAP über
+	- Mit seinem Rücktritt scheiterte seine Politik
 
-- - -
+- Reichsregierung
+	- Minderheitskabinett gebildet vom Reichskanzler Brüning
+	- Mit Unterstützung vom Reichspräsident Hindenburgs wird "am Reichstag vorbei" regiert
+	- Reichstag und Reichspräsident hatten zusammen ausreichend Macht, um alles mögliche durchzusetzen
 
-- Minderheitskabinett gebildet von Brüning mit Unterstüzun Hindenburgs
+- Mentalität
+	- Armut und Arbeitslosigkeit stieg
+	- Entscheidungen der Regierung zu Sparen sorgt für Kürzung von Sozialleistungen
+	- Bedürftige werden damit im Stich gelassen
+	- Extreme Positionen werden durch die Not der Bedürftigen attraktiver
+	- KPD und NSDAP erhalten mehr stimmen
