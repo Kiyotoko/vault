@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+  - Geographie
+  - FGB
+---
+
 # Globale Disparität und Verflechtungen
 
 ## Indikatoren zur Messung von Länderunterschieden
@@ -6,18 +13,14 @@
 
 #### Bruttoinlandsprodukt
 
-- Gesamtwert aller Güter, Waren & Dienstleistungen an, die im Laufe eines Jahres innerhalb einer Landesgrenze einer Volkswirtschaft hergestellt werden
-- Es wird nicht berücksichtigt:
-	- Einwohnerzahl
-	- Kaufkraft im jeweiligen Land
-	- Vermögensverteilung
+Das Bruttoinlandsprodukt ist der Gesamtwert aller Güter, Waren & Dienstleistungen, die im Laufe eines Jahres innerhalb einer Landesgrenze einer Volkswirtschaft hergestellt werden.
 
-| Stärken                                          | Schwächen                            |
-| ------------------------------------------------ | ------------------------------------ |
-| - Unterscheidung Industrie- & Entwicklungsländer | - Berücksichtigt Einwohnerzahl nicht |
-|                                                  | - Kaufkraft im jeweiligen Land       |
-|                                                  | - Informelle Wirtschaft/Sektor       |
-|                                                  | - Vermögensverteilung                |
+| Stärken                                        | Schwächen                          |
+| ---------------------------------------------- | ---------------------------------- |
+| Unterscheidung Industrie- & Entwicklungsländer | Berücksichtigt Einwohnerzahl nicht |
+| Einfach messbar                                | Kaufkraft im jeweiligen Land       |
+|                                                | Informelle Wirtschaft/Sektor       |
+|                                                | Vermögensverteilung                |
 
 ### GINI-Koeffizienten
 
