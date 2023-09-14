@@ -2162,3 +2162,8 @@ $D'(-5|14|-1.2)$
 
 - - -
 
+$E(4|0|12)$
+
+$E:\vec{x}=\begin{pmatrix}8\\12\\0\end{pmatrix}+k \begin{pmatrix}13\\-2 \\  0\end{pmatrix}$
+
+$M_{CD}=\begin{pmatrix}8 \\ 12 \\ 0\end{pmatrix}+ \frac{1}{2}\begin{pmatrix}-5 \\ 14 \\ 0\end{pmatrix}$
