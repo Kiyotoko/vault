@@ -31,5 +31,13 @@ tags:
 
 - - -
 
+- Brüningers Deflationspolitik
 - Abbau von Sozialleistungen zur Bekämpfung der Inflation
-- Geldwertstabilität soll erreicht werden
+- Geldwertstabilität soll erreicht werden, um Kredit- und Reparationszahlungen des Auslands zu erfüllen
+- Bei der Not der Bevölkerung stieß seine Verordnung auf immer weniger zuspruch
+- Bevölkerung liefen zur KPD oder zur NSDAP über
+- Mit seinem Rücktritt scheiterte seine Politik
+
+- - -
+
+- Minderheitskabinett gebildet von Brüning mit Unterstüzun Hindenburgs
