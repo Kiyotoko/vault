@@ -81,7 +81,7 @@ kategorischer (absolut allgemeingültig) Imperativ (Gesetz/Gebot/Befehl der Vern
 	- keine Betrachtung der Folgen
 	- unbedingt
 - objektiv durch die Vernunft erschlossen/durch die Vernunft als notwendig erkannt
-	- allgemeingültig (jeder Mensch hat die "gleiche" Vernuft/Vernuftbegabung)
+	- allgemeingültig (jeder Mensch hat die "gleiche" Vernunft/Vernunftbegabung)
 	- apodiktischer Urteil (eine unstrittige Aussage)
 
 > Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.
@@ -90,3 +90,20 @@ Der kategorische Imperativ ist ein Prüfverfahren für Maximen.
 -> Kann ich mit gutem Willen wollen, dass jeder so handelt?
 
 ### Funktionsweise des Kategorischen Imperatives
+
+Aus Klugheit
+- nur vermeintlicher Vorteil für mich
+- Folgen nicht absehbar -> egal wie Klug oder Erfahren
+- moralisches Handeln muss frei sein von Erfahrungen
+- heteronome (fremdbestimmte) Handlung durch Betrachtung der Folgen
+	- keine Willensfreiheit
+	- keine moralische Handlung
+- Aus Klugheit, da beruhend auf Erfahrungen, kann laut Kant nie eine moralische Handlung folgen
+
+Aus Pflicht
+- Zwei Gedankenexperimente im kategorischen Imperativ:
+	1. Generalisierung: Wenn ich ab und zu Lügen darf, dürften es auch alle anderen.
+	2. Kann ich das Wollen? Kann ich wollen, dass es allen Menschen erlaubt ist zu Lügen?
+- durch die Verallgemeinerung entsteht ein Widerspruch
+- ich kann diese Maxime nicht widerspruchsfrei wollen können
+- keine moralische Handlung

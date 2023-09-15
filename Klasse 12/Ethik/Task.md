@@ -29,3 +29,10 @@ Bei einer pflichtgemäße Handlung unterliegt die Handlung einem subjektiven Bew
 
 Maxime sind Handlungsregeln
 Praxisnahe Gewohnheiten
+
+## 2023-09-15
+
+- Aus Klugheit zu lügen kann manchmal sehr Vorteilhaft sein
+- Aus Pflicht wahrhaft zu sein ist perse nicht schlecht, da es schon Gesetz für einem selbst ist
+- Man kann nicht wollen, dass Lügen zum allgemeinen Gesetz wird, da das Versprechen unsinnig
+- Somit stellt das allgemeine Gesetz einen Wiederspruch mit meinen Maximen an sich dar
