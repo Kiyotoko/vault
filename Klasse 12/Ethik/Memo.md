@@ -31,6 +31,8 @@ tags:
 
 ## Pflichtenethik nach Immanuel Kant - Der gute Wille
 
+> Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.
+
 ### Pflichtgemäß und aus Pflicht Handeln
 
 - **Pflichtgemäß**: äußeren Gesetzen entsprechend
@@ -53,3 +55,38 @@ tags:
 -> Subjektives Gesetz, nach dem man wirklich handelt
 -> Subjektive Gründe des Wollens
 -> Übergeordnetes Handlungsprinzip
+
+## Hypothetischer und kategorischer Imperativ
+
+### Hypothetischer Imperativ
+
+hypothetischer (ungesichert/zweifelhafter) Imperativ (Gesetz/Gebot/Befehl der Vernunft)
+- Wenn ..., dann ...
+- beruhen immer auf Erfahrungen
+- dienen immer einem Zweck
+- können somit kein moralisches Gesetz der Vernunft sein, da nicht rein aus Pflicht gehandelt wird
+
+hypothetische Imperative erhalten eines der folgenden Urteile
+- problematisches Urteil
+	- mögliche Aussage
+	- **Beispiel** Wenn ich Lotto spiele, dann könnte ich reich werden.
+- assertorisches Urteil
+	- wirkliche Aussage
+	- **Beispiel** Wenn ich regelmäßig trainiere, dann werde ich fitter.
+
+### Kategorischer Imperativ
+
+kategorischer (absolut allgemeingültig) Imperativ (Gesetz/Gebot/Befehl der Vernunft)
+- frei von Erfahrungen, Zielen und Absichten
+	- keine Betrachtung der Folgen
+	- unbedingt
+- objektiv durch die Vernunft erschlossen/durch die Vernunft als notwendig erkannt
+	- allgemeingültig (jeder Mensch hat die "gleiche" Vernuft/Vernuftbegabung)
+	- apodiktischer Urteil (eine unstrittige Aussage)
+
+> Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.
+
+Der kategorische Imperativ ist ein Prüfverfahren für Maximen.
+-> Kann ich mit gutem Willen wollen, dass jeder so handelt?
+
+### Funktionsweise des Kategorischen Imperatives
