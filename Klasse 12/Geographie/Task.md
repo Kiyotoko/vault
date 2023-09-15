@@ -12,7 +12,7 @@ tags:
 *Was wäre, wenn die aktuellen Entwicklungs- und Schwellenländer eine vergleichbare Entwicklung (Industrialisierung auf Basis fossiler Rohstoffe) hin zu einem Wohlstand wie z.B. in Deutschland durchlaufen würden?*
 
 Wie würde sich das auf die Menschen in den EL und SL auswirken? 
-- Menschen in den Entwicklungs- und Schwellenländern hätten mehr Wohlstand, bessere medizinische Versorgung und Bildung
+- Menschen in den Entwicklungs- und Schwellenländern hätten mehr Wohlstand, bessere medizinische Versorgung und Bildung, demographischer und sozialer Wandel
 
 Wie auf den Planeten?
 - Da mehr Rohstoffe verbraucht werden und mehr CO2 ausgestoßen wird, würde dies wahrscheinlich zu einer globalen Katastrophe führen.
