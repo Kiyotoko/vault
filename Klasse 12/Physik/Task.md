@@ -92,3 +92,49 @@ $-\delta T=\ln{\sqrt{0.99}}=\ln{0.99^{\frac{1}{2}}}=\frac{1}{2}\ln{0.99}$
 $\delta=\frac{-\ln{0.99}}{2T}$
 $\frac{b}{2m}=\frac{-\ln{0.99}}{2T}$
 $b=\frac{-m\ln{0.99}}{T}=\frac{-2kg\ln0.99}{0.444s}=0.045 \frac{kg}{s}$
+
+## 2023-09-18
+
+Wenn sich die Eigenfrequenz verkleinert, dann vergrößert such die Periodendauer ($f=\frac{1}{t}$ bzw. $T=\frac{1}{f}$). Eine größere Kapazität vergrößert die Dauer der Entlade- und Ausladevorgangs des Kondensators und somit die Periodendauer. Daraus folgt eine kleinere Frequenz.
+Eine größere Induktivität vergrößert die Dauer für den "Aufbau" eines elektrischen Stroms im Schwingkreis. Somit wird auch hier die Periodendauer größer. Daraus folgt eine kleinere Frequenz.
+
+- - -
+
+$L=10L_{0}$
+$C=10C_{0}$
+$f_{0}=\frac{1}{2\pi \cdot\sqrt{10L_{0} \cdot 10C_{0}}}=\frac{1}{10} \frac{1}{2\pi} \sqrt{\frac{1}{C_{0}L_{0}}}$
+
+- - -
+
+$C=100pF$
+$f_{0}=2.8 Mhz$
+
+$f_{0}=\frac{1}{2\pi \sqrt{L \cdot C}}$
+$\sqrt{L \cdot C}=\frac{1}{f_{0}2\pi}$
+$L \cdot C=(\frac{1}{f_{0}2\pi})^{2}$
+$L=\frac{(\frac{1}{f_{0}2\pi})^{2}}{C}=3.2309 \cdot10^{-5}H$
+
+- - -
+
+Kondensator einmalig mittels  einer Gleichspannungsquelle aufladen.
+
+Wechselspannungsquelle direkt an Schwingkreis schließen.
+
+![](Working%20Materials/Schwingungen/Wechselspannungsquelle.png)
+
+Durch Induktion über eine zweite Spule.
+![](Working%20Materials/Schwingungen/Induktion%20über%20Spule.png)
+
+- - -
+
+$U_{C}=\hat{U}\cos{(\omega t)}$
+
+$Q=CU$
+$I=\frac{dQ}{dt}=C \frac{dU}{dt}=-C\hat{U}\omega\sin{\omega t}$
+
+$\omega^{2}=\frac{1}{LC}$
+
+$E_{el}=\frac{1}{2}CU^{2}=\frac{1}{2}C\hat{U}^{2}\cos^{2}{(\omega t)}$
+$E_{mag}=\frac{1}{2}LI^{2}=\frac{1}{2}LC^{2}\omega^{2}\hat{U}^{2}\sin^{2}{(\omega t)}=\frac{1}{2}C\hat{U}^{2}\sin^{2}{(\omega t)}$
+
+$E_{ges}=E_{mag}+E_{el}=\frac{1}{2}C\hat{U}^{2}\sin^{2}{(\omega t)}+\frac{1}{2}C\hat{U}^{2}\cos^{2}{(\omega t)}=\frac{1}{2}C\hat{U}^{2}(\sin^{2}{(\omega t)}+\cos^{2}{(\omega t)})=\frac{1}{2}C\hat{U}^{2}$
