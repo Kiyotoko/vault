@@ -217,4 +217,6 @@ $\omega=\sqrt{\omega_{0}^{2}-\delta^{2}}\quad\text{ mit }\delta= \frac{R}{2L}$
 
 **Rückkopplung**: Periodische Zufuhr von Energie in einem schwingenden System.
 
-Meißner: 
+**Schaltplan**
+![](../../Pasted%20image%2020230918090448.png)
+
