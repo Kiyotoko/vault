@@ -213,3 +213,8 @@ $U=R \cdot I=R \frac{dQ}{dt}$
 $-L \frac{d^{2}Q}{dt}=R \frac{dQ}{dt}+ \frac{Q}{C}$
 $\omega=\sqrt{\omega_{0}^{2}-\delta^{2}}\quad\text{ mit }\delta= \frac{R}{2L}$
 
+### Rückkopplungsschaltung nach Meißner
+
+**Rückkopplung**: Periodische Zufuhr von Energie in einem schwingenden System.
+
+Meißner: 
