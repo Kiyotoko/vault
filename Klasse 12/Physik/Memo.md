@@ -220,3 +220,6 @@ $\omega=\sqrt{\omega_{0}^{2}-\delta^{2}}\quad\text{ mit }\delta= \frac{R}{2L}$
 **Schaltplan**
 ![](../../Pasted%20image%2020230918090448.png)
 
+Mit dem Regelbaren Widerstand wird der Arbeitspunkt des Transistors eingestellt. Durch den Schwingkreis wird über die Spule $L_{S}$ eine Wechselspannung in $L_{R}$ induziert. Dadurch liegt auch ein Wechselstrom $I_B$ an der Basis an. Wenn $I_{B}$ maximal ist, schaltet der Transistor in Durchlassrichtung und der Kondensator im Schwingkreis wird wieder auf die maximale Spannung geladen.
+
+**Anwendungen Schwingkreise**: Radio, Fernsehtechnik, Funktechnik

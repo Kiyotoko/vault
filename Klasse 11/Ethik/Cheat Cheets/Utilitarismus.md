@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Ethik
+  - FGB
+---
+
+
 ## Die 4 Grundprinzipien
 
 „Moralisch richtig ist die Handlung, deren Folgen nützlich sind für das Wohlergehen aller Betroffenen.“

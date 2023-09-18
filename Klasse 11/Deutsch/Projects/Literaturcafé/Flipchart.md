@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Deutsch
+  - FGB
+---
+
+
 ![Deutschlandkarte](Deutschlandkarte.jpg)
 
 1. Gehalt in Westdeutschland: 43.939 €
