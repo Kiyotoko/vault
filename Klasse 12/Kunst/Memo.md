@@ -32,6 +32,8 @@ Figura Serpentinata ist eine sich fließend aufwärts bewegende Gestalt mit eine
 
 Eine Plinthe ist eine flache Platte unter der Skulptur, meist aus dem gleichen Material.
 
+Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvollständig. Unvollständigkeit gilt hier als Verlust und Inspiration. Dabei war Auguste Robin der das Unvollständige zum autonomen Gestaltungsprinzip erhob.
+
 ## Objektkunst
 
 - Ready made: ein zur Kunst umgewidmetes Industrieprodukt
