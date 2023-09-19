@@ -57,6 +57,3 @@ Doch eine dunkle Macht hat seinen langen Schatten über die Idylle der Wollmäus
 Diese garstigen Viecher saugen die süßen Mäuse in ihr dunkles Höllenmaul, um sie für immer zu vernichten. Sie sind über all, unter uns, in unserem Haushalt! Helfen sie mit, und verbannen auch sie Staubsauger aus ihrem Haushalt, um das Idyll der Wollmäuse weiter bestehen zu lassen!
 
 Vielen Dank!
-
-## 2023-09-19
-
