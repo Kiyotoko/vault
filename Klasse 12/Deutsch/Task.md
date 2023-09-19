@@ -60,3 +60,6 @@ Vielen Dank!
 
 ## 2023-09-19
 
+- Prolog: Amme
+5. Standlied: Medea ist kurz davor, ihre Kinder zu töten. Chor beklagt die Kinder.
+- Exodus: Chor sagt, dass die Sage beendet wurde.
