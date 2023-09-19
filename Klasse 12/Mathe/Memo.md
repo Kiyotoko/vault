@@ -22,3 +22,9 @@ $\cos{\alpha}=0.439155$
 ### Orthogonalität zweier Vektoren
 
 Zwei Vektoren sind orthogonal zueinander, wenn das Skalarprodukt Null ist.
+
+Unter dem Schnittwinkel zweier Geraden versteht man den kleineren der beiden Winkel.
+
+Winkel im Dreieck können stumpfe Winkel sein. $\cos{\gamma}=\frac{\vec{CA}\cdot\vec{CB}}{|\vec{CA}|\cdot|\vec{CB}|}$
+
+Um $\gamma$ richtig zu berechnen, verwendet man die beiden Vektoren, die vom Punkt $C$ wegführen oder zum Punkt hinführen.
