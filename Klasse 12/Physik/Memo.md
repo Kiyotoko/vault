@@ -244,5 +244,15 @@ $I_{eff}^{2}=\frac{\hat{I}^{2}}{2}$
 $I_{eff}=\frac{\hat{U}}{\sqrt{2}}$
 $U_{eff}=\frac{\hat{U}}{\sqrt{2}}$
 
+### Zeigerdiagramme
 
-Zeigerdiagramme
+**Widerstand**
+
+**Kondensator**
+
+Der Strom eilt der Spannung um $\frac{\pi}{2}$ voraus.
+Kapazitiver Widerstand: 
+$U=\hat{U}\sin{\omega t}$
+$I=\frac{dQ}{dt}=C \frac{dU}{dt}$
+$I=C \frac{dU}{dt}=C\hat{U}\omega\cos{(\omega t)}=\hat{I}\cos{(\omega t)}$
+$U=X_{C}\cdot I\to X_{C}=\frac{U}{I}=\frac{\hat{U}}{C\hat{U}\omega}=\frac{1}{C\omega}$
