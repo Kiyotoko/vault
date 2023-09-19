@@ -28,3 +28,17 @@ Unter dem Schnittwinkel zweier Geraden versteht man den kleineren der beiden Win
 Winkel im Dreieck können stumpfe Winkel sein. $\cos{\gamma}=\frac{\vec{CA}\cdot\vec{CB}}{|\vec{CA}|\cdot|\vec{CB}|}$
 
 Um $\gamma$ richtig zu berechnen, verwendet man die beiden Vektoren, die vom Punkt $C$ wegführen oder zum Punkt hinführen.
+
+### Winkel zwischen zwei Ebenen
+
+$E_{1}-E_{2}$
+$\cos{\alpha}=\frac{\vec{n_{1}}\circ\vec{n_{2}}}{|\vec{n_{1}}|\cdot|\vec{n_{2}}|}$
+
+$\vec{n_{1}}$: Normalvektor von $E_{1}$
+$\vec{n_{2}}$: Normalvektor von $E_{2}$
+
+### Winkel zwischen Gerade und Ebene
+
+$\sin{\alpha}=\frac{\vec{v}\circ\vec{n}}{|\vec{v|\cdot|\vec{n}}|}$
+$\vec{v}$: Richtungsverkter der Geraden
+$\vec{n}$: Normalvektor der Ebene
