@@ -248,6 +248,8 @@ $U_{eff}=\frac{\hat{U}}{\sqrt{2}}$
 
 **Widerstand**
 
+#### Kondensator im Wechselstromkreis
+
 **Kondensator**
 
 Der Strom eilt der Spannung um $\frac{\pi}{2}$ voraus.
@@ -256,3 +258,16 @@ $U=\hat{U}\sin{\omega t}$
 $I=\frac{dQ}{dt}=C \frac{dU}{dt}$
 $I=C \frac{dU}{dt}=C\hat{U}\omega\cos{(\omega t)}=\hat{I}\cos{(\omega t)}$
 $U=X_{C}\cdot I\to X_{C}=\frac{U}{I}=\frac{\hat{U}}{C\hat{U}\omega}=\frac{1}{C\omega}$
+
+#### Spule im Wechselstromkreis
+
+![](Working%20Materials/Schwingungen/Spule%20Im%20Wechselstromkreis.png)
+
+$U=-L \frac{dI}{dt}$
+$I=\hat{I}\sin{(\omega t)}$
+
+$U=-L \frac{d}{dt}\big(\hat{I}\sin{(\omega t)}\big)=-L \omega \hat{I}\cos{(\omega t)}$
+
+**induktiver Widerstand**
+
+$X_{L}=\frac{\hat{U}}{\hat{I}}=\frac{L\omega\hat{I}}{\hat{I}}=L \omega$
