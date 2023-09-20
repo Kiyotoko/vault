@@ -60,7 +60,6 @@ Nach der Modellierung der verwalteten Daten unterscheidet man folgende Datenbank
 
 - Regel 1: Jeder Entitätstyp wird als Tabelle dargestellt. Jede Tabelle benötigt einen Primärschlussel.
 - Regel 2: Jede n:m-Beziehung wird durch eine eigene Tabelle dargestellt.
-- ntitätstypen und die eigenen Attribute enthält.
 - Regel 3: Jede 1:n- und 1:1-Beziehung mit eigenen Attributen wird wie bei Regel 2 durch eine eigene Tabelle dargestellt.
 - Regel 4a: Jede 1:n-Beziehung ohne eigene Attribute wird so dargestellt, dass der Pri- märschlüssel des 1-Entitätstyps Fremdschlüssel des n-Entitätstyps wird.
 - Regel 4b: Jede 1:1-Beziehung ohne eigene Attribute wird so dargestellt, dass der Pri- märschlüssel des ersten Entitätstyps beim zweiten Entitätstyp Primär- und Fremdschlüs- sel zugleich wird.
