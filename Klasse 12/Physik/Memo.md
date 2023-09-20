@@ -272,7 +272,7 @@ $U=-L \frac{d}{dt}\big(\hat{I}\sin{(\omega t)}\big)=-L \omega \hat{I}\cos{(\omeg
 
 $X_{L}=\frac{\hat{U}}{\hat{I}}=\frac{L\omega\hat{I}}{\hat{I}}=L \omega$
 
-### Reihenkondensator
+### Reihenschaltung von Spule, Kondensator & Widerstand
 
 (Siebkette, Siebkreis, Bandpass)
 
@@ -280,10 +280,12 @@ $X_{L}=\frac{\hat{U}}{\hat{I}}=\frac{L\omega\hat{I}}{\hat{I}}=L \omega$
 
 ![](Working%20Materials/Schwingungen/Reihenkondensator.png)
 
-$\hat{U}_{ges}=Z \cdot\hat{I}$
+$U_{R}$ ist Phasenverschoben zur Stromstärke
+$U_C$ ist der Stromstärke hinterher
+$U_L$ ist der Stromstärke voraus
 
+$\hat{U}_{ges}=Z \cdot\hat{I}$
 $Z=\frac{\hat{U}_{ges}}{\hat{I}}=\frac{\sqrt{\hat{U}_{R}^{2}+(\hat{U}_{L}+\hat{U}_{C})^{2}}}{\hat{I}}=\frac{\sqrt{R^{2}\hat{I}^{2}+((\omega L)+ \frac{1}{\omega C} \hat{I})^{2}}}{\hat{I}}=\frac{\sqrt{\hat{I}^{2}+(R^{2}+ (\omega L-\frac{1}{\omega C} \hat{I}))^{2}}}{\hat{I}}=\sqrt{R^{2}+(\omega L- \frac{1}{\omega C})^{2}}$
- 
-Allgemein:
+**Allgemein**
 $Z=\sqrt{R^2+X^{2}}$
 $\text{Indepedanz}=\sqrt{\text{ohmscher Widerstand}^{2}+}$
