@@ -271,3 +271,11 @@ $U=-L \frac{d}{dt}\big(\hat{I}\sin{(\omega t)}\big)=-L \omega \hat{I}\cos{(\omeg
 **induktiver Widerstand**
 
 $X_{L}=\frac{\hat{U}}{\hat{I}}=\frac{L\omega\hat{I}}{\hat{I}}=L \omega$
+
+### Reihenkondensator
+
+(Siebkette, Siebkreis, Bandpass)
+
+**Zeigerdiagramm**
+
+![](Working%20Materials/Schwingungen/Reihenkondensator.png)

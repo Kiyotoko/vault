@@ -149,5 +149,6 @@ $C=100\mu F=10\cdot10^{-4}F$
 
 $X_{C}=\frac{1}{C\omega}$
 $f=\frac{1}{T}=\frac{\omega}{2\pi}$
-$10\cdot10^{-4}F=\frac{1}{10\cdot10^{-4}F\cdot2\pi f}$
-$f=\frac{1}{(10\cdot10^{-4}F)^{2}2\pi}$
+$10\cdot10^{-4}F \cdot2\pi f=\frac{1}{10\cdot10^{-4}F\cdot2\pi f}$
+$f=35.589Hz$
+
