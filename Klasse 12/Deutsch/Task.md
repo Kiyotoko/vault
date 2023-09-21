@@ -57,3 +57,11 @@ Doch eine dunkle Macht hat seinen langen Schatten über die Idylle der Wollmäus
 Diese garstigen Viecher saugen die süßen Mäuse in ihr dunkles Höllenmaul, um sie für immer zu vernichten. Sie sind über all, unter uns, in unserem Haushalt! Helfen sie mit, und verbannen auch sie Staubsauger aus ihrem Haushalt, um das Idyll der Wollmäuse weiter bestehen zu lassen!
 
 Vielen Dank!
+
+## 2023-09-21
+
+1. Der Monolog findet im Vorhof von Medeas Haus in Korinth statt, der Zeitpunkt ist kurz nach der Hochzeit zwischen Iason und Glauke. Der Grund für den Prolog ist die Sorge der Amme das Medea etwas schlimmes macht  
+2. Iason heiratet Glauke.
+3. Handlungen welche während des Prologs ist die Darstellung von Medeas Qualen. Es gibt keine Regieanweisungen  
+4. Der Erzieher bekommt mit das sich die Amme über das elend beklagt und spricht sie darauf an und sie besprechen es. 
+5. Die Bedeutung ist das zeigen der Handlungen welche im Voraus passiert sind.
