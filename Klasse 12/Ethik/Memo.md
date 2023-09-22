@@ -109,3 +109,12 @@ Aus Pflicht
 - keine moralische Handlung
 
 ### Unterschied zwischen Kategorischen Imperativ und "Goldener Regel"
+
+### Formeln des Kategorischen Imperatives
+
+#### Naturgesetzformel
+
+> "Handle so, als ob die Maxime deiner Handlung durch deinen Willen zum allgemeinen Naturgesetze werden sollte."
+
+- Abgrenzung vom positivem Recht
+- Ein natürliches Gesetz, das in uns enthalten ist
