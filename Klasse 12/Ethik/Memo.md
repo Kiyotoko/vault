@@ -122,3 +122,6 @@ Aus Pflicht
 #### Selbstzweckformel
 
 > "Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst."
+
+## Kritik an Kants Ethik
+
