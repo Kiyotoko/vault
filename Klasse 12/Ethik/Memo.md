@@ -107,3 +107,5 @@ Aus Pflicht
 - durch die Verallgemeinerung entsteht ein Widerspruch
 - ich kann diese Maxime nicht widerspruchsfrei wollen können
 - keine moralische Handlung
+
+### Unterschied zwischen Kategorischen Imperativ und "Goldener Regel"
