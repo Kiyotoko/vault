@@ -118,3 +118,7 @@ Aus Pflicht
 
 - Abgrenzung vom positivem Recht
 - Ein natürliches Gesetz, das in uns enthalten ist
+
+#### Selbstzweckformel
+
+> "Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst."
