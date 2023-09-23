@@ -24,6 +24,8 @@ $a(t)=\frac{dv}{dt}=-\hat{y}\omega^{2}\sin{(\omega t)}=-\hat{a}\sin{(\omega t)}$
 
 ### Eigenfrequenz Federschwinger
 
+![Eigenfrequenz Federschwinger](../Working%20Materials/Schwingungen/Eigenfrequenz%20Federschwinger.png)
+
 $w_{0}=\sqrt{\frac{D}{m}}$
 $f_{0}=\frac{1}{2\pi} \sqrt{\frac{D}{m}}$
 $T_{0}=2\pi \sqrt{\frac{m}{D}}$
