@@ -4,6 +4,7 @@ tags:
   - Physik
   - FGN
 ---
+
 ## Größe einer Schwingung
 
 $\hat{y}$ Amplitude (Maximale Auslenkung)
