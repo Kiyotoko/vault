@@ -113,6 +113,17 @@ Parallel zur x-y-Ebene $z=d\ne 0$
 
 x-Achse $by+cz=d$
 
+## Lagebeziehung Ebene-Ebene
+
+- identisch
+- parallel
+- Schnittgerade
+
+## Lagebeziehungen Ebene-Geraden
+
+- Schnittpunkt $g \perp E$
+- Parallel $g\parallel E$
+- Gerade in Ebene $g\in E$
 ## Spezialität bei der Punktprobe
 
 Liegt $P$ im Parallelogramm $ABCD$ mit $A(1|2|3)$, $B(2|5|-1)$, $C(3|-2|1)$ und $D(2|-5|5)$?
