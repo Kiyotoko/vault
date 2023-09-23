@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Physik
+  - FGN
+---
+
+
 ## Magnetische Flussdichte
 
 $B=\frac{F}{I*l}$

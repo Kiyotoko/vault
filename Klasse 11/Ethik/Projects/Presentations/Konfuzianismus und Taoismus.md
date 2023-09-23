@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+  - Ethik
+  - FGB
+---
+
 ## Konfuzianismus
 
 ### Grundlagen

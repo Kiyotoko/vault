@@ -1,50 +1,50 @@
+---
+author: karlz
+tags:
+  - Ethik
+  - FGB
+---
 
-**AB**
 
-__Situation_des_Menschen__
+**Situation des Menschen**
 - Mangelndes Ziel im Leben
 - Unklarheit
 - Angst
-__Hilfe_und_Wirkung__
+Hilfe und Wirkung
 - Beantwortet großer Fragen
 - Verstehung der Wirklichkeit
-__Funktion_von_Religion__	
+**Funktion von Religion**	
 - Phychische Funktion
 - Weltanschaulische Funktion
 - Gesellschaftlich-politische Funktion
-__Moralisch-ethische_sowie_zwischenmenschlich-gemeinschaftliche_Funktion__
+**Moralisch-ethische sowie zwischenmenschlich-gemeinschaftliche Funktion**
 - Ausdrucksform
 - Zufälligen Wirklichkeiten ein Sinnganzes gegenüberzustellen
 - Genesis Kapitel
 
-**AB**
 
-__psychisch__
+**psychisch**
 - Vermittlung unreflektierter Werte
 - Blinder Gehorsam : aka 
 	- "Bitte bringe mal kurz deinen Sohn um, ich habe gerade eine Wette am laufen"
-__politisch__
+**politisch**
 - Eingreifen in die Gesellschaft führ zu mehr problemen als zur Hilfe
 weltanschaulich
 - Altertümliche Weltanschauung, die dem Fortschritt entgegenwirkt
-__moralisch__
+**moralisch**
 - "Wer einen Gott braucht, um zu erkennen, das töten moralisch Fragwürdig ist, dem ist nicht mehr zu helfen."
 - Alles "moralisch" wichtig ist auch in Gesetzen verankert
 - Altertümliche Ideen werden als moralisch Wichtig verankert
 
-**AB**
-
 Die unvollkommenen Menschen glauben an vollkommene Menschen, da sie stets die Hoffnung hegen, selbst vollkommen zu werden.
 
-**AB**
 
 Mensch
 - Endlich
 - Sterblich
 - Beschränktes Wissen
 - Begrenzte Macht
-
-	Projektion = unvewusstes Selbstbewusstsein des Menschen
+> Projektion = unbewusstes Selbstbewusstsein des Menschen
 
 Gott
 - Unsterblich
@@ -52,15 +52,11 @@ Gott
 - Allwissend
 - Allmächtig
 
-
-**AB**
-
 (a)
 Triebtheorie ist die Auffassung, dass der Mensch wesentlich von einer Anzahl endogener (d. h. angeborener) Triebe und Grundbedürfnisse gesteuert wird.
 
 Frustrations-Aggressions-Theorie, derzufolge Aggression immer ein Resultat von Frustration sei. Und: Je stärker die Frustration sei, desto intensiver die aggressive Reaktion.
 
-**AB**
 (a)
 Die Frustrations-Aggressions-Theorie wurde 1939 von John Dollard mit Doob, Miller, Mowrer und Sears in Anlehnung an der von Freud formulierte Hypothese, derzufolge Aggression immer ein Resultat von Frustration sei, entwickelt. 
 
@@ -68,11 +64,11 @@ https://www.spektrum.de/lexikon/psychologie/frustrations-aggressions-theorie/536
 
 (b)
 1. In der Frustrations-Aggressions-Theorie geht es darum, das Aggression aus Frustration entsteht. Dabei verzichtet sie auf einen Unnötigen Aggressionstrieb und nehmen keinen Bezug auf den inneren, emotionalen Zustand. In ihrer strengsten Form führ Frustration immer zu Agression. 
-1. Wenn man ein Ziel verfolgt, und am erreichen scheitert, entsteht Frustration.
-1. In der Strengsten From würde diese Frustration sofort zu Aggression führen. In einer Weiterentwicklung wird zwichen dem Anreiz zur Aggression und offener Aggression unterschieden.
-1. Dabei kann Frustration auch mit Gesprächen oder Lachen abgebaut werden, aber genau so auch mit Aggression.
-1. Eine Erregung führt dabei aber nur dann zu Aggressionen, wenn ein Objekt oder Sachverhalt durch besondere Reize die Agression provoziert.
-1. Der Anreiz der Agression steht mit anderen Reizen in einer Hierarchie., Nur wenn in der Hierarchie es keine höheren Reize gibt, kommt es zur offenen Agression.
+2. Wenn man ein Ziel verfolgt, und am erreichen scheitert, entsteht Frustration.
+3. In der Strengsten From würde diese Frustration sofort zu Aggression führen. In einer Weiterentwicklung wird zwichen dem Anreiz zur Aggression und offener Aggression unterschieden.
+4. Dabei kann Frustration auch mit Gesprächen oder Lachen abgebaut werden, aber genau so auch mit Aggression.
+5. Eine Erregung führt dabei aber nur dann zu Aggressionen, wenn ein Objekt oder Sachverhalt durch besondere Reize die Agression provoziert.
+6. Der Anreiz der Agression steht mit anderen Reizen in einer Hierarchie., Nur wenn in der Hierarchie es keine höheren Reize gibt, kommt es zur offenen Agression.
 
 Nehmen wir zum Beispiel ein Kleinkind. Dieses Kind möchte eine spezielle Schaufel von einem anderen Kind haben. Beim erreichen dieses Ziels scheitert es aber. Dies widerum steigert die Frustration. Um diese abzubauen gibt es nun zwei Optionen: [1] es sucht das Gespräch, oder wahrscheinlicher, da es noch keine großen Sprachkompetenzen entwickelt hat [2], es haut mit der Schippe dem anderen Kind eins über die Rübe. Zur Agression kommt es nur deshalb, weil das zweite Kind durch sein Ablehnen, die Schaufel zu übergeben, die Aggression provoziert.
 

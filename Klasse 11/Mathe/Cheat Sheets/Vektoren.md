@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Mathe
+  - FGB
+---
+
+
 # Dreidimensionaler Vektor
 
 $\vec{ab}=\begin{pmatrix}x_b-x_a\\ y_b-y_a\\ z_b-z_a\end{pmatrix}$

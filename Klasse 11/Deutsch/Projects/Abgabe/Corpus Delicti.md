@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Deutsch
+  - FGB
+---
+
+
 ## Corpus Delicti - Ein Roman, der zu viel will?
 
 Juli Zehs Romanversion ihres gleichnamigen Theaterstückes „Copus Delicti“ ist sowohl Dystopie, Justizdrama, Politikthriller als auch Science-Fiction. Die für ihr Engagement in der Politik bekannt Schriftstellerin versucht vieles in ihrem Roman zu verpacken. Doch gelingt es auch?

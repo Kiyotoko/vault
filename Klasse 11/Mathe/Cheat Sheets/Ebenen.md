@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Mathe
+  - FGB
+---
+
+
 ## Ebenen in Parameterform
 
 ### Parameterdarstellung einer Ebene

@@ -1,3 +1,11 @@
+---
+author: karlz
+tags:
+  - Physik
+  - FGN
+---
+
+
 ## Vorbetrachtung
 
 Kräfteansatz
