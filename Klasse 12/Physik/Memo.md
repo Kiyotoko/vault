@@ -241,7 +241,7 @@ Herleitung
 $RI_{eff}^{2}=R \frac{1}{T}\displaystyle\int_{0}^{T}{\hat{I}\sin^{2}{(\omega t)}}dt=R \frac{1}{T} \frac{\hat{I}}{2}T$
 $I_{eff}^{2}=\frac{\hat{I}^{2}}{2}$
 
-$I_{eff}=\frac{\hat{U}}{\sqrt{2}}$
+$I_{eff}=\frac{\hat{I}}{\sqrt{2}}$
 $U_{eff}=\frac{\hat{U}}{\sqrt{2}}$
 
 ### Zeigerdiagramme
