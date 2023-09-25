@@ -152,3 +152,5 @@ $f=\frac{1}{T}=\frac{\omega}{2\pi}$
 $10\cdot10^{-4}F \cdot2\pi f=\frac{1}{10\cdot10^{-4}F\cdot2\pi f}$
 $f=35.589Hz$
 
+## 2023-09-25
+
