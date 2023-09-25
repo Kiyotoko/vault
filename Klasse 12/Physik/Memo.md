@@ -290,3 +290,10 @@ $Z=\frac{\hat{U}_{ges}}{\hat{I}}=\frac{\sqrt{\hat{U}_{R}^{2}+(\hat{U}_{L}+\hat{U
 Allgemein:
 $Z=\sqrt{R^2+X^{2}}$
 $\text{Imdepedanz}=\sqrt{\text{ohmscher Widerstand}^{2}+\text{Reaktanz}^{2}}$
+
+### Frequenzabhängigkeit der Impedanz
+
+$\lim\limits_{\omega\to0}Z=\lim\limits_{\omega\to0}\sqrt{R^{2+(\omega L- \frac{1}{\omega C})^{2}}}=\infty\to I=0$
+$\lim\limits_{\omega\to\infty}Z=\lim\limits_{\omega\to\infty}\sqrt{R^{2}+(\omega L- \frac{1}{\omega C})^{2}}=\infty\to I=0$
+
+$Z$ ist minimal für: $\omega L- \frac{1}{\omega C}=0\to I=I_{\text{max}}$
