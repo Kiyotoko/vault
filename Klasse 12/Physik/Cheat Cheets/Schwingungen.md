@@ -50,3 +50,5 @@ $\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E
 ## Reihenschaltung von Spule, Kondensator & Widerstand
 
 $Z=\sqrt{R^{2}+X^{2}}$
+
+## 
