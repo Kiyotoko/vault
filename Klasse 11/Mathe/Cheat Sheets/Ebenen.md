@@ -131,3 +131,50 @@ Liegt $P$ im Parallelogramm $ABCD$ mit $A(1|2|3)$, $B(2|5|-1)$, $C(3|-2|1)$ und 
 Ebenengleichung aufstellen
 $\vec{x}=\vec{0A}+k\vec{AB}+t\vec{AD}$
 $\vec{x}=\begin{pmatrix}1\\2\\3\end{pmatrix}+s\begin{pmatrix}1\\3\\-4\end{pmatrix}+t\begin{pmatrix}1\\-7\\2\end{pmatrix}$
+
+### Beziehung von Geraden zu Ebenen
+
+- Schnittpunkt $g \perp E$
+- Parallel $g\parallel E$
+- Gerade in Ebene $g\in E$
+
+#### Gegeben in Parameterform
+
+$g: \vec{x}=\begin{pmatrix}5\\6\\1\end{pmatrix}+k\begin{pmatrix}-1\\-2\\3\end{pmatrix}$
+$E: \vec{x}=\begin{pmatrix}1\\0\\0\end{pmatrix}+r\begin{pmatrix}-1\\6\\0\end{pmatrix}+s\begin{pmatrix}0\\0\\20\end{pmatrix}$
+
+$5-k=1-r$
+$6-2k=6r$
+$1+3k=20s$
+
+$r=-\frac{1}{4}$
+$s=\frac{49}{80}$
+$k=\frac{15}{4}$
+
+$S(\frac{5}{4}|- \frac{3}{2}|\frac{49}{4})$
+
+- - -
+
+Falls Ausgabe `"false"`: $g\parallel E$
+Falls Ausgabe `c1, c2`: Es gibt unendlich viele Lösungen, $g\in E$
+
+#### Gegeben in Koordinatenform
+
+$g: \vec{x}=\begin{pmatrix}5\\6\\1\end{pmatrix}+k\begin{pmatrix}-1\\-2\\3\end{pmatrix}$
+$E: \vec{x}=\begin{pmatrix}1\\0\\0\end{pmatrix}+r\begin{pmatrix}-1\\6\\0\end{pmatrix}+s\begin{pmatrix}0\\0\\20\end{pmatrix}$
+
+$5-k=1-r$
+$6-2k=6r$
+$1+3k=20s$
+
+$r=-\frac{1}{4}$
+$s=\frac{49}{80}$
+$k=\frac{15}{4}$
+
+$6(5-t)+(6-2t)=6$
+$30-6t+6-2t=6$
+$8t=30$
+$t=\frac{15}{4}$
+
+$t$ in $g$ einsetzen
+$S(1.25|-1.5|12.25)$
