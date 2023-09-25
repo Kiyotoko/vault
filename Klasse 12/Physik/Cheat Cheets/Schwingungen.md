@@ -51,4 +51,9 @@ $\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E
 
 $Z=\sqrt{R^{2}+X^{2}}$
 
-## 
+## Hoch- und Tiefpass
+
+
+
+## Leistung im Wechselstromkreis
+
