@@ -65,3 +65,11 @@ tags:
 | Parados               | Seiten-Eintritt auf die Bühne                                                  |
 | Akt/Auszug            | Einheit eines Dramas, das durch das Fallen des Vorhangs gekennzeichnet ist     |
 | Szene                 | Kleinste strukturelle Einheit eines Dramas                                     |
+
+## Rollenbilder
+
+| Person | Rollenbild                                                |
+| ------ | --------------------------------------------------------- |
+| Männer | Rechte und Besitz über die Frau                           |
+| Frauen | Begleitung des Mannes, gebärt und macht den Haushalt      |
+| Kinder | Jungen bekommen Pädagogen, Frauen werden früh verheiratet |

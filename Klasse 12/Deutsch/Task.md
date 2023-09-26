@@ -65,3 +65,13 @@ Vielen Dank!
 3. Handlungen welche während des Prologs ist die Darstellung von Medeas Qualen. Es gibt keine Regieanweisungen  
 4. Der Erzieher bekommt mit das sich die Amme über das elend beklagt und spricht sie darauf an und sie besprechen es. 
 5. Die Bedeutung ist das zeigen der Handlungen welche im Voraus passiert sind.
+
+## 2023-09-26
+
+- Medea spricht zu den Göttern
+- Beklagt, dass ...
+	- sie als Sterbliche kaum Rechte hat
+	- sie mit einem Mann zwangsverheiratet wird und gebären muss
+	- sie durch die Scheidung Gesellschaftlich verstoßen wurde
+
+- Jason ist materiell und am nutzen geknüpft

@@ -47,13 +47,35 @@ $T_{0}=2\pi \sqrt{\frac{l}{g}}$
 $E_{ges}=E_{pot}+E_{kin}=\frac{1}{2}Dx(t)^{2}+ \frac{1}{2}mv(t)^{2}=\frac{1}{2}D(\hat{x}\cos{\omega t})^{2}+ \frac{1}{2}m (-\hat{x}\omega \sin{\omega t})^{2}$
 $\frac{1}{2}D\hat{x}\cos^{2}{\omega t}+ \frac{1}{2}m \hat{v}^{2}\sin{\omega t}=E_{ges}\cos^{2}{\omega t}+E_{ges}\sin^{2}{\omega t}=E_{ges}(\cos^{2}{\omega t}+\sin^{2}{\omega t})=E_{ges}$
 
-## Reihenschaltung von Spule, Kondensator & Widerstand
+## Widerstände im Wechselstromkreis
 
+$X=X_{L}-X_{C}=\omega\cdot L- \frac{1}{\omega\cdot C}$
 $Z=\sqrt{R^{2}+X^{2}}$
+
+### Ohmscher Widerstand
+
+$R=\frac{U}{I}$
+
+### Induktiver Widerstand
+
+$X_{L}=\omega\cdot L$
+
+Phasenverschiebung $\varphi=+ \frac{\pi}{2}$
+
+### Kapazitiver Widerstand
+
+$X_{C}=\frac{1}{\omega\cdot C}$
+
+Phasenverschiebung $\varphi=- \frac{\pi}{2}$
 
 ## Hoch- und Tiefpass
 
+![Hochpass](../Working%20Materials/Schwingungen/Hochpass.png)
 
+![Tiefpass](../Working%20Materials/Schwingungen/Tiefpass.png)
 
 ## Leistung im Wechselstromkreis
 
+$P_{S}=U \cdot I=\sqrt{P_{W}^{2}+P_{B}^{2}}$
+$P_{W}=U \cdot I \cdot\cos{\varphi}$
+$P_{B}=U \cdot I \cdot\sin{\varphi}$
