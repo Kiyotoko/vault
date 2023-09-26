@@ -215,7 +215,7 @@ $\omega=\sqrt{\omega_{0}^{2}-\delta^{2}}\quad\text{ mit }\delta= \frac{R}{2L}$
 
 ### Rückkopplungsschaltung nach Meißner
 
-**Rückkopplung**: Periodische Zufuhr von Energie in einem schwingenden System.
+**Rückkopplung**: Periodische Zufuhr von Energie in einem schwingenden System.+
 
 **Schaltplan**
 ![](Working%20Materials/Schwingungen/Rückkopplungsschaltung.png)
