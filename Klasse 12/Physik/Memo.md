@@ -302,3 +302,6 @@ $Z$ ist minimal für: $\omega L- \frac{1}{\omega C}=0\to I=I_{\text{max}}$
 
 ### Leistung im Wechselstromkreis
 
+$P_{S}=U \cdot I=\sqrt{P_{W}^{2}+P_{B}^{2}}$
+$P_{W}=U \cdot I \cdot\cos{\varphi}$
+$P_{B}=U \cdot I \cdot\sin{\varphi}$
