@@ -65,8 +65,8 @@ $\omega^{2}=\frac{1}{LC}$
 
 $E_{el}=\frac{1}{2}CU^{2}=\frac{1}{2}C\hat{U}^{2}\cos^{2}{(\omega t)}$
 $E_{mag}=\frac{1}{2}LI^{2}=\frac{1}{2}LC^{2}\omega^{2}\hat{U}^{2}\sin^{2}{(\omega t)}=\frac{1}{2}C\hat{U}^{2}\sin^{2}{(\omega t)}$
-
 $E_{ges}=E_{mag}+E_{el}=\frac{1}{2}C\hat{U}^{2}\sin^{2}{(\omega t)}+\frac{1}{2}C\hat{U}^{2}\cos^{2}{(\omega t)}=\frac{1}{2}C\hat{U}^{2}(\sin^{2}{(\omega t)}+\cos^{2}{(\omega t)})=\frac{1}{2}C\hat{U}^{2}$
+
 ## Widerstände im Wechselstromkreis
 
 $X=X_{L}-X_{C}=\omega\cdot L- \frac{1}{\omega\cdot C}$
