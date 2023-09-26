@@ -75,3 +75,11 @@ Vielen Dank!
 	- sie durch die Scheidung Gesellschaftlich verstoßen wurde
 
 - Jason ist materiell und am nutzen geknüpft
+
+|                             | Medea               | Jason         |
+| --------------------------- | ------------------- | ------------- |
+| Sichtweise des Kindermordes | Rache an Jason      |               |
+| Beurteilung der Schuld      | Schuld des Umfeldes | Medeas Schuld |
+| Argumente                   |                     |               |
+| Rolle der Götter            |                     |               |
+
