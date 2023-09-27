@@ -66,3 +66,13 @@ Thank you for your interest. I look forward to hearing from you.
 - Stay of the weeds
 - Listen
 - Be brief
+
+## 2023-09-27
+
+- State the areas where we use it.
+	- Smartphones, Social Media Feeds
+- What does it do on its core?
+	- Generalised Learning
+- Name the different categories of AI. Explain their difference.
+- What will happen in the year 2045)
+	- We dont know.
