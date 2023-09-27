@@ -76,10 +76,10 @@ Vielen Dank!
 
 - Jason ist materiell und am nutzen geknüpft
 
-|                             | Medea               | Jason         |
-| --------------------------- | ------------------- | ------------- |
-| Sichtweise des Kindermordes | Rache an Jason      |               |
-| Beurteilung der Schuld      | Schuld des Umfeldes | Medeas Schuld |
-| Argumente                   |                     |               |
-| Rolle der Götter            |                     |               |
+|                             | Medea               | Jason                       |
+| --------------------------- | ------------------- | --------------------------- |
+| Sichtweise des Kindermordes | Rache an Jason      | Vergeltung an seiner Person |
+| Beurteilung der Schuld      | Schuld des Umfeldes | Medeas Schuld               |
+| Argumente                   | Iason fremdgegangen | Ermordung der Kinder        |
+| Rolle der Götter            | Helios              | Dike                        |
 
