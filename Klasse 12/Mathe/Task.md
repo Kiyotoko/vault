@@ -74,3 +74,7 @@ $E: 2x+4y-z=5$
 $\vec{n}=\begin{pmatrix}2 \\ 4 \\ -1\end{pmatrix}$
 $g:\vec{x}=\begin{pmatrix}1 \\ 2 \\ 3\end{pmatrix}+k\begin{pmatrix}1 \\ 1 \\ 3\end{pmatrix}$
 $\arcsin(\frac{\vec{g}\circ\vec{n}}{|\vec{g|\cdot|\vec{n}}|})=11.4^{\circ}$
+
+## 2023-09-28
+
+$\begin{pmatrix}3 \\ -1 \\ 2\end{pmatrix}\times\begin{pmatrix}4 \\ 2 \\ -3\end{pmatrix}=\begin{pmatrix}-1 \\ 17 \\ 10\end{pmatrix}$
