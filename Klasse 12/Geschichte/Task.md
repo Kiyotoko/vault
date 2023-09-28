@@ -89,3 +89,9 @@ tags:
 	- Hitler als Individuum irrelevant
 	- Eher als Führer in einem Führersystem
 	- Führersystem mit Führern und Unterführern
+
+## 2023-09-28
+
+1. Erarbeitet die wichtigsten ideologischen Grundlagen des Nationalsozialismus.
+2. Beschreiben mithilfe des Materials Hitlers Menschenbild.
+3. Entscheidet euch für einen Quellenteil und analysiert diesen ideologiekritisch.
