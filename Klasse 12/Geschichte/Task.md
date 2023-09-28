@@ -77,3 +77,15 @@ tags:
 	- Überzeugung: Positive Entwicklungen
 	- Überredung: Propaganda
 	- Zwang: Terror
+
+---
+
+- Hitler als charismatische Führer
+	- Makellose Erfolgsbilanz
+	- Messianischer Volkstribun im Stil des heilsgewissen Charismaträgers überwindung einer Krise
+	- Dank der Mehrheit der Deutschen
+	- Sehnsucht nach einer neuen Autorität
+- Ein Blick hinter die Propagandafassade
+	- Hitler als Individuum irrelevant
+	- Eher als Führer in einem Führersystem
+	- Führersystem mit Führern und Unterführern
