@@ -42,3 +42,37 @@ $\vec{n_{2}}$: Normalvektor von $E_{2}$
 $\sin{\alpha}=\frac{\vec{v}\circ\vec{n}}{|\vec{v|\cdot|\vec{n}}|}$
 $\vec{v}$: Richtungsverkter der Geraden
 $\vec{n}$: Normalvektor der Ebene
+
+## Normalenform einer Ebene
+
+$[\vec{x}-\vec{p}]\circ\vec{n}=0$
+
+**Beispiel**
+$P(1|2|3)$ und verläuft $\bot$ zu $\vec{v}=\begin{pmatrix}2 \\ -1 \\ 3\end{pmatrix}$
+$\Bigg[\vec{x}-\begin{pmatrix}1 \\ 2 \\ 3\end{pmatrix}\Bigg]\circ\begin{pmatrix}2 \\ -1 \\ 3\end{pmatrix}=0$
+$\Bigg[\begin{pmatrix}x \\ y \\ z\end{pmatrix}-\begin{pmatrix}1 \\ 2 \\ 3\end{pmatrix}\Bigg]\circ\begin{pmatrix}2 \\ -1 \\ 3\end{pmatrix}=0$
+
+$(x-1)\cdot2+(y-2)\cdot(-1)+(z-3)\cdot3=0$
+$2x-2-y+2+3z-9=0$
+$2x-y+3z=9$
+
+## Orthogonalität von 3 Vektoren
+
+**Beispiel**
+$\vec{a}=\begin{pmatrix}2 \\ -3 \\ 1\end{pmatrix}$
+$\vec{b}=\begin{pmatrix}1 \\ 2 \\ -1\end{pmatrix}$
+Gesucht ist ein Vektor $\vec{c}$ mit $\vec{c}\bot\vec{a}\wedge\vec{c}\bot\vec{b}$.
+$\vec{c}=\begin{pmatrix}x \\ y \\ z\end{pmatrix}$
+$\vec{c}\circ\vec{a}=0$
+$\vec{c}\circ\vec{b}=0$
+$\begin{pmatrix}x \\ y \\ z\end{pmatrix}\circ\begin{pmatrix}2 \\ -3 \\ 1\end{pmatrix}=0$
+$\begin{pmatrix}x \\ y \\ z\end{pmatrix}\circ\begin{pmatrix}1 \\ 2 \\ -1\end{pmatrix}=0$
+
+$2x-3y+z=0$
+$x+2y-z=0$
+$3x-y=0$
+
+Wir setzen $x=1$ ein.
+$1+6-z=0$
+$c=7$
+$\vec{x}=\begin{pmatrix}2 \\ 6 \\ 14\end{pmatrix}$
