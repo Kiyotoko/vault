@@ -63,3 +63,17 @@ tags:
 - Gesellschaftlich
 	- Arbeitslosigkeit + Armut
 	- Hungerstreik
+
+## 2023-09-28
+
+- Erläutere die Bereiche, die sich der Gleichschaltung unterwarfen.
+	- Bereiche: Gesellschaft, Staat, Wirtschaft
+	- Eigenständigkeit wird abgeschafft
+	- Beamtentum
+	- Gewerkschaften werden zerschlagen
+	- Auflösung der Parteien
+	- Vereinswesen
+- Nennt die drei Säulen, auf denen Hitler seine Macht ausbaute.
+	- Überzeugung: Positive Entwicklungen
+	- Überredung: Propaganda
+	- Zwang: Terror
