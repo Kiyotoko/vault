@@ -85,3 +85,8 @@ $\begin{pmatrix}2 \\ -3 \\ 1\end{pmatrix}\times\begin{pmatrix}1 \\ 2 \\ -1\end{p
 Das Ergebnis des Vektorprodukts $\vec{a}\times\vec{b}$ ist eon Vektor, der Senkrecht auf $\vec{a}$ und Senkrecht auf $\vec{b}$ steht.
 
 $\begin{pmatrix}x_{a} \\ y_a \\ z_a\end{pmatrix}\times\begin{pmatrix}x_{b} \\ y_{b} \\ z_{b} \end{pmatrix}=\begin{pmatrix}y_{a}z_{b}-z_{a}y_{b} \\ z_{a}x_{b}-x_{a}z_{b} \\ x_{a}y_{b}-y_{a}x_{b}\end{pmatrix}$
+
+### Geometrische Bedeutung
+
+- Ergebnis ist ein Vektor, der $\bot$ auf beiden Vektoren steht
+- Betrag des Vektorproduktes ist der Flächeninhalt des aufgespannten Parallelogrammes
