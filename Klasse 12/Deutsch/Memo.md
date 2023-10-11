@@ -85,6 +85,16 @@ tags:
 	3. Eventuell historischen Kontext
 	4. Dramenart
 	5. Deutungshypothese
+2. Hauptteil
+	1. Funktion im Zusammenhang
+	2. Figuren des Dialogs
+	3. Aufbau des Gesprächs/Monologs
+	4. Sprachfunktionen
+	5. Sprachanalyse
+	6. Bezug zum Zuschauer
+3. Schluss
+	1. Deutungsergebnisse zusammenfassen
+	2. Bewerten der Handlungsweise der Protagonisten
 
 ### Deutungshypothese aufstellen
 
