@@ -66,10 +66,33 @@ tags:
 | Akt/Auszug            | Einheit eines Dramas, das durch das Fallen des Vorhangs gekennzeichnet ist     |
 | Szene                 | Kleinste strukturelle Einheit eines Dramas                                     |
 
-## Rollenbilder
+## Historischer Kontext
+### Rollenbilder in Griechenland
 
 | Person | Rollenbild                                                |
 | ------ | --------------------------------------------------------- |
 | Männer | Rechte und Besitz über die Frau                           |
 | Frauen | Begleitung des Mannes, gebärt und macht den Haushalt      |
 | Kinder | Jungen bekommen Pädagogen, Frauen werden früh verheiratet |
+
+## Methode
+
+### Interpretation eines Dramenauszugs
+
+1. Einleitung
+	1. Hinführung
+	2. Allgemeine Informationen
+	3. Eventuell historischen Kontext
+	4. Dramenart
+	5. Deutungshypothese
+
+### Deutungshypothese aufstellen
+
+Die Deutungshypothese ist eine Vermutung über die Intention eines Textes. Was möchte das Werk bewirken? Welche Fragen wirft es auf?
+
+### Werkimmanent
+
+Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Beispiel Gesellschaft, Politik, etc.
+
+### Werksübergreifend
+
