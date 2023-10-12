@@ -103,3 +103,25 @@ Hauptreihensterne befinden sich entlang dieser schrägen Linie und stellen den l
 Die Position eines Hauptreihensterns im HR-Diagramm hängt von seiner Masse ab. Schwerere Sterne (mit mehr Masse) sind heißer und leuchten heller, daher befinden sie sich in der linken, oberen Region der Hauptreihe. Leichtere Sterne (mit weniger Masse) sind kühler und weniger leuchtkräftig, daher befinden sie sich in der rechten, unteren Region der Hauptreihe.
 
 ## Nach-Hauptreihenstadium
+
+Nach Verlassen der Hauptreihe erschöpfen sich bei allen Sternen die Wasserstoffvorräte in der Kernzone. Wasserstofffusion ist nur noch eine sehr begrenzte Zeit möglich. Welche Entwicklungswege die einzelnen Sterne dann durchlaufen, hängt entscheidend von ihrer Masse ab.
+
+Auf unsere Sonne übertragen bedeutet das, dass in ihr bereits seit ca. 4,5 Milliarden Jahren das Wasserstoffbrennen erfolgt. Nach weiteren 5 Milliarden Jahren wird dieser Prozess beendet sein, weil der gesamte Vorrat an Wasserstoff verbraucht ist. Unsere Sonne ist dann zu klein, damit weitere Fusionsreaktionen ablaufen können.
+
+Massereiche Sterne verfügen über die Möglichkeit, durch Kontraktion der kernnahen Bereiche Gravitationsenergie in innere Energie umzuwandeln und damit ihre Temperatur zu erhöhen. Mit dem Einsetzen der Fusion von Helium bei Temperaturen von ca. 100 000 000 K erreicht der Stern erneut eine relativ lang dauernde Stabilitätsphase. Gehen die Heliumvorräte zu Ende, kann die Fusion von Elementen mit noch höheren Kernladungszahlen erfolgen. Dieser Prozess setzt sich bis zum Element Eisen fort. Es bildet sich schließlich ein Eisenkern um den Sternmittelpunkt. Vereinigen sich Eisenkerne mit leichteren Kernen zu noch schwereren, wird Energie nicht mehr freigesetzt sondern verbraucht. Dabei wird aber keine Fusionsenergie freigesetzt. Die Temperatur im Zentrum des Sterns sinkt sehr schnell. Die äußeren Teile können in dieser Zeit nicht zum Kern heranschrumpfen. Sie werden vielmehr an den vom Kern ausgehenden Schockwellen reflektiert. Der Stern leuchtet im gigantischen Lichtschein einer Supernova auf.
+
+Bei masseärmeren Sternen, etwa im Bereich einer Sonnenmasse, zündet ebenfalls nach dem Verlassen der Hauptreihe die Heliumfusion. Diese setzt schlagartig ein - man spricht von einem Heliumflash - und führt zu einem kurzzeitigen starken Anwachsen der Leuchtkraft. Nachdem sich in der Folge des Heliumbrennens Sauerstoff und Kohlenstoff im Zentrum des Sterns angereichert haben, geht die Energiefreisetzung ihrem endgültigen Ende entgegen. Zuvor hat sich, wie auch bei den massereichen Sternen, die Sternhülle aufgebläht und den Stern zu einem Riesen werden lassen. Das letzte Stadium der Entwicklung setzt ein, wenn die nur noch locker an den Stern gebundene Hülle in den Weltraum abgestoßen wird.
+
+## Endstadium
+
+Die möglichen Endstadien der Sternentwicklung sind:
+
+- **Weise Zwerge**: Die herausgelösten Kerne der masseärmeren Sterne werden zu weißen Zwergen. Sie verringern im Laufe der Zeit unter Beibehaltung des Radius langsam ihre Oberflächentemperatur. Dieses Schicksal wird in einigen Milliarden Jahren auch die Sonne ereilen. Kennzeichnend für weiße Zwerge ist ihre hohe Dichte.
+- **Supernova**: Kommt es bei massereicheren Sternen zu dem dramatischen Ereignis einer Supernova, dann bildet sich ein noch dichteres Objekt als ein weißer Zwerg, ein Neutronenstern **.** Verliert ein Stern nicht schnell genug seine Materie der Hülle, so sackt er unter der eigenen Gravitationswirkung unaufhaltsam in sich zusammen, bis eine so große Massekonzentration erreicht wird, dass selbst Licht den betreffenden Bereich nicht mehr verlassen kann. Einen Bereich solcher Massenkonzentration bezeichnet man als schwarzes Loch. Die Existenz von schwarzen Löchern lässt sich nur indirekt nachweisen.
+- **Pulsare**: Bei einer Restmasse, die 1,4 Sonnenmassen übertrifft, kann der Gravitationskollaps durch Druck des entarteten Elektronengases nicht mehr zum Stillstand bringen. Der Stern stürzt weiter in sich zusammen. Bei inversen beta Zerfall entstehen Neutronen. Der Druck dieses Neutronengas hält Kollaps auf. Dabei ist der Kern des Rotens Riesen zu Atomkern geschrumpft = Neutronenstern
+- **Neutronensterne**: Resultat eines Pulsares.
+- **Schwarze Löscher**: Wenn die Sterne eine Restmasse oberhalb von zwei bis drei Sonnenmassen haben, können diese keinen stabilen Zustand erreichen. Diese stürzen immer weiter zusammen und werden so dicht, dass selbst die Photonen der elektromagnetischen Strahlung sie nicht mehr verlassen können = unsichtbare schwarze Löcher
+
+Die von den massereichen Planeten in das All abgegebene Materie steht erneut als Ausgangsmaterial für eine Sternentstehung zur Verfügung.
+
+### Materiekreislauf
