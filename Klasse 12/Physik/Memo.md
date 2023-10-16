@@ -358,3 +358,8 @@ $y(t,x)=\hat{y}\sin{(2\pi[\frac{t}{T}- \frac{x}{\lambda}])}$
 Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwelle. Diese Elementarwelle besitz die gleiche Ausbreitungsgeschwindigkeit wie die ursprüngliche Welle. Die Elementarwellen überlagern sich und die Einhüllende aller Elementarwellen bildet die neue Wellenfront.
 
 ![](Working%20Materials/Schwingungen/Huygensches%20Prinzip.jpeg)
+
+### Reflexion
+
+Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwelle. Die Überlagerung vieler Elementarwellen bildet die neue Wellenfront (einhüllende Wellenfront).
+Läuft die Wellenfront von links schräg aur ein Hindernis, so trifft zunächst ein Teil dieser Wellenfront in einem Punkt $P_{1}$ auf die Grenzfläche von Hindernissen. Danach treffen weitere Teile der Wellenfront auf die Grenzfläche in den Punkten $P_{2},P_{3},\dots$ (von links nach rechts). Alle diese Punkte sind Ursprungspunkte von Elementarwellen, deren Wellenfronten die Wellenfront der reflektierten Welle bilden.
