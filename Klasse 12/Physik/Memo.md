@@ -332,3 +332,16 @@ Wird die Welle durch eine harmonische Schwingung angeregt, spricht  man von eine
 ## Beschreibung mechanischer Wellen
 
 $y(t)$-Diagramm Schwingung eines Wellenteilchens an einem bestimmten Ort X.
+
+## Ausbreitungsgeschwindigkeit
+
+$\lambda=c \cdot T$
+$c=\lambda \cdot \frac{1}{T}=\lambda \cdot f$
+
+## Wellenfunktion
+
+$y(x,t)=\hat{y}\sin{(2\pi[ \frac{t}{T}- \frac{x}{\lambda}])}$
+
+Minus bei Ausbreitung in positiver x-Richtung.
+
+Herleitung
