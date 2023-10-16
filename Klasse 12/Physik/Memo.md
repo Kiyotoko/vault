@@ -345,3 +345,10 @@ $y(x,t)=\hat{y}\sin{(2\pi[ \frac{t}{T}- \frac{x}{\lambda}])}$
 Minus bei Ausbreitung in positiver x-Richtung.
 
 Herleitung
+$y(t)=\hat{y}\sin{(\omega t)}$
+$y(t)=\hat{y}\sin{(\omega[t_{1}-\Delta t])}$
+$y(t)=\hat{y}\sin{(2\pi f[t_{1}-\Delta t])}$
+$y(t)=\hat{y}\sin{(2\pi[t_{1} \cdot f-\Delta t \cdot f])}$
+$y(t)=\hat{y}\sin{(2\pi[\frac{t_{1}}{T}- \frac{\delta x}{\lambda}])}$
+
+$y(t,x)=\hat{y}\sin{(2\pi[\frac{t}{T}- \frac{x}{\lambda}])}$

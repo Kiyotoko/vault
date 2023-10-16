@@ -154,3 +154,13 @@ $f=35.589Hz$
 
 ## 2023-09-25
 
+$y(t)=5cm \cdot\sin{(\omega t)}$ mit $\omega=\frac{2\pi}{T}$
+$T=2s$
+$\lambda=2 \frac{m}{s}$
+
+Amplitude $\hat{y}=5cm$
+Periodendauer $T=2s$
+Frequenz $f=\frac{1}{T}=\frac{1}{2s}$
+Wellenlänge 
+
+$y(t,x)=\hat{y}\sin{( \frac{2\pi t}{2s}- \frac{2\pi x}{2\frac{m}{s}})}=\hat{y}\sin{(\pi (\frac{t}{s}- \frac{x}{\frac{m}{s}}))}$
