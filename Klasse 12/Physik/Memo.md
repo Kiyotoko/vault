@@ -305,3 +305,30 @@ $Z$ ist minimal für: $\omega L- \frac{1}{\omega C}=0\to I=I_{\text{max}}$
 $P_{S}=U \cdot I=\sqrt{P_{W}^{2}+P_{B}^{2}}$
 $P_{W}=U \cdot I \cdot\cos{\varphi}$
 $P_{B}=U \cdot I \cdot\sin{\varphi}$
+
+# Wellen
+
+> Eine mechanische Welle ist die Ausbreitung einer Störung (mechanischer Schwingung) im Raum. Es erfolgt ein Energietransport, aber kein Stofftransport.
+
+Wird die Welle durch eine harmonische Schwingung angeregt, spricht  man von einer harmonischen Welle.
+
+## Wellentypen
+
+### Transversalwelle
+
+- Schwingungsrichtung steht quer zur Ausbreitungsrichtung
+- Bsp.: Seilwelle
+
+### Longitudinalwelle
+
+- Schwingungsrichtung und Ausbreitungsrichtung sind parallel
+- Bsp.: Schallwelle
+
+### Kreiswelle
+
+- Überlagerung von Longitudinal und Transversalwelle => Kreiswelle
+- Bsp.: Wasserwelle
+
+## Beschreibung mechanischer Wellen
+
+$y(t)$-Diagramm Schwingung eines Wellenteilchens an einem bestimmten Ort X.
