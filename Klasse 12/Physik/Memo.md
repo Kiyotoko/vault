@@ -352,3 +352,9 @@ $y(t)=\hat{y}\sin{(2\pi[t_{1} \cdot f-\Delta t \cdot f])}$
 $y(t)=\hat{y}\sin{(2\pi[\frac{t_{1}}{T}- \frac{\delta x}{\lambda}])}$
 
 $y(t,x)=\hat{y}\sin{(2\pi[\frac{t}{T}- \frac{x}{\lambda}])}$
+
+## Huygensches Prinzip
+
+Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwelle. Diese Elementarwelle besitz die gleiche Ausbreitungsgeschwindigkeit wie die ursprüngliche Welle. Die Elementarwellen überlagern sich und die Einhüllende aller Elementarwellen bildet die neue Wellenfront.
+
+![](Working%20Materials/Schwingungen/Huygensches%20Prinzip.jpeg)

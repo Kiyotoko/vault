@@ -161,6 +161,11 @@ $\lambda=2 \frac{m}{s}$
 Amplitude $\hat{y}=5cm$
 Periodendauer $T=2s$
 Frequenz $f=\frac{1}{T}=\frac{1}{2s}$
-Wellenlänge 
+Wellenlänge $\lambda=\frac{c}{f}=4m$
 
-$y(t,x)=\hat{y}\sin{( \frac{2\pi t}{2s}- \frac{2\pi x}{2\frac{m}{s}})}=\hat{y}\sin{(\pi (\frac{t}{s}- \frac{x}{\frac{m}{s}}))}$
+$y(t,x)=\hat{y}\sin{( \frac{2\pi t}{2s}- \frac{2\pi x}{4\frac{m}{s}})}=\hat{y}\sin{(\pi (\frac{t}{s}- \frac{x}{2\frac{m}{s}}))}$
+
+$f=\frac{1}{T}=\frac{1}{0.75m}$
+$\lambda=0.8s$
+
+$y(t)=4cm\sin{(2\pi(\frac{t}{0.8s}-\frac{x}{0.75m}))}$
