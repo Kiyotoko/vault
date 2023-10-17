@@ -89,6 +89,20 @@ $\vec{EF}=\begin{pmatrix}-25 \\ -25 \\ 0\end{pmatrix}$
 $|\vec{EF}|=25\cdot\sqrt{2}$
 
 $\cos{d}=\frac{\vec{DE}\circ\vec{DF}}{|\vec{DE}|\cdot|\vec{DF|}}=\frac{5\cdot30}{30\cdot5\cdot\sqrt{26}}=\frac{1}{\sqrt{26}}$
-$\arccos{1/\sqrt{26}}$
+$\arccos{\frac{1}{\sqrt{26}}}$
 $\cos{e}=\frac{\vec{DE}\circ\vec{EF}}{|\vec{DE}|\cdot|\vec{EF|}}=\frac{-25\cdot30}{30\cdot25\cdot\sqrt{2}}=\frac{-1}{\sqrt{2}}$
-$\cos{f}=\frac{\vec{DF}\circ\vec{EF}}{|\vec{DF}|\cdot|\vec{EF}|}=\frac{25^{2}-25\cdot5}{25\cdot\sqrt{26}\cdot5\cdot\sqrt{2}}=\frac{4}{\sqrt{26}\cdot\sqrt{2}}=2/\sqrt{13}$
+$\cos{f}=\frac{\vec{DF}\circ\vec{EF}}{|\vec{DF}|\cdot|\vec{EF}|}=\frac{25^{2}-25\cdot5}{25\cdot\sqrt{26}\cdot5\cdot\sqrt{2}}=\frac{4}{\sqrt{26}\cdot\sqrt{2}}=\frac{2}{\sqrt{13}}$
+
+$A_{G}=\frac{1}{2}\cdot g\cdot h=\frac{1}{2}\cdot25\cdot\sqrt{2}m\cdot15\cdot\sqrt{2}m=25\cdot15=375m^{2}$
+$V=\frac{1}{3}\cdot A_{G}\cdot h=\frac{1}{3}\cdot375m^{2}\cdot20m=2500m^{3}$
+
+$G_{t}(-10|10|35+t)$
+$t\in\mathbb{R},t=[-10;10]$
+
+$E_{ABED}=3x-z=-15$
+$E_{DEG_{t}}=tx+20x+10z=150$
+
+$\cos{120^{\circ}}=\frac{\begin{pmatrix}3\\0\\-1\end{pmatrix}\circ\begin{pmatrix}t+20\\0\\10\end{pmatrix}}{\sqrt{10}\cdot\sqrt{(t+20)^{2}+100}}$
+
+$t=-8.723$
+$G(-10|10|26.277)$
