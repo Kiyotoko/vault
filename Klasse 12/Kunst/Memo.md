@@ -48,10 +48,17 @@ Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvol
 	- 2. Januar 1870 - 24. Oktober 1938
 	- Deutscher Bildhauer bekannt für Holzplastiken und Bronzen
 	- Barlachs Weg zum Expressionismus führt von der Auseinandersetzung mit den akademischen Traditionen des 19. Jahrhunderts zunächst zu den gestalterischen Ideen von Naturalismus, Symbolismus und Jugendstil
-	- 1932 konnte ein Pietà durch Anfeindungen der Nationalsozialisten nicht mehr fertig stellen
-	- Durch die Machtergreifung Hitlers wurde seine Kunst als entartet gebrandmarkt und seine Werke entfernt
+	- Nach einem Aufenthalt in Paris und Berlin und einer Russland-Reise findet er seinen eigenen Stil
+	- Darstellungen menschlichen Leids
+	- Mehr Bewegung, Details und Emotionen anstatt Naturgetreu
+	- Menschliche Figuren
+	- Leben
+		- 1932 konnte ein Pietà durch Anfeindungen der Nationalsozialisten nicht mehr fertig stellen
+		- Durch die Machtergreifung Hitlers wurde seine Kunst als entartet gebrandmarkt und seine Werke entfernt
+		- Bekennender Anhänger Hitlers
+		- Stirbt in Rostock
 	- Bekannt Werke
-		- "Mutter mit Kind"
 		- "Der Schwebende" (1927)
 		- "Der Berserker" (1910)
 		- "Der singende Mann" (1928)
+		- "Geistkämpfer" (1928)
