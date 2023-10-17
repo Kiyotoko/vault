@@ -363,3 +363,6 @@ Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwe
 
 Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwelle. Die Überlagerung vieler Elementarwellen bildet die neue Wellenfront (einhüllende Wellenfront).
 Läuft die Wellenfront von links schräg aur ein Hindernis, so trifft zunächst ein Teil dieser Wellenfront in einem Punkt $P_{1}$ auf die Grenzfläche von Hindernissen. Danach treffen weitere Teile der Wellenfront auf die Grenzfläche in den Punkten $P_{2},P_{3},\dots$ (von links nach rechts). Alle diese Punkte sind Ursprungspunkte von Elementarwellen, deren Wellenfronten die Wellenfront der reflektierten Welle bilden.
+
+- Reflexion bei festem Ende: Es kommt bei der Reflexion zu einem Phasensprung vom Betrag $\pi$ (reflektierte Welle ist um $\frac{x}{2}$ verschoben).
+- Reflexion be losem Ende: Reflexion erfolgt ohne Phasensprung.
