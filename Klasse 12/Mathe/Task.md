@@ -78,3 +78,17 @@ $\arcsin(\frac{\vec{g}\circ\vec{n}}{|\vec{g|\cdot|\vec{n}}|})=11.4^{\circ}$
 ## 2023-09-28
 
 $\begin{pmatrix}3 \\ -1 \\ 2\end{pmatrix}\times\begin{pmatrix}4 \\ 2 \\ -3\end{pmatrix}=\begin{pmatrix}-1 \\ 17 \\ 10\end{pmatrix}$
+
+## 2023-10-17
+
+$\vec{DE}=\begin{pmatrix}0 \\ 30 \\ 0\end{pmatrix}$
+$|\vec{DE}|=30$
+$\vec{DF}=\begin{pmatrix}-25 \\ 5 \\ 0\end{pmatrix}$
+$|\vec{DF}|=5\cdot\sqrt{26}$
+$\vec{EF}=\begin{pmatrix}-25 \\ -25 \\ 0\end{pmatrix}$
+$|\vec{EF}|=25\cdot\sqrt{2}$
+
+$\cos{d}=\frac{\vec{DE}\circ\vec{DF}}{|\vec{DE}|\cdot|\vec{DF|}}=\frac{5\cdot30}{30\cdot5\cdot\sqrt{26}}=\frac{1}{\sqrt{26}}$
+$\arccos{1/\sqrt{26}}$
+$\cos{e}=\frac{\vec{DE}\circ\vec{EF}}{|\vec{DE}|\cdot|\vec{EF|}}=\frac{-25\cdot30}{30\cdot25\cdot\sqrt{2}}=\frac{-1}{\sqrt{2}}$
+$\cos{f}=\frac{\vec{DF}\circ\vec{EF}}{|\vec{DF}|\cdot|\vec{EF}|}=\frac{25^{2}-25\cdot5}{25\cdot\sqrt{26}\cdot5\cdot\sqrt{2}}=\frac{4}{\sqrt{26}\cdot\sqrt{2}}=2/\sqrt{13}$
