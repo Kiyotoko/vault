@@ -39,3 +39,19 @@ Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvol
 - Ready made: ein zur Kunst umgewidmetes Industrieprodukt
 - Mit dieser „Antikunst“ stellt Duchamp 1917 die traditionelle Kunstauffassung in Frage. Eine Provokation, die bis heute nachwirkt.
 - Akkumulation = Zusammensetzung von vielen gleichen, industriell angefertigten Stücken
+
+## Expressionismus
+
+### In der Bildhauerei
+
+- **Ernst Heinrich Barlach**
+	- 2. Januar 1870 - 24. Oktober 1938
+	- Deutscher Bildhauer bekannt für Holzplastiken und Bronzen
+	- Barlachs Weg zum Expressionismus führt von der Auseinandersetzung mit den akademischen Traditionen des 19. Jahrhunderts zunächst zu den gestalterischen Ideen von Naturalismus, Symbolismus und Jugendstil
+	- 1932 konnte ein Pietà durch Anfeindungen der Nationalsozialisten nicht mehr fertig stellen
+	- Durch die Machtergreifung Hitlers wurde seine Kunst als entartet gebrandmarkt und seine Werke entfernt
+	- Bekannt Werke
+		- "Mutter mit Kind"
+		- "Der Schwebende" (1927)
+		- "Der Berserker" (1910)
+		- "Der singende Mann" (1928)
