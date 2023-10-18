@@ -88,3 +88,16 @@ Thank you for your interest. I look forward to hearing from you.
 	- Works cheaper and faster
 	- Opens new possibilities
 	- Can fix lack of labours
+
+----
+
+1. How would a handful of modified human affect the gene pool of entire future generations?
+	1. Could alternate the complete gene pool because their genes will be passed down to their children.
+2. What would genetic engineering be used for at the beginning? How would that evolve?
+	1. Primary for health
+	2. Can evolve to give any change like looking's or intelligence
+3. What could be a negative outcome of increased genetic engineering?
+	1. The temptation for huge upgrades will be great.
+	2. Rejecting not perfect humans
+4. Which reality do we already face when it comes to selecting humans?
+	1. Preselecting humans on medical conditions
