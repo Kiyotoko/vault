@@ -143,7 +143,10 @@ Immanuel Kant veröffentlichte in seiner berühmten Schrift „Allgemeine Naturg
 
 - Halo
 - Spiralarme
-- Zentrum
+- Zentrum (Schwarzes Loch)
+- Bulge
+- Scheibe
+- Kugelsternhaufen
 
 ### Entstehung und Entwicklung der Milchstraße
 
