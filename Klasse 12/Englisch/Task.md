@@ -92,12 +92,20 @@ Thank you for your interest. I look forward to hearing from you.
 ----
 
 1. How would a handful of modified human affect the gene pool of entire future generations?
-	1. Could alternate the complete gene pool because their genes will be passed down to their children.
+	- Could alternate the complete gene pool because their genes will be passed down to their children.
 2. What would genetic engineering be used for at the beginning? How would that evolve?
-	1. Primary for health
-	2. Can evolve to give any change like looking's or intelligence
+	- Primary for health
+	- Can evolve to give any change like looking's or intelligence
 3. What could be a negative outcome of increased genetic engineering?
-	1. The temptation for huge upgrades will be great.
-	2. Rejecting not perfect humans
+	- The temptation for huge upgrades will be great.
+	- Rejecting not perfect humans
 4. Which reality do we already face when it comes to selecting humans?
-	1. Preselecting humans on medical conditions
+	- Preselecting humans on medical conditions
+
+---
+
+- Bill Miller
+- carrier of the gene for cystic fibrosis
+- a child would definitely have the disease
+- effects the lungs, brings a great suffering during their life, expectance is between 40-50 years
+- genetic engineering is a chance to get a health baby
