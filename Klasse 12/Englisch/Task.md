@@ -74,5 +74,17 @@ Thank you for your interest. I look forward to hearing from you.
 - What does it do on its core?
 	- Generalised Learning
 - Name the different categories of AI. Explain their difference.
-- What will happen in the year 2045)
-	- We dont know.
+- What will happen in the year 2045?
+	- We don't know.
+
+## 2023-10-18
+
+- Disatvantage
+	- Humans get lazy
+	- Lack of emotion
+	- Can destroy our economic system
+- Advantage
+	- Don't get tired
+	- Works cheaper and faster
+	- Opens new possibilities
+	- Can fix lack of labours
