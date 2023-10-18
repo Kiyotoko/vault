@@ -141,6 +141,9 @@ Immanuel Kant veröffentlichte in seiner berühmten Schrift „Allgemeine Naturg
 
 ### Struktur der Milchstraße
 
+- Halo
+- Spiralarme
+- Zentrum
 
 ### Entstehung und Entwicklung der Milchstraße
 
