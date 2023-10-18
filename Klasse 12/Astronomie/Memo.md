@@ -125,3 +125,22 @@ Die möglichen Endstadien der Sternentwicklung sind:
 Die von den massereichen Planeten in das All abgegebene Materie steht erneut als Ausgangsmaterial für eine Sternentstehung zur Verfügung.
 
 ### Materiekreislauf
+
+# Galaxien
+
+## Milchstraße
+
+### Der Erforschung der Milchstraße
+
+Über den gesamten Himmel zieht sich das Band der Milchstraße. Galileo Galilei erkannt mithilfe eines Fernrohrs im Jahre 1609 als erster, dass sich dieses Band aus Milliarden von Sternen zusammensetzt.
+Nach Thomas Wright leben wir in einer scheibenförmigen Ansammlung von Sternen, die langsam um ein Massezentrum rotieren. Blickt man von innen aus diesem System nach außen, dann nimmt man in der Hauptebene der Scheibe deutlich mehr Sterne wahr als beim Blick senkrecht dazu.
+
+Im Jahre 1781 erstellte Charles Messier einen Katalog der hellsten flächenhaften und diffus leuchtenden Gebilde, die man am Nachthimmel beobachten kann. Wie man erst viel später lernte, handelte es sich bei den Messier-Objekten keineswegs nur um Sternsysteme , sondern auch um „gewöhnliche“ Gasnebel und Sternhaufen , die sich innerhalb der Galaxis befinden.
+
+Immanuel Kant veröffentlichte in seiner berühmten Schrift „Allgemeine Naturgeschichte und Theorie des Himmels“ im Jahre 1755 seine Ansichten über dieses Problem. Danach sind die Sterne nicht im Weltall verteilt, sondern ordnen sich in flachen Systemen an, die man über das gesamte Himmelszelt verteilt finden kann.
+
+### Struktur der Milchstraße
+
+
+### Entstehung und Entwicklung der Milchstraße
+
