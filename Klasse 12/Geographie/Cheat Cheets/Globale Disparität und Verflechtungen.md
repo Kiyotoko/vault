@@ -66,3 +66,23 @@ Entwicklungsstand und Wohlstand sind abhängig davon, welche historischen "Start
 Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt, dass die unterschiedliche Wirtschaftsentwicklung in verschiedenen Teilen der Welt in erster Linie durch die natürliche Ausstattung bestimmt ist.
 - England ist ein Beispiel für die Theorie
 - Japan ist ein Beispiel gegen die Theorie
+
+## Demographischer Wandel
+
+### Begriffe
+
+- Geburtenrate
+- Sterberate
+- Zuwachsrate
+- Fertilitäsrate
+
+### Grundformen
+
+- Pyramidenform: hohe und über längere Zeit konstante Geburten- und Sterberate bedingen langsames Wachstum
+	- $\text{Geburtenrate}=\text{konst.}>\text{Sterberate}=\text{konst.}$
+- Bienenkorbform: über längere Zeit gleich bleibende niedrige Geburten- und Sterberate sowie eine hohe Lebenserwartung bedingen gleich bleibende Bevölkerungszahl
+	- $\text{Geburtenrate}=\text{Sterberate}$
+- Glockenform: aufgrund eines Ansteigens der Geburten bei gleichbleibenden niedriger Sterblichkeit beginnt die Bevölkerung wieder zu wachsen.
+	- $\text{Geburtenrate}>\text{Sterberate}$
+- Urnenform: bei hoher Lebenserwartung und kontinuierlich abnehmender Geburtenzahl schrumpft die Bevölkerung über lange Zeit
+	- $\text{Geburtenrate}<\text{Sterberate}$
