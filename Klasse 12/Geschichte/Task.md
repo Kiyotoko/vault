@@ -95,3 +95,14 @@ tags:
 1. Erarbeitet die wichtigsten ideologischen Grundlagen des Nationalsozialismus.
 2. Beschreiben mithilfe des Materials Hitlers Menschenbild.
 3. Entscheidet euch für einen Quellenteil und analysiert diesen ideologiekritisch.
+
+## 2023-10-19
+
+- Starke Politische Werbung
+- Keine Regelung
+- Manipulation der Zielgruppe zur Erreichung eines Zieles
+- Tendenzen
+	- Schönreden
+	- Diffamieren
+- Alltäglich durch Massenmedien
+- Populismus
