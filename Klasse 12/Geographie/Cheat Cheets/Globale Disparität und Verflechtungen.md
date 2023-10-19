@@ -73,8 +73,8 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 
 - Geburtenrate: Anzahl der Personen, die jedes Jahr geboren werden
 - Sterberate: Anzahl der Personen, die jedes Jahr sterben
-- Zuwachsrate
-- Fertilitäsrate
+- Zuwachsrate: Geburtenrate abzüglich der Sterberate
+- Fertilitätsrate: Zusammengefasste Fruchtbarkeitsziffer; Anzahl der Kinder, die eine Frau durchschnittlich im Laufe des Lebens hätte
 
 ### Grundformen
 
