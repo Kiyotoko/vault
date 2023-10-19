@@ -71,8 +71,8 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 
 ### Begriffe
 
-- Geburtenrate
-- Sterberate
+- Geburtenrate: Anzahl der Personen, die jedes Jahr geboren werden
+- Sterberate: Anzahl der Personen, die jedes Jahr sterben
 - Zuwachsrate
 - Fertilitäsrate
 
