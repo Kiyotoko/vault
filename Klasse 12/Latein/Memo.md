@@ -13,26 +13,36 @@ tags:
 
 - 270/288 n. Chr. geboren
 - 337 n. Chr. gestorben
-- Wird zum Römischen Kaiser im Rahmen der Auflösung der römischen Tetrarchie
-- Gründung Konstantinopels
+- Wird zum weströmischen Kaiser nach seinem Vater Flavius Constantius
+- Ist erster ständig regierender Kaiser in Trier
+- Marschierte 312 gegen seinen Rivalen Maxentius auf
+- Besiegt ihn in der Schlacht an der Milvischen Brücke
+- Beendet den Bürgerkrieg im Rahmen der Auflösung der römischen Tetrarchie
+- Ausrufung Konstantinopels als Hauptstadt
 
 ## Vereinigung des römischen Reiches
 
-- Ostrom
-- Westrom
+- Reich war in zwei Teile aufgesplittet
+	- Ostrom
+	- Westrom
+- Durch die Auflösung der römischen Tetrarchie vereinigte er das Reich
 
 ## Untergang des römischen Reiches
 
-- exogene Faktoren
+- Exogene Faktoren
+	- Völkerwanderung / Eroberung
+	- Hunnen
 	- Mongolen
 	- Gothen
-- endogene Faktoren
+- Endogene Faktoren
+	- Transformation (Änderung der Kultur und Politik)
 	- Kein Kaiser
 	- Religion
+	- Bürgerkrieg
 
 ## Christentum
 
-- Frühe Föderung des Christentums
+- Frühe Förderung des Christentums
 - Gründe: Unbekannt
 - Keine Verfolgung der Christen mehr
 - Religiöse Wende wird auch als konstantinische Wende bezeichnet
