@@ -11,7 +11,7 @@ Finde im Speckstein eine Form und arbeite sie mit Werkzeugen, Schleifmittel hera
 
 ## Ideenfindung
 
-
+Katzen sind süß.
 
 ## Umsetzung
 
