@@ -14,6 +14,7 @@ tags:
 - 270/288 n. Chr. geboren
 - 337 n. Chr. gestorben
 - Wird zum Römischen Kaiser im Rahmen der Auflösung der römischen Tetrarchie
+- Gründung Konstantinopels
 
 ## Vereinigung des römischen Reiches
 
