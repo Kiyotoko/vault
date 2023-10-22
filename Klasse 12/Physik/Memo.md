@@ -366,3 +366,12 @@ Läuft die Wellenfront von links schräg aur ein Hindernis, so trifft zunächst 
 
 - Reflexion bei festem Ende: Es kommt bei der Reflexion zu einem Phasensprung vom Betrag $\pi$ (reflektierte Welle ist um $\frac{x}{2}$ verschoben).
 - Reflexion be losem Ende: Reflexion erfolgt ohne Phasensprung.
+
+#### Herleitung Reflexionsgesetz
+
+Da die Wellengeschwindigkeit gleich bleibt, gilt $\bar{AD}=c \cdot t$, $\bar{CB}=c \cdot t$
+Beide Dreiecke haben die Seite $\bar{AC}$.
+Die beiden Dreiecke sind kongruent zueinander.
+Somit gilt $\alpha=\beta$ im Dreieck.
+
+$\frac{\sin{\alpha}}{\cos{\alpha}}=\frac{c_{1}}{c_{2}}$

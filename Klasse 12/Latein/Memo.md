@@ -5,7 +5,7 @@ tags:
   - FGB
 ---
 
-# Konstantin
+# Konstantin der Große
 
 ## Biografie
 
@@ -13,7 +13,7 @@ tags:
 
 - 270/288 n. Chr. geboren
 - 337 n. Chr. gestorben
-- Wird zum Römischen Kaiser
+- Wird zum Römischen Kaiser im Rahmen der Auflösung der römischen Tetrarchie
 
 ## Vereinigung des römischen Reiches
 
@@ -34,3 +34,4 @@ tags:
 - Frühe Föderung des Christentums
 - Gründe: Unbekannt
 - Keine Verfolgung der Christen mehr
+- Religiöse Wende wird auch als konstantinische Wende bezeichnet
