@@ -391,3 +391,15 @@ Das Licht breitet sich auf den zeitlich kürzesten Weg aus.
 (Siehe Seite 244)
 
 Nach Romer (17 Jahrhundert):
+
+Nach Fizeau (1848)
+$f=12.6Hz$
+$d=8633m$
+$n=720$
+
+$c=\frac{\Delta s}{\Delta t}$
+$\Delta s=2\cdot d$
+$T=\frac{1}{f}$
+$f_\text{Zahn zu Zahn}=\frac{T}{n}$
+$f_\text{Zahn zu Lücke}=\frac{T}{2n}$
+$c=\frac{2d}{t_{zl}}=\frac{4dn}{T}=4dnf=4\cdot8633m \cdot720\cdot12.6Hz\approx3.13\cdot10^{8} \frac{m}{s}$
