@@ -68,7 +68,7 @@ Die Formen entsprechen einem Adjektiv der a/o-Deklination.
 - Antonius Caesarem **necatum** e Curia exportat. – Antonius trägt Caesar, **der getötet wurde**, aus der Curie. (Relativsatz)
 - Antonius Caesarem **necatum** e Curia exportat. – Caesar **wurde getötet und** Antonius trägt ihn dann aus der Curie. (Beiordnung als eigenständiger Hauptsatz)
 
-### Partizip Perfekt Aktiv (PPA)
+### Partizip Präsens Aktiv (PPA)
 
 Das **PPA** wird mit dem Kennzeichen „nt“ gebildet (im Nominativ wird die Endung auf „-ns“ verkürzt) und benimmt sich von den Formen her wie ein Adjektiv der dritten Deklination:
 
