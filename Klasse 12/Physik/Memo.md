@@ -379,3 +379,15 @@ $\frac{\sin{\alpha}}{\cos{\alpha}}=\frac{c_{1}}{c_{2}}$
 ## Stehende Wellen
 
 Bei der Überlagerung zweier Wellen mit gleicher Frequenz und gleicher Amplitude entsteht ein stabiles Interferenzmuster. Dieses Muster sieht wie eine Welle aus, die sich nicht fortbewegt un wird als stehende Welle bezeichnet. Es bilden sich Orte mit keiner Auslenkung (Knoten) und Orte mit maximaler Auslenkung (Bäuche). Abstand zwischen zwei Bäuche beziehungsweise zwei Knoten beträgt $\frac{\lambda}{2}$ der ursprünglichen Welle.
+
+## Licht als Welle
+
+### Fermatsches Prinzip
+
+Das Licht breitet sich auf den zeitlich kürzesten Weg aus.
+
+### Methoden zur Messung der Lichtgeschwindigkeit
+
+(Siehe Seite 244)
+
+Nach Romer (17 Jahrhundert):
