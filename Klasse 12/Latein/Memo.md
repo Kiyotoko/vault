@@ -9,7 +9,7 @@ tags:
 
 ## Biografie
 
-> "In diesem Zeichen wirst du Siegen."
+> "In diesem Zeichen wirst du Siegen." - "In hoc signo vinces."
 
 - 270/288 n. Chr. geboren
 - 337 n. Chr. gestorben
@@ -42,10 +42,15 @@ tags:
 
 ## Christentum
 
+- Vor einer Schlacht sol er eine Vision haben, nachdem ihm am Himmel ein Kreuz erschienen sei
+- Nachdem er in der Schlacht siegreich war, unterstütze er das Christentum
 - Frühe Förderung des Christentums
 - Gründe: Unbekannt
+- Gläubiger Christ oder Machtpolitiker?
 - Keine Verfolgung der Christen mehr
 - Religiöse Wende wird auch als konstantinische Wende bezeichnet
+- Baute viele Glaubenshäuser wie die Grabeskirche in Jerusalem
+- Erst als er auf dem Sterbebett lag, ließ er sich angeblich taufen
 
 # Grammatik
 
