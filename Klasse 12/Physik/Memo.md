@@ -375,3 +375,6 @@ Die beiden Dreiecke sind kongruent zueinander.
 Somit gilt $\alpha=\beta$ im Dreieck.
 
 $\frac{\sin{\alpha}}{\cos{\alpha}}=\frac{c_{1}}{c_{2}}$
+
+## Stehende Wellen
+
