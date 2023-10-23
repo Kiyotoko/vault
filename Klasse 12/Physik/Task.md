@@ -169,3 +169,31 @@ $f=\frac{1}{T}=\frac{1}{0.75m}$
 $\lambda=0.8s$
 
 $y(t)=4cm\sin{(2\pi(\frac{t}{0.8s}-\frac{x}{0.75m}))}$
+
+# Wellen
+
+## 2023-10-23
+
+Die Flasche ist eine Röhre mit einem festen Ende (Wasserspiegel) und einem losem Ende (Flaschenöffnung). So entstehen durch das Anpusten stehende Wellen.
+
+Mit steigendem Wasserspiegle verringert sich die Länge der Röhre. Nach der Bedingung: $$\lambda = \frac{4L}{2n-1}$$
+Nimmt die Wellenlänge mit kleiner werdender Länge $L$ ab. Da die Schallgeschwindigkeit konstant bleibt, gilt: $f=\frac{1}{\lambda}$
+Somit steigt die Frequenz beziehungsweise Tonhöhe für geringere Längen $L$.
+
+---
+
+$L=2.4m$
+$f_{n}=\frac{c}{\lambda}=c\frac{2n-1}{4L}$
+$f_{1}=0.104 \cdot 343 Hz$
+$f_{2}=0.3125 \cdot 343 Hz$
+$f_{3}=0.521 \cdot 343 Hz$
+
+$f_{n}=\frac{c}{\lambda}=\frac{c n}{2L}$
+$f_{1}=0.208 \cdot 343 Hz$
+$f_{2}=0.42 \cdot 343 Hz$
+$f_{3}=0.625 \cdot 343 Hz$
+
+---
+
+$L=45cm=0.45m$
+$f=\frac{c}{\lambda}=343$
