@@ -43,7 +43,7 @@ tags:
 ## Christentum
 
 - Vor einer Schlacht sol er eine Vision haben, nachdem ihm am Himmel ein Kreuz erschienen sei
-- Nachdem er in der Schlacht siegreich war, unterstütze er das Christentum
+- Nachdem er in der Schlacht siegreich war, unter er dstützeas Christentum
 - Frühe Förderung des Christentums
 - Gründe: Unbekannt
 - Gläubiger Christ oder Machtpolitiker?
