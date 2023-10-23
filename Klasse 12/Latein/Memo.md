@@ -56,7 +56,7 @@ tags:
 
 ## Partizipien
 
-Ein Partizip ist ein Adjektiv, das von einem Verb kommt.
+Ein Partizip ist ein Adjektiv, das von einem Verb kommt. Es wurde von einem Verb normalisiert.
 
 ### Partizip Perfekt Passiv (PPP)
 
