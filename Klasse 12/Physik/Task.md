@@ -196,4 +196,5 @@ $f_{3}=0.625 \cdot 343 Hz$
 ---
 
 $L=45cm=0.45m$
-$f=\frac{c}{\lambda}=343$
+$f=\frac{c}{\lambda}=\frac{343 \frac{m}{s}}{2\cdot0.45}=381 Hz$
+
