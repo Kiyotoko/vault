@@ -107,3 +107,31 @@ Volumen eines Prismas mit den Vektoren $\vec{a}$, $\vec{b}$ und $\vec{c}$.
 
 ### Abstand Punkt-Ebene
 
+- Aufstellen einer Geradengleichung durch $P E$
+- Schnittpunkt der Gerade mit der Ebene $E$ ermitteln
+- $|\vec{PS}|$ berechnen
+
+**Beispiel**
+$E: 2x+y+2z=-2$
+$P(2|-1|2)$
+$g: \begin{pmatrix}2 \\ -1 \\ 2\end{pmatrix}+k\begin{pmatrix}2 \\ 1 \\ 2\end{pmatrix}$
+$2(2+2k)+(-1+k)+2(2+2k)=-2$
+$4+4k-1+k+4+4k=-2$
+$9k=-9$
+$k=-1$
+$S(0|-2|0)$
+$\vec{PS}=\begin{pmatrix}-2 \\ -1 \\ -2\end{pmatrix}$
+$|\vec{PS}|=\sqrt{9}=3$
+
+### Über Hesse'sche Normalenform
+
+Man erhält die HNI einer Ebene, indem man die Ebenengleichung $ax+by+cz+d=0$ durch den Betrag des Normalenvektors teilt..
+Den Abstand eines Punktes von der Ebene erhält man, indem man die Koordinaten des Punktes in die HNF der Ebene einsetzt.
+
+**Beispiel**
+$E:2x+y+2z=-2$
+$P(2|-1|2)$
+$HNF: \frac{2x+y+2z+2}{\sqrt{2^{2}+1^{2}+2^{2}}}=0$
+$\frac{2x+y+2z+2}{3}=0$
+
+$d=\frac{2\cdot2-1+2\cdot2+2}{3}=\frac{9}{3}=3$
