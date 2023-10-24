@@ -106,3 +106,23 @@ $\cos{120^{\circ}}=\frac{\begin{pmatrix}3\\0\\-1\end{pmatrix}\circ\begin{pmatrix
 
 $t=-8.723$
 $G(-10|10|26.277)$
+
+## 2023-10-24
+
+$P(-1|8|6)$
+$E:8x+4y+z-27=0$
+
+$\frac{8x+4y+z-27}{\sqrt{8^{2}+4^{2}+1^{2}}}=0$
+$\frac{8x+4y+z-27}{9}=0$
+$d=\frac{8\cdot-1+4\cdot8+6-27}{9}=\frac{1}{3}$
+
+---
+
+$E:-2x-y+2z=6$
+$P_{a}(1|a|-3)$
+$L(-3|2|1)$
+$\vec{n}=\begin{pmatrix}-2 \\ -1 \\ 2\end{pmatrix}$
+$k\cdot\vec{n}=\vec{P_{a}L}$
+$k\cdot\begin{pmatrix}-2 \\ -1 \\ 2\end{pmatrix}=\begin{pmatrix}-4 \\ 2-a \\ 4\end{pmatrix}$
+$k=2$
+$a=4$
