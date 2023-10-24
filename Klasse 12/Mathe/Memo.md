@@ -89,4 +89,9 @@ $\begin{pmatrix}x_{a} \\ y_a \\ z_a\end{pmatrix}\times\begin{pmatrix}x_{b} \\ y_
 ### Geometrische Bedeutung
 
 - Ergebnis ist ein Vektor, der $\bot$ auf beiden Vektoren steht
-- Betrag des Vektorproduktes ist der Flächeninhalt des aufgespannten Parallelogrammes
+- Betrag des Vektorproduktes ist der Flächeninhalt des aufgespannten Parallelogrammes $A=|\vec{a}\times\vec{b}|$
+- Die Hälfte des Betrags des Vektorproduktes ist der Flächeninhalt des Dreiecks
+
+## Spatprodukt
+ 
+$V_{Spat}=|(\vec{a}\times\vec{b})\circ\vec{c}|$
