@@ -82,7 +82,7 @@ $\vec{x}=\begin{pmatrix}2 \\ 6 \\ 14\end{pmatrix}$
 **Beispiel**
 $\begin{pmatrix}2 \\ -3 \\ 1\end{pmatrix}\times\begin{pmatrix}1 \\ 2 \\ -1\end{pmatrix}=\begin{pmatrix}3-2 \\ 1+2 \\ 4+3\end{pmatrix}=\begin{pmatrix}1 \\ 3 \\ 7\end{pmatrix}$
 
-Das Ergebnis des Vektorprodukts $\vec{a}\times\vec{b}$ ist eon Vektor, der Senkrecht auf $\vec{a}$ und Senkrecht auf $\vec{b}$ steht.
+Das Ergebnis des Vektorprodukts $\vec{a}\times\vec{b}$ ist ein Vektor, der Senkrecht auf $\vec{a}$ und Senkrecht auf $\vec{b}$ steht.
 
 $\begin{pmatrix}x_{a} \\ y_a \\ z_a\end{pmatrix}\times\begin{pmatrix}x_{b} \\ y_{b} \\ z_{b} \end{pmatrix}=\begin{pmatrix}y_{a}z_{b}-z_{a}y_{b} \\ z_{a}x_{b}-x_{a}z_{b} \\ x_{a}y_{b}-y_{a}x_{b}\end{pmatrix}$
 
@@ -95,3 +95,10 @@ $\begin{pmatrix}x_{a} \\ y_a \\ z_a\end{pmatrix}\times\begin{pmatrix}x_{b} \\ y_
 ## Spatprodukt
  
 $V_{Spat}=|(\vec{a}\times\vec{b})\circ\vec{c}|$
+Volumen eines Prismas mit den Vektoren $\vec{a}$, $\vec{b}$ und $\vec{c}$.
+
+### Geometrische Bedeutung
+
+- Volumen eines 3-seitigen Prismas $V=\frac{1}{2}|(\vec{a}\times\vec{b})\circ\vec{c}|$
+- Volumen einer 4-seitigen Pyramide $V=\frac{1}{3}|(\vec{a}\times\vec{b})\circ\vec{c}|$
+- Volumen einer 3-seitigen Pyramide $V=\frac{1}{6}|(\vec{a}\times\vec{b})\circ\vec{c}|$
