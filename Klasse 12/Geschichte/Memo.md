@@ -59,3 +59,14 @@ tags:
 	- sämtliche Aktivitäten des Volkes in NSDAP-Strukturen überführen = Vereinheitlichung von privatem und öffentlichem Leben
 	- Vorgehen entspricht angeblich "Volkswillen"
 	- In Praxis: Überführung anderer Organsiationsformen in NS-Organisationsformen
+	- durch Anweisung/Terror oder ersatzlose Selbstauflösung oder Selbstgleichschaltung
+- Grundlagen: Reichstagsbrandverordnung und Ermächtigungsgesetz
+
+**Beispiel**
+"Gesetz zur Gleichschafltung der Länder mit dem Reich" (3/33), "Gesetz zur Wiederherstellung des Berufsbeamtentums" (4/33)
+
+## Parallelität von Staats- und Parteiämtern
+
+- Polykratie - Koexistenz konkurrierender Herrschaftssituationen, die gleiche oder ähnliche Kompetenzen und Aufgaben haben, Staat vs. Partei
+- Führerstaat - Autorität jedes "Führers" nach unten und Verantwortlichkeit nach oben, das gesamte dritte Reich ist nach dem Führerprinzip aufgebaut
+
