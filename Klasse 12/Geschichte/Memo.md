@@ -50,3 +50,12 @@ tags:
 	- Hitler nennt sich fortan "Führer des deutschen Reiches"
 
 > Ausschaltung politischer Institutionen der Demokratie, Aushöhlung der Verfassung, Beseitigung politischer Gegner, Monopolisierung der Macht
+
+(Siehe S. 344 - 345)
+
+## Die Gleichschaltung
+
+- Definition (NS-Sprache): Vereinheitlichung sämtlicher staatlicher und nicht-staatlicher Organisationen, Verbänden und Strukturen mit dem Ziel, den Anspruch der NSDAP auf alleinige und totale Macht in Staat und Gesellschaft durchzusetzen.
+	- sämtliche Aktivitäten des Volkes in NSDAP-Strukturen überführen = Vereinheitlichung von privatem und öffentlichem Leben
+	- Vorgehen entspricht angeblich "Volkswillen"
+	- In Praxis: Überführung anderer Organsiationsformen in NS-Organisationsformen
