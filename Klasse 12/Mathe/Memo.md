@@ -102,3 +102,8 @@ Volumen eines Prismas mit den Vektoren $\vec{a}$, $\vec{b}$ und $\vec{c}$.
 - Volumen eines 3-seitigen Prismas $V=\frac{1}{2}|(\vec{a}\times\vec{b})\circ\vec{c}|$
 - Volumen einer 4-seitigen Pyramide $V=\frac{1}{3}|(\vec{a}\times\vec{b})\circ\vec{c}|$
 - Volumen einer 3-seitigen Pyramide $V=\frac{1}{6}|(\vec{a}\times\vec{b})\circ\vec{c}|$
+
+## Abstände / Spiegelpunkte
+
+### Abstand Punkt-Ebene
+
