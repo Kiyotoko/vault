@@ -210,3 +210,19 @@ $d=6mm$
 $d=c\cdot t$
 $t=b\cdot\Delta y=6mm\cdot0.1 \frac{\mu s}{cm}=0.6cm\cdot0.1 \frac{\mu s}{cm}=0.06\mu s$
 $d=\frac{1}{2}\cdot3\cdot10^{8} \frac{m}{s}\cdot0.06\mu s=\frac{1}{2}\cdot3\cdot10^{8} \frac{m}{s}\cdot0.06\cdot10^{-6}s\approx9m$
+
+---
+
+| Eintritt | Ausdritt | Verhältnis |
+| -------- | -------- | ---------- |
+| 10       | 8        | 1.248      |
+| 20       | 15       | 1.321      |
+| 30       | 20       | 1.462      |
+| 40       | 25       | 1.521      |
+| 50       | 30       | 1.532      |
+| 60       | 36       | 1.473      |
+
+$\frac{\sin{\alpha}}{\sin{\beta}}=1.432$
+
+$\frac{\sin{\alpha}}{\sin{\beta}}=\frac{c_{0}}{c_{s}}=\frac{c_{0}}{\frac{\sin{\alpha}}{\sin{\beta}}}=3\cdot10^{8} \frac{\frac{m}{s}}{1.52}\approx=1.97\cdot10^{8} \frac{m}{s}$
+

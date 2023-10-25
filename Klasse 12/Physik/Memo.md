@@ -434,4 +434,6 @@ $n_{1}=\frac{c_{0}}{c_{1}}$
 $n_{2}=\frac{c_{0}}{c_{2}}$
 $n_{2}c_{2}=c_{0}=n_{1}c_{1}\to \frac{c_{1}}{c_{2}}=\frac{n_{2}}{n_{1}}$
 
-$\sin{\alpha}/\sin{\beta}$
+Lichtgeschwindigkeit mithilfe von Laserentfernungsmesser
+
+Anzeige des Entfernungsmesser $\cases{s_{0}= \\ s_{w}=}$
