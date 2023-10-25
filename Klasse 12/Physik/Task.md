@@ -198,3 +198,15 @@ $f_{3}=0.625 \cdot 343 Hz$
 $L=45cm=0.45m$
 $f=\frac{c}{\lambda}=\frac{343 \frac{m}{s}}{2\cdot0.45}=381 Hz$
 
+## 2023-10-25
+
+$\Delta y=0.1 \frac{\mu s}{cmm}$
+$\Delta t=40ns$
+$\Delta x\text{ in cm}$
+
+$\Delta x=\frac{\Delta t}{\Delta y}=\frac{40ns}{0.1 \frac{\mu s}{cm}}=\frac{0.04\mu s}{0.1 \frac{\mu s}{cm}}=0.4cm$
+
+$d=6mm$
+$d=c\cdot t$
+$t=b\cdot\Delta y=6mm\cdot0.1 \frac{\mu s}{cm}=0.6cm\cdot0.1 \frac{\mu s}{cm}=0.06\mu s$
+$d=\frac{1}{2}\cdot3\cdot10^{8} \frac{m}{s}\cdot0.06\mu s=\frac{1}{2}\cdot3\cdot10^{8} \frac{m}{s}\cdot0.06\cdot10^{-6}s\approx9m$

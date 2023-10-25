@@ -386,13 +386,22 @@ Bei der Überlagerung zweier Wellen mit gleicher Frequenz und gleicher Amplitude
 
 Das Licht breitet sich auf den zeitlich kürzesten Weg aus.
 
+### Brechungsindex
+
+$n=\frac{c_{0}}{c_{s}}$
+- $c_{0}$ - Vakuum
+- $c_{s}$ - Stoff
+
 ### Methoden zur Messung der Lichtgeschwindigkeit
+
+#### Bestimmung Lichtgeschwindigkeit im Vakuum
 
 (Siehe Seite 244)
 
-Nach Romer (17 Jahrhundert):
+##### Nach Romer (17 Jahrhundert):
 
-Nach Fizeau (1848)
+##### Nach Fizeau (1848)
+
 $f=12.6Hz$
 $d=8633m$
 $n=720$
@@ -403,3 +412,26 @@ $T=\frac{1}{f}$
 $f_\text{Zahn zu Zahn}=\frac{T}{n}$
 $f_\text{Zahn zu Lücke}=\frac{T}{2n}$
 $c=\frac{2d}{t_{zl}}=\frac{4dn}{T}=4dnf=4\cdot8633m \cdot720\cdot12.6Hz\approx3.13\cdot10^{8} \frac{m}{s}$
+
+##### Moderne Messungen
+
+(Siehe S. 245)
+
+Laufzeitbestimmmmung mittels Lichtdetektor
+
+$\Delta t= 67ns$
+$\Delta s = 20m$
+$c=\frac{\Delta s}{\Delta t}=\frac{20m}{67\cdot10^{-9}s}=2.99\cdot10^{8} \frac{m}{s}$
+$c=\frac{1}{\sqrt{\epsilon_{0}\cdot\mu_{0}}}$
+
+#### Bestimmung Lichtgeschwindigkeit für verschiedene Stoffe
+
+Brechungsgesetz
+
+$\frac{\sin{\alpha}}{\sin{\beta}}=\frac{c_{1}}{c_{2}}$
+
+$n_{1}=\frac{c_{0}}{c_{1}}$
+$n_{2}=\frac{c_{0}}{c_{2}}$
+$n_{2}c_{2}=c_{0}=n_{1}c_{1}\to \frac{c_{1}}{c_{2}}=\frac{n_{2}}{n_{1}}$
+
+$\sin{\alpha}/\sin{\beta}$
