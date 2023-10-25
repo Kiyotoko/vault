@@ -97,4 +97,33 @@ Akzeptanz des NS-Regimes durch jeden Einzelnen
 	3. Ziel Gesteuerte Beeinflussung
 3. Zwang 
 	1. Mittel Offene Gewalt
-	2. 
+	2. Beispielsweise Politische Verfolgung, KZ-System
+	3. Ziel Erzwungene Einordnung
+
+## NS-Ideologie
+
+| Ideologie         | Erklärung                                            |
+| ----------------- | ---------------------------------------------------- |
+| Rassismus         | Überlegenheit der eigenen Rasse                      |
+| Antisemitismus    | Judenfeindlichkeit                                   |
+| "Lebensraum"      | Rassentheorie = Grundlage für NS-Außenpolitik        |
+| Volksgemeinschaft | Keine Individualität, sondern Gleichschaltung        |
+| Führerprinzip     | Alles wird seinem Willen untergeordnet, Personenkult |
+
+## Ideologischer Sprache
+
+### Typische Wörter der Nazis
+
+- Neologismen wie Sippenhaftungen, Vergeltungswaffen
+- Bedeutungswandel wir arisch, fanatisch
+- Hochwertwörter wie Volk, Rasse, Reich
+- Biologismus wie Rasse, Blutvergiftung
+- Entmenschlichungen wie Schädlinge, Parasiten
+- Militarisierung der Sprache
+- Euphemismen wie Säuberung
+
+### Mittel der Propaganda
+
+1. Öffentliche Festen und Großveranstaltungen
+2. Symbolik wie den "Hitler Gruß"
+3. Medien wie Bücher, Zeitungen, Radios, Plakaten
