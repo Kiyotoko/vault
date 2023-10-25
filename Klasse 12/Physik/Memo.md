@@ -446,3 +446,4 @@ $c_{w}=\frac{s_{0}}{t_{w}}$
 Anzeige $s_{w}=c_{0}\cdot t_{w}=c_{0}\cdot \frac{s_{0}}{c_{w}}\to s_{w}=\frac{c_{0}s_{0}}{c_{w}}\to c_{w}=\frac{c_{0}s_{0}}{s_{w}}=3\cdot10^{8} \frac{m}{s}\cdot \frac{25cm}{32cm}$
 $s_{w}=\approx2.34\cdot10^{8} \frac{m}{s}$
 $n_{w}=\frac{c_{0}}{c_{w}}=\frac{s_{w}}{s_{0}}=\frac{32cm}{25cm}=1.28$
+
