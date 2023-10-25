@@ -90,6 +90,25 @@ Vielen Dank!
 - Militarismus
 - Technologie
 - Ungleichheit der Geschlechter
+- Modernisierung
+- Industrialisierung
 - Wirtschaftswachstum und Armut
 - Sozialismus
 - Neue Bewegung gegen die Moderne
+- Enge Moralvorstellungen
+
+---
+
+- Innerer Monolog
+- Theater als Bruch der Normalität
+- Druck ermöglicht Massenwahre
+- Erste deutsche Nationalbibliothek
+- Bekannte Autoren
+	- Marx & Engels
+	- Theodor von Tane
+	- Karl May
+	- Eugene Marlet
+- Nur die reiche Oberschicht besitzt viele Bücher
+- Unterschicht kann sich kaum Bücher leisten
+- Mehrere Volksbibliotheken entstehen
+- Reclam hefte erscheinen als günstige Alternative
