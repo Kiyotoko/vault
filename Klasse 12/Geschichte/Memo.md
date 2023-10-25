@@ -20,7 +20,7 @@ tags:
 	- 1029: 12 Abgeordnete
 	- 1930: 107 Abgeordnete
 	- 30. Januar 1933: Hitler wird von Hindenburg zum Reichskanzler ernannt
-	  
+
 ## Stufen der Machtergreifung
 
 - 30.01.1933: Hitlers Ernennung zum Reichskanzler
@@ -70,3 +70,31 @@ tags:
 - Polykratie - Koexistenz konkurrierender Herrschaftssituationen, die gleiche oder ähnliche Kompetenzen und Aufgaben haben, Staat vs. Partei
 - Führerstaat - Autorität jedes "Führers" nach unten und Verantwortlichkeit nach oben, das gesamte dritte Reich ist nach dem Führerprinzip aufgebaut
 
+- Ämtervielfalt
+- Mangel an eindeutigen Weisungsbefugnissen und Kompetenzen und Überschneidung von Zuständigkeitsbereichen
+- Kampf aller möglichen Instanzen der Partei und des Staates um bestimmte Entscheidungsberechtigungen (auch innerhalb der NSDAP, z.B. SS-Gestapo-und andere z.B. Reichssicherheitshauptamt)
+
+## Ein "Charismatischer" Alleinherrscher?
+
+| Position Wehler                                                                              | Position Herbst                                                                             |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Hitler löst als Identifikationsfigur Begeisterung im deutschen Volk aus wie zuletzt Bismarck | Hitler selbst ein druchschnittlich begabter Mensch                                          |
+| erfuhr in den ersten Jahren seiner Herrschaft eine enthusiastische Zustimmung                | die propagierte Indentität von "Volk" und "Führer" hatten das Ziel, Probleme zu überblenden |
+| Zustimmung insbesondere auf Erfolge in Innen- und Ausenpolitik zurückzuführen                | Zentrales Element der NS-Herrschaft war die Durchdringung des Alltags                       |
+| Hitler als omnipotenter Herrscher                                                            | Führerprinzip und Verteilung der Macht kennzeichnen NS und nicht "der" Führer                                                                                          |
+
+## Herrschaftstechnik
+
+Akzeptanz des NS-Regimes durch jeden Einzelnen
+
+1. Überzeugung
+	1. Mittel "positive Erscheinungsformen"
+	2. Beispielsweise Beseitigung der Arbeitslosigkeit
+	3. Ziel Freiwille Einordnung
+2. Überredung
+	1. Mittel Propaganda
+	2. Beispielsweise Kontrolle der Massenmedien
+	3. Ziel Gesteuerte Beeinflussung
+3. Zwang 
+	1. Mittel Offene Gewalt
+	2. 
