@@ -117,3 +117,23 @@ Thank you for your interest. I look forward to hearing from you.
 | Babies could help humanity, more intelligence can contribute to society | Unknown results, only changing a gene does not mean that you known, what will be affected by the change    |
 | It could prevent all possible inheritable diseases and gene mutation    | Only for the rich, can cost a lot, gene changes can create an insurmountable barrier in social differences |
 | A debate can prevent possible dooms day scenarios                       | Only used for enhancement, can lead to misuse                                                                                                           |
+
+---
+
+1. State in which fields genetic engineering ins commonly used.
+	1. Widely used in agriculture
+	2. In medicine
+2. State what CRISPR stands for.
+	1. Clustered Regularly Interspaced Short Palindromic Repeats
+3. Take notes on how CRISPR-Cas works
+	1. RNA matches DNA
+	2. Cas proteins cut DNA
+	3. gRNA is combined with the Cas protein, acts like a guide
+	5. Cut triggers repair mechanism
+4. Explain the term "cloning".
+	1. Cloning is the complete copying of the DNA of an organism to create a new one.
+5. Take notes on how cloning works.
+	1. Take a single cell
+	2. Remove the nucleus into a egg cell.
+	3. Transfer the nucleus from the taken cell into a the egg cell.
+ 
