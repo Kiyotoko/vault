@@ -109,3 +109,11 @@ Thank you for your interest. I look forward to hearing from you.
 - a child would definitely have the disease
 - effects the lungs, brings a great suffering during their life, expectance is between 40-50 years
 - genetic engineering is a chance to get a health baby
+
+## 2023-10-25
+
+| pro                                                                     | con                                                                                                        |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Babies could help humanity, more intelligence can contribute to society | Unknown results, only changing a gene does not mean that you known, what will be affected by the change    |
+| It could prevent all possible inheritable diseases and gene mutation    | Only for the rich, can cost a lot, gene changes can create an insurmountable barrier in social differences |
+| A debate can prevent possible dooms day scenarios                       | Only used for enhancement, can lead to misuse                                                                                                           |
