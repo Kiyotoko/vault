@@ -85,5 +85,11 @@ Vielen Dank!
 
 ---
 
-- Sonett
-- 
+## 2023-10-25
+
+- Militarismus
+- Technologie
+- Ungleichheit der Geschlechter
+- Wirtschaftswachstum und Armut
+- Sozialismus
+- Neue Bewegung gegen die Moderne
