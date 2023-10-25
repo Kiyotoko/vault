@@ -88,17 +88,17 @@ tags:
 Akzeptanz des NS-Regimes durch jeden Einzelnen
 
 1. Überzeugung
-	1. Mittel "positive Erscheinungsformen"
-	2. Beispielsweise Beseitigung der Arbeitslosigkeit
-	3. Ziel Freiwille Einordnung
+	1. *Mittel* "positive Erscheinungsformen"
+	2. *Beispielsweise* Beseitigung der Arbeitslosigkeit
+	3. *Ziel* Freiwille Einordnung
 2. Überredung
-	1. Mittel Propaganda
-	2. Beispielsweise Kontrolle der Massenmedien
-	3. Ziel Gesteuerte Beeinflussung
+	1. *Mittel* Propaganda
+	2. *Beispielsweise* Kontrolle der Massenmedien
+	3. *Ziel* Gesteuerte Beeinflussung
 3. Zwang 
-	1. Mittel Offene Gewalt
-	2. Beispielsweise Politische Verfolgung, KZ-System
-	3. Ziel Erzwungene Einordnung
+	1. *Mittel* Offene Gewalt
+	2. *Beispielsweise* Politische Verfolgung, KZ-System
+	3. *Ziel* Erzwungene Einordnung
 
 ## NS-Ideologie
 
@@ -127,3 +127,17 @@ Akzeptanz des NS-Regimes durch jeden Einzelnen
 1. Öffentliche Festen und Großveranstaltungen
 2. Symbolik wie den "Hitler Gruß"
 3. Medien wie Bücher, Zeitungen, Radios, Plakaten
+
+### Sprachbilder und Inszenierungen der NS-Propaganda
+
+1. Erwecken religiöser Gefühle
+2. Personifizieren
+3. Verwenden von starken Bildern
+4. Schaffen von großen Räumen
+5. Schaffen von langen Zeiträumen
+
+### Säulen der Rhetorik
+
+- **Ethos** Glaubwürdigkeit des Sprechers
+- **Pathos** Wecken von Emotionen, das Publikum soll sich angesprochen fühlen
+- **Logos** Ansprache der Logik; Argumentation/Beweise/Fakten
