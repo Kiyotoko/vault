@@ -436,4 +436,13 @@ $n_{2}c_{2}=c_{0}=n_{1}c_{1}\to \frac{c_{1}}{c_{2}}=\frac{n_{2}}{n_{1}}$
 
 Lichtgeschwindigkeit mithilfe von Laserentfernungsmesser
 
-Anzeige des Entfernungsmesser $\cases{s_{0}= \\ s_{w}=}$
+Anzeige des Entfernungsmesser $\cases{s_{0}=24.8cm \\ s_{w}=32.2cm}$
+
+Brechung von $c_{w}$ und $n_{w}$
+
+$c_{0}=\frac{s_{0}}{t_{0}}$
+$c_{w}=\frac{s_{0}}{t_{w}}$
+
+Anzeige $s_{w}=c_{0}\cdot t_{w}=c_{0}\cdot \frac{s_{0}}{c_{w}}\to s_{w}=\frac{c_{0}s_{0}}{c_{w}}\to c_{w}=\frac{c_{0}s_{0}}{s_{w}}=3\cdot10^{8} \frac{m}{s}\cdot \frac{25cm}{32cm}$
+$s_{w}=\approx2.34\cdot10^{8} \frac{m}{s}$
+$n_{w}=\frac{c_{0}}{c_{w}}=\frac{s_{w}}{s_{0}}=\frac{32cm}{25cm}=1.28$
