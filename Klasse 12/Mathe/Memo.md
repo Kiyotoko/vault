@@ -142,7 +142,6 @@ $\vec{0P'}=\vec{0P}+2\cdot\vec{PS}$
 $\vec{0P'}=\vec{0S}+\vec{PS}$
 
 **Beispiel**
-
 $E:5x-y+4z=-12$
 $P(17|15|11)$
 
@@ -155,3 +154,61 @@ $k=-3$
 $S(2|18|-1)$
 $\vec{PS}=\begin{pmatrix}-15 \\ 3 \\ -12\end{pmatrix}$
 $\vec{0P'}=\begin{pmatrix}17 \\ 15 \\ 11\end{pmatrix}+2\begin{pmatrix}-15 \\ 3 \\ -12\end{pmatrix}=\begin{pmatrix}-13 \\ 21 \\ -13\end{pmatrix}$
+
+Für den Abstand bei Ebene zu Gerade beziehungsweise Ebene zu Ebene wählt man einen beliebigen Punkt, und fährt dann fort wie oben. Bedingung ist, dass diese nicht parallel sind.
+
+### Abstand Punkt Gerade
+
+$g:\vec{x}=\begin{pmatrix}6 \\ 1 \\ 6\end{pmatrix}+k\begin{pmatrix}3 \\ -2 \\ 4\end{pmatrix}$
+$P(4|-5|8)$
+$Q(6+3k|1-2k|6+4k)$
+$\vec{PQ}=\begin{pmatrix}6+3k-4 \\ 1-2k+5 \\ 6+4k-8\end{pmatrix}=\begin{pmatrix}2+3k \\ 6-2k \\ -2+4k\end{pmatrix}$
+$d=\sqrt{(2+3k)^{2}+(6-2k)^{2}+(-2+4k)^{2}}$
+
+Eingabe ins Grafikmenü des TR u. Minimum anzeigen lassen
+
+$TP(0.48|6.41)$
+
+Abstand $P-g$: $6.1$
+
+#### Über Hilfsebene
+
+- Aufstellen der Gleichung einer Hilfsebene durch $P\bot g$
+- Berechnen des Schnittpunktes $S$ der Hilfsebene mit $g$
+- Berechnen des Abstandes Schnittpunkt  $S-P$
+
+**Beispiel**
+$\vec{x}=\begin{pmatrix}6 \\ 1 \\ 6\end{pmatrix}=k\begin{pmatrix}3 \\ -2 \\ 4\end{pmatrix}$
+$P(4|-5|8)$
+
+$3x-2y+5z=z$
+$4\cdot4-2\cdot(-5)+4\cdot8=12+10+32=54$
+
+Hilfsebene
+$3x-2y+4z=54$
+
+Einsetzen der Gerade
+$3(6+3k)-2(1-2k)+4(6+4k)=54$
+$k=\frac{14}{29}$
+
+Schnittpunkt durch Variable in Gerade einsetzen
+$S(7.448|1.414|5.172)$
+
+Abstand zwischen $P$ und $S$
+$|\vec{PS}|\approx6.1$
+
+
+#### Über Vektorprodukt
+
+$g:\vec{x}=\begin{pmatrix}6 \\ 1 \\ 6\end{pmatrix}+k\begin{pmatrix}3 \\ -2 \\ 4\end{pmatrix}$
+$P(4|-5|8)$
+
+Für $k=1$ erhält man einen weiteren Punkt auf $g$, hier $(9|-1|10)$
+
+Die Fläche $A$ eines aufgespannten Parallelogramms mit den Seiten $\vec{a}=\vec{G_{0}P}$ und $\vec{b}=\vec{G_{1}P}$
+
+$A=|\vec{a}\times\vec{b}|$
+$h=\frac{A}{\vec{b}}=6.1$
+
+Logische Schlussfolgerung aus Abstandsrechnung Punkt zu Gerade
+- Berechnung des Abstandes $g_{1}-g_{2}$ für $g_{1}\|g_{2}$ -> beliebigen Punktauf $g_{1}$ wählen, dann weiter wie Abstand $P-g$
