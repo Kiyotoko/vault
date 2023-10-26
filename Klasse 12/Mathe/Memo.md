@@ -212,3 +212,5 @@ $h=\frac{A}{\vec{b}}=6.1$
 
 Logische Schlussfolgerung aus Abstandsrechnung Punkt zu Gerade
 - Berechnung des Abstandes $g_{1}-g_{2}$ für $g_{1}\|g_{2}$ -> beliebigen Punktauf $g_{1}$ wählen, dann weiter wie Abstand $P-g$
+
+### Abstand windschiefer Geraden
