@@ -138,3 +138,20 @@ $d=\frac{2\cdot2-1+2\cdot2+2}{3}=\frac{9}{3}=3$
 
 ### Spiegelpunkte
 
+$\vec{0P'}=\vec{0P}+2\cdot\vec{PS}$
+$\vec{0P'}=\vec{0S}+\vec{PS}$
+
+**Beispiel**
+
+$E:5x-y+4z=-12$
+$P(17|15|11)$
+
+$g\text{ durch }P\bot E:\vec{x}=\begin{pmatrix}17 \\ 15 \\ 11\end{pmatrix}+k\begin{pmatrix}5 \\ -1 \\ 4\end{pmatrix}$
+$5(17+5k)-(15-k)+4(11+4k)=-12$
+$85+25k-15+k+44+16k=-12$
+$42k=-126$
+$k=-3$
+
+$S(2|18|-1)$
+$\vec{PS}=\begin{pmatrix}-15 \\ 3 \\ -12\end{pmatrix}$
+$\vec{0P'}=\begin{pmatrix}17 \\ 15 \\ 11\end{pmatrix}+2\begin{pmatrix}-15 \\ 3 \\ -12\end{pmatrix}=\begin{pmatrix}-13 \\ 21 \\ -13\end{pmatrix}$
