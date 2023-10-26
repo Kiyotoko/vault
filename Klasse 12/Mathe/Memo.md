@@ -135,3 +135,6 @@ $HNF: \frac{2x+y+2z+2}{\sqrt{2^{2}+1^{2}+2^{2}}}=0$
 $\frac{2x+y+2z+2}{3}=0$
 
 $d=\frac{2\cdot2-1+2\cdot2+2}{3}=\frac{9}{3}=3$
+
+### Spiegelpunkte
+
