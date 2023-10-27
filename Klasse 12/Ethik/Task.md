@@ -36,3 +36,9 @@ Praxisnahe Gewohnheiten
 - Aus Pflicht wahrhaft zu sein ist perse nicht schlecht, da es schon Gesetz für einem selbst ist
 - Man kann nicht wollen, dass Lügen zum allgemeinen Gesetz wird, da das Versprechen unsinnig
 - Somit stellt das allgemeine Gesetz einen Wiederspruch mit meinen Maximen an sich dar
+
+## 2023-10-27
+
+- Extremsituationen
+- Selbstschutz
+- 
