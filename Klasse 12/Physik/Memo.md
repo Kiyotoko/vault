@@ -447,3 +447,17 @@ Anzeige $s_{w}=c_{0}\cdot t_{w}=c_{0}\cdot \frac{s_{0}}{c_{w}}\to s_{w}=\frac{c_
 $s_{w}=\approx2.34\cdot10^{8} \frac{m}{s}$
 $n_{w}=\frac{c_{0}}{c_{w}}=\frac{s_{w}}{s_{0}}=\frac{32cm}{25cm}=1.28$
 
+### Reflexion, Brechung und Beugung
+
+#### Nachweis Reflexionsgesetz
+
+Mithilfe einer Winkelscheibe Einfallswinkel $\alpha$ und Reflexionswinkel $\alpha'$ messen.
+
+### Beugung von Licht
+
+*Erläuterung mittels Huygenschen Prinzipes*
+
+Jeder Punkt auf einer Wellenfront ist Ursprung einer kugel-/kreisförmigen Elementarwelle. Diese Elementarwellen breiten sich mit der gleichen Geschwindigkeit aus wie die ursprüngliche Welle. Die einhüllende Überlagerung der Wellenfronten der Elementarwellen bildet die neue Wellenfront.
+
+Nach dem Huygenschen Prinzip ist der Punkt $P$ (Teil der Wellenfront, die auf das Hindernis trifft) Ursprung einer kugelförmigen Elementarwelle, die sich in den geometrischen Schattenraum des Hindernisses ausbreitet.
+

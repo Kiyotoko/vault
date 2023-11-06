@@ -226,3 +226,17 @@ $\frac{\sin{\alpha}}{\sin{\beta}}=1.432$
 
 $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{c_{0}}{c_{s}}=\frac{c_{0}}{\frac{\sin{\alpha}}{\sin{\beta}}}=3\cdot10^{8} \frac{\frac{m}{s}}{1.52}\approx=1.97\cdot10^{8} \frac{m}{s}$
 
+## 2023-11-06
+
+$c=3\cdot10^{8} \frac{m}{s}$
+$x=384000000m$
+$s=v\cdot t$
+$t=\frac{s}{v}=\frac{384\cdot10^{6}m}{3\cdot10^{8} \frac{m}{s}}=1.28s$
+
+---
+
+$\varphi=0.02^{\circ}$
+$x=384000000m$
+
+$\tan{\frac{\varphi}{2}}=\frac{\frac{d}{2}}{x}$
+$d=\tan{\frac{\varphi}{2}}\cdot 2x$
