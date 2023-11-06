@@ -481,3 +481,14 @@ $$\frac{s_{n}}{a}\approx \frac{n\cdot\lambda}{b}\quad(n\in\mathbb{N})$$
 
 Gitterkonstante $G$ gibt an, wie viele Öffnungen das Gitter pro $1mm$ besitzt: $G=\frac{1}{b}$
 **Beispiel** $G=100 \frac{1}{mm}$
+
+Das Licht, das durch einen dritten Spalt auf den Schirm trifft, hat den gleichen Gangunterschied zur Lichtwelle des zweiten Splats, wie die Lichtwelle vom 2. Spalt zum 1. Spalt. Weitere Spaltöffnungen verändern nicht die Lage der Maxima, sondern nur deren Intensität, da mehr Licht beim Gitter hindurchdringt.
+
+Beugung in Abhängigkeit von der Wellenlänge
+
+Näherungsformel $\frac{s_{n}}{a}=\frac{n\cdot\lambda}{b}\to s_{n}=\frac{n\cdot\lambda\cdot a}{b}$
+
+Je größer die Wellenlänge, desto größer der Abstand der Maxima. Rotes Licht wird stärker gebeugt als blaues Licht.
+
+**Einfluss $a$** Je größer $a$, desto größer der Abstand der Maxima
+**Einfluss $b$** Je größer $b$, desto kleiner der Abstand der Maxima

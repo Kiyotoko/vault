@@ -240,3 +240,22 @@ $x=384000000m$
 
 $\tan{\frac{\varphi}{2}}=\frac{\frac{d}{2}}{x}$
 $d=\tan{\frac{\varphi}{2}}\cdot 2x$
+
+---
+
+$a=3m=3000mm$
+$b=0.5mm$
+$s_{n}=4mm$
+$n=1$
+
+$\frac{s_{n}}{a}\approx \frac{n\cdot\lambda}{b}\quad(n\in\mathbb{N})$
+$\lambda=\frac{s_{n}\cdot b}{n\cdot a}=6.67\cdot10^{-4}mm$
+
+---
+
+$n_\text{rot}=1.51$
+$n_\text{blau}=1.52$
+$\alpha=45^{\circ}$
+$a=2m$
+
+$\sin{\alpha_{1}}/\sin{\beta_{1}}\to\beta_{1}=\arcsin{(\frac{n_{\text{Licht}}}{n_\text{Glas}}\cdot\alpha_{1}})$
