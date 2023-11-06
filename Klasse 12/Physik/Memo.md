@@ -461,3 +461,5 @@ Jeder Punkt auf einer Wellenfront ist Ursprung einer kugel-/kreisförmigen Eleme
 
 Nach dem Huygenschen Prinzip ist der Punkt $P$ (Teil der Wellenfront, die auf das Hindernis trifft) Ursprung einer kugelförmigen Elementarwelle, die sich in den geometrischen Schattenraum des Hindernisses ausbreitet.
 
+#### Beugung/Interferenz am Doppelspalt/Gitter
+
