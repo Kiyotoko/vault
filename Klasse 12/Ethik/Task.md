@@ -46,9 +46,10 @@ Praxisnahe Gewohnheiten
 ---
 
 1. Stelle die Unterschiede zwischen Kants und Constants Argumentation gegenüber.
-	1. Kant sieht, dass man prinzipiell nicht Lügen soll
-	2. Allein der gute Wille zählt
-	3. Constant sieht, dass man Lügen darf, weil die Folgen absehbar schlecht sind
-	4. Utilitaristisch betrachtet er die Folgen
+	1. Kant sieht, dass man nicht Lügen darf
+	3. Universaler Ansatz, d. h. Handlungen sind immer an sich falsch und richtig
+	4. Constant sieht, dass man Lügen darf
+	6. Es gibt nur dort eine Pflicht, wo auch Recht besteht
+	7. Aus einer unrechtmäßigen Situation/Handlungen kann demnach keine Pflicht/Verpflichtung erfolgen
 2. Zeigen Sie die jeweiligen Stärken und Schwächen.
 	1. 
