@@ -463,3 +463,21 @@ Nach dem Huygenschen Prinzip ist der Punkt $P$ (Teil der Wellenfront, die auf da
 
 #### Beugung/Interferenz am Doppelspalt/Gitter
 
+*Für den Doppelsplat gilt*
+
+$a$ Abstand Doppelspalt zu Schirm
+$b$ Abstand Spalte
+$s_{n}$ Abstand Maximum $n$-ter Ordnung zu $0$-te Ordnung
+$\alpha_{n}$ Winkel zwischen Maxima und 
+
+$\tan{\alpha_{n}}=\frac{s_{n}}{a}$
+
+$\sin{\alpha_{n}}=\frac{n\cdot\lambda}{b}$
+
+Für kleine Winkel $\alpha_{n}$ gilt $\sin{\alpha_{n}}\approx\tan{\alpha_{n}}\quad(a\ge10\cdot s_{n})$
+$$\frac{s_{n}}{a}\approx \frac{n\cdot\lambda}{b}\quad(n\in\mathbb{N})$$
+
+*Die Gleichung gelten auch für das Gitter*
+
+Gitterkonstante $G$ gibt an, wie viele Öffnungen das Gitter pro $1mm$ besitzt: $G=\frac{1}{b}$
+**Beispiel** $G=100 \frac{1}{mm}$
