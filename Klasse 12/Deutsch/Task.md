@@ -112,3 +112,31 @@ Vielen Dank!
 - Unterschicht kann sich kaum Bücher leisten
 - Mehrere Volksbibliotheken entstehen
 - Reclam hefte erscheinen als günstige Alternative
+
+## 2023-11-07
+
+1. Literaturepochen
+	- Klassik
+	- Barock
+	- Neue Sachlichkeit
+	- Moderne
+	- Romantik
+	- Expressionismus
+	- Impressionismus
+	- Antike
+	- Mittelalter
+	- Aufklärung
+	- Renaissance
+	- Kriegsliteratur
+	- Nachkriegsliterator
+	- Sturm und Drang
+2. Unterschiede zwischen Epochen
+	- Historischer Kontext
+	- Motive und Themen
+	- Sprachliche und stilistische Mittel
+	- Wissensstand
+	- Religion
+	- Schreibstile
+3. Definition Epoche
+	- Epoche ist ein zeitlicher Abschnitt, der sich mit anderen Überlappen kann, und ein Thema eingrenzt.
+
