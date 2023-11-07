@@ -211,6 +211,55 @@ $A=|\vec{a}\times\vec{b}|$
 $h=\frac{A}{\vec{b}}=6.1$
 
 Logische Schlussfolgerung aus Abstandsrechnung Punkt zu Gerade
-- Berechnung des Abstandes $g_{1}-g_{2}$ für $g_{1}\|g_{2}$ -> beliebigen Punktauf $g_{1}$ wählen, dann weiter wie Abstand $P-g$
+- Berechnung des Abstandes $g_{1}-g_{2}$ für $g_{1}\|g_{2}$ -> beliebigen Punkt auf $g_{1}$ wählen, dann weiter wie Abstand $P-g$
 
 ### Abstand windschiefer Geraden
+
+#### Über Hilfsebene
+
+- Aufstellen einer Ebenengleichung, die $g_{1}$ enthält und parallel zu $g_{2}$ verläuft
+- Beliebigen Punkt auf $g_{2}$ wählen
+- Berechnen des Abstandes des Punktes von der Hilfsebene
+
+**Beispiel**
+$g_{1}:\vec{x}=\begin{pmatrix}-2 \\ 3 \\ 5\end{pmatrix}+k\begin{pmatrix}1 \\ 2 \\ 0\end{pmatrix}$
+$g_{2}:\vec{x}=\begin{pmatrix}1 \\ -6 \\ 2\end{pmatrix}+t\begin{pmatrix}2 \\ 6 \\ 1\end{pmatrix}$
+
+Ebene aufstellen
+$E:\vec{x}=\begin{pmatrix}-2 \\ 3 \\ 5\end{pmatrix}+k\begin{pmatrix}1 \\ 2 \\ 0\end{pmatrix}+t\begin{pmatrix}2 \\ 6 \\ 1\end{pmatrix}$
+$2x-y+2z=3$
+
+$\frac{2x-y+2z-3}{\sqrt{2^{2}+(-1)^{2}+2^{2}}}=0$
+$d=\frac{2\cdot1-(-6)+2\cdot2-3}{3}=\frac{2+6+4-3}{3}=3$
+
+#### Über Skalarprodukt
+
+$g_{1}:\vec{x}=\begin{pmatrix}-2 \\ 3 \\ 5\end{pmatrix}+k\begin{pmatrix}1 \\ 2 \\ 0\end{pmatrix}$
+$g_{2}:\vec{x}=\begin{pmatrix}1 \\ -6 \\ 2\end{pmatrix}+t\begin{pmatrix}2 \\ 6 \\ 1\end{pmatrix}$
+
+Punkt auf $g_{1}: A$ und Punkt auf $g_{2}:B$
+Kürzeste Verbindung von $g_{1}$ zu $g_{2}$ ist der Abstand von $A$ zu $B$
+$\overrightarrow{AB}\bot g_{2}\wedge\overrightarrow{AB}\bot g_{2}$
+
+$A(-2+k|3+2k|5)$
+$B(1+2t|-6+6t|2+t)$
+
+$\overrightarrow{AB}=\begin{pmatrix}3+2t-k \\ -9+6t+2k \\ 3+t\end{pmatrix}$
+
+$\begin{pmatrix}3+2t-k \\ -9+6t+2k \\ 3+t\end{pmatrix}\circ\begin{pmatrix}1 \\ 2 \\ 0\end{pmatrix}=0$
+$\begin{pmatrix}3+2t-k \\ -9+6t+2k \\ 3+t\end{pmatrix}\circ\begin{pmatrix}2 \\ 6 \\ 1\end{pmatrix}=0$
+
+$3+2t-k-18+12t-4k=0$
+$14t-5k-15=0$
+
+$6+4t-2k-54+36t-12k-3+t=0$
+$41t-14k-51=0$
+
+Gleichungssystem lösen
+```js
+t=5 k=11
+```
+
+$A(9|25|5)$
+$B(11|24|7)$
+$|\overrightarrow{AB}|=\sqrt{2^{2}+(-1)^{2}+2^{2}}$

@@ -126,3 +126,23 @@ $k\cdot\vec{n}=\vec{P_{a}L}$
 $k\cdot\begin{pmatrix}-2 \\ -1 \\ 2\end{pmatrix}=\begin{pmatrix}-4 \\ 2-a \\ 4\end{pmatrix}$
 $k=2$
 $a=4$
+
+## 2023-11-07
+
+$A'(3.25|-1.346|1)$
+$B'(3.25|1.346|1)$
+
+$|\overrightarrow{A'B'}|=2.692$
+$h=3.25$
+$a=1.346$
+$A=16\cdot \frac{1}{2}\cdot3.25\cdot1.346$
+
+---
+
+$P(2|-3|6)$
+$S_{h}(1|3|4+h)$
+$M_{CD}(4|0|4)$
+$\alpha=80^{\circ}$
+
+$\cos{80^{\circ}}=\vec{MP}\circ\vec{MS_{h}}$
+$\cos{80^{\circ}}=\vec{MP}\circ\vec{MS_{h}}$
