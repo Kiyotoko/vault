@@ -271,5 +271,6 @@ $\beta_{1}=27.723^{\circ}$
 $\alpha_{2}=32.2767^{\circ}$
 $\beta_{2}=54.2617^{\circ}$
 
----
-
+$\tan{\frac{\beta_{b}-\beta_{r}}{2}}=\frac{\frac{b}{2}}{a}$
+$2\cdot a\cdot\tan{\frac{\beta_{b}-\beta_{r}}{2}}$
+$a=3.2m$

@@ -492,3 +492,7 @@ Je größer die Wellenlänge, desto größer der Abstand der Maxima. Rotes Licht
 
 **Einfluss $a$** Je größer $a$, desto größer der Abstand der Maxima
 **Einfluss $b$** Je größer $b$, desto kleiner der Abstand der Maxima
+
+### Kohärentes Licht
+
+Interferenzmuster kommen nur bei kohärentenm Licht zustamde. Das heißt, dass die Wellenzüge ausreichend lang sind, um 
