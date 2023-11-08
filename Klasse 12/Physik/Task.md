@@ -274,3 +274,14 @@ $\beta_{2}=54.2617^{\circ}$
 $\tan{\frac{\beta_{b}-\beta_{r}}{2}}=\frac{\frac{b}{2}}{a}$
 $2\cdot a\cdot\tan{\frac{\beta_{b}-\beta_{r}}{2}}$
 $a=3.2m$
+
+## 2023-11-08
+
+$n_{G}=1.53$
+$\lambda=550nm$
+$n_{V}=1.35$
+
+$n_{L}<n_{V}<n_{G}$
+
+$2d=\frac{\lambda}{2n_{V}}\quad\text{für }k=0$
+$d=\frac{\lambda}{4n_{V}}=101.85nm$

@@ -504,3 +504,17 @@ $$2d=(2k+1) \frac{\lambda_\text{Medium} }{2}=(2k+1) \frac{\lambda}{2n_{F}}$$
 
 Gangunterschied für Minimum:
 $$2d=(k+1) \lambda_\text{Medium}=(k+1) \frac{\lambda}{n_{F}}$$
+
+### Interferenzmuster an aufgespannter Seifenschicht
+
+**Dunkler Bereich**
+Schichtdichte geht gegen Null
+- Phasenverschiebung fast nur durch Phasensprung $\frac{\lambda}{2}$ durch Reflexion
+- Destruktive Interferenz
+
+**Gelblicher Bereich**
+Schichtdichte nimmt nach unten hin zu
+- Licht mit kürzester Wellenlänge, als blaues/violettes Licht interferiert als erstes destruktiv
+- Andere Lichtwellenlängen (Farben) werden normal reflektiert
+- blaues Licht fehlt im reflektierten Licht
+- Gelbfärbung
