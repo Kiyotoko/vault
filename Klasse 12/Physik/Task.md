@@ -265,7 +265,7 @@ $60^{\circ}+2\cdot90^{\circ}+\delta=360^{\circ}$
 $\delta=120^{\circ}$
 $\alpha_{2}=180^{\circ}-\beta_{1}-\delta=32.08$
 $\beta_{2}=\arcsin{(\frac{n_\text{Glas}}{n_{\text{Licht}}}\cdot\sin{\beta_{1}}})=53.82^{\circ}$
-dd
+
 Für Rot
 $\beta_{1}=27.723^{\circ}$
 $\alpha_{2}=32.2767^{\circ}$
