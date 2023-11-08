@@ -258,13 +258,15 @@ $n_\text{blau}=1.52$
 $\alpha=45^{\circ}$
 $a=2m$
 
-$\frac{\sin{\alpha_{1}}}{\sin{\beta_{1}}}$
-$\beta_{1}=\arcsin{(\frac{n_{\text{Licht}}}{n_\text{Glas}}\cdot\alpha_{1}})=27.92^{\circ}$
-
+Für Blau
+$\frac{\sin{\alpha_{1}}}{\sin{\beta_{1}}}=\frac{n_{1}}{n_{2}}$
+$\beta_{1}=\arcsin{(\frac{n_{\text{Licht}}}{n_\text{Glas}}\cdot\sin{\alpha_{1}}})=27.92^{\circ}$
 $60^{\circ}+2\cdot90^{\circ}+\delta=360^{\circ}$
 $\delta=120^{\circ}$
 $\alpha_{2}=180^{\circ}-\beta_{1}-\delta=32.08$
-$\beta_{2}=\arcsin{(\frac{n_\text{Glas}}{n_{\text{Licht}}}\cdot\beta_{1}})=53.32^{\circ}$
-
-$\beta_{1}=31.111776770841253^{\circ}$
-$\alpha_{2}=59.45699705920333^{\circ}$
+$\beta_{2}=\arcsin{(\frac{n_\text{Glas}}{n_{\text{Licht}}}\cdot\sin{\beta_{1}}})=53.82^{\circ}$
+dd
+Für Rot
+$\beta_{1}=27.723^{\circ}$
+$\alpha_{2}=32.2767^{\circ}$
+$\beta_{2}=54.2617^{\circ}$
