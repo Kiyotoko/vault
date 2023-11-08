@@ -499,3 +499,8 @@ Interferenzmuster kommen nur bei kohärentem Licht zustande. Das heißt, dass di
 
 ### Interferenz an dünnen Schichten
 
+Gangunterschied für Maxima:
+$$2d=(2k+1) \frac{\lambda_\text{Medium} }{2}=(2k+1) \frac{\lambda}{2n_{F}}$$
+
+Gangunterschied für Minimum:
+$$2d=(k+1) \lambda_\text{Medium}=(k+1) \frac{\lambda}{n_{F}}$$
