@@ -495,4 +495,7 @@ Je größer die Wellenlänge, desto größer der Abstand der Maxima. Rotes Licht
 
 ### Kohärentes Licht
 
-Interferenzmuster kommen nur bei kohärentenm Licht zustamde. Das heißt, dass die Wellenzüge ausreichend lang sind, um 
+Interferenzmuster kommen nur bei kohärentem Licht zustande. Das heißt, dass die Wellenzüge ausreichend lang sind, um 
+
+### Interferenz an dünnen Schichten
+
