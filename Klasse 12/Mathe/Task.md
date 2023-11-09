@@ -181,3 +181,20 @@ $P(20|-5|3)$
 $Q(20|25|3)$
 $K(24|15|1)$
 $G(4|-1|11)$
+
+## 2023-11-09
+
+$E:x+y+z=2$
+
+$P(5|3|1)$
+$\vec{x}=k\begin{pmatrix}5 \\ 3 \\ 1\end{pmatrix}$
+Ist $k$ in $[0:1]$?
+$5k+3k+k=2$
+$9k=2$
+$k=\frac{2}{9}$
+Punkt erfüllt Bedingung, liegt auf der Seite der Ebene.
+
+---
+
+Zufluss 40 min mit $3000 \frac{m^{3}}{min}$
+Abfluss $2000 \frac{m^{3}}{min}$
