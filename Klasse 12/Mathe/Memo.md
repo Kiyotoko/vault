@@ -278,3 +278,9 @@ Bei orientiertem Flächeninhalt sind Flächen oberhalb der $x$-Achse mit positiv
 Geometrische Bedeutung des Integrals: Summe der orientierten Flächeninhalte
 
 > ⚠️ Die Summe der orientierten Flächeninhalte zwischen den Graphen einer Funktion $f$ und der $x$-Achse im Intervall $[a:b]$ ist das Integral von $a$ bis $b$ der Funktion $f$.
+
+### Näherungsweise Berechnen von Integralen
+
+**Beispiel**
+$f(x)=x^{2}$
+$\int^{2}_\limits{0}x^{2}\cdot\text{d}x$
