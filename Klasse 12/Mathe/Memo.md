@@ -266,3 +266,15 @@ $|\overrightarrow{AB}|=\sqrt{2^{2}+(-1)^{2}+2^{2}}$
 
 # Integralrechnung
 
+Näherungswerte kann der Flächeninhalt mithilfe von Balken durch Kästchenzählen berechnet werden.
+
+## Orientierter Flächeninhalt
+
+Flächeninhalt zwischen Funktionsgraph und $x$-Achse können eine Konkrete Bedeutung haben
+➡️ Kennzeichnung: $+A$ oder $-A$
+
+Bei orientiertem Flächeninhalt sind Flächen oberhalb der $x$-Achse mit positivem Vorzeichen und unterhalb der $x$-Achse mit negativem Vorzeichen versehen.
+
+Geometrische Bedeutung des Integrals: Summe der orientierten Flächeninhalte
+
+> ⚠️ Die Summe der orientierten Flächeninhalte zwischen den Graphen einer Funktion $f$ und der $x$-Achse im Intervall $[a:b]$ ist das Integral von $a$ bis $b$ der Funktion $f$.
