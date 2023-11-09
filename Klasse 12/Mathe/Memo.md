@@ -284,3 +284,19 @@ Geometrische Bedeutung des Integrals: Summe der orientierten Flächeninhalte
 **Beispiel**
 $f(x)=x^{2}$
 $\int^{2}_\limits{0}x^{2}\cdot\text{d}x$
+
+➡️ Zerlegung der Fläche in Trapeze
+
+Der Fehler wird umso kleiner, je größer die Zerlegung ist.
+
+### Untersumme und Obersumme
+
+![](Working%20Materials/Integrale/Unter%20&%20Obersumme.png)
+
+Anzahl Rechtecke $n$
+$\lim\limits_{n\to\infty}U_{n}=\lim\limits_{n\to\infty}O_{n}=\int\limits_{a}^{b}f(x)\text{d}x$
+
+### Hauptsatz der Differential- und Integralrechnung
+
+Eine stetige Funktion $f$ ist die Ableitung der Integralfunktion $I$. Es gilt $J'(x)=f(x)$.
+➡️ Integriert man eine Funktion und differenziert man sie anschließend wieder, so erhält man die Ausgangsfunktion.
