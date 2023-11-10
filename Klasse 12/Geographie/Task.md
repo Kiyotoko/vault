@@ -44,3 +44,16 @@ Welche Rollen spielen Industrieländer wie Deutschland bei der Gestaltung dieser
 	- Südost Passat
 	- Wüstenklima, Winterkalt
 	- In der nähe liegt ein Hochdruckgebiet (Subtropisches Hochdruckgürtel)
+
+---
+
+- Flussbegradigung
+- Die Stadt hat sich mehr als verdoppelt
+- Dörfer wurden eingemeindet
+- Bevölkerungsexplosion
+
+- Umweltverschmutzung
+- Müll
+- Keine Sanitäranlagen
+- Kein sauberes Trinkwasser
+- Viele Personen auf niedriger Wohnfläche
