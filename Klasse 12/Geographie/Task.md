@@ -36,7 +36,7 @@ Welche Rollen spielen Industrieländer wie Deutschland bei der Gestaltung dieser
 
 - Padang
 	- Äquatorialklima
-	- Südwes-Monsun
+	- Südwest-Monsun
 	- Tropisches Regenwaldklima
 - Lima
 	- trockenes Passatklima
