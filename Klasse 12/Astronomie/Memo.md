@@ -150,3 +150,19 @@ Immanuel Kant veröffentlichte in seiner berühmten Schrift „Allgemeine Naturg
 
 ### Entstehung und Entwicklung der Milchstraße
 
+## Andere Galaxien
+
+### Arten nach Hubble
+
+Zwerggalaxien stellen extragalaktische Sternsysteme dar. Sie liegen zwischen den kleineren Kugelsternhaufen und den größeren „normalen“ Galaxien. Es gibt in Bezug auf
+den Aufbau, der Struktur und der Eigenschaften keine grundlegenden Unterschiede zwischen den „normalen“ Galaxien und den Zwerggalaxien.
+
+Starburstgalaxien sind Galaxien mit einer sehr hohen Sternentstehungsrate und der daraus folgenden intensiven Strahlung. Die jungen Sterne eines Starbursts emittieren starke ultraviolette Strahlung und ionisieren große Teile der interstellaren Materie der Galaxie. Viele Starburstgalaxien enthalten sehr viel Staub, der große Teile der Leuchtkraft der jungen Sterne absorbiert. Dabei werden über 90 % ihrer Gesamtenergie im fernen Infrarot wieder abgestrahlt.
+
+Wechselwirkende Galaxien beeinflussen sich gegenseitig und erhöhen damit ihre inneren Aktivitäten. Begegnen sich zwei oder mehrere Galaxien kommt es zu Wechselwirkungen. Dabei können Galaxienverschmelzungen auftreten oder besondere Formationen und Neukonstellationen der beteiligten Sterneninseln entstehen.
+
+Als aktive Galaxien bezeichnet man Galaxien mit einem besonders hellen Kern (engl. auch AGN, Active Galactic Nucleus genannt). Die hohe Leuchtkraft des Kerns lässt auf ein aktives massereiches Schwarzes Loch im Zentrum der Galaxie schließen.
+
+### Räumliche Verteilung
+
+### Bewegungsverhalten
