@@ -70,3 +70,26 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 ### Bedürfnispyramide
 
 ![](Working%20Materials/Globale%20Disparität/Bedürfnispyramide.jpeg)
+
+# Befölkerungsentwicklung und Verstädterung
+
+> Verstädterung beschreibt zunächst die zunehmende Konzentration von Menschen in städtischen Gebieten. Kann durch eines der drei Faktoren zum Ausdruck kommen:
+> 1. Im Wachstum der der Städte eines Gebietes oder Landes hinsichtlich der Einwohnerzahl und/oder Fläche
+> 2. In der Zunahme städtischer Siedlungen innerhalb eines Gebietes oder Landes
+> 3. In der Zunahme des Anteils der Menschen an der Gesamtbevölkerung, die in Städten leben.
+
+## Begriffe
+
+- Verstädterung - Vergrößerung/Ausdehnung von Städten
+- Urbanisierung - Ausbreitung von Städten auch aus sozialen oder ökonomischen Aspekten
+- Pushfaktoren - Faktoren, die einen von etwas weg ziehen, Bsp. Keine Arbeit
+- Pullfaktoren - Faktoren, die einen in die Städte ziehen, Bsp. Infrastruktur
+
+## Unterschiede beim Stadtwachstum zwischen Entwicklungs- und Industrieländern
+
+| Entwicklungsland                                      | Industrieland                                                                                        |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Push: niedriege Lebensstandarts                       | Push: Attraktionslosigkeit auf dem Land (Arbeitslosigleit, Extreme soziale Gegensätze, kaum Bildung) |
+| Push: Arbeitslosigkeit                                | Pull: Teilnahme am sozialen Leben                                                                    |
+| Pull: Attraktive Strukturmerkmale im Städtischem Raum | Push: Demographischer Wandel                                                                         |
+| Pull: Medien                                          | Pull: Infrastruktur und öffentliche Einrichtungen                                                                                                     |
