@@ -31,3 +31,16 @@ Welche Rollen spielen Industrieländer wie Deutschland bei der Gestaltung dieser
 - **Handel**: Industrieländer sind wichtige Handelspartner für Entwicklungs- und Schwellenländer, da sie Handelsabkommen und -vereinbarungen aushandeln, die den Zugang dieser Länder zu ihren Märkten erleichtern und den Export fördern
 - **Technologietransfer**: Industrieländer verfügen oft über fortschrittliche Technologien und Know-how
 - **Politische Einflussnahme**: Industrieländer haben in internationalen Organisationen wie den Vereinten Nationen und der Weltbank einen erheblichen politischen Einfluss
+
+## 2023-11-10
+
+- Padang
+	- Äquatorialklima
+	- Südwes-Monsun
+	- Tropisches Regenwaldklima
+- Lima
+	- trockenes Passatklima
+	- Trockengebiet
+	- Südost Passat
+	- Wüstenklima, Winterkalt
+	- In der nähe liegt ein Hochdruckgebiet (Subtropisches Hochdruckgürtel)

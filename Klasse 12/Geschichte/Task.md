@@ -106,3 +106,51 @@ tags:
 	- Diffamieren
 - Alltäglich durch Massenmedien
 - Populismus
+
+## 2023-11-09
+
+1. Ordnet anhand des darstellenden Textes die außenpolitischen Maßnahmen der Nationalsozialisten nach den Kriterien „Friedenspolitik“, „Friedliche Revisionspolitik“, „gewaltsame Revisionspolitik“ und „Geheimpolitik“ ein.
+	- Friedenspolitik
+	    - Appeasement-Politik
+	- Friedliche Revisionspolitik
+	    - Friedliche Revision des Versailler Vertrags
+	- gewaltsame Revisionspolitik
+	    - Rücksichtslose Germanisierung im Osten
+	    - Allgemeine Wehrpflicht, Verstärkung des Heers
+	    - Besetzung entmilitarisiertes Rheinland
+	    - Militärische Unterstützung der Franco-Putschisten im spanischen Bürgerkrieg
+	    - Besetzung Österreichs
+	    - Antisemitische Maßnahmen
+	    - Besetzung tschechischer Staat
+	- Geheimpolitik
+	    - Austreten aus dem Völkerbund unter einem Vorwand (Verweigerung einer Aufrüstung)
+	    - Nicht-Angriffs-Pakt mit Polen um unter deutsche Kontrolle zu bringen
+	    - Geheime Denkschrift -> Wirtschaft & Armee kriegsbereit machen
+	    - Hitler-Stalin-Pakt
+1. Erklärt den Begriff „Revision“ und unterscheidet zwischen einer friedlichen und gewaltsamen Revision.
+	1. Revision = Versuche, eine als allgemein anerkannt geltende historische, politische oder wissenschaftliche Erkenntnis und Position nochmals zu überprüfen.
+	2. Friedliche Revision ist ohne Krieg oder Angriff anderer Länder. Es ist ein leichtes und friedliches Rückgängig machen von Verträgen.
+	3. Gewaltsame Revision ist mit Krieg und Angriff auf andere Länder. Das Rückgängig machen von Verträgen verläuft hier mit Krieg.
+2. Nehmt Stellung zu der folgenden Aussage: „Die nationalsozialistische Außenpolitik ist bis zum August 1939 eine Fortsetzung der Revisionspolitik der Weimarer Republik gewesen.“
+		- Die Aussage „Die nationalsozialistische Außenpolitik ist bis zum August 1939 eine Fortsetzung der Revisionspolitik der Weimarer Republik gewesen.“ ist falsch, weil die Außenpolitik der NS eine grundlegend andere Revision verfolgt als die der Weimarer Republik. Dies sieht man am Austreten aus dem Völkerbund, der Geheimpolitik als auch der gewaltsamen Revisionspolitik. Lediglich bei der Friedenspolitik und der friedlichen Revisionspolitik hatte die NS-Außenpolitik bis 1939 noch Gemeinsamkeiten mit der Weimarer Republik.
+
+---
+
+Aus der Sicht von den Anhängern Hitlers und Stalins war der Hitler - Stalin Pakt ein sehr gutes und notwendiges Erzeugnis der Länder, weil dieser Frieden zwischen den beiden Mächten versprach und somit Sicherheit für die Menschen in diesen Ländern. Der Pakt war für viele historisch und das Datum an dem dieser Pakt unterschrieben worden war, sollte in die Geschichte als historische Bedeutung eingehen, was auch passiert ist. Aber dieser Pakt brachte nicht gutes für alle Menschen, sondern eigentlich nur für die Anhänger. Der Hitler-Stalin Pakt öffnete den Weg für Deutschland in Polen einzudringen und damit den zweiten Weltkrieg zu beginnen. Der Rest der Welt sah diesem Pakt jedoch kritisch entgegen und wartet gespannt auf die Antworten der anderen Ländern zu diesem Pakt.
+
+Aus der Sicht von den Anhängern Hitlers und Stalins war der Hitler - Stalin Pakt ein sehr gutes und notwendiges Erzeugnis der Länder, weil dieser Frieden zwischen den beiden Mächten versprach und somit Sicherheit für die Menschen in diesen Ländern. Der Pakt war für viele historisch und das Datum an dem dieser Pakt unterschrieben worden war, sollte in die Geschichte als historische Bedeutung eingehen, was auch passiert ist. Aber dieser Pakt brachte nicht gutes für alle Menschen, sondern eigentlich nur für die Anhänger. Der Hitler-Stalin Pakt öffnete den Weg für Deutschland in Polen einzudringen und damit den zweiten Weltkrieg zu beginnen. Der Rest der Welt sah diesem Pakt jedoch kritisch entgegen und wartet gespannt auf die Antworten der anderen Ländern zu diesem Pakt.
+
+---
+
+1. Selbstversorgung Deutschlands
+	- Hülsenfrüchte sind 1933/34 eingebrochen
+	- Brotgetreide ist 1927/28 von 80% auf 1938/39 auf 116% gestiegen
+	- Kartoffeln, Gemüse, Fleich und Zucker sind gering gestiegen
+	- Nahrungsmittel insgesamt sind auf 82% im Jahr 1938/39 um 14% gestiegen. Damit liegt es immer noch um 18% unter der benötigten Masse.
+	- Eier und Fett sind stark um 19% bzw. 12% gestiegen.
+2. Arbeitslose Entwicklung
+	- Die Arbeitslosen sind in einem Jahr halbiert
+	- Von 1933 bis 1939 sind die Arbeitslosen von 4,8 Millionen auf 0,12 Millionen gesunken
+	- Frauen und Juden werden nicht berücksichtigt
+3. Investitionen
+	- Massiver Anstieg bei den Investitionen ab 1933
