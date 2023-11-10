@@ -42,9 +42,9 @@ a) Der Circus Maximus soll kurz erklärt werden (1 BE). Mindestens 4 der 6 unten
 
 b) Die Hypokaustenheizung soll kurz erklärt werden (1 BE). Auf mindestens 4 der 6 unten genannten Bestandteil sollen eingegangen werde (1 BE pro Bestandteil).
 
-- **Grundprinzip:** Die Hypokaustenheizung basierte auf dem Prinzip der Warmluftzirkulation unter dem Boden und in den Wänden eines Gebäudes. Die Zirkulation 
-- **Luftkanäle:** Unter dem Fußboden des Gebäudes befanden sich Hohlräume oder Kanäle, durch die heiße Luft zirkulierte.
+- **Grundprinzip:** Die Hypokaustenheizung basierte auf dem Prinzip der Warmluftzirkulation unter dem Boden und in den Wänden eines Gebäudes. Die Zirkulation erfolgt dadurch, das leichte warme Luft aufsteigt und schwere kalte Luft absinkt.
+- **Luftkanäle:** Unter dem Fußboden des Gebäudes befanden sich Hohlräume oder Kanäle, durch die heiße Luft zirkulierte (Siehe Bild).
 - **Luftquelle:** Die heiße Luft wurde durch ein Netzwerk von Hypokaustenkanälen geleitet, die sich unter dem Boden oder in den Wänden befanden.
 - **Feuerstelle (Hypokaustum):** Die benötigte Wärme wurde von einem Ofen (Hypokaustum) erzeugt, der außerhalb des Gebäudes stand. Dieser Ofen heizte die Luft auf.
 - **Luftverteilung:** Die heiße Luft stieg durch die Kanäle nach oben und verteilte sich dann durch Öffnungen oder Kacheln im Boden.
-- **Wärmespeicherung:** Der Boden und die Wände des Gebäudes fungierten als Wärmespeicher, der die erzeugte Wärme absorbierte und langsam wieder abgab, um eine gleichmäßige Temperatur im Raum zu halten.
+- **Wärmespeicherung:** Der Boden und die Wände des Gebäudes fungierten als Wärmespeicher, der die erzeugte Wärme absorbierte und langsam wieder abgab, um eine gleichmäßige Temperatur im Raum zu halten (Siehe Bild).
