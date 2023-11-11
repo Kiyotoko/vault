@@ -18,6 +18,11 @@ tags:
 - Material
 - Größe (Monumental hin zu Klein)
 
+## Rodin als Vater der Moderne
+
+- Das bemerkenswerteste Merkmal von Rodins Kunst ist seine Fähigkeit, menschliches Gefühl und Charakter durch **physische Form und Bewegung** auszudrücken. Seine Werke spiegeln oft intensive emotionale Zustände wider und legen einen Schwerpunkt auf die menschliche Figur.
+- Ein weiteres markantes Merkmal in Rodins Arbeiten ist der oft unfertige Zustand seiner Skulpturen. Manche Teile der Skulptur scheinen roh und **unvollständig** zu sein, was einen starken Kontrast zur Ausführlichkeit und Genauigkeit in anderen Teilen des Werks bildet.
+
 ## Epochen
 
 ### Renaissance
@@ -28,21 +33,7 @@ Der Kontrapost ist eine Stellung mit Standbein/Spielbein; wirkt wie kurzes Inneh
 
 Figura Serpentinata ist eine sich fließend aufwärts bewegende Gestalt mit einer in sich gedrehten Körperachse – wobei diese Drehung keineswegs durch die Handlung begründet sein muss.
 
-### Beginn der Moderne
-
-Eine Plinthe ist eine flache Platte unter der Skulptur, meist aus dem gleichen Material.
-
-Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvollständig. Unvollständigkeit gilt hier als Verlust und Inspiration. Dabei war Auguste Robin der das Unvollständige zum autonomen Gestaltungsprinzip erhob.
-
-## Objektkunst
-
-- Ready made: ein zur Kunst umgewidmetes Industrieprodukt
-- Mit dieser „Antikunst“ stellt Duchamp 1917 die traditionelle Kunstauffassung in Frage. Eine Provokation, die bis heute nachwirkt.
-- Akkumulation = Zusammensetzung von vielen gleichen, industriell angefertigten Stücken
-
-## Expressionismus
-
-### In der Bildhauerei
+### Expressionismus
 
 - **Ernst Heinrich Barlach**
 	- 2. Januar 1870 - 24. Oktober 1938
@@ -62,3 +53,15 @@ Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvol
 		- "Der Berserker" (1910)
 		- "Der singende Mann" (1928)
 		- "Geistkämpfer" (1928)
+
+### Beginn der Moderne
+
+Eine Plinthe ist eine flache Platte unter der Skulptur, meist aus dem gleichen Material.
+
+Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvollständig. Unvollständigkeit gilt hier als Verlust und Inspiration. Dabei war Auguste Robin der das Unvollständige zum autonomen Gestaltungsprinzip erhob.
+
+## Objektkunst
+
+- Ready made: ein zur Kunst umgewidmetes Industrieprodukt
+- Mit dieser „Antikunst“ stellt Duchamp 1917 die traditionelle Kunstauffassung in Frage. Eine Provokation, die bis heute nachwirkt.
+- Akkumulation = Zusammensetzung von vielen gleichen, industriell angefertigten Stücken
