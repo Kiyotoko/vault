@@ -479,8 +479,8 @@ $$\frac{s_{n}}{a}\approx \frac{n\cdot\lambda}{b}\quad(n\in\mathbb{N})$$
 
 *Die Gleichung gelten auch für das Gitter*
 
-Gitterkonstante $G$ gibt an, wie viele Öffnungen das Gitter pro $1mm$ besitzt: $G=\frac{1}{b}$
-**Beispiel** $G=100 \frac{1}{mm}$
+Gitterkonstante $G$ gibt an, wie groß der Abstrand zwischen den Öffnungen des Gitters sind $G=\frac{1}{b}$
+**Beispiel** $G=\frac{1}{100\frac{1}{mm}}$
 
 Das Licht, das durch einen dritten Spalt auf den Schirm trifft, hat den gleichen Gangunterschied zur Lichtwelle des zweiten Splats, wie die Lichtwelle vom 2. Spalt zum 1. Spalt. Weitere Spaltöffnungen verändern nicht die Lage der Maxima, sondern nur deren Intensität, da mehr Licht beim Gitter hindurchdringt.
 
