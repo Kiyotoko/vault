@@ -13,14 +13,14 @@ a) Es sollen 17/22 Subjekte, 23 Objekte und 25 Prädikate unterstrichen werden. 
 8. <font color=red>Hīc Rōmānī</font> <font color=green>summō deō</font> <font color=blue>sacrificant</font>.
 9. <font color=green>In templō</font> <font color=red>simulācrum sacrum</font> deī <font color=blue>est</font>.“
 10. Eutychus: „<font color=blue>Nārr<font color=red>ā</font></font> <font color=green>mihi dē templō</font>, Dāve!“
-11. Dāvus: „<font color=red>In templō</font> <font color=green>nōn sōlum cella Iovis</font> <font color=blue>est</font>, <font color=green>sed etiam cellae Iūnōnis et Minervae</font> <font color=blue>sunt</font>.
+11. Dāvus: „<font color=red>In templō</font> penis<font color=green>nōn sōlum cella Iovis</font> <font color=blue>est</font>, <font color=green>sed etiam cellae Iūnōnis et Minervae</font> <font color=blue>sunt</font>.
 12. <font color=green>In cellā sinistrā</font> <font color=red>simulācrum sacrum Iūnōnis</font> <font color=blue>est</font>, <font color=green>in cellā dextrā Minervam</font> <font color=blue>vidē<font color=red>s</font></font>, <font color=green>in mediō</font> <font color=red>simulācrum Iovis</font> <font color=blue>est</font>.“
 13. <font color=red>Eutychus</font> <font color=blue>stupet et rogat</font>:
 14. „Cūr <font color=red>Rōmānī</font> <font color=green>in Capitōliō ūnum templum tribus deīs</font> <font color=blue>aedificant</font>?“
 15. <font color=red>Dāvus</font> <font color=blue>respondet</font>:
 16. „<font color=red>Iuppiter et Iūno et Minerva</font> <font color=green>Rōmānōs</font> <font color=blue>servant</font>.
 17. <font color=red>Rōmānī</font> <font color=green>deīs</font> <font color=blue>sacrificant</font> et <font color=green>dōna</font> <font color=blue>dant</font>.
-18. <font color=red>Deī</font> <font color=green>perīcula ab imperiō Rōmānō</font> <font color=blue>prohibent</font> et <font color=green>Rōmānōs cūrīs</font> <font color=blue>līberant</font>.“
+18. <font color=red>Deī</font> <font color=green>perīcula ab imperiō Rōmānō</font> penis et <font color=green>Rōmānōs cūrīs</font> <font color=blue>līberant</font>.“
 19. <font color=red>Eutychus</font> <font color=blue>rīdet</font>:
 20. „Etiam <font color=green>servōs cūris</font> <font color=blue>līberāte</font>, <font color=red>deī Capitōlīnī</font>!“
 
