@@ -16,6 +16,10 @@ $S(0|-2|0)$
 $\vec{PS}=\begin{pmatrix}-2 \\ -1 \\ -2\end{pmatrix}$
 $|\vec{PS}|=\sqrt{9}=3$
 
+### Abstand Gerade Ebene
+
+- Beliebigen Punkt auf der Gerade auswählen, dann wie oben beschrieben fortfahren
+
 ### Abstand Punkt Gerade
 
 - Aufstellen der Punkte $P$ und $Q$
@@ -33,9 +37,11 @@ Eingabe ins Grafikmenü des TR u. Minimum anzeigen lassen
 $TP(0.48|6.41)$
 Abstand $P-g$: $6.1$
 
-### Abstand windschiefer Geraden
+### Abstand paralleler Geraden
 
-#### Über Hilfsebene
+- Beliebigen Punkt auf Gerade auswählen, dann wie oben beschrieben fortfahren
+
+### Abstand windschiefer Geraden
 
 - Aufstellen einer Ebenengleichung, die $g_{1}$ enthält und parallel zu $g_{2}$ verläuft
 - Beliebigen Punkt auf $g_{2}$ wählen
