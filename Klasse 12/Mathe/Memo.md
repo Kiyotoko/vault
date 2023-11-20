@@ -197,7 +197,6 @@ $S(7.448|1.414|5.172)$
 Abstand zwischen $P$ und $S$
 $|\vec{PS}|\approx6.1$
 
-
 #### Über Vektorprodukt
 
 $g:\vec{x}=\begin{pmatrix}6 \\ 1 \\ 6\end{pmatrix}+k\begin{pmatrix}3 \\ -2 \\ 4\end{pmatrix}$
