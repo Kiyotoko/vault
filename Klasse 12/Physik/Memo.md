@@ -518,3 +518,8 @@ Schichtdichte nimmt nach unten hin zu
 - Andere Lichtwellenlängen (Farben) werden normal reflektiert
 - blaues Licht fehlt im reflektierten Licht
 - Gelbfärbung
+
+## Polarisation
+
+### Gesetz von Malus
+
