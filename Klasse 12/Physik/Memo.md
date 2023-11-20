@@ -529,3 +529,8 @@ $I_{t}=I_{e}\cos^{2}{\vartheta}$
 
 $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{n_{2}}{n_{1}}\implies\frac{\sin{dp}}{\sin{90-dp}}=\frac{\sin{dp}}{cos{dp}}=\frac{n_{1}}{n_{2}}\implies\tan{\alpha}=\frac{n_{2}}{n_{1}}$
 
+### Spannungsdoppelbrechung
+
+### Flüssigkeitskristallanzeigen
+
+(LCD - Liquid Cristal Display)
