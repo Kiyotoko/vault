@@ -534,3 +534,6 @@ $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{n_{2}}{n_{1}}\implies\frac{\sin{dp}}{\si
 ### Flüssigkeitskristallanzeigen
 
 (LCD - Liquid Cristal Display)
+
+### Herleitung Brechungsgesetz nach Fermatschen Prinzip
+
