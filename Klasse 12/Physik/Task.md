@@ -285,3 +285,12 @@ $n_{L}<n_{V}<n_{G}$
 
 $2d=\frac{\lambda}{2n_{V}}\quad\text{für }k=0$
 $d=\frac{\lambda}{4n_{V}}=101.85nm$
+
+## 2023-11-20
+
+Ein Polarisatiosfilter schwächt die Intensität des unpolariesierten Lichtes der Glühlampe um die Hälfte ab und polarisiert es.
+- Unpolarisiertes Licht wird zu polarisierten Licht
+- Anteil des Lichts, welches parallel zur Transmissionsrichtung des Filters orientiert ist, wird durchgelassen
+- Orientierung senkrecht zum Filter wird vollständig absorbiert
+- Orientierung schräg zum Filter ($0^{\circ}<\vartheta<90^{\circ}$) wird teilwiese transmittiert (paralleler Anteil)
+- Lichtstärke/Intensität wird um die Hälfte reduziert
