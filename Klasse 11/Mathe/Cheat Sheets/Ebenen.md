@@ -65,7 +65,7 @@ Liegt $Q(-1|1|-0.5)$ in $E$ mit $2x+3y-1z=1.5$?
 
 $2\cdot-1+3\cdot1-1\cdot-0.5=1.5$
 $1.5=1.5$
-Gleichung geht auf, Punkt lieft in der Ebene.
+Gleichung geht auf, Punkt liegt in der Ebene.
 
 ### Koordinatenform zu Parametergleichung
 
