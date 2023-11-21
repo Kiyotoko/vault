@@ -140,3 +140,20 @@ Vielen Dank!
 3. Definition Epoche
 	- Epoche ist ein zeitlicher Abschnitt, der sich mit anderen Überlappen kann, und ein Thema eingrenzt.
 
+## 2023-11-21
+
+```
+Wir sind verwirrt
+haben uns verirrt
+Wollten hier nicht halten
+Stehen nun aber im kalten
+Und stellen leider fest
+Hannover ist die Pest
+
+Nein, nein, nein,
+dass fanden wir gar nicht fein
+So viel Müll sollte selbst hier nicht sein
+Doch schon der Bahnhof prägt den Schein
+Das selbst die Bekifften wissen
+Hannover ist ganz schön beschissen
+```
