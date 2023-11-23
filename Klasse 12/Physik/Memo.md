@@ -537,3 +537,12 @@ $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{n_{2}}{n_{1}}\implies\frac{\sin{dp}}{\si
 
 ### Herleitung Brechungsgesetz nach Fermatschen Prinzip
 
+$t(x)=\frac{l_{1}}{c_{1}}+ \frac{l_{2}}{c_{2}}=\frac{\sqrt{a^{2}+x^{2}}}{c_{1}}+\frac{\sqrt{b^{2}+(d-x)^{2}}}{c_{2}}$
+$\frac{dt}{dx}=0=\frac{1}{c_{1}}(a^{2}+x^{2})^{\frac{-1}{2}}\cdot x+\frac{1}{c_{1}}(b^{2}+(d-x)^{2})^{\frac{-1}{2}}\cdot(d-x)\cdot(-1)$
+$0=\frac{x}{c_{1}\sqrt{a^{2}+x^{2}}}- \frac{d-x}{c_{2}\sqrt{b^{2}+(d-x)^{2}}}$
+$0=\frac{x}{c_{1}l_{1}}- \frac{d-x}{c_{2}l_{2}}$
+
+$\sin{\alpha}=\frac{x}{l_{1}}\quad\sin{\beta}=\frac{d-x}{l_{2}}$
+$0=\frac{\sin{\alpha}}{c_{1}}- \frac{\sin{\beta}}{c_{2}}$
+$\frac{\sin{\alpha}}{c_{1}}=\frac{\sin{\beta}}{c_{2}}$
+$\frac{\sin{\alpha}}{\sin{\beta}}=\frac{c_{1}}{c_{2}}$
