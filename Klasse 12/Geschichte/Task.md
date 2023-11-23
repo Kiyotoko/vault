@@ -145,7 +145,7 @@ Aus der Sicht von den Anhängern Hitlers und Stalins war der Hitler - Stalin Pak
 1. Selbstversorgung Deutschlands
 	- Hülsenfrüchte sind 1933/34 eingebrochen
 	- Brotgetreide ist 1927/28 von 80% auf 1938/39 auf 116% gestiegen
-	- Kartoffeln, Gemüse, Fleich und Zucker sind gering gestiegen
+	- Kartoffeln, Gemüse, Fleisch und Zucker sind gering gestiegen
 	- Nahrungsmittel insgesamt sind auf 82% im Jahr 1938/39 um 14% gestiegen. Damit liegt es immer noch um 18% unter der benötigten Masse.
 	- Eier und Fett sind stark um 19% bzw. 12% gestiegen.
 2. Arbeitslose Entwicklung
@@ -162,3 +162,36 @@ Aus der Sicht von den Anhängern Hitlers und Stalins war der Hitler - Stalin Pak
 - "Todesrampe" und "Todesblock" zeigt die härte der Situation
 - Anhand der Säcke kann man erkennen, dass die Situation für die Flüchtigen sehr plötzlich war
 - Realitätsnah, weil es eine Momentaufnahme zeigt, die nur schwer zu verschönigen wäre
+
+---
+
+Vernichtungslager
+- Kulmhof
+- Treblinka
+- Sobidór
+- Lublin-Majdanek
+- Belzec
+- Ausschwitz
+
+KZ in Deutschland
+- Groß-Rosen
+- Dachau
+- Buchenwald
+- Hinzert
+- Niederhagen
+
+Ghetto
+- Warschau
+- Lodsch
+- Lublin
+- Tschenstochau
+- Sandomir
+
+Rolle Sachsens
+- Viele Zuchthäuser und Gestagogefängnisse
+- Tötungszentrum Sonnenstein
+- Mehrere Arbeitslager/Nebenlager
+- In Leipzig wurden mehrere Synagogen zerstört
+
+Hypothesen, warum Vernichtungslager nicht in Deutschland liegen
+- 
