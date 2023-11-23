@@ -154,3 +154,11 @@ Aus der Sicht von den Anhängern Hitlers und Stalins war der Hitler - Stalin Pak
 	- Frauen und Juden werden nicht berücksichtigt
 3. Investitionen
 	- Massiver Anstieg bei den Investitionen ab 1933
+
+## 2023-11-23
+
+- Züge kommen ins KZ an, beladen mit Massen an Menschen
+- Es kommen Juden aus den Zügen, welche deportiert wurden
+- "Todesrampe" und "Todesblock" zeigt die härte der Situation
+- Anhand der Säcke kann man erkennen, dass die Situation für die Flüchtigen sehr plötzlich war
+- Realitätsnah, weil es eine Momentaufnahme zeigt, die nur schwer zu verschönigen wäre
