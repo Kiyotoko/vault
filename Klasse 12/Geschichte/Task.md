@@ -192,6 +192,3 @@ Rolle Sachsens
 - Tötungszentrum Sonnenstein
 - Mehrere Arbeitslager/Nebenlager
 - In Leipzig wurden mehrere Synagogen zerstört
-
-Hypothesen, warum Vernichtungslager nicht in Deutschland liegen
-- 
