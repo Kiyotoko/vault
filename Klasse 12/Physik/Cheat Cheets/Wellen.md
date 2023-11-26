@@ -12,6 +12,9 @@ Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwe
 
 ### Brechung
 
+Die Brechung ist die Änderung der Ausbreitungsrichtung einer Welle durch eine räumliche Änderung des Brechungsindex des Mediums, das die Welle durchläuft. Die Änderung des Brechungsindex führt dabei zu einer Änderung der Phasengeschwindigkeit der Welle.
+$$\frac{\sin{\alpha}}{\sin{\beta}}=\frac{n_{2}}{n_{1}}=\frac{c_{1}}{c_{2}}$$
+
 ### Reflexion
 
 Jeder Punkt einer Wellenfront ist Ausgangspunkt einer kugelförmigen Elementarwelle. Die Überlagerung vieler Elementarwellen bildet die neue Wellenfront (einhüllende Wellenfront).
@@ -19,6 +22,7 @@ Läuft die Wellenfront von links schräg aur ein Hindernis, so trifft zunächst 
 
 - Reflexion bei festem Ende: Es kommt bei der Reflexion zu einem Phasensprung vom Betrag $\pi$ (reflektierte Welle ist um $\frac{x}{2}$ verschoben).
 - Reflexion be losem Ende: Reflexion erfolgt ohne Phasensprung.
+$$\alpha=\alpha'$$
 
 ### Beugung
 
@@ -46,7 +50,6 @@ $s_{k}$ Abstand Maximum $n$-ter Ordnung zu $0$-te Ordnung
 $\alpha_{n}$ Winkel zwischen Maxima und 
 
 $\tan{\alpha_{n}}=\frac{s_{n}}{e}$
-
 $\sin{\alpha_{n}}=\frac{k\cdot\lambda}{b}$
 
 Für kleine Winkel $\alpha_{k}$ gilt $\sin{\alpha_{k}}\approx\tan{\alpha_{k}}\quad(e\ge10\cdot s_{k})$
