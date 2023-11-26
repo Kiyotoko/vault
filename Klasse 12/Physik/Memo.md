@@ -461,7 +461,9 @@ Jeder Punkt auf einer Wellenfront ist Ursprung einer kugel-/kreisförmigen Eleme
 
 Nach dem Huygenschen Prinzip ist der Punkt $P$ (Teil der Wellenfront, die auf das Hindernis trifft) Ursprung einer kugelförmigen Elementarwelle, die sich in den geometrischen Schattenraum des Hindernisses ausbreitet.
 
-#### Beugung/Interferenz am Doppelspalt/Gitter
+## Interferenz und Polarisation
+
+### Interferenz am Doppelspalt/Gitter
 
 *Für den Doppelsplat gilt*
 
@@ -495,15 +497,23 @@ Je größer die Wellenlänge, desto größer der Abstand der Maxima. Rotes Licht
 
 ### Kohärentes Licht
 
-Interferenzmuster kommen nur bei kohärentem Licht zustande. Das heißt, dass die Wellenzüge ausreichend lang sind, um 
+Interferenzmuster kommen nur bei kohärentem Licht zustande. Das heißt, dass die Wellenzüge ausreichend lang sind, um zu interferieren und die gleuche Frequenz besitzen.
 
 ### Interferenz an dünnen Schichten
+
+An dünnen Schichten tritt bei Reflexion konstruktive Interferenz (Verstärkung) auf, wenn der Gangunterschied zwischen den an Vorder- und Rückseite reflektierten Wellen ein ganzzahliges Vielfaches von $\lambda$ beträgt.
+1. Lichtstrahlen unterschiedlicher Wellenlänge (Farben) werden unterschiedlich gebrochen (Dispersion) und teilweise reflektiert.
+2. Lichtstrahlen werden an der Innenseite der dünnen Schicht reflektiert.
+3. Beim Austreten von Lichtstrahlen aus der dünnen Schicht überlagern sich diese Lichtstrahlen, die an der Oberfläche reflektiert werden.
 
 Gangunterschied für Maxima:
 $$2d=(2k+1) \frac{\lambda_\text{Medium} }{2}=(2k+1) \frac{\lambda}{2n_{F}}$$
 
 Gangunterschied für Minimum:
 $$2d=(k+1) \lambda_\text{Medium}=(k+1) \frac{\lambda}{n_{F}}$$
+### Newtonsche Ringe
+
+Beim reflektierten Licht kommen die Interferenzerscheinungen durch das einerseits an der  Rückseite der Linse reflektierte Licht und andererseits dan an der Vorderseite der Glasplatte reflektierte Licht zustande (schwarze Strahlen).
 
 ### Interferenzmuster an aufgespannter Seifenschicht
 
@@ -521,19 +531,33 @@ Schichtdichte nimmt nach unten hin zu
 
 ## Polarisation
 
+Licht natürlicher Lichtquellen (Sonne, Feuer) sowie der meisten künstlichen Lichtquellen (Glühlampen, Leuchtstoffröhre) schwingt in den unterschiedlichen Richtungen. Laserlicht schwingt dagegen nur in eine Richtung (es ist linear polarisiert).
+
+### Faraday-Effekt
+
+Die Polarisationsebene einer linear polarisierten Lichtwelle kann in einem Medium (z.B. Glas) gedreht werden, wenn darin ein Magnetfeld parallel zur Ausbreitungsrichtung der Wellen herrscht. Aus dieser Beobachtung kann man schlussfolgern, dass es sich bei Licht um eine elektromagnetische Welle handelt.
+
 ### Gesetz von Malus
 
 $I_{t}=I_{e}\cos^{2}{\vartheta}$
 
-### Herleitung Brewster-Winkel
+## Brewstersches Gesetz
 
+Stehen reflektierter und gebrochener Lichtstrahl an der Grenzfläche zweier Stoffe senkrecht zueinander, dann ist das reflektierte Licht vollständig linear polarisiert.
+$$\frac{n_{2}}{n_{1}}=\tan{\alpha_{p}}$$
+
+Herleitung Brewster-Winkel
 $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{n_{2}}{n_{1}}\implies\frac{\sin{dp}}{\sin{90-dp}}=\frac{\sin{dp}}{cos{dp}}=\frac{n_{1}}{n_{2}}\implies\tan{\alpha}=\frac{n_{2}}{n_{1}}$
 
-### Spannungsdoppelbrechung
+### Doppelbrechung
+
+Stoffe, bei denen Doppelbrechung auftreten, nennt man optisch anisotrop. Die anderen Stoffe heißen optisch isotrop.
 
 ### Flüssigkeitskristallanzeigen
 
 (LCD - Liquid Cristal Display)
+
+![](Working%20Materials/Interferenz/Flüssigkeitskristallanzeigen.png)
 
 ### Herleitung Brechungsgesetz nach Fermatschen Prinzip
 
