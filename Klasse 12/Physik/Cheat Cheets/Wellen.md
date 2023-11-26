@@ -58,13 +58,15 @@ An dünnen Schichten tritt bei Reflexion konstruktive Interferenz (Verstärkung)
 2. Lichtstrahlen werden an der Innenseite der dünnen Schicht reflektiert.
 3. Beim Austreten von Lichtstrahlen aus der dünnen Schicht überlagern sich diese Lichtstrahlen, die an der Oberfläche reflektiert werden.
 
-Gangunterschied für Maxima:
+### Konstruktive und destruktive Interferenz
+
+Konstruktive Interferenz bedeutet eine Verstärkung, destruktive Interferenz bedeutet eine Auslöschung.
+
+Gangunterschied für Maxima (Konstruktive Interferenz):
 $$2d=(2k+1) \frac{\lambda_\text{Medium} }{2}=(2k+1) \frac{\lambda}{2n_{F}}$$
 
-Gangunterschied für Minima:
+Gangunterschied für Minima (Destruktive Interferenz):
 $$2d=(k+1) \lambda_\text{Medium}=(k+1) \frac{\lambda}{n_{F}}$$
-
-### Destruktive Interferenz
 
 ## Polarisation
 
@@ -81,5 +83,7 @@ Ein Polarisatiosfilter schwächt die Intensität des unpolariesierten Lichtes de
 ### LCD Display
 
 (LCD - Liquid Cristal Display)
+
+![](../Working%20Materials/Interferenz/Polarisation%20LCD.png)
 
 ![](Working%20Materials/Interferenz/Flüssigkeitskristallanzeigen.png)
