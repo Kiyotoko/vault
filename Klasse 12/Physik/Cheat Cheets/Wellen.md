@@ -30,6 +30,10 @@ Nach dem Huygenschen Prinzip ist der Punkt $P$ (Teil der Wellenfront, die auf da
 
 ## Interferenz
 
+### Farady-Effekt
+
+Die Polarisationsebene einer linear polarisierten Lichtwelle kann in einem Medium (z.B. Glas) gedreht werden, wenn darin ein Magnetfeld parallel zur Ausbreitungsrichtung der Wellen herrscht. Aus dieser Beobachtung kann man schlussfolgern, dass es sich bei Licht um eine elektromagnetische Welle handelt.
+
 ### Interferenz am Gitter und Doppelspalt
 
 ![](../Working%20Materials/Interferenz/Interferenz%20am%20Doppelspalt.png)
