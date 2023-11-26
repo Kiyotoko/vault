@@ -56,7 +56,7 @@ Für kleine Winkel $\alpha_{k}$ gilt $\sin{\alpha_{k}}\approx\tan{\alpha_{k}}\qu
 $$\frac{s_{k}}{e}\approx \frac{k\cdot\lambda}{b}\quad(k\in\mathbb{N})$$
 
 Ansonsten gilt:
-$$\frac{\tan{\alpha_{k}}}{\sin{\alpha_{k}}}=\frac{s_{k}\cdot b}{e\cdot k\cdot\lambda}$$
+$$\frac{\sin{\alpha_{k}}}{\tan{\alpha_{k}}}=\cos{\alpha_{k}}=\frac{e\cdot k\cdot\lambda}{s_{k}\cdot b}$$
 
 ### Interferenz an dünnen Schichten
 
