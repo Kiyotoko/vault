@@ -1,8 +1,8 @@
 ---
 author: karlz
-tags: 
-- Physik
-- FGN
+tags:
+  - Physik
+  - FGN
 ---
 
 # Schwingungen
