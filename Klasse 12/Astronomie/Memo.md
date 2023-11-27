@@ -52,21 +52,25 @@ Das Hydrostatische Gleichgewicht ist ein mechanisches Gleichgewicht zwischen Gra
 
 In der Astrophysik bedeutet dies, dass bei größeren Himmelskörpern wie zum Beispiel Sterne eine Schichtung gibt, die durch Materialien unterschiedlicher Dichte hervorgerufen wird. Hierbei stellt sich für jede Schichtgrenze ein Gleichgewicht zwischen der Anziehungskraft darunterliegender Masse und dem durch verschiedene physikalische Vorgänge erzeugten Druck ein, so dass sich infolge der Rotation eine annähernde Kugelform ergibt.
 
+#### Hertzsprung-Russel-Diagramm
+
+==Todo==
+
 ### Methoden zur Bestimmung von Zustandsgrößen
 
 #### Luminosität
 
 Die Leuchtkraft ($L$) ist die von der Sonne abgestrahlte Leistung. Sie wird bestimmt, indem man die Energie misst, die auf die Innenfläche einer Kugel trifft, die sich in einer Entfernung von $R$ um die Sonne befindet. Durch Berechnung der Energie, die diese Fläche erreicht, erhält man die Leuchtkraft. Die Leuchtkraft der Sonne kann mit der Formel
 
-$L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$
+$$L=4\pi \cdot R^{2} \cdot \sigma \cdot T_{O}^{4}$$
 
-berechnet werden, wobei $L$ die Leuchtkraft, $R$ die Entfernung, $\sigma$ die Stefan-Boltzmann-Konstante und $T_{O}$​ die Oberflächentemperatur der Sonne ist. Die Leuchtkraft der Sonne beträgt $L=3.8\cdot10^{23}kW$
+berechnet werden, wobei $L$ die Leuchtkraft, $R$ die Entfernung, $\sigma$ die Stefan-Boltzmann-Konstante und $T_{O}$​ die Oberflächentemperatur der Sonne ist. Die Leuchtkraft der Sonne beträgt $L=3.8\cdot10^{23}kW$.
 
 #### Temperatur
 
 Die Temperatur eines Sterns ist eine der grundlegendsten Zustandsgrößen. Sie gibt an, wie heiß der Stern ist. Die Temperatur variiert stark zwischen verschiedenen Sternen und kann den gesamten Bereich von Tausenden bis zu Millionen von Grad Celsius umfassen.
 
-#### Temperatur
+#### Masse
 
 Die Masse eines Sterns ist eine entscheidende Zustandsgröße. Sie bestimmt seine Entwicklung, Lebensdauer und sein Schicksal. Sterne können eine breite Palette von Massen haben, von massearmen Braunen Zwergen bis zu massereichen Supergiganten.
 
