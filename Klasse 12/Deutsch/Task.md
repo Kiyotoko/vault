@@ -160,3 +160,12 @@ Hannover ist ganz schön beschissen
 
 ---
 
+- Historik
+	- Städte als Phänomen
+		- Größe und Reichtum
+	- Beispiel Babylon
+- Motive
+	- Geruch
+	- Soziale Schichten/ Soziale Not
+	- Landsehnsucht
+	- 
