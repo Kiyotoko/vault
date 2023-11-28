@@ -14,13 +14,15 @@ Als interstellare Materie bezeichnet man die Materie im interstellaren Raum, die
 
 $$L=\sigma\cdot A\cdot T^{4}$$
 
+![](Fließschema%20Sternenentstehung.png)
+
 #### Jeans-Kriterium
 
 - Gaswolken werden in einer Region zusammengezogen
 - Masse der Region, Temperatur, Druck und Dichte
 - Wenn Gravitationskraft größer als nach außen gerichtete Kraft, zieht sich die Gaswolke zusammen
 
-#### Hypostatische Gleichgewicht
+#### Hypostatisches Gleichgewicht
 
 - Gleichgewicht zwischen Gravitation und Auftrieb
 - Ursache für die Schichtung bei Sternen
