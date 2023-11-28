@@ -122,13 +122,15 @@ Die möglichen Endstadien der Sternentwicklung sind:
 
 - **Weise Zwerge**: Die herausgelösten Kerne der masseärmeren Sterne werden zu weißen Zwergen. Sie verringern im Laufe der Zeit unter Beibehaltung des Radius langsam ihre Oberflächentemperatur. Dieses Schicksal wird in einigen Milliarden Jahren auch die Sonne ereilen. Kennzeichnend für weiße Zwerge ist ihre hohe Dichte.
 - **Supernova**: Kommt es bei massereicheren Sternen zu dem dramatischen Ereignis einer Supernova, dann bildet sich ein noch dichteres Objekt als ein weißer Zwerg, ein Neutronenstern. Verliert ein Stern nicht schnell genug seine Materie der Hülle, so sackt er unter der eigenen Gravitationswirkung unaufhaltsam in sich zusammen, bis eine so große Massekonzentration erreicht wird, dass selbst Licht den betreffenden Bereich nicht mehr verlassen kann. Einen Bereich solcher Massenkonzentration bezeichnet man als schwarzes Loch. Die Existenz von schwarzen Löchern lässt sich nur indirekt nachweisen.
-- **Pulsare**: Bei einer Restmasse, die 1,4 Sonnenmassen übertrifft, kann der Gravitationskollaps durch Druck des entarteten Elektronengases nicht mehr zum Stillstand bringen. Der Stern stürzt weiter in sich zusammen. Bei inversen beta Zerfall entstehen Neutronen. Der Druck dieses Neutronengas hält Kollaps auf. Dabei ist der Kern des Rotens Riesen zu Atomkern geschrumpft = Neutronenstern
+- **Pulsare**: Bei einer Restmasse, die 1,4 Sonnenmassen übertrifft, kann der Gravitationskollaps durch Druck des entarteten Elektronengases nicht mehr zum Stillstand bringen. Der Stern stürzt weiter in sich zusammen. Bei inversen beta Zerfall entstehen Neutronen. Der Druck dieses Neutronengas hält Kollaps auf. Dabei ist der Kern des Roten Riesen zum Atomkern geschrumpft = Neutronenstern
 - **Neutronensterne**: Resultat eines Pulsares.
 - **Schwarze Löscher**: Wenn die Sterne eine Restmasse oberhalb von zwei bis drei Sonnenmassen haben, können diese keinen stabilen Zustand erreichen. Diese stürzen immer weiter zusammen und werden so dicht, dass selbst die Photonen der elektromagnetischen Strahlung sie nicht mehr verlassen können = unsichtbare schwarze Löcher
 
 Die von den massereichen Planeten in das All abgegebene Materie steht erneut als Ausgangsmaterial für eine Sternentstehung zur Verfügung.
 
 ### Materiekreislauf
+
+![[Materiekreislauf.jpeg]]
 
 # Galaxien
 
@@ -148,11 +150,29 @@ Immanuel Kant veröffentlichte in seiner berühmten Schrift „Allgemeine Naturg
 - Halo
 - Spiralarme
 - Zentrum (Schwarzes Loch)
-- Bulge
+- Kern (Bulge)
+	- ältere, rötlich leuchtende Sterne
+	- im optischen Bereich nicht zu sehen, da es hinter Staub- und Gaswolken verborgen ist
 - Scheibe
+	- 2 Hauptarme, die sich im äußeren Galaxieteil in 4 aufteilen
+	- Innerhalb der Scheibe Gas- und Staubmassen
+	- junge, massiv leuchtende Sterne
 - Kugelsternhaufen
 
 ### Entstehung und Entwicklung der Milchstraße
+
+Sternpopulation in der Milchstraße: 
+- 80% unserer Sterne entstanden zwischen 13,5-8 Mrd Jahren (der frühen Phase) 
+- 8-2 Mrd Jahre ruhige Phase -> kaum neue Sterne 
+- Seit 1 Mrd Jahr deutlich höhere Rate der Sternentstehung -> warum? 
+ - Über 100 Mio Jahre verteilt entstanden etliche Millionen neue Sterne im zentralen Bereich → tragen etwa 5% der Masse der Milchstraße bei
+- Aktuell wieder deutlich geringere Sternentstehungsrate -> evtl. 10-20 pro Jahr
+
+Mit Hilfe Kugelsternhaufen können Aussagen über das Alter der Galaxie gemacht werden: 
+1. Stelle alle Sterne des Sternhaufens im HRD dar (m in mag gegen T in 103 K) 
+2. Es zeigt sich ein typisches "Knie", ein Abknickpunkt --> mK 
+3. Mit Hilfe der Entfernung kann mK (relative) in MK (absolute) umgerechnet werden 
+4. Mit Hilfe der Formel kann dann das Alter des Sternhaufens ermittelt werden.
 
 ## Andere Galaxien
 
@@ -169,4 +189,32 @@ Als aktive Galaxien bezeichnet man Galaxien mit einem besonders hellen Kern (eng
 
 ### Räumliche Verteilung
 
+Galaxien treten im Universum als Galaxienhaufen auf. Die Milchstraße gehört zur sogenannten "lokalen Gruppe".
+
+**Lokale Gruppe**
+- Zwei größten Galaxien: Milchstraße und Andromedagalaxie (95% der sichtbaren Masse) → werden in ca. 3Mrd. Jahren kollidieren 
+- Über 60 Zwerggalaxien 
+- Bewegt sich mit ca. 630km/s durch das All 
+- Durchmesser von 5-8 Lichtjahren 
+- Gravitative Bindungen zwischen den Galaxien 
+- Ungleichmäßige Verteilung der Galaxien im Bereich der lokalen Gruppe 
+- Bestandteil des Virgo-Superhaufens → Teil des Superclusters Laniakea
+
+Die Große Mauer ist einer der größten zusammenhängenden Astronomische Strukturen des bekannten Universums. 
+
+Sie beinhaltet unter anderem die folgenden Strukturen: 
+- Cluster Hercules 
+- Coma Supercluster 
+- Leo Supercluster 
+
+Begrenzt eines Voids (Bereiche, die das Netz des Kosmos begrenzt)
+
 ### Bewegungsverhalten
+
+#### Galaxieflucht
+
+Die Spektren von Sternen bestehen aus einem Kontinuum. Bei Untersuchungen stelle man jedoch fest, dass die Linien fast alle Spektrallinien verschoben waren. Dies liegt daran, dass sich fast alle Sterne und Galaxien von uns weg bewegen (Galaxienflucht), mit nur wenigen ausnahmen. Durch die Bewegung tritt der Dopplereffekt auf, wodurch das Spektrum rot oder blau verschoben wird. Bewegen sich die Galaxien von uns weg, gibt es eine Rotverschiebung, ansonsten eine Blauverschiebung.
+
+Fluchtgeschwindigkeit
+$$v_{F}=\frac{\Delta\lambda}{\lambda_{0}}\cdot c=H_{0}\cdot r\quad\text{mit }\Delta\lambda=\lambda-\lambda_{0}$$
+
