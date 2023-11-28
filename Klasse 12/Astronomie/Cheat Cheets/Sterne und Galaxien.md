@@ -30,4 +30,3 @@ $$L=\sigma\cdot A\cdot L^{2}$$
 - Pulsar
 - Neutronenstern
 - Schwarzes Loch
-
