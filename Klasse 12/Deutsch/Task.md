@@ -171,5 +171,12 @@ Hannover ist ganz schön beschissen
 	- Fortschritt, Industrialisierung
 - Strömungen
 	- Expressionismus: Dämonisches, infernalisches Wesen, Menschen korrumpieren, Existenzangst, Reizüberflutung
-	- Impressionismus: Lyrik, Preisend bzw. positive Aspekte hervorheben
-	- Naturalismus: Soziale: Landsehnsucht, Proletariat
+	- Impressionismus: Beschönigend, Abgehoben von der Alltagssprache, Innensicht, Symbole
+	- Naturalismus: Soziale: Landsehnsucht, Proletariat, Misstände, Hunger, Industrialisierung
+
+---
+
+Änderungen im Gedicht, damit es einer Strömung ähnelt:
+- Thema
+- Ton
+- Fokus
