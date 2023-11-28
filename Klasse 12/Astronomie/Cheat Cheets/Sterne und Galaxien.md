@@ -57,3 +57,28 @@ Im Hauptreihenstadium befinden sich Sterne während des stabilen Wasserstoffbren
 - Pulsar
 - Neutronenstern
 - Schwarzes Loch
+
+## Galaxien
+
+### Struktur der Milchstraße 
+
+![](Struktur%20der%20Milchstraße.png)
+
+### Arten nach Hubble
+
+- Zwerggalaxien 
+	- extragalaktische Sternsysteme
+- Starburstgalaxien
+	- sehr hohe Sternentstehungsrate
+	- intensive Strahlung
+- Wechselwirkende Galaxien
+	- beeinflussen sich gegenseitig
+	- erhöhen damit ihre inneren Aktivitäten
+- Aktive Galaxien
+	- besonders hellen Kern
+
+### Räumliche Verteilung
+
+Galaxien treten im Universum als Galaxienhaufen auf. Die Milchstraße gehört zur sogenannten "lokalen Gruppe".
+
+Die Große Mauer ist einer der größten zusammenhängenden Astronomische Strukturen des bekannten Universums. Es begrenzt einen Void (Bereiche, die das Netz des Kosmos begrenzt).
