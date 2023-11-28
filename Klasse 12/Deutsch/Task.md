@@ -161,11 +161,15 @@ Hannover ist ganz schön beschissen
 ---
 
 - Historik
-	- Städte als Phänomen
-		- Größe und Reichtum
-	- Beispiel Babylon
-- Motive
-	- Geruch
-	- Soziale Schichten/ Soziale Not
-	- Landsehnsucht
-	- 
+	- Städte als Phänomen für Größe, Wachstum und Reichtum
+	- Beispiel Babylon, Paris
+	- Verursacht durch technischen Fortschritt und daraus resultierender Landflucht
+- Motive/Themen
+	- Geruch, Lärm, Müll
+	- Soziale Schichten bzw. Soziale Not
+	- Pracht, Reichtum, Wohlstand
+	- Fortschritt, Industrialisierung
+- Strömungen
+	- Expressionismus: Dämonisches, infernalisches Wesen, Menschen korrumpieren, Existenzangst, Reizüberflutung
+	- Impressionismus: Lyrik, Preisend bzw. positive Aspekte hervorheben
+	- Naturalismus: Soziale: Landsehnsucht, Proletariat
