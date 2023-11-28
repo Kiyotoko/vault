@@ -3,6 +3,8 @@
 
 ### Interstellare Materie
 
+Als interstellare Materie bezeichnet man die Materie im interstellaren Raum, die sich zwischen den Astropausen, also dem (fließenden) Übergang der Astrosphäre eines Sterns zum interstellaren Raum, befindet. Bestandteile sind z.B. neutrales und ionisiertes Gas, interstellarer Staub, interstellare Wolken, dunkle interstellare Wolken.
+
 ### Entstehung von Sternen
 
 - Entstehen aus Wasserstoff, der in riesigen Gaswolken im Weltall vorkommt → Ansammlung von Materie (Protostern)
@@ -44,7 +46,9 @@ $$L=\sigma\cdot A\cdot T^{4}$$
 	  O B A F G K M				
 ```
 
-### Endstadien der Stenenentwicklung
+Im Hauptreihenstadium befinden sich Sterne während des stabilen Wasserstoffbrennens, das etwa 90% der Lebenszeit ausmacht.
+
+### Endstadien der Sternenentwicklung
 
 - Weiser Zwerg
 - Supernova
