@@ -570,3 +570,6 @@ $\sin{\alpha}=\frac{x}{l_{1}}\quad\sin{\beta}=\frac{d-x}{l_{2}}$
 $0=\frac{\sin{\alpha}}{c_{1}}- \frac{\sin{\beta}}{c_{2}}$
 $\frac{\sin{\alpha}}{c_{1}}=\frac{\sin{\beta}}{c_{2}}$
 $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{c_{1}}{c_{2}}$
+
+# Quantenmeschanik
+
