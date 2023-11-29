@@ -584,3 +584,10 @@ $E_{\text{ph, gelb}}<E_{\text{ph, uv}}$
 
 $$E_\text{ph}=h\cdot f$$
 
+### Energiebilanz
+
+### Gegenfeldmethode
+
+![](Working%20Materials/Quantenphysik/Photoeffekt.png)
+
+![](Working%20Materials/Quantenphysik/Bewegung%20der%20Elektronen.png)
