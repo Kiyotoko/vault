@@ -3,7 +3,9 @@
 
 ### Interstellare Materie
 
-Als interstellare Materie bezeichnet man die Materie im interstellaren Raum, die sich zwischen den Astropausen, also dem (fließenden) Übergang der Astrosphäre eines Sterns zum interstellaren Raum, befindet. Bestandteile sind z.B. neutrales und ionisiertes Gas, interstellarer Staub, interstellare Wolken, dunkle interstellare Wolken.
+- Materie im interstellaren Raum
+- zwischen den Astropausen (Übergang der Astrosphäre eines Sterns zum interstellaren Raum)
+- Bestandteile: neutrales und ionisiertes Gas, interstellarer Staub, interstellare Wolken, dunkle interstellare Wolken
 
 ### Entstehung von Sternen
 
@@ -28,7 +30,13 @@ $$L=\sigma\cdot A\cdot T^{4}$$
 - Ursache für die Schichtung bei Sternen
 - Innerhalb jeder Schicht herrscht ein Gleichgewicht zwischen dem Druck der physikalischen Vorgänge und der Gravitation des Sterns
 
-#### Hauptreihenstadium
+### Vor-Hauptreihenstadien
+
+- Heißer und Heller
+- Kein stabiles Wasserstoffbrennen
+- Fusionieren Wasserstoff zu Helium
+
+### Hauptreihenstadium
 
 ```
 	  3 2 1 7 6 4 3	  K 10E3	
@@ -48,7 +56,14 @@ $$L=\sigma\cdot A\cdot T^{4}$$
 	  O B A F G K M				
 ```
 
-Im Hauptreihenstadium befinden sich Sterne während des stabilen Wasserstoffbrennens, das etwa 90% der Lebenszeit ausmacht.
+- stabiles Wasserstoffbrennen, das etwa 90% der Lebenszeit ausmacht
+
+### Nach-Hauptreihenstadium
+
+- Wasserstoffvorrat ist erschöpft
+- Massereiche Sterne -> Kontraktion sorgt für Fusion schwerer Elemente
+- Massearme Stene -> Kurze Fusion von Helium in einem Heliumflash
+- Danach Endstadium
 
 ### Endstadien der Sternenentwicklung
 
