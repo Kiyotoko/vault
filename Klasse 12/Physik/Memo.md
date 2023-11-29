@@ -591,3 +591,19 @@ $$E_\text{ph}=h\cdot f$$
 ![](Working%20Materials/Quantenphysik/Photoeffekt.png)
 
 ![](Working%20Materials/Quantenphysik/Bewegung%20der%20Elektronen.png)
+
+### Einstein-Gerade
+
+Anstieg der Einstein-Gerade ist das plancksche Wirkungsquantum $h$.
+
+$E_{\text{kin}}(f)=W_{A}+h\cdot f\to m+n\cdot x$
+
+### Impuls-Photon
+
+$E=m\cdot c^{2}$
+$E=h\cdot f$
+
+$m\cdot c^{2}=h\cdot f$
+$mc=h\cdot \frac{f}{c}$
+$$p=h\cdot \frac{f}{c}=\frac{h}{\lambda}$$
+$$m=\frac{h\cdot g}{c^{2}}$$
