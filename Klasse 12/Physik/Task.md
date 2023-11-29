@@ -294,3 +294,36 @@ Ein Polarisatiosfilter schwächt die Intensität des unpolariesierten Lichtes de
 - Orientierung senkrecht zum Filter wird vollständig absorbiert
 - Orientierung schräg zum Filter ($0^{\circ}<\vartheta<90^{\circ}$) wird teilwiese transmittiert (paralleler Anteil)
 - Lichtstärke/Intensität wird um die Hälfte reduziert
+
+# Quantenphysik
+
+## 2023-11-29
+
+$\lambda=400nm\cdot800nm$
+$t=\mu s$
+$n=10^{12}$
+
+$P=\frac{E}{t}=\frac{n\cdot g\cdot f}{t}=\frac{n\cdot h\cdot c}{t\cdot\lambda}=\frac{10^{12}\cdot 6.626\cdot10^{-34}Js\cdot 3\cdot10^{8} \frac{m}{s}}{10^{-6}s\cdot600\cdot10^{-9}m}=0.33W$
+
+---
+
+$P=1.7\cdot10^{-18}W$
+$\lambda=550nm$
+
+$P=\frac{n\cdot h\cdot c}{t\cdot\lambda}$
+$\frac{n}{t}=\frac{P\cdot\lambda}{h\cdot c}=\frac{4.7037}{s}\approx5\text{ Photonen pro Sekunde}$
+
+---
+
+Es wird Licht gleicher Frequenz, aber höherer Intensität verwendet. Sagen sie vorher, was dadurch bewirkt wird!
+
+Eine höhere Intensität bedeutet eine größere Anzahl an Photonen. Dadurch werden auch mehr Elektronen ausgelöst. 
+
+Es wird Licht höherer Frequenz, aber gleicher Intensität verwendet.
+
+Eine höhere Frequenz bedeutet, dass die Photonen eine größere Energie. Da die Ablösearbeit gleich bleibt, besitzen die Elektronen eine größere kinetische Energie.
+
+---
+
+Argumentieren Sie, weshalb das Wellenmodell beim Photoeffekt ungeeignet ist.
+

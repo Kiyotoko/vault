@@ -571,5 +571,16 @@ $0=\frac{\sin{\alpha}}{c_{1}}- \frac{\sin{\beta}}{c_{2}}$
 $\frac{\sin{\alpha}}{c_{1}}=\frac{\sin{\beta}}{c_{2}}$
 $\frac{\sin{\alpha}}{\sin{\beta}}=\frac{c_{1}}{c_{2}}$
 
-# Quantenmeschanik
+# Quantenphysik
+
+$E_{\text{ph}}=h\cdot f_{g}$
+$E_{\text{ph}}=f\cdot f_{uv}$
+$f_{g}<f_{uv}$
+$E_{\text{ph, gelb}}<E_{\text{ph, uv}}$
+
+## Modelle für das Licht
+
+## Energie eines Photons
+
+$$E_\text{ph}=h\cdot f$$
 
