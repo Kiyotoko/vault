@@ -136,4 +136,24 @@ Thank you for your interest. I look forward to hearing from you.
 	1. Take a single cell
 	2. Remove the nucleus into a egg cell.
 	3. Transfer the nucleus from the taken cell into a the egg cell.
- 
+
+## 2023-11-29
+
+Hey Emily,
+
+it is nice to hear from you! Of course I want to help you. I have red an article from the online magazine "sueddeutsche" about GMOs in the EU.
+
+- The EU favours GMOs
+- A new bill is currently discussed
+- Green Gentechnology shall be the new standard in the food supply chain
+- The genom modifies plants targeted
+- The EU wants an agreement between crossing two new plants and programming new gen sequences
+- Changes of NGTs (New Genetic Tecnologies) can not longer be identified with common analysing methods
+- Modified plants with up to 20 modifications should be seen equal to conventianel plants
+- NGT-Plants or Products can not longer be prohibited or limited
+- Could mark the end of organic products
+
+I hope these information have helped you!
+
+Kind regards
+Karl Zschiebsch
