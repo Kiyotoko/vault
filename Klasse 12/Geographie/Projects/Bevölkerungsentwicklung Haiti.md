@@ -1,0 +1,3 @@
+Haitis Bevölkerung hat sich von 1960 bis 2019 innerhalb von 59 von 3,688 Millionen auf über 11 Millionen Einwohner mehr als verdreifacht. Alleine von 1960 bis 1980 ist die Bevölkerung in 20 Jahren um fast 1 Millionen auf 5,643 Millionen Einwohner gewachsen.
+
+Die Geburtenrate ist von 1980 mit etwa 42 Geburten pro 1000 Einwohner pro Jahr auf 25 Geburten in 2015 gesunken. Gleichzeitig ist auch die Sterberate von 15 auf 8 Todesfälle pro 1000 Einwohner pro Jahr gefallen. Aus der Differenz der Geburten- und Sterberate ergibt sich die Zuwachsrate, welche von 1980 mit 27 bis 2015 mit 17 Personen pro Jahr um etwa 37% massiv gesunken ist. Im gleichen Zeitraum ist die 
