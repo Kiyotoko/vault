@@ -178,5 +178,8 @@ Hannover ist ganz schön beschissen
 
 Änderungen im Gedicht, damit es einer Strömung ähnelt:
 - Thema
-- Ton
+- Ton/Sprache
 - Fokus
+
+## 2023-11-29
+

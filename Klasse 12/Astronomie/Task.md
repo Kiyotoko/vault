@@ -39,3 +39,41 @@ $m_{K}=8.5$
 $m-M=-2.5\lg{(\frac{10pc}{r})}^{2}$
 $8.5-M=-2.5\lg{(\frac{10pc}{153pc})}^{2}$
 $M=2.5\lg{(\frac{10pc}{153pc})}^{2}+8.5$
+
+## 2023-11-29
+
+Endstadien
+
+- Pulsare
+- Schwarze Löcher
+- Neutronensterne
+- Supernove
+- Weise Zwerge
+
+Galaxiearten nach Hubble
+
+- Starbustgalaxien
+- Zwerggalaxien
+- Wechselseitige Galaxien
+- Aktive Galaxien
+
+Vor-Hauptreihenstadium
+
+- Sehr Aktiv
+- Fusioniert instabil Wasserstoff
+
+Hauptreihenstadium
+
+- 90% der Lebenszeit
+- Fusioniert stabil Wasserstoff
+
+End-Hauptreihenstadium
+
+- Wasserstoff geht zu Ende
+- Massereiche Sterne verbrennen schwere Elemente
+- Massearme Sterne verbrennen kurz Helium in einem Heliumblitz
+- geht in einem Endstadium über
+
+Interstellare Materie
+
+- Materie zwischen 
