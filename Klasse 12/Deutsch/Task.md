@@ -182,4 +182,3 @@ Hannover ist ganz schön beschissen
 - Fokus
 
 ## 2023-11-29
-
