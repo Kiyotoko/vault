@@ -182,3 +182,15 @@ Hannover ist ganz schön beschissen
 - Fokus
 
 ## 2023-11-29
+
+Merkmale Wiederstandsbegriff:
+- Verweigerung von:
+	- Regeln
+	- Normen
+	- Symbolik
+	- Teilnahme
+- Protest
+- Öffentlichkeit
+- verbal als auch nonverbal
+- Systemkritisch
+- Entgegenwirken statt Folgen
