@@ -57,3 +57,15 @@ Welche Rollen spielen Industrieländer wie Deutschland bei der Gestaltung dieser
 - Keine Sanitäranlagen
 - Kein sauberes Trinkwasser
 - Viele Personen auf niedriger Wohnfläche
+
+## 2023-12-01
+
+$h_{0}=0m$
+$h_{b}=3500m$
+$T_{0}=10 C^{\circ}$
+$\text{Relative Luftfeuchtigkeit}=\frac{9.4\frac{g}{m^{3}}\cdot0.92}{1.0}=9.648 \frac{g}{m^{3}}$
+
+→ Ablesen der Temperatur für die errechnete absolute Luftfeuchtigkeit
+→ Taupunkt bein 8 von Höhe des Kondensationsnive ermitteln
+
+$h_{t}=200m$
