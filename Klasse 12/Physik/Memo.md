@@ -580,8 +580,15 @@ $E_{\text{ph, gelb}}<E_{\text{ph, uv}}$
 
 ## Modelle für das Licht
 
+| Modell Lichtstrahlen                                         | Modell Wellen                                          | Modell Teilchen                            |
+| ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------ |
+| Eignet sich zur Beschreibung des Wegs, den Licht zurücklegt. | Eignet sich zu rErklärung von Beugung und Interferenz. | Eignet sich zur Erklärung des Fotoeffekts. |
+| Keine Aussage zur Natur des Lichts                           | Licht hat Wellencharakter                              | Licht hat Teilchencharakter                |
+
 ## Energie eines Photons
 
+$h$ plankschens Wirkungsquantum mit $6.626\cdot10^{-34}Js$
+$f$ Frequenz
 $$E_\text{ph}=h\cdot f$$
 
 ### Energiebilanz
