@@ -599,6 +599,10 @@ $$E_\text{ph}=h\cdot f$$
 
 ![](Working%20Materials/Quantenphysik/Bewegung%20der%20Elektronen.png)
 
+- Regelbare Spannungsquelle ist zwischen Kathode und Anode angeschlossen
+- Gegenspannung an der regelbaren Spannungsquelle wird so eingestellt, dass die Stromstärke null ist ($I=0$)
+- Mithilfe der Gegenspannung U kann die kinetische Energie der herausgelösten Elektronen bestimmt werden: $E_\text{kin}=e\cdot U$
+
 ### Einstein-Gerade
 
 Anstieg der Einstein-Gerade ist das plancksche Wirkungsquantum $h$.
