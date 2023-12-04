@@ -337,9 +337,49 @@ $\lambda=\frac{h}{c\cdot m}=\frac{6.626\cdot10^{-34}Js}{3\cdot10^{8}\cdot9.1\cdo
 
 ---
 
-| 400       | 450        | 500     | 550        | 600     |
-| --------- | ---------- | ------- | ---------- | ------- |
-| 7.5:10^14 | 6.67:10^14 | 6:10^14 | 5.45:10^14 | 5:10^14 |
-| 1.25      | 0.9        | 0.62    | 0.4        | 0.17    |
+| 400    | 450     | 500  | 550     | 600  |
+| ------ | ------- | ---- | ------- | ---- |
+| 7.5e14 | 6.67e14 | 6e14 | 5.45e14 | 5e14 |
+| 1.25   | 0.9     | 0.62 | 0.4     | 0.17 |
+34-1
+$h=4.27\cdot10^{-15}eVs=6.83\cdot10^{-34}Js$
 
-$h=4.27\cdot10^{-15}$
+Schnittpunkt mit y-Achse $W_{A}=1.944eV$
+Schnittpunkt mit x-Achse $f_{G}=4.56\cdot10^{14}Hz$
+
+$m_{\text{Elektron}}=9.1\cdot10^{-31}kg$
+$E_\text{kin}=\frac{1}{2}mv^{2}=h\cdot f-W_{A}$
+$v=\sqrt{\frac{2E_{\text{kin}}}{m}}$
+
+| Ekin \[eV] | 1.25   | 0.9    | 0.62   | 0.4    | 0.17   |
+| ---------- | ------ | ------ | ------ | ------ | ------ |
+| v \[m/s]   | 663080 | 562642 | 466989 | 375095 | 244532 |
+
+---
+
+$\lambda=[400:800]nm=\approx600nm$
+$\Delta t=1\mu s$
+$n=10^{12}$
+
+$P=\frac{W_A}{\delta t}=\frac{h\cdot f}{t}=\frac{h\cdot c}{\lambda\cdot t}=\frac{6.6261\dot10^{-34}Js\cdot3\cdot10^{8}}{600nm\cdot1s}$
+
+---
+
+$\lambda=460nm$
+$E_{kin}=1.08\cdot10^{-19}$
+
+$E_{kin}=e\cdot U=0.67V$
+
+---
+
+Hohe Intensität
+- Viele Photonen
+- Es lösen sich viele Elektronen
+Halbe Intensität
+- Halbe Photonenzahl
+- Halb so viele Elektronen lösen sich
+- Halb so großer Fotostrom
+- Fotospannung bleibt gleich, da kinetische Energie der Elektronen nur abhängig von der Frequenz des Lichts ($E_{kin}(f)=h\cdot f-W_{A}$)
+
+---
+
