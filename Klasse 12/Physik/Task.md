@@ -327,3 +327,9 @@ Eine höhere Frequenz bedeutet, dass die Photonen eine größere Energie. Da die
 
 Argumentieren Sie, weshalb das Wellenmodell beim Photoeffekt ungeeignet ist.
 
+## 2023-12-04
+
+$m_\text{Elektron}=m_\text{Photon}$
+$m_{\text{Elektron}}=9.1\cdot10^{-31}kg$
+$m_\text{Photon}=\frac{h\dot f}{c^{2}}=\frac{h}{\lambda\cdot c}$
+$\lambda=\frac{h}{c\cdot m}=\frac{6.626\cdot10^{-34}Js}{3\cdot10^{8}\cdot9.1\cdot10^{-31}kg}=2.43\cdot10^{-12}m$
