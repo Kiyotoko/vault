@@ -330,6 +330,14 @@ Argumentieren Sie, weshalb das Wellenmodell beim Photoeffekt ungeeignet ist.
 ## 2023-12-04
 
 $m_\text{Elektron}=m_\text{Photon}$
+
 $m_{\text{Elektron}}=9.1\cdot10^{-31}kg$
 $m_\text{Photon}=\frac{h\dot f}{c^{2}}=\frac{h}{\lambda\cdot c}$
 $\lambda=\frac{h}{c\cdot m}=\frac{6.626\cdot10^{-34}Js}{3\cdot10^{8}\cdot9.1\cdot10^{-31}kg}=2.43\cdot10^{-12}m$
+
+---
+
+| 400       | 450        | 500     | 550        | 600     |
+| --------- | ---------- | ------- | ---------- | ------- |
+| 7.5:10^14 | 6.67:10^14 | 6:10^14 | 5.45:10^14 | 5:10^14 |
+| 1.25      | 0.9        | 0.62    | 0.4        | 0.17    |

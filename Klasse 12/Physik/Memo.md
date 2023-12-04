@@ -607,6 +607,7 @@ $$E_\text{ph}=h\cdot f$$
 
 Anstieg der Einstein-Gerade ist das plancksche Wirkungsquantum $h$.
 
+$E_\text{ph}=E_\text{kin}+W_{A}$
 $E_{\text{kin}}(f)=W_{A}+h\cdot f\to m+n\cdot x$
 
 ### Impuls-Photon
