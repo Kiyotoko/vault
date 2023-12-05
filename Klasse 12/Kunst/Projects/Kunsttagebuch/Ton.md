@@ -4,7 +4,7 @@ Gestalten Sie plastisch eine menschliche Figur in einer bestimmten Emotion.
 
 ## Ideenfindung
 
-Nach sorgfältiger Überlegung habe ich mich entschieden, eine menschliche Figur darzustellen, die die Emotion Nachdenklich verkörpert. Diese Emotion wurde gewählt, weil [...] (Hier könnte der Schüler Informationen über die gewählte Emotion und seine Motivation für die Auswahl bereitstellen.)
+Nach sorgfältiger Überlegung habe ich mich entschieden, eine menschliche Figur darzustellen, die die Emotion Nachdenklich verkörpert. Ich habe diese Emotion gewählt, da sie 
 
 ## Umsetzung
 
