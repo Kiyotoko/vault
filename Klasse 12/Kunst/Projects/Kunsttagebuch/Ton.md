@@ -20,7 +20,7 @@ Anatomisch war besonders schwierig, das Gesicht sowie Körperverhältnisse korre
 
 Dreidimensionale Details zu betonen, sowie Haltung bzw. Bewegung dynamisch darzustellen, fiel mir hierbei eher schwer. Besonderes Augenmerk lege ich auf die Gesichtsausdrücke und Körperhaltung, um die gewählte Emotion bestmöglich zu vermitteln.
 
-Nachdem die Figur geformt ist, wird der Ton getrocknet und anschließend gebrannt, um die Form zu stabilisieren. Je nach gewünschtem Finish kann die Oberfläche mit verschiedenen Techniken gestaltet werden, beispielsweise durch Glasuren oder Patinierung.
+Zum Schluss wurde die Oberfläche glasiert.
 
 ## Reflexion
 
