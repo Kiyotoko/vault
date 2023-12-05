@@ -4,7 +4,7 @@ Gestalten Sie plastisch eine menschliche Figur in einer bestimmten Emotion.
 
 ## Ideenfindung
 
-Nach sorgfältiger Überlegung habe ich mich entschieden, eine menschliche Figur darzustellen, die die Emotion Nachdenklich verkörpert. Ich habe diese Emotion gewählt, da sie 
+Nach sorgfältiger Überlegung habe ich mich entschieden, eine menschliche Figur darzustellen, die die Emotion Melancholie verkörpert. Ich habe diese Emotion gewählt, da es meine aktuelle Verfassung zu Beginn des Kunstunterrichts war.
 
 ## Umsetzung
 
@@ -18,6 +18,6 @@ Nachdem die Figur geformt ist, wird der Ton getrocknet und anschließend gebrann
 
 ## Reflexion
 
-Die Arbeit mit Ton ermöglichte mir, meine gestalterischen Fähigkeiten im plastischen Bereich zu entwickeln. Die dreidimensionale Darstellung einer menschlichen Figur stellte eine kreative Herausforderung dar, insbesondere die Übertragung von Emotionen in die Form. Während des Prozesses lernte ich nicht nur den Umgang mit Ton und Werkzeugen, sondern auch, wie subtile Details einen großen Einfluss auf die emotionale Wirkung der Figur haben.
+Ich hatte mit Ausnahme der 9./10. Klasse fast noch nie Ton gearbeitet, geschweige denn versucht, eine menschliche Emotion darzustellen. Dementsprechend ermöglichte mir die Arbeit mit Ton, meine gestalterischen Fähigkeiten im plastischen Bereich zu entwickeln. Die dreidimensionale Darstellung einer menschlichen Figur stellte eine kreative Herausforderung dar, insbesondere die Übertragung von Emotionen in die Form. Während des Prozesses lernte ich nicht nur den Umgang mit Ton und Werkzeugen, sondern auch, wie subtile Details einen großen Einfluss auf die emotionale Wirkung der Figur haben.
 
 Trotz möglicher Herausforderungen betrachte ich meine Arbeit als gelungenen ersten Versuch. Ich bin jedoch motiviert, mein Verständnis für die Materialeigenschaften und die Gestaltung von Emotionen in zukünftigen Projekten weiter zu vertiefen.
