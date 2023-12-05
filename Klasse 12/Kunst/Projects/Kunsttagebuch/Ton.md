@@ -4,13 +4,13 @@ Gestalten Sie plastisch eine menschliche Figur in einer bestimmten Emotion.
 
 ## Ideenfindung
 
-Nach sorgfältiger Überlegung habe ich mich entschieden, eine menschliche Figur darzustellen, die die Emotion [...] verkörpert. Diese Emotion wurde gewählt, weil [...] (Hier könnte der Schüler Informationen über die gewählte Emotion und seine Motivation für die Auswahl bereitstellen.)
+Nach sorgfältiger Überlegung habe ich mich entschieden, eine menschliche Figur darzustellen, die die Emotion Nachdenklich verkörpert. Diese Emotion wurde gewählt, weil [...] (Hier könnte der Schüler Informationen über die gewählte Emotion und seine Motivation für die Auswahl bereitstellen.)
 
 ## Umsetzung
 
 Ton eignet sich hervorragend für die plastische Gestaltung von Figuren, da er formbar und gut modellierbar ist. Um die gewünschte Emotion darzustellen, werde ich zunächst eine grobe Skizze der Figur aufzeichnen, um die Proportionen und Haltung festzulegen.
 
-Für die Bearbeitung des Tons habe ich Modellierwerkzeuge, Spachtel und eventuell auch spezielle Werkzeuge zur Texturgestaltung verwendet. Die grobe Form werde ich mit den Händen modellieren und dann mit Werkzeugen Details wie Gesichtszüge, Kleidung und andere charakteristische Merkmale herausarbeiten.
+Für die Bearbeitung des Tons habe ich Ton- und Schnitzmesser, Modellierschlingen, Tonwerkzeuge als auch Messer verwendet. Die grobe Form werde ich mit den Händen modellieren und dann mit Werkzeugen Details wie Gesichtszüge, Kleidung und andere charakteristische Merkmale herausarbeiten.
 
 Um der Figur Tiefe und Ausdruck zu verleihen, werde ich mich darauf konzentrieren, dreidimensionale Details zu betonen. Besonderes Augenmerk lege ich auf die Gesichtsausdrücke und Körperhaltung, um die gewählte Emotion bestmöglich zu vermitteln.
 
