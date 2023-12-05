@@ -14,6 +14,8 @@ Ton eignete sich für mich hervorragend für die plastische Gestaltung von Figur
 
 Für die Bearbeitung des Tons habe ich Ton- und Schnitzmesser, Modellierschlingen, Tonwerkzeuge als auch Messer verwendet. Die grobe Form modellierte ich mit den Händen, um dann mit Werkzeugen Details wie Gesichtszüge, Kleidung und andere charakteristische Merkmale herausarbeiten. 
 
+Um die Emotion Melancholie darzustellen, habe ich die Figur sitzend, mit den Armen auf den Beinen liegend und den Kopf auf der Hand stützend dargestellt.
+
 Anatomisch war besonders schwierig, das Gesicht sowie Körperverhältnisse korrekt darzustellen.
 
 Dreidimensionale Details zu betonen, sowie Haltung bzw. Bewegung dynamisch darzustellen, fiel mir hierbei eher schwer. Besonderes Augenmerk lege ich auf die Gesichtsausdrücke und Körperhaltung, um die gewählte Emotion bestmöglich zu vermitteln.
