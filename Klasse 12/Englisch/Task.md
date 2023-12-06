@@ -151,7 +151,11 @@ it is nice to hear from you! Of course I want to help you. I have red an article
 - Changes of NGTs (New Genetic Tecnologies) can not longer be identified with common analysing methods
 - Modified plants with up to 20 modifications should be seen equal to conventianel plants
 - NGT-Plants or Products can not longer be prohibited or limited
-- Could mark the end of organic products
+- Could mark the end of organic products, say gen technology experts
+- Science appreciates the bill, because there are no dangers for the health of humans or nature
+- GMOs are resistant against bugs and use water and nutrient more effective
+- Parties like EVP, CDU and CSU currently dont support the bill, so it is currently supported
+- An expert recommended the package of pesticide reduction and opening up genetic engineering as a means of balancing interests
 
 I hope these information have helped you!
 
