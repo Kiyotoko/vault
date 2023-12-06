@@ -431,4 +431,15 @@ $E_{kin}=\frac{m}{2}v^{2}$
 $\lambda=\frac{h}{2eUm}=1.67\cdot10^{-10}m$
 
 $\frac{n\cdot\lambda}{b}=\sin{\alpha}$
-$\alpha=\arcsin{\frac{n\cdot\lambda}{b}}=$
+$\alpha=\arcsin{\frac{n\cdot\lambda}{b}}=50.9458$
+
+---
+
+$\lambda=5.48\cdot 10^{-12}m$
+
+$e=350mm$
+$b=2\mu m$
+
+$\frac{n\cdot\lambda}{b}=\frac{s}{e}$
+$s=\frac{n\cdot\lambda\cdot e}{b}=9.6\cdot10^{-7}m$
+$k=\frac{\Delta s}{s}=105$
