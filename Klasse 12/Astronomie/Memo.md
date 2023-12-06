@@ -218,3 +218,38 @@ Die Spektren von Sternen bestehen aus einem Kontinuum. Bei Untersuchungen stelle
 Fluchtgeschwindigkeit
 $$v_{F}=\frac{\Delta\lambda}{\lambda_{0}}\cdot c=H_{0}\cdot r\quad\text{mit }\Delta\lambda=\lambda-\lambda_{0}$$
 
+## Extreme Materie
+
+### Dichte
+
+- Fest – wenig Platz (hohe Dichte) $3\cdot10^{23}\frac{Teilchen}{cm^{3}}$ 
+- Flüssig - semi-viel Platz (mittlere Dichte) $3\cdot10^{23} \frac{Teilchen}{cm^{3}}$
+- Gasförmig - viel Platz (geringe Dichte) $3\cdot10^{20} \frac{Teilchen}{cm^{3}}$ 
+- Interstellarer Nebel (sehr sehr geringe Dichte) $100 \frac{Teilchen}{cm^{3}}$
+
+### Temperatur
+
+= die Bewegung der Teilchen 
+
+- Absolute Tiefsttemperatur: $0K = - 273,15°C$ → $v=0 \frac{m}{s}$ 
+- 293,15 K ≈ 300 K = 20 °C --> v ≈  1700 m/s 
+- 50000 K --> v = 10^6 m/s 
+
+Maximale Geschwindigkeit = Lichtgeschwindigkeit
+
+### Quarks und Elementarteilchen
+
+6 Arten von Quarks 
+→ bilden Protonen und Neutronen (jeweils 3 Quarks) 
+
+u.a.: strange-Quarks, up-Quarks, down-Quarks
+
+### Materieformen
+
+Antimaterie: 
+- Gegensätzliche Teilchen (Bsp.: Elektron <-> Positron [e⁻, e⁺]) 
+- Massen identisch 
+- e⁻ +e⁺ → Energie 
+
+dunkle Materie: 
+- etwas mit Masse, ohne Leuchtkraft
