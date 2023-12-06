@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"a798233988b51388","x":-430,"y":147,"width":250,"height":60,"type":"text","text":"Aggregatzustände"},
+		{"id":"814ed7edc46882c7","x":99,"y":173,"width":250,"height":60,"type":"text","text":"flüssig"},
+		{"id":"65386089efc77f61","x":99,"y":260,"width":250,"height":60,"type":"text","text":"gasförmig"},
+		{"id":"e47833440bca214d","x":99,"y":87,"width":250,"height":60,"type":"text","text":"fest"},
+		{"id":"57829b8e42fb3782","x":511,"y":260,"width":250,"height":60,"type":"text","text":"Dichte $10^{20}\\frac{\\text{Teilchen}}{cm^3}$"},
+		{"id":"4e8ed2b025ebb78f","x":511,"y":117,"width":250,"height":60,"type":"text","text":"Dichte $3\\cdot10^{23} \\frac{\\text{Teilchen}}{cm^3}$"},
+		{"id":"f4303f7656c02632","x":-430,"y":-100,"width":250,"height":60,"type":"text","text":"Extreme Materie"},
+		{"id":"fadfa4e4f5530af2","x":99,"y":360,"width":250,"height":60,"type":"text","text":"Interstellare Nebel"},
+		{"id":"9ea2cbf3d87b259f","x":511,"y":360,"width":250,"height":60,"type":"text","text":"Dichte $100 \\frac{\\text{Teilchen}}{cm^3}$"},
+		{"id":"90975da968c6e0f7","x":-40,"y":-100,"width":250,"height":60,"type":"text","text":"Temperatur"},
+		{"id":"f3abb427ef57f7d1","x":-40,"y":-260,"width":250,"height":60,"type":"text","text":"Bewegung von Teilchen"}
+	],
+	"edges":[
+		{"id":"19a69924853fe7b2","fromNode":"f4303f7656c02632","fromSide":"bottom","toNode":"a798233988b51388","toSide":"top"},
+		{"id":"e8cd316b3ec92739","fromNode":"a798233988b51388","fromSide":"right","toNode":"e47833440bca214d","toSide":"left"},
+		{"id":"f0b7aa3b9f42e1f2","fromNode":"a798233988b51388","fromSide":"right","toNode":"814ed7edc46882c7","toSide":"left"},
+		{"id":"fee3d9a47ed8c496","fromNode":"a798233988b51388","fromSide":"right","toNode":"65386089efc77f61","toSide":"left"},
+		{"id":"05980abaedf81947","fromNode":"e47833440bca214d","fromSide":"right","toNode":"4e8ed2b025ebb78f","toSide":"left"},
+		{"id":"c6f23f85c69dd03d","fromNode":"814ed7edc46882c7","fromSide":"right","toNode":"4e8ed2b025ebb78f","toSide":"left"},
+		{"id":"25ab624859ebf24d","fromNode":"65386089efc77f61","fromSide":"right","toNode":"57829b8e42fb3782","toSide":"left"},
+		{"id":"13820cccf22330a1","fromNode":"fadfa4e4f5530af2","fromSide":"right","toNode":"9ea2cbf3d87b259f","toSide":"left"},
+		{"id":"ddc469a88d3d5d28","fromNode":"90975da968c6e0f7","fromSide":"top","toNode":"f3abb427ef57f7d1","toSide":"bottom"}
+	]
+}
