@@ -404,4 +404,31 @@ $\lambda_{3}=671nm$
 $\lambda=635nm$
 $E=120J$
 
-$$
+---
+
+$v=4.9\cdot10^{5} \frac{m}{s}$
+$\lambda=\frac{h}{m\cdot v}=\frac{6.6261\cdot10^{-34}J\cdot s}{9.10939\cdot10^{-31}\cdot4.9\cdot10^{5}}=1.484nm$
+
+---
+
+$U=2kV$
+
+$E=e\cdot U=3.204\cdot10^{-16}eV$
+
+$\lambda=\frac{h}{mv}$
+$eU=\frac{m}{2}v^{2}$ 
+$v=\sqrt{\frac{2eU}{m}}$
+
+$\lambda=2.74\cdot10^{-11}nm$
+
+---
+
+$U=54V$
+$b=4650 \frac{1}{\mu m}$
+
+$E_{kin}=e\cdot U$
+$E_{kin}=\frac{m}{2}v^{2}$
+$\lambda=\frac{h}{2eUm}=1.67\cdot10^{-10}m$
+
+$\frac{n\cdot\lambda}{b}=\sin{\alpha}$
+$\alpha=\arcsin{\frac{n\cdot\lambda}{b}}=$
