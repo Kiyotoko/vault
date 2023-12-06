@@ -381,5 +381,27 @@ Halbe Intensität
 - Halb so großer Fotostrom
 - Fotospannung bleibt gleich, da kinetische Energie der Elektronen nur abhängig von der Frequenz des Lichts ($E_{kin}(f)=h\cdot f-W_{A}$)
 
+## 2023-12-06
+
+$E_{kin}=e\cdot U$
+$E=h\cdot  \frac{c}{\lambda}$
+$U=\frac{h\cdot c}{e\cdot\lambda}$
+
+$U_{1}=2.6V$
+$U_{2}=2.1V$
+$U_{3}=1.3V$
+
 ---
 
+$\lambda=\frac{h\cdot c}{e\cdot U}$
+
+$\lambda_{1}=564nm$
+$\lambda_{2}=636nm$
+$\lambda_{3}=671nm$
+
+---
+
+$\lambda=635nm$
+$E=120J$
+
+$$
