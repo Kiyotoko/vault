@@ -578,11 +578,15 @@ $E_{\text{ph}}=f\cdot f_{uv}$
 $f_{g}<f_{uv}$
 $E_{\text{ph, gelb}}<E_{\text{ph, uv}}$
 
+## Fotoeffekt
+
+Als äußeren photoelektrischen Effekt bezeichnet man das Herauslösen von Elektronen aus einer Halbleiter- oder Metalloberfläche durch Bestrahlung.
+
 ## Modelle für das Licht
 
 | Modell Lichtstrahlen                                         | Modell Wellen                                          | Modell Teilchen                            |
 | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------ |
-| Eignet sich zur Beschreibung des Wegs, den Licht zurücklegt. | Eignet sich zu rErklärung von Beugung und Interferenz. | Eignet sich zur Erklärung des Fotoeffekts. |
+| Eignet sich zur Beschreibung des Wegs, den Licht zurücklegt. | Eignet sich zu Erklärung von Beugung und Interferenz. | Eignet sich zur Erklärung des Fotoeffekts. |
 | Keine Aussage zur Natur des Lichts                           | Licht hat Wellencharakter                              | Licht hat Teilchencharakter                |
 
 ## Energie eines Photons
@@ -590,6 +594,10 @@ $E_{\text{ph, gelb}}<E_{\text{ph, uv}}$
 $h$ plankschens Wirkungsquantum mit $6.626\cdot10^{-34}Js$
 $f$ Frequenz
 $$E_\text{ph}=h\cdot f$$
+
+### Äußere lichtelektrischer Effekt im Photonenmodell
+
+$E_{\text{ph}}=W_{A}+E_{\text{kin}}$
 
 ### Energiebilanz
 
@@ -619,3 +627,7 @@ $m\cdot c^{2}=h\cdot f$
 $mc=h\cdot \frac{f}{c}$
 $$p=h\cdot \frac{f}{c}=\frac{h}{\lambda}$$
 $$m=\frac{h\cdot g}{c^{2}}$$
+
+## Leuchtdiode
+
+Umkehrung des lichtelektrischen Effekts.
