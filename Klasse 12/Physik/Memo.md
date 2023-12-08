@@ -630,7 +630,9 @@ $$m=\frac{h\cdot g}{c^{2}}$$
 
 ## Materiewellen
 
-### De-Broglie-Wellenlänge44
+### De-Broglie-Wellenlänge
+
+$$\lambda=\frac{h}{p}=\frac{h}{m\cdot v}$$
 
 ### Leuchtdiode
 
