@@ -638,3 +638,7 @@ $$\lambda=\frac{h}{p}=\frac{h}{m\cdot v}$$
 
 Umkehrung des lichtelektrischen Effekts.
 
+- Elektronen und Löcher: In einem Halbleitermaterial, wie zum Beispiel Silizium, gibt es Elektronen, die sich frei bewegen können, sowie "Löcher", die durch fehlende Elektronen entstehen. Diese Elektronen und Löcher tragen zur elektrischen Leitfähigkeit des Materials bei.
+- Dotierung: Um eine LED herzustellen, wird der Halbleiter mit bestimmten Fremdatomen dotiert, um die Elektronen- und Lochträgerkonzentration zu verändern. Bei einer speziellen Art von LEDs, den Galliumarsenid-LEDs beispielsweise, werden Gallium- und Arsenatome verwendet.
+- Rekombination: Wenn eine Spannung an die LED angelegt wird, werden Elektronen und Löcher durch den Halbleiter bewegt. Wenn Elektronen auf Löcher treffen, können sie rekombinieren, wobei Energie freigesetzt wird.
+- Energieemission: Die freigesetzte Energie manifestiert sich in Form von Licht. Die Farbe des Lichts hängt von der Bandlücke des Halbleitermaterials ab. Die Bandlücke ist die Energielücke zwischen dem Valenzband und dem Leitungsband des Materials.
