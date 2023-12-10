@@ -482,3 +482,16 @@ $E_{\text{kin}}=h\cdot f-W_{A}=2.577\cdot10^{-19}J$
 
 $E_{\text{kin}}=\frac{m}{2}v^{2}$
 $v=\sqrt{\frac{2E_{\text{kin}}}{m}}=752592 \frac{m}{s}$
+
+---
+
+Gegenfeldmethode
+- Zwischen Anode und Kathode wird eine Gegenspannung so eingestellt, dass die Stromstärke null beträgt.
+- Die Energie der Gegenspannung $E_\text{kin}=e\cdot U$ entspricht der Energie der Elektronen $E_\text{kin}=\frac{m}{2}v^{2}$, worin man nach $v$ umstellen kann
+
+---
+
+$\lambda=[400:800]nm\approx600nm=6\cdot10^{-7}m$
+$\Delta s=1\mu s=10^{-6}s$
+$n=1T \text{ Photonon}=10^{12}\text{ Photonen}$
+$P=\frac{n\cdot E}{t}=\frac{n\cdot h\cdot c}{t\cdot\lambda}=0.33W$
