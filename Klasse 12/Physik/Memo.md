@@ -591,9 +591,13 @@ Als äußeren photoelektrischen Effekt bezeichnet man das Herauslösen von Elekt
 
 ## Energie eines Photons
 
-$h$ plankschens Wirkungsquantum mit $6.626\cdot10^{-34}Js$
+$h$ planksches Wirkungsquantum mit $6.626\cdot10^{-34}Js$
 $f$ Frequenz
-$$E_\text{ph}=h\cdot f$$
+$$E_\text{ph}=h\cdot f=h\cdot \frac{c}{\lambda}$$
+
+Energie mehrere Photonen
+$n$ Anzahl Photonen
+$$E=n\cdot h\cdot f=n\cdot h\cdot \frac{c}{\lambda}$$
 
 ### Äußere lichtelektrischer Effekt im Photonenmodell
 

@@ -2,6 +2,10 @@
 
 Als äußeren photoelektrischen Effekt bezeichnet man das Herauslösen von Elektronen aus einer Halbleiter- oder Metalloberfläche durch Bestrahlung.
 
+Einfluss der Lichtfrequenz Erst oberhalb einer materialabhängigen Grenzfrquenz $f_{G}$ des Lichts werden Elektronen ausgelöst. Die maximale kinetische Energie der ausgelösten Elektronen steigt, wenn die Frequenz des eingestrahlten Lichts erhöht wird.
+
+Einfluss der Lichtintensität Bei höherer Intensität des Lichts werden mehr Elektronen ausgelöst. Die maximale kinetische Energie des ausgelösten Elektronen hängt jedoch nicht von der Lichtintensität ab.
+
 ## Modelle für das Licht
 
 | Modell Lichtstrahlen                                         | Modell Wellen                                          | Modell Teilchen                            |
@@ -15,14 +19,16 @@ $h$ plankschens Wirkungsquantum mit $6.626\cdot10^{-34}Js$
 $f$ Frequenz
 $$E_\text{ph}=h\cdot f$$
 
+Energie mehrere Photonen
+$n$ Anzahl Photonen
+$$E=n\cdot h\cdot f=n\cdot h\cdot \frac{c}{\lambda}$$
+
 ### Äußere lichtelektrischer Effekt im Photonenmodell
 
 $W_{A}$ Austrittsarbeit
 $E_{\text{kin}}$ Kinetische Energie
 
 $$E_{\text{ph}}=W_{A}+E_{\text{kin}}$$
-
-### Energiebilanz
 
 ### Gegenfeldmethode
 
@@ -36,8 +42,11 @@ $$E_{\text{ph}}=W_{A}+E_{\text{kin}}$$
 
 ### Einstein-Gerade
 
-Anstieg der Einstein-Gerade ist das plancksche Wirkungsquantum $h$.
+- Anstieg der Einstein-Gerade ist das plancksche Wirkungsquantum $h$.
+- Der Schnittpunkt des Graphen mit der Abszissenachse ist die Grenzfrequenz $f_{G}$.
+- Der Schnittpunkt des Graphen mit der Ordinatenachse ergibt den Betrag der Ablösearbeit $W_{A}$.
 
+Die Energiebilanz beim äußeren lichtelektrischen Effekt lautet:
 $E_\text{ph}=E_\text{kin}+W_{A}$
 $E_{\text{kin}}(f)=W_{A}+h\cdot f\to m+n\cdot x$
 

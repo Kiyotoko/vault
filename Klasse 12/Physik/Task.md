@@ -404,6 +404,9 @@ $\lambda_{3}=671nm$
 $\lambda=635nm$
 $E=120J$
 
+$E=n\cdot h\cdot \frac{c}{\lambda}$
+$n=\frac{E\cdot\lambda}{h\cdot c}=3.8\cdot10^{20}\text{ Photonen}$
+
 ---
 
 $v=4.9\cdot10^{5} \frac{m}{s}$
@@ -443,3 +446,23 @@ $b=2\mu m$
 $\frac{n\cdot\lambda}{b}=\frac{s}{e}$
 $s=\frac{n\cdot\lambda\cdot e}{b}=9.6\cdot10^{-7}m$
 $k=\frac{\Delta s}{s}=105$
+
+## 2023-12-10
+
+Es werden mehr Elektronen herausgelöst, jedoch mit jeweils gleicher Energie.
+
+Es werden gleichviele Elektronen herausgelöst, jedoch mit jeweils mehr Energie.
+
+---
+
+$\lambda=400nm=400\cdot10^{-9}m$
+$E_{\text{max}}=1.8eV$
+
+$E_{\text{max}}=h\cdot \frac{c}{\lambda}-W_{A}$
+$W_{A}=\frac{h\cdot c}{\lambda}-E_{\text{max}}=2.09\cdot10^{-19}J$
+
+$h\cdot f=W_{A}$
+$f=\frac{W_{A}}{h}=3.15\cdot20^{14}Hz$
+
+---
+
