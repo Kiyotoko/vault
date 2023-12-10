@@ -17,7 +17,10 @@ $$E_\text{ph}=h\cdot f$$
 
 ### Äußere lichtelektrischer Effekt im Photonenmodell
 
-$E_{\text{ph}}=W_{A}+E_{\text{kin}}$
+$W_{A}$ Austrittsarbeit
+$E_{\text{kin}}$ Kinetische Energie
+
+$$E_{\text{ph}}=W_{A}+E_{\text{kin}}$$
 
 ### Energiebilanz
 
