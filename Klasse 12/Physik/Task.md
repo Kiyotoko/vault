@@ -466,3 +466,19 @@ $f=\frac{W_{A}}{h}=3.15\cdot20^{14}Hz$
 
 ---
 
+$\lambda=300nm=300\cdot10^{-9}m$
+$A=1cm^{2}$
+$W_{A}=2 eV=3.2044\cdot10^{-19}J$
+
+$E=h\cdot \frac{c}{\lambda}=6.6261\cdot10^{-19}J$
+
+---
+
+$\lambda=444nm$
+$W_{A}=1.9\cdot10^{-19}J$
+
+$h\cdot f=E_{\text{kin}}+W_{A}$
+$E_{\text{kin}}=h\cdot f-W_{A}=2.577\cdot10^{-19}J$
+
+$E_{\text{kin}}=\frac{m}{2}v^{2}$
+$v=\sqrt{\frac{2E_{\text{kin}}}{m}}=752592 \frac{m}{s}$
