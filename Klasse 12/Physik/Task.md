@@ -443,3 +443,20 @@ $b=2\mu m$
 $\frac{n\cdot\lambda}{b}=\frac{s}{e}$
 $s=\frac{n\cdot\lambda\cdot e}{b}=9.6\cdot10^{-7}m$
 $k=\frac{\Delta s}{s}=105$
+
+## 2023-12-11
+
+$\Delta x=10^{-10}m$
+
+$\Delta p=5.27\cdot10^{-25} kg\frac{m}{s}$
+$\Delta v=578840 \frac{m}{s}$
+
+---
+
+Elektronen können kein eindeutiger Impuls zugeordnet werden, da sie als Quantenobjekte nicht eindeutig bestimmt werden können.
+Bei einer Unschärfe $\Delta p=0$ wäre $\Delta p\cdot \Delta x\ge \frac{h}{4\pi}$ wäre somit immer falsch. Wenn $\Delta p\to0$, dann müsste $\Delta x\to \infty$ und somit $L\to\infty$, was nicht der Fall sein kann.
+
+$\Delta x\approx0.3L$
+
+$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$
+$\Delta p\ge \frac{h}{4pi\Delta x}=6.76\cdot10^{-26}kg \frac{m}{s}$

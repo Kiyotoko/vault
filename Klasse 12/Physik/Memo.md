@@ -646,3 +646,10 @@ Q --> S[Stochastisches: für große Anzahl Wahrscheinlichkeitsaussagen]
 ### Komplementaritätsprinzip
 
 > Ortsmessung und Interferenzerscheinungen sich nicht gleichzeitig realisierbar. Sie schließe sich gegenseitig aus.
+
+## Heisenbergsche Unschärfenrelation
+
+$\Delta x$ Ortsunschärfe
+$\Delta p$ Impulsunschärfe
+$$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$$
+  
