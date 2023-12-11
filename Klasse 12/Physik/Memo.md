@@ -645,3 +645,4 @@ Q --> S[Stochastisches: für große Anzahl Wahrscheinlichkeitsaussagen]
 
 ### Komplementaritätsprinzip
 
+> Ortsmessung und Interferenzerscheinungen sich nicht gleichzeitig realisierbar. Sie schließe sich gegenseitig aus.
