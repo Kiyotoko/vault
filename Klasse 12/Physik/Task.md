@@ -404,6 +404,9 @@ $\lambda_{3}=671nm$
 $\lambda=635nm$
 $E=120J$
 
+$E=n\cdot h\cdot \frac{c}{\lambda}$
+$n=\frac{E\cdot\lambda}{h\cdot c}=3.8\cdot10^{20}\text{ Photonen}$
+
 ---
 
 $v=4.9\cdot10^{5} \frac{m}{s}$
@@ -443,6 +446,55 @@ $b=2\mu m$
 $\frac{n\cdot\lambda}{b}=\frac{s}{e}$
 $s=\frac{n\cdot\lambda\cdot e}{b}=9.6\cdot10^{-7}m$
 $k=\frac{\Delta s}{s}=105$
+
+## 2023-12-10
+
+Es werden mehr Elektronen herausgelöst, jedoch mit jeweils gleicher Energie.
+
+Es werden gleichviele Elektronen herausgelöst, jedoch mit jeweils mehr Energie.
+
+---
+
+$\lambda=400nm=400\cdot10^{-9}m$
+$E_{\text{max}}=1.8eV$
+
+$E_{\text{max}}=h\cdot \frac{c}{\lambda}-W_{A}$
+$W_{A}=\frac{h\cdot c}{\lambda}-E_{\text{max}}=2.09\cdot10^{-19}J$
+
+$h\cdot f=W_{A}$
+$f=\frac{W_{A}}{h}=3.15\cdot20^{14}Hz$
+
+---
+
+$\lambda=300nm=300\cdot10^{-9}m$
+$A=1cm^{2}$
+$W_{A}=2 eV=3.2044\cdot10^{-19}J$
+
+$E=h\cdot \frac{c}{\lambda}=6.6261\cdot10^{-19}J$
+
+---
+
+$\lambda=444nm$
+$W_{A}=1.9\cdot10^{-19}J$
+
+$h\cdot f=E_{\text{kin}}+W_{A}$
+$E_{\text{kin}}=h\cdot f-W_{A}=2.577\cdot10^{-19}J$
+
+$E_{\text{kin}}=\frac{m}{2}v^{2}$
+$v=\sqrt{\frac{2E_{\text{kin}}}{m}}=752592 \frac{m}{s}$
+
+---
+
+Gegenfeldmethode
+- Zwischen Anode und Kathode wird eine Gegenspannung so eingestellt, dass die Stromstärke null beträgt.
+- Die Energie der Gegenspannung $E_\text{kin}=e\cdot U$ entspricht der Energie der Elektronen $E_\text{kin}=\frac{m}{2}v^{2}$, worin man nach $v$ umstellen kann
+
+---
+
+$\lambda=[400:800]nm\approx600nm=6\cdot10^{-7}m$
+$\Delta s=1\mu s=10^{-6}s$
+$n=1T \text{ Photonon}=10^{12}\text{ Photonen}$
+$P=\frac{n\cdot E}{t}=\frac{n\cdot h\cdot c}{t\cdot\lambda}=0.33W$
 
 ## 2023-12-11
 

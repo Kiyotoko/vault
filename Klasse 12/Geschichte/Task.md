@@ -192,3 +192,9 @@ Rolle Sachsens
 - Tötungszentrum Sonnenstein
 - Mehrere Arbeitslager/Nebenlager
 - In Leipzig wurden mehrere Synagogen zerstört
+
+## 2023-12-07
+
+Als „Erinnern“ wird der Prozess bezeichnet, wenn wir an vergangene Ereignisse denken. Erinnerungen sind das Produkt aus diesem Prozess. Diese sind subjektive und selektive Rekonstruktionen.
+
+Als Erinnerungskultur werden alle Formen der bewussten kollektiven Erinnerung bezeichnet, die die Wahrnehmung historischer Zusammenhänge aus einer aktuellen Perspektive bezeichnet,

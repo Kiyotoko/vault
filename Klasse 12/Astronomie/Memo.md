@@ -223,7 +223,7 @@ $$v_{F}=\frac{\Delta\lambda}{\lambda_{0}}\cdot c=H_{0}\cdot r\quad\text{mit }\De
 ### Dichte
 
 - Fest – wenig Platz (hohe Dichte) $3\cdot10^{23}\frac{Teilchen}{cm^{3}}$ 
-- Flüssig - semi-viel Platz (mittlere Dichte) $3\cdot10^{23} \frac{Teilchen}{cm^{3}}$
+- Flüssig - semi-viel Platz (mittlere Dichte) $3 \cdot 10^{23}\frac{Teilchen}{cm^{3}}$
 - Gasförmig - viel Platz (geringe Dichte) $3\cdot10^{20} \frac{Teilchen}{cm^{3}}$ 
 - Interstellarer Nebel (sehr sehr geringe Dichte) $100 \frac{Teilchen}{cm^{3}}$
 

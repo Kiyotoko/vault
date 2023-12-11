@@ -141,23 +141,13 @@ Thank you for your interest. I look forward to hearing from you.
 
 Hey Emily,
 
-it is nice to hear from you! Of course I want to help you. I have red an article from the online magazine "sueddeutsche" about GMOs in the EU.
+I'm thrilled to help and wanted to share some fascinating insights I came across in an article from the online magazine "sueddeutsche" regarding GMOs in the EU.
+To begin with, the EU has adopted a favorable stance towards GMOs. Moreover, there's an ongoing discussion regarding a new bill that is currently in the spotlight. The proposed bill aims to establish green biotechnology as the new standard in the food supply chain.
+One of the key features of this bill is the emphasis on targeted genetic modifications of plants. The EU is actively working towards agreements that involve the crossing of two new plants and the programming of new gene sequences. Intriguingly, changes brought about by New Genetic Technologies (NGTs) are no longer easily identifiable with conventional analysis methods.
+Furthermore, the bill proposes that plants with up to 20 modifications should be treated on par with conventional plants. Additionally, NGT-plants or products can no longer face prohibitions or limitations. However, there are growing concerns among genetic technology experts that such a shift could potentially mark the end of organic products.
+On a positive note, from a scientific standpoint, the bill is appreciated as it poses no known dangers to human health or nature. Supporters argue that GMOs, being resistant against bugs, also contribute to more efficient water and nutrient usage.
+Interestingly, despite the scientific support, some political parties such as EVP, CDU, and CSU currently do not back the bill, making its fate uncertain. In light of this, an expert has recommended a comprehensive approach involving a package that includes pesticide reduction and the opening up of genetic engineering as a means of balancing interests.
+I hope I could help you! Feel free to reach out if you have any more questions!
 
-- The EU favours GMOs
-- A new bill is currently discussed
-- Green Gentechnology shall be the new standard in the food supply chain
-- The genom modifies plants targeted
-- The EU wants an agreement between crossing two new plants and programming new gen sequences
-- Changes of NGTs (New Genetic Tecnologies) can not longer be identified with common analysing methods
-- Modified plants with up to 20 modifications should be seen equal to conventianel plants
-- NGT-Plants or Products can not longer be prohibited or limited
-- Could mark the end of organic products, say gen technology experts
-- Science appreciates the bill, because there are no dangers for the health of humans or nature
-- GMOs are resistant against bugs and use water and nutrient more effective
-- Parties like EVP, CDU and CSU currently dont support the bill, so it is currently supported
-- An expert recommended the package of pesticide reduction and opening up genetic engineering as a means of balancing interests
-
-I hope these information have helped you!
-
-Kind regards
+Kind regards,
 Karl Zschiebsch
