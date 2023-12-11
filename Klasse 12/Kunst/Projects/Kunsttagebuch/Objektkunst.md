@@ -5,26 +5,15 @@
 - [ ] Wirkung des Gesamtobjektes im Vergleich zum bildlichen Teil/der künstlerischen Intention
 - [ ] Fazit aus dieser Erfahrung
 
-## Aufgabenstellung
-
-Gestalte einen Tischtennisball zu einem künstlerischen Objekt um.
-
-Wähle selbst das Thema, dass du inhaltlich bearbeiten und umsetzen möchtest
-
 ## Ideenfindung
 
-Die Idee für mein Objekt fand ich im Roman "Hobbit". Die Zwerge bzw. der Drache bewachen darin ihr Gold, ohne langfristig jedoch wirklich Nutzen oder Glück zu haben.
+Die Inspiration für mein Objekt fand ich im Roman "Der Hobbit". Dort bewachen die Zwerge und der Drache ihr Gold, ohne dabei langfristigen Nutzen oder Glück zu erfahren. Durch ihre Besessenheit von Gold vereinsamen sie.
 
 ## Umsetzung
 
-Für die Objektkunst wurde goldener und metallischer Draht verwendet.
-Der metallische Draht stellt einen Käfig dar. Es soll eine Assoziation zu Gitterstäben hergestellt werden.
-Der goldene Draht steht für einen omnipräsenten Kapitalismus. Dieser umgibt einen Überall in der Gesellschaft. Er scheint einem Freiheit zu geben, gleichzeitig begrenzt er sie jedoch auch auf das eigene Kapital. Dieser Umstand wurde dargestellt, indem der Draht wie ein Kokon den Tischtennisball in einer Spirale umhüllt. Zwischen den Reihen der Stufen sind Abstände, welche die scheinbare Freiheit darstellt. Diese Abstände sind jedoch niemals groß, damit der Tischtennisball durch passen könnte. Der Draht umhüllt den Tischtennisball von allen Seiten, was die Omnipräsens betonen soll.
-
-Um den Draht zu schneiden und zu biegen, verwendete ich als Werkzeuge eine Backzange, einen Seitenschneider als auch eine Rundzange.
+Für das Schneiden und Biegen des Drahtes kamen eine Backzange, ein Seitenschneider und eine Rundzange zum Einsatz. Diese Werkzeuge erwiesen sich als optimal, um den Draht präzise zu formen.
+Bei der Objektkunst wurde goldener und metallischer Draht verwendet. Der metallische Draht symbolisiert einen Käfig, der Assoziationen zu Gitterstäben weckt. Dieser Käfig begrenzt zugleich den Raum und betont somit die eigenen Grenzen. Der goldene Draht repräsentiert das Geld und Vermögen eines Individuums, das im omnipräsenten Kapitalismus einen hohen Stellenwert einnimmt. Es umgibt uns überall in der Gesellschaft. Geld mag Freiheit suggerieren, beschränkt aber gleichzeitig auf das eigene Kapital. Diese Thematik wurde durch die Spiralform um den Tischtennisball dargestellt. Zwischen den Windungen gibt es Abstände, die scheinbare Freiheit symbolisieren, jedoch so begrenzt sind, dass der Ball nicht hindurchpasst. Der Draht umhüllt den Tischtennisball vollständig, was die Omnipräsenz betont. Abschließend wurde der Tischtennisball mit schwarzer Farbe besprüht, um eine Wirkung der emotionalen Ferne, Einsamkeit und Abgeschirmtheit zu erzeugen. Der Käfig schirmt das Objekt im Zentrum von der Außenwelt ab.
 
 ## Reflexion
 
-Schwierig war es, den Draht in die gewünschte Form zu verbiegen.
-Das größte Problem liegt in der Ermangelung meiner eigenen handwerklichen Fähigkeiten.
-Das Gesamtobjekt erzielt am Ende jedoch die Wirkung, die ich erzielen wollte. Daher bin ich mit meinem Ergebnis.
+Die Schaffung dieser Objektkunst war für mich eine erstmalige Erfahrung in diesem Bereich. Das Biegen des Drahtes erwies sich als herausfordernd, besonders das Schneiden erforderte das richtige Werkzeug. Ein Hauptproblem lag in meinen begrenzten handwerklichen Fähigkeiten, was das präzise Formen des Drahtes erschwerte. Trotz dieser Schwierigkeiten erzielt das Gesamtobjekt die beabsichtigte Wirkung. Ich bin zufrieden mit dem Ergebnis, auch wenn ich meine handwerklichen Fähigkeiten weiterentwickeln möchte.
