@@ -24,6 +24,9 @@ Um den Draht zu schneiden und zu biegen, verwendete ich als Werkzeuge eine Backz
 ## Reflexion
 
 - [ ] Schwierigkeit/Erfolge/Erkenntnisse bei der Umsetzung
-- [ ] Wirkung des Gesamtobjektes im Vergleich zum bildlichen Zeil/der künstlerischen Intention
+- [ ] Wirkung des Gesamtobjektes im Vergleich zum bildlichen Teil/der künstlerischen Intention
 - [ ] Fazit aus dieser Erfahrung
 
+Schwierig war es, den Draht in die gewünschte Form zu verbiegen.
+Auch 
+Das Gesamtobjekt erzielt die Wirkung, die ich erzielen wollte.
