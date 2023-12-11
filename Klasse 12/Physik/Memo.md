@@ -618,4 +618,30 @@ $E=h\cdot f$
 $m\cdot c^{2}=h\cdot f$
 $mc=h\cdot \frac{f}{c}$
 $$p=h\cdot \frac{f}{c}=\frac{h}{\lambda}$$
-$$m=\frac{h\cdot g}{c^{2}}$$
+$$m=\frac{h\cdot f}{c^{2}}$$
+
+## Vergleich makroskopischer Objekte und Quantenobjekte
+
+Für makroskopische Objekte überlagern sich die Häufungsbereiche der einzelnen Spalte. 
+
+Für viele Quantenobjekte ergibt sich ein Interferenzmuster. Für wenige ergibt sich kein Muster (kein gesetzmäßige Zusammenhang).
+
+Bei makroskopischen Objekten kann man vorhersagen durch welchen Spalt das Objekt geht. Bei Quantenobjekten ist keine Vorhersage möglich.
+
+| markroskopische Objekte                                                    | Quantenobjekte                                                                                                         |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| bewegen sich auf konkreten Bahnen                                          | bewegen sich nicht auf Bahnen                                                                                          |
+| Anzahl der Objekte ändert nichts an der Vorhersagbarkeit eines Ergebnisses | Geringe Anzahl kann man keine Anzahl treffen, bei vielen Wahrscheinlichkeitsaussagen möglich                           |
+| Ort und Impuls sind an den Grenzen der Messgenauigkeit bestimmbar          | Je genauer der Ort eines Quantenobjektes bestimmt wird, desto ungenauer kann der Impuls bestimmt werden und umgekehrt. |
+
+```mermaid
+graph LR
+
+Q[Quantenobjekte]
+Q --> W[Welleneigenschaft: Interferenz]
+Q --> T[Teilchenquarakter: Auftreffpunkt bei einem Detektor]
+Q --> S[Stochastisches: für große Anzahl Wahrscheinlichkeitsaussagen]
+```
+
+### Komplementaritätsprinzip
+
