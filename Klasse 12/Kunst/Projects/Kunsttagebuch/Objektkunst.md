@@ -1,3 +1,10 @@
+- [ ] Skizze
+- [ ] mit welchen Materialen/Werkzeugen hast du was gemacht
+- [ ] mit welchen Ziel/Grund
+- [ ] Schwierigkeit/Erfolge/Erkenntnisse bei der Umsetzung
+- [ ] Wirkung des Gesamtobjektes im Vergleich zum bildlichen Teil/der künstlerischen Intention
+- [ ] Fazit aus dieser Erfahrung
+
 ## Aufgabenstellung
 
 Gestalte einen Tischtennisball zu einem künstlerischen Objekt um.
@@ -6,14 +13,9 @@ Wähle selbst das Thema, dass du inhaltlich bearbeiten und umsetzen möchtest
 
 ## Ideenfindung
 
-- [ ] Skizze
-
 Die Idee für mein Objekt fand ich im Roman "Hobbit". Die Zwerge bzw. der Drache bewachen darin ihr Gold, ohne langfristig jedoch wirklich Nutzen oder Glück zu haben.
 
 ## Umsetzung
-
-- [ ] mit welchen Materialen/Werkzeugen hast du was gemacht
-- [ ] mit welchen Ziel/Grund
 
 Für die Objektkunst wurde goldener und metallischer Draht verwendet.
 Der metallische Draht stellt einen Käfig dar. Es soll eine Assoziation zu Gitterstäben hergestellt werden.
@@ -23,10 +25,6 @@ Um den Draht zu schneiden und zu biegen, verwendete ich als Werkzeuge eine Backz
 
 ## Reflexion
 
-- [ ] Schwierigkeit/Erfolge/Erkenntnisse bei der Umsetzung
-- [ ] Wirkung des Gesamtobjektes im Vergleich zum bildlichen Teil/der künstlerischen Intention
-- [ ] Fazit aus dieser Erfahrung
-
 Schwierig war es, den Draht in die gewünschte Form zu verbiegen.
-Auch 
-Das Gesamtobjekt erzielt die Wirkung, die ich erzielen wollte.
+Das größte Problem liegt in der Ermangelung meiner eigenen handwerklichen Fähigkeiten.
+Das Gesamtobjekt erzielt am Ende jedoch die Wirkung, die ich erzielen wollte. Daher bin ich mit meinem Ergebnis.
