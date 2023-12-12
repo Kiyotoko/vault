@@ -201,3 +201,17 @@ Abfluss $2000 \frac{m^{3}}{min}$
 
 # Integrale
 
+## 2023-12-12
+
+$\int\frac{3}{5}x^{5}$
+$\int \frac{x}{13}^{13}$
+$\int x^{4}$
+$\int 3x^{3}+ \frac{3}{2}x^{2}$
+$\int 3x$
+$\int 0$
+$\int- \frac{9}{8}x^{8}+\frac{4}{7}x^{7}- x^{3}$
+$\int - \frac{2}{21}x^{7}+ \frac{1}{16}x^{10}$
+$\int \frac{1}{2}x^{6}-2x^{3}+ \frac{3}{2}x^{2}-2x$
+$\int \frac{3}{72}x^{9}-2x^{6}$
+$\int - \frac{3}{5}x^{5}+ \frac{3}{8}x^{3}$
+$\int \frac{1}{2}(2x+4)^{3}$
