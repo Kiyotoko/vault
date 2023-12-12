@@ -194,3 +194,12 @@ Merkmale Wiederstandsbegriff:
 - verbal als auch nonverbal
 - Systemkritisch
 - Entgegenwirken statt Folgen
+
+## 2023-12-12
+
+Psychologisch
+- Studie der Neurasthenie
+- Sucht seinen Weg im Leben
+- Vater als Wachmann, steht für Sicherheit, Gewalt
+- Verweigert seine Hilfe sagt ihm, dass er Aufgeben soll
+- Wachmann könnte ihm Helfen, tut es jedoch nicht
