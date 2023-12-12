@@ -299,3 +299,7 @@ $\lim\limits_{n\to\infty}U_{n}=\lim\limits_{n\to\infty}O_{n}=\int\limits_{a}^{b}
 
 Eine stetige Funktion $f$ ist die Ableitung der Integralfunktion $I$. Es gilt $J'(x)=f(x)$.
 ➡️ Integriert man eine Funktion und differenziert man sie anschließend wieder, so erhält man die Ausgangsfunktion.
+
+## Integration mithilfe einer Stammfunktion
+
+Eine Funktion $F$ heist Stammfunktion zu einer gegeben Funktion $f$, wenn $f$ die Ableitung von $F$ ist ($f=F'$).
