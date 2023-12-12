@@ -198,3 +198,6 @@ Punkt erfüllt Bedingung, liegt auf der Seite der Ebene.
 
 Zufluss 40 min mit $3000 \frac{m^{3}}{min}$
 Abfluss $2000 \frac{m^{3}}{min}$
+
+# Integrale
+
