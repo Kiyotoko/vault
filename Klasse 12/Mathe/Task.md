@@ -212,8 +212,8 @@ $\int c$
 $\int- \frac{9}{8}x^{8}+\frac{4}{7}x^{7}- x^{3}$
 $\int - \frac{2}{21}x^{7}+ \frac{1}{16}x^{10}$
 $\int \frac{1}{2}x^{6}-2x^{3}+ \frac{3}{2}x^{2}-2x$
-$\int \frac{3}{72}x^{9}-2x^{6}$
-$\int - \frac{3}{5}x^{5}+ \frac{3}{8}x^{3}$
-$\int \frac{4}{3}x^3+16x$
+$\int \frac{1}{24}x^{9}-2x^{6}$
+$\int - \frac{3}{5}x^{5}+ \frac{1}{4}x^{3}$
+$\int \frac{4}{3}x^3+16x+8x^{2}$
 $\int \frac{1}{8}x^{4}-2x^{3}+ \frac{1}{6}x^{2}- \sqrt{2}x^2$
-$\int \frac{6}{4}x^{4}- \frac{8}{3}x^{2}$
+$\int 2x^{4}- 4x^{3}$
