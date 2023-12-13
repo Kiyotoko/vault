@@ -699,7 +699,7 @@ $$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$$
 
 ### Griechische Atomisten
 
-- Physik als Interlektuelle Auseinandersetzung
+- Physik als Intellektuelle Auseinandersetzung
 - Idee der Atome von Leukipp und Demokrit
 - Atomos -> "Das Unteilbare"
 - Atome galten als kleinste mögliche Bausteine und existierten Ewig
@@ -721,7 +721,7 @@ $$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$$
 
 ### Rutherfords Atommodell
 
-- konnten mithilfe von Alphateilchen die Bahnen rekonstruiren
+- konnten mithilfe von Alphateilchen die Bahnen rekonstruieren
 - Eins von etwa 8000 Teilchen entsprach jedoch nicht der gedachten Bahn
 - Die Bahnen wurden mit einem neuen Atommodell begründet
 - Atome waren weitgehend leer
