@@ -692,3 +692,40 @@ $$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$$
 | Ladung          | Besitzt keine Ladung                                                                                                                                 | Einfach negativ geladen                                                         |
 | Ablenkbar       | Kann in elektrischen Feldern nicht abgelenkt werden                                                                                                  | Kann in elektrischen Feldern abgelenkt werden (Lorentz-Kraft)                   |
 | Wechselwirkung  | Ist elektromagnetische Strahlung -> ist "Träger" von magnetischen und elektrischen Feldern und somit "Träger" von elektromagnetischer Wechselwirkung | Wechselwirkung mit anderen geladenen Teilchen aufgrund der Ladung               |
+
+# Atommodell
+
+## Frühere Atommodelle
+
+### Griechische Atomisten
+
+- Physik als Interlektuelle Auseinandersetzung
+- Idee der Atome von Leukipp und Demokrit
+- Atomos -> "Das Unteilbare"
+- Atome galten als kleinste mögliche Bausteine und existierten Ewig
+- Eigenschaften von Materie durch ihre Atome erklären
+
+### Atome bei John Dalton
+
+- systematische und quantitative Untersuchungen
+- Elemente verbinden sich nur vollständig bei einfachen Masseverhältnissen
+- Jedes Element besteht aus kleinsten unteilbaren Atomen
+- Atome haben eine typische Masse
+- Für eine Reihe von Molekülen hat er mögliche Kombination angegeben
+
+### Atomaufbau nach J. J. Thomson
+
+- Experimentierte mit Kathodenstrahlröhrschen
+- Wies nach, dass Strahlung aus negativ geladenen Teilchen bestand
+- Atommodell bestand aus positiver Masse, in der sich negative Elektronen befanden
+
+### Rutherfords Atommodell
+
+- konnten mithilfe von Alphateilchen die Bahnen rekonstruiren
+- Eins von etwa 8000 Teilchen entsprach jedoch nicht der gedachten Bahn
+- Die Bahnen wurden mit einem neuen Atommodell begründet
+- Atome waren weitgehend leer
+- Im Zentrum befindet sich ein kleiner kompakter Kern
+- Deutlich leichtere Elektronen umkreisen den Atomkern
+- Da Elektronen geladen sind, müssten sie Strahlung abgeben, wodurch sie Energie verlieren und in den Kern stürzen müsste
+- Boor löste dieses Problem, indem die Elektronen sich auf festen Bahnen um den Kern bewegen, auf denen sie keine Energie verlieren
