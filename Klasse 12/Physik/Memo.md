@@ -729,3 +729,29 @@ $$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$$
 - Deutlich leichtere Elektronen umkreisen den Atomkern
 - Da Elektronen geladen sind, müssten sie Strahlung abgeben, wodurch sie Energie verlieren und in den Kern stürzen müsste
 - Boor löste dieses Problem, indem die Elektronen sich auf festen Bahnen um den Kern bewegen, auf denen sie keine Energie verlieren
+
+## Bohrsches Atommodell
+
+### Postulate
+
+1. Es existieren stabile Bahnen, auf denen die Elektronen kreisen, ohne Strahlung auszusenden.
+2. Es sind nur Bahnen erlaubt, für die gilt:
+
+ $m$ Masse Elektronen
+ $v$ Geschwindigkeit Elektronen
+ $r$ Bahnradius
+ $n$ Bahnnummer ($n\in\mathbb{N}, n>0$)
+$$m\cdot v\cdot r=n \frac{h}{2\pi}$$
+
+Herleitung
+$2\pi r=n\lambda$
+$\lambda=\frac{h}{mv}$
+
+Einsetzen
+$\frac{nh}{mv}=2\pi r$
+$n\frac{h}{2\pi}=mvr$
+
+3. Die Emissionen oder Absorption von Photonen erfolgt genau dann, wenn ein Elektron von einer erlaubten Bahn auf eine andere erlaubte Bahn wechselt.
+4. Jeder erlaubten Elektronenbahn entspricht eine bestimmte Energie der Elektronen. Wechselt ein Elektron die Bahn, so ist die Energie emittierten bzw. absorbierten Photons gleich der Energiedifferenz der Bahnenergien.
+
+$$\Delta E=h\cdot f$$
