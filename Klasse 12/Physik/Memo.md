@@ -681,3 +681,14 @@ Q --> S[Stochastisches: für große Anzahl Wahrscheinlichkeitsaussagen]
 $\Delta x$ Ortsunschärfe
 $\Delta p$ Impulsunschärfe
 $$\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$$
+
+## Vergleich Photon & Elektron
+
+| Eigenschaft     | Photon                                                                                                                                               | Elektron                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Masse           | ruhe Masse 0, da es sich mit Lichtgeschwindigkeit bewegt, besitzt es eine Masse (relativistische Effekte)                                            | ruhe Masse $\approx9.1\cdot10^{-31}kg$                                          |
+| Geschwindigkeit | Bewegt sich mit Lichtgeschwindigkeit                                                                                                                 | Elektron kann jede Geschwindigkeit zwischen 0 und Lichtgeschwindigkeit annehmen |
+| Energie         | Energie für bestimmte Frequenz konstant                                                                                                              | Energie abhängig von der Geschwindigkeit                                        |
+| Ladung          | Besitzt keine Ladung                                                                                                                                 | Einfach negativ geladen                                                         |
+| Ablenkbar       | Kann in elektrischen Feldern nicht abgelenkt werden                                                                                                  | Kann in elektrischen Feldern abgelenkt werden (Lorentz-Kraft)                   |
+| Wechselwirkung  | Ist elektromagnetische Strahlung -> ist "Träger" von magnetischen und elektrischen Feldern und somit "Träger" von elektromagnetischer Wechselwirkung | Wechselwirkung mit anderen geladenen Teilchen aufgrund der Ladung               |
