@@ -207,6 +207,3 @@ Psychologisch
 ## 2023-12-13
 
 Kafkaesk: „in der Art der Schilderungen Kafkas, auf rätselhafte Weise unheimlich, bedrohlich"
-
----
-

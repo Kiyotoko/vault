@@ -151,3 +151,11 @@ I hope I could help you! Feel free to reach out if you have any more questions!
 
 Kind regards,
 Karl Zschiebsch
+
+# Media
+
+## 2023-12-13
+
+Explain the term Circular Reporting!
+
+Publisher A publishes something wrong. Publisher B reprints the article from A. A uses the article from B as a source for his false publication.
