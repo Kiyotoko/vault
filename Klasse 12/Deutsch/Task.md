@@ -202,4 +202,8 @@ Psychologisch
 - Sucht seinen Weg im Leben
 - Vater als Wachmann, steht für Sicherheit, Gewalt
 - Verweigert seine Hilfe sagt ihm, dass er Aufgeben soll
-- Wachmann könnte ihm Helfen, tut es jedoch nicht 
+- Wachmann könnte ihm Helfen, tut es jedoch nicht
+
+## 2023-12-13
+
+Kafkaesk: „in der Art der Schilderungen Kafkas, auf rätselhafte Weise unheimlich, bedrohlich"
