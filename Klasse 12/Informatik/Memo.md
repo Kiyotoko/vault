@@ -107,7 +107,7 @@ Eine Relation befindet sich in der 3. Normalform, wenn sie die 2. NF erfüllt un
 - Red Green Blue
 - adaptiver Farbraum
 - Wertebereiche Rot, Grün, Blau
-- Einsatzgebiete
+- Einsatzgebiete Computergrafiken
 
 ### CMYK
 
@@ -121,3 +121,10 @@ Eine Relation befindet sich in der 3. Normalform, wenn sie die 2. NF erfüllt un
 - Farbwert (hue) Farbwinkel auf dem Farbkreis
 - Farbsättigung (0% Grau, 100% reine Farbe)
 - Helligkeit (0% Dunkel, 100% Hell)
+
+### LAB
+
+- Lightness-a-
+- Helligkeit (lightness)
+- Farbebene (a, b)
+- Einsatzbereich wahrnehmbare Farben
