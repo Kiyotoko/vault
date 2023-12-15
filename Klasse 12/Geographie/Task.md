@@ -95,3 +95,7 @@ Projekt "Cities Alliance":
 	- Erleichterung des Dialogs zwischen Slumgemeinschaften und Behörden
 	- Unterstützung der Armen beim Bau ihrer eigenen Häuser
 	- Hilfe zur Selbsthilfe
+
+1. Erschwinglich. Die Aufwertung von Slums kostet weniger und ist effektiver als die Umsiedlung in Sozialwohnungen. Die Erschließung von Grundstücken mit grundlegenden Dienstleistungen kostet sogar noch weniger.
+2. Flexibel. Sie kann schrittweise von der Stadt und den Bewohnern in einem Tempo durchgeführt werden, das für beide Seiten technisch und finanziell möglich ist.
+3. Durchführbar. Die Armen können und sind bereit, für verbesserte Dienstleistungen und Wohnungen zu zahlen.
