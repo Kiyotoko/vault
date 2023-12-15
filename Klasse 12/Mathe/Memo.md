@@ -300,6 +300,26 @@ $\lim\limits_{n\to\infty}U_{n}=\lim\limits_{n\to\infty}O_{n}=\int\limits_{a}^{b}
 Eine stetige Funktion $f$ ist die Ableitung der Integralfunktion $I$. Es gilt $J'(x)=f(x)$.
 ➡️ Integriert man eine Funktion und differenziert man sie anschließend wieder, so erhält man die Ausgangsfunktion.
 
-## Integration mithilfe einer Stammfunktion
+## Stammfunktion und unbestimmtes Integral
+
+Integrieren und Differenzieren sind also entgegengesetzte Rechenoperatoren.
+
+### Integration mithilfe der Stammfunktion
 
 Eine Funktion $F$ heist Stammfunktion zu einer gegeben Funktion $f$, wenn $f$ die Ableitung von $F$ ist ($f=F'$).
+
+### Bilden von Stammfunktionen
+
+$\int x^{3}\mathtt{d}x=\frac{1}{4}x^{4}$
+$\int \sqrt{x}\mathtt{d}x=\int x^{\frac{1}{2}}\mathtt{d}x=\frac{2}{3}x^{\frac{3}{2}}=\frac{2}{3}\sqrt{x^{3}}$
+
+Konstanten fallen beim Ableiten weg. Jede reelle Zahl kann als Konstante an die Stammfunktion angefügt werden. Das bedeutet, dass jede Funktion unendlich viele Stammfunktionen hat.
+
+### Ermitteln von Stammfunktion
+
+| Funktion              | Stammfunktion                |
+| --------------------- | ---------------------------- |
+| $x^{n}$               | $\frac{1}{n+1}x^{n+1}+c$     |
+| $k\cdot f(x)$         | $k\cdot F(x)+c$ |
+| $g(x)=u(x)\cdot v(x)$ | $G(x)=U(x)\cdot V(x)$        |
+|                       |                              |
