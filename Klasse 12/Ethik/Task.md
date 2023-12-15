@@ -51,5 +51,22 @@ Praxisnahe Gewohnheiten
 	4. Constant sieht, dass man Lügen darf
 	6. Es gibt nur dort eine Pflicht, wo auch Recht besteht
 	7. Aus einer unrechtmäßigen Situation/Handlungen kann demnach keine Pflicht/Verpflichtung erfolgen
-2. Zeigen Sie die jeweiligen Stärken und Schwächen.
-	1. 
+
+# Frage nach der Gerechtigkeit
+
+## 2023-12-15
+
+- Notwendigkeit
+- Erfolgsaussichten
+- Verweigerungsgründe:
+	- Raucher
+	- Alkoholiker
+	- Suchtkranke
+
+Kriterien sind rein rational und objektiv, und müssen nicht ergänzt werden.
+
+---
+
+Auf der linken Darstellung der Justicia urteilt diese mit verbundenen Augen und einer ausbalancierten Waage. Die Augenbinde steht für die Unabhängigkeit der Justiz. Sie urteilt bei allen Personen gleich. Die Waage steht für die Gerechtigkeit.
+
+Auf der rechten Darstellung der Justicia hebt diese ihre Augenbinde an. Auf der Waage sind Rechtsprechung auf der einen Seite, und Geld auf der anderen. Beim Text "Vor dem Gesetz sind alle gleich :-)" wird bewusst durch den Emoji die Rechtsprechung kritisiert. Es wird ausgesagt, das Geld wichtiger als das Recht ist.
