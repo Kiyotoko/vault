@@ -67,6 +67,23 @@ Kriterien sind rein rational und objektiv, und müssen nicht ergänzt werden.
 
 ---
 
-Auf der linken Darstellung der Justicia urteilt diese mit verbundenen Augen und einer ausbalancierten Waage. Die Augenbinde steht für die Unabhängigkeit der Justiz. Sie urteilt bei allen Personen gleich. Die Waage steht für die Gerechtigkeit.
+Auf der linken Darstellung der Justicia urteilt diese mit verbundenen Augen und einer ausbalancierten Waage. Die Augenbinde steht für die Unparteilichkeit der Justiz. Sie urteilt bei allen Personen gleich. Die Waage steht für die Ausgewogenheit. Das Schwert steht für die Engültigkeit des Urteils.
 
 Auf der rechten Darstellung der Justicia hebt diese ihre Augenbinde an. Auf der Waage sind Rechtsprechung auf der einen Seite, und Geld auf der anderen. Beim Text "Vor dem Gesetz sind alle gleich :-)" wird bewusst durch den Emoji die Rechtsprechung kritisiert. Es wird ausgesagt, das Geld wichtiger als das Recht ist.
+
+---
+
+- Begründung ihrer Autorität
+- Wenn man unabhängig von der Person urteilt, verliert man die Bedürfnisse und externen Kontext
+- Ein unfehlbares absolutes Urteil setzt auch unfehlbare absolute Normen voraus
+
+---
+
+- Sinn für Gerechtigkeit
+- Gerechtes Urteil/Strafe
+- Artgerecht gehalten
+- Umweltgerecht verhalten
+- Gerecht/ungerecht handeln
+- Regel/System/Aktion ist gerecht/ungerecht
+
+Der Begriff "Gerechtigkeit" wird nicht immer im moralischen Sinn gebraucht, sondern auch im Sinne von Fairness, Gleichheit und etwas "gerecht" werden, die Erwartungen zu erfüllen, genutzt,
