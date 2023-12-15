@@ -322,4 +322,3 @@ Konstanten fallen beim Ableiten weg. Jede reelle Zahl kann als Konstante an die 
 | $x^{n}$               | $\frac{1}{n+1}x^{n+1}+c$     |
 | $k\cdot f(x)$         | $k\cdot F(x)+c$ |
 | $g(x)=u(x)\cdot v(x)$ | $G(x)=U(x)\cdot V(x)$        |
-|                       |                              |

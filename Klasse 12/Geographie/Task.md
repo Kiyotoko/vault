@@ -69,3 +69,29 @@ $\text{Relative Luftfeuchtigkeit}=\frac{9.4\frac{g}{m^{3}}\cdot0.92}{1.0}=9.648 
 → Taupunkt bein 8 von Höhe des Kondensationsnive ermitteln
 
 $h_{t}=200m$
+
+# Verstädterung
+
+## 2023-12-15
+
+Marginalisierung hat sich von 1956 bis 2011 von 8.6 % auf 50 % geändert.
+
+Reiche haben prozentual deutlich mehr gated Communities als Ärmere.
+
+Projekt "Cities Alliance":
+- Zu lösende Probleme:
+	- Ernährungsunsicherheit
+	- Überbevölkerung
+	- Verlust der Lebensgrundlagen
+	- Zunahme von geschlechtsspezifischer Gewalt
+	- Aufenthalt wird nicht als Bürger anerkannt und ist für die lokalen Behörden unsichtbar
+	- unzureichender Wohnraum
+- Ihre Lösungen:
+	- Sanierung von Slums und Wohnraum für die Armen
+	- Richtige Stadtplanung
+	- Überblick über die Siedlung und ihre Probleme
+	- Partizipative Slumaufwertung
+	- Integration von formellen, informellen und gewohnheitsmäßigen Landrechten
+	- Erleichterung des Dialogs zwischen Slumgemeinschaften und Behörden
+	- Unterstützung der Armen beim Bau ihrer eigenen Häuser
+	- Hilfe zur Selbsthilfe
