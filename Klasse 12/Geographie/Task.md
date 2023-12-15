@@ -78,7 +78,7 @@ Marginalisierung hat sich von 1956 bis 2011 von 8.6 % auf 50 % geändert.
 
 Reiche haben prozentual deutlich mehr gated Communities als Ärmere.
 
-Projekt "Cities Alliance":
+**Projekt "Cities Alliance"**
 - Zu lösende Probleme:
 	- Ernährungsunsicherheit
 	- Überbevölkerung
@@ -95,7 +95,19 @@ Projekt "Cities Alliance":
 	- Erleichterung des Dialogs zwischen Slumgemeinschaften und Behörden
 	- Unterstützung der Armen beim Bau ihrer eigenen Häuser
 	- Hilfe zur Selbsthilfe
+- Nachteil: Regierung geht wieder, Slum entwickelt sich zurück
 
 1. Erschwinglich. Die Aufwertung von Slums kostet weniger und ist effektiver als die Umsiedlung in Sozialwohnungen. Die Erschließung von Grundstücken mit grundlegenden Dienstleistungen kostet sogar noch weniger.
 2. Flexibel. Sie kann schrittweise von der Stadt und den Bewohnern in einem Tempo durchgeführt werden, das für beide Seiten technisch und finanziell möglich ist.
 3. Durchführbar. Die Armen können und sind bereit, für verbesserte Dienstleistungen und Wohnungen zu zahlen.
+
+**Tower Center**
+- Stadtzentrum mit Duschen, Toiletten, Waschmaschinen, Jobs, etc.
+- Preise, die Nachhalte aber auch tragbar sind
+- Kostenlose Infrastruktur (Bsp: Wifi)
+- Touristen aus dem Ausland nutzen die Infrastruktur → Bringen Geld, nutzen jedoch auch Infrastruktur, die für bedürftige gedacht war
+
+**Rua 4**
+- Neugebaute, bunte Wohnanlagen mit Balkon, die im Zuge des stadtplanerischen Projekts zur Aufwertung von Slums in Rio entstanden sind
+- Umfragen zufolge sind die Bewohner mit den Verbesserungen, welche das Programm geschaffen hat, sehr zufrieden
+- Aufgrund fehlender Finanzen zur weiteren Realisierung eingestellt, wodurch weder der Abwasserkanal noch die beiden anderen Straßen, die ebenfalls wie die Rua 4 aufgewertet werden sollten, saniert werden konnten
