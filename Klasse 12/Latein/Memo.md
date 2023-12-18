@@ -56,8 +56,8 @@ tags:
 
 ## Varusschlacht
 
-- Römischer Stadthalter in Germanien: Varus
-- 
+- Varos: Römischer Stadthalter in Germanien
+- Arminius: Römischer Legionär
 
 # Grammatik
 
