@@ -77,3 +77,21 @@ Das **PPA** wird mit dem Kennzeichen „nt“ gebildet (im Nominativ wird die En
 - Caesar Brutum **necantem** obsecrat. – Caesar fleht Brutus an, **während er ihn tötet**.
 - Caesar Brutum **necantem** obsecrat. – Caesar fleht Brutus, **der ihn tötet**, an.
 - Caesar Brutum **necantem** obsecrat. – Brutus **tötet Caesar und** der fleht ihn an.
+
+## Modi
+
+- Imperativ
+- Indikativ
+- Konjunktiv
+
+### Konjugationen
+
+Die Konjunktion ist eine Wortart im Deutschen. Sie verbindet Sätze, Satzteile sowie Wortgruppen oder einzelne Satzglieder miteinander.
+
+**Beispiel** ut, quid, quod, qui, quanta
+
+# Wörterbuch
+
+Römische Ziffern ($I,II,III,VI$) untergliedern ein Stichwort in verschiedene Wortarten und Verben, wie zum Beispiel Konjunktionen.
+
+Arabische Ziffern ($1,2,3,4$) kennzeichnen verschiedene Bedeutungen.
