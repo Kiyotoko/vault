@@ -5,9 +5,11 @@ tags:
   - FGB
 ---
 
-# Konstantin der Große
+# Geschichte
 
-## Biografie
+## Konstantin der Große
+
+### Biografie
 
 > "In diesem Zeichen wirst du Siegen." - "In hoc signo vinces."
 
@@ -20,14 +22,14 @@ tags:
 - Beendet den Bürgerkrieg im Rahmen der Auflösung der römischen Tetrarchie
 - Ausrufung Konstantinopels als Hauptstadt
 
-## Vereinigung des römischen Reiches
+### Vereinigung des römischen Reiches
 
 - Reich war in zwei Teile aufgesplittet
 	- Ostrom
 	- Westrom
 - Durch die Auflösung der römischen Tetrarchie vereinigte er das Reich
 
-## Untergang des römischen Reiches
+### Untergang des römischen Reiches
 
 - Exogene Faktoren
 	- Völkerwanderung / Eroberung
@@ -40,7 +42,7 @@ tags:
 	- Religion
 	- Bürgerkrieg
 
-## Christentum
+### Christentum
 
 - Vor einer Schlacht sol er eine Vision haben, nachdem ihm am Himmel ein Kreuz erschienen sei
 - Nachdem er in der Schlacht siegreich war, unter er dstützeas Christentum
@@ -51,6 +53,10 @@ tags:
 - Religiöse Wende wird auch als konstantinische Wende bezeichnet
 - Baute viele Glaubenshäuser wie die Grabeskirche in Jerusalem
 - Erst als er auf dem Sterbebett lag, ließ er sich angeblich taufen
+
+## Varusschlacht
+
+
 
 # Grammatik
 
