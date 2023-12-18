@@ -755,3 +755,62 @@ $n\frac{h}{2\pi}=mvr$
 4. Jeder erlaubten Elektronenbahn entspricht eine bestimmte Energie der Elektronen. Wechselt ein Elektron die Bahn, so ist die Energie emittierten bzw. absorbierten Photons gleich der Energiedifferenz der Bahnenergien.
 
 $$\Delta E=h\cdot f$$
+
+### Bohrscher Radius
+
+Elektron bewegt sich auf Kreisbahn: Radialkraft notwendig! $F_{r}=m \frac{v^{2}}{r}$
+Coulombkraft ist hier die Radialkraft: $m \frac{v^{2}}{r}=\frac{1}{4\pi\epsilon_{0}\epsilon} \frac{qQ}{r^{2}}$
+
+Für die Beträge gilt: $q=Q=e$
+
+$m \frac{v^{2}}{r}=\frac{1}{4\pi\epsilon_{0}\epsilon}\cdot \frac{e^{2}}{r^{2}}$
+
+Das 2. Bohrsches Postulat einsetzen
+$mvr=n\cdot \frac{h}{2\pi}\to v=\frac{n\cdot h}{mr2\pi}\to m \frac{n^{2}h^{2}}{m^{2}r^{2}4\pi^{2}r}=\frac{1}{4\pi\epsilon_{0}\epsilon} \frac{e^{2}}{r^{2}}$
+$\frac{n^{2}h^{2}}{m \pi r}=\frac{1}{\epsilon_{0}\epsilon}e^{2}$
+$r=\frac{n^{2}h^{2}\epsilon_{0}\epsilon}{m\pi e^{2}}$
+2
+Da Bohrscher Radius $n=1$ und kein Stoff sich zwischen Atomen befindet, gilt:
+$r=\frac{h^{2}\epsilon_{0}}{m\pi e^{2}}$
+$r=\frac{(6.626\cdot10^{-34}Js)^{2}\cdot8.854\cdot10^{-12}\frac{As}{Vm}}{9.109\cdot10^{-31}kg\cdot\pi\cdot(1.602\cdot10^{-19}As)^{2}}=5.29\cdot10^{-11}m$
+
+$1 \dot{A}=1 \mathrm{Angström}=100pm=0.1nm$
+Bohrscher Radius $\approx0.05nm\approx \frac{1}{2}\dot{A}$
+
+### Energieniveau im bohrschen Atommodell
+
+$E_{\text{ges}}=E_{\text{kin}}+E_{\text{pot}}$
+$\lim_\limits{r\to\infty}E_{\text{pot}}=0$
+(Elektron hat sich vom Atom gelöst)
+
+$E_{\text{kin}}=\frac{m}{2}v^{2}$
+$F_{\text{Coloumb}}=F_{R}\Rightarrow \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{r^{2}}=m \frac{v^{2}}{r}\Rightarrow mv^{2}=\frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{r}$
+
+Kraft in Energie einsetzen
+$E_{\text{kin}}=\frac{1}{2} \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{r}=\frac{1}{8\pi\epsilon_{0}} \frac{e^{2}}{r}$
+$W_{R}=\Delta E_{\text{pot}}=E_{\text{pot}}(r)-E_{\text{pot}}(\infty)=E_{\text{pot}} (r)-0=E_{\text{pot}}(r)$
+$W_{R}=E_{\text{pot}}(r)=\displaystyle\int_{\infty}^{r}F\mathrm{d}s=\displaystyle\int_{\infty}^{r} \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{s^{2}}\mathrm{d}s=\frac{e^{2}}{4\pi\epsilon_{0}} \displaystyle\int_{\infty}^{r} \frac{1}{s^{2}}\mathrm{d}s=\frac{e^{2}}{4\pi\epsilon_{0}}[-s^{-1}]_{\infty}^{r}=\frac{e^{2}}{4\pi\epsilon_{0}} \lim_{b\to\infty}(- \frac{1}{r}+ \frac{1}{b})=\frac{-e^{2}}{4\pi\epsilon_{0}} \frac{1}{r}(<0)$
+
+$E_{\text{ges}}$ ergibt sich aus potentieller und kinetischer Energie
+$E_{\text{ges}}=E_{\text{kin}}+E_{\text{pot}}=\frac{e^{2}}{8\pi\epsilon_{0}} \frac{1}{r}- \frac{e^{2}}{4\pi\epsilon_{0}} \frac{1}{r}=- \frac{e^{2}}{8\pi\epsilon_{0}} \frac{1}{r}$
+
+$r=\frac{h^{2}\epsilon_{0}}{\pi e^{2}m}n^{2}$ in $E_{\text{ges}}$ einsetzen
+$E_{\text{ges}}=- \frac{e^{2}}{8\pi\epsilon_{0}} \frac{1}{\frac{h^{2}\epsilon_{0}}{\pi e^{2}m}n^{2}}$
+$E_{\text{ges}}=- \frac{e^{4}\pi m}{8\pi\epsilon_{0}^{2}h^{2}} \frac{1}{n^{2}}=-\frac{e^{4}m}{8\epsilon_{0}^{2}h^{2}}\cdot\frac{1}{n^{2}}$
+
+### Serienformel für Wasserstoff
+
+Geht ein Elektron von der $m$-ten auf die $n$-te Bahn (Zustand) über mit $m>n$, dann wird ein Photon mit der Energie $E_{\text{ph}}=E_{m}-E_{n}$ ausgestrahlt.
+
+$E_{\text{ph}}=-\frac{e^{4}m}{8\epsilon_{0}^{2}h^{2}}\cdot(\frac{1}{m^{2}}- \frac{1}{n^{2}})=\frac{e^{4}m}{8\epsilon_{0}^{2}h^{2}}\cdot(\frac{1}{n^{2}}- \frac{1}{m^{2}})$
+$E_{\text{ph}}=h\frac{e^{4}m}{8\epsilon_{0}^{2}h^{3}}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$
+
+$R_{H}=\frac{e^{4}m}{8\epsilon_{0}^{2}h^{3}}=3.2898\cdot10^{15}Hz$
+
+$E_\text{ph}=h\cdot f=h\cdot R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$
+$f=\frac{E_{\text{ph}}}{h}=R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$
+
+$$f=R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$$
+
+### Energieniveauschema
+

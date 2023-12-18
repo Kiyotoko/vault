@@ -512,3 +512,6 @@ $\Delta x\approx0.3L$
 
 $\Delta x\cdot\Delta p\ge \frac{h}{4\pi}$
 $\Delta p\ge \frac{h}{4pi\Delta x}=6.76\cdot10^{-26}kg \frac{m}{s}$
+
+## 2023-12-18
+
