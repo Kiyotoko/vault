@@ -515,3 +515,14 @@ $\Delta p\ge \frac{h}{4pi\Delta x}=6.76\cdot10^{-26}kg \frac{m}{s}$
 
 ## 2023-12-18
 
+Energieniveaus sinken mit zunehmendem n.
+
+---
+
+Der Radius ist einhundertfach so groß wie $a_{0}$, da $\frac{10^{2}}{1}$.
+
+Da $v=\frac{nh}{2\pi mr}$ gilt, ist bei $n=10$ die Geschwindigkeit ein zehntel von $n=1$: $\frac{v_{10}}{v_{1}}=\frac{\frac{10h}{2\pi m100r}}{ \frac{1h}{2\pi m1r}}=\frac{10}{100}=\frac{1}{10}$
+
+---
+
+$F=G \frac{m_{1}\cdot m_{2}}{r^{2}}=6.673\cdot10^{-11} \frac{m^{3}}{kg\cdot s^{2}} 9.10939\cdot10^{-31}kg\cdot \frac{1.67493\cdot10^{-27}kg+1.67262\cdot10^{-27}kg}{(0.053nm)^{2}}=1.086\cdot10^{-36}N$

@@ -814,6 +814,9 @@ $$f=R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$$
 
 ### Energieniveauschema
 
+#### Serien
+
+Lyman Serie
 $E_{2\to 1}=1.63489\cdot10^{-18}J=10.204eV$
 $E_{3\to1}=1.93765\cdot10^{-18}J=12.0937eV$
 $E_{4\to1}=2.04361\cdot10^{-18}J=12.755eV$
@@ -826,3 +829,24 @@ $\lambda_{2\to1}=121.588nm$
 $\lambda_{3\to1}=102.59nm$
 $\lambda_{4\to1}=97.2705nm$
 $\lambda_{\infty\to1}=91.1911nm$
+
+Balmer-Serie
+$\lambda_{3\to2}=656.57nm$
+$\lambda_{4\to2}=486.352nm$
+$\lambda_{\infty\to2}=364.764nm$
+
+Paschen-Serie für $n=3$
+
+Serien sind immer für Strahlung die Entsteht, wenn ein Elektron von einem höherem auf ein niedrigeres Niveau geht.
+
+#### Möglichkeiten & Grenzen des bohreschen Atommodells
+
+Möglichkeiten
+- Ermöglicht eine Abschätzung des Atomradius
+- Spektrallinien für Wasserstoff können berechnet werden
+- Führt quantentheoretische Erkenntnisse in die Atomtheorie ein (Emission & Absorption von Licht)
+
+Grenzen
+- Widerspruch von diskreten Bahnen (Kreisbahnen) zur Quantentheorie (Quantenteilchen bewegen sich nicht auf konkreten Bahnen)
+- Modell versagt bei Vorhersagen für Atome mit mehr als einem Elektron (nur Wasserstoffatom beschreibbar)
+- Postulate erscheinen willkürlich (Elektronen senden keine Strahlen aus)
