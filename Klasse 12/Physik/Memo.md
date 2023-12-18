@@ -814,3 +814,15 @@ $$f=R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$$
 
 ### Energieniveauschema
 
+$E_{2\to 1}=1.63489\cdot10^{-18}J=10.204eV$
+$E_{3\to1}=1.93765\cdot10^{-18}J=12.0937eV$
+$E_{4\to1}=2.04361\cdot10^{-18}J=12.755eV$
+$E_{\infty\to1}=2.17985\cdot10^{-18}J=13.6eV$
+
+$E=hf=h \frac{c}{\lambda}$
+$\lambda=\frac{hc}{E}$
+
+$\lambda_{2\to1}=121.588nm$
+$\lambda_{3\to1}=102.59nm$
+$\lambda_{4\to1}=97.2705nm$
+$\lambda_{\infty\to1}=91.1911nm$
