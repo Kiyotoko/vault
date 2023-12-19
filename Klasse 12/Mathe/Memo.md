@@ -321,4 +321,32 @@ Konstanten fallen beim Ableiten weg. Jede reelle Zahl kann als Konstante an die 
 | --------------------- | ---------------------------- |
 | $x^{n}$               | $\frac{1}{n+1}x^{n+1}+c$     |
 | $k\cdot f(x)$         | $k\cdot F(x)+c$ |
-| $g(x)=u(x)\cdot v(x)$ | $G(x)=U(x)\cdot V(x)$        |
+| $u(x)\pm v(x)$ | $GU(x)\pm V(x)+c$        |
+
+## Das bestimmte Integral
+
+$$\int\limits_{a}^{b}f(x)\;\mathrm{d}x=F(b)-F(a)$$ 
+Ist eine Funktion $F$ in einem Interfall $I$ stetig und $F$ eine Stammfunktion von $f$, dann gilt $\forall a,b\in I$ die Gleichung $\int\limits_{a}^{b}f(x)\;\mathrm{d}x=F(b)-F(a)$.
+
+### Vorgehensweise beim Berechnen bestimmter Integrale
+
+1. Ermitteln einer Stammfunktion $F$ und $f$
+2. Bestimmung der Randwerte $F(a)$ und $F(b)$
+3. Bildung der Differenz $F(b)-F(a)$
+
+$$\int\limits_{a}^{b}=[F(x)]_{a}^{b}=F(b)-F(a)$$
+
+**Beispiel**
+$\int\limits_{1}^{3}x^{2}\;\mathrm{d}x=[\frac{1}{3}x^{3}]_{1}^{3}=\frac{1}{3}3^{3}- \frac{1}{3}1^{3}=\frac{26}{3}$
+
+### Berechnung von Flächeninhalten
+
+Gesucht wird die Fläche, die von der Funktion $f(x)=-x^{2}+4x$ und der x-Achse eingeschlossen wird.
+
+Nullstellen berechnen
+$-x^{2}+4x=0$
+$x=0$
+$x^{2}=4x$
+$x=4$
+
+$\int\limits_{0}^{4}-x^{2}+4x\;\mathrm{d}x=[- \frac{1}{3}x^{3}+2x^{2}]_{0}^{3}=- \frac{1}{3}4^{3}+2\cdot4^{2}=\frac{32}{3}$
