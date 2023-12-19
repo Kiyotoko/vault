@@ -341,6 +341,7 @@ $\int\limits_{1}^{3}x^{2}\;\mathrm{d}x=[\frac{1}{3}x^{3}]_{1}^{3}=\frac{1}{3}3^{
 
 ### Berechnung von Flächeninhalten
 
+**Beispiel**
 Gesucht wird die Fläche, die von der Funktion $f(x)=-x^{2}+4x$ und der x-Achse eingeschlossen wird.
 
 Nullstellen berechnen
@@ -350,3 +351,9 @@ $x^{2}=4x$
 $x=4$
 
 $\int\limits_{0}^{4}-x^{2}+4x\;\mathrm{d}x=[- \frac{1}{3}x^{3}+2x^{2}]_{0}^{3}=- \frac{1}{3}4^{3}+2\cdot4^{2}=\frac{32}{3}$
+
+**Bedingungen**
+
+- Fläche ist oberhalb der x-Achse
+- untere Integrationsgrenze ist kleiner als obere Integrationsgrenze
+- keine Nullstelle und keine Polstellen im Integrationsintervall
