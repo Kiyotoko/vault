@@ -887,3 +887,9 @@ $E=E_{1}n^{2}$
 
 Lösen der Schrödinger Gleichung führt zu folgender Zustandsfunktion:
 $\Phi_{n}(x)\sim\sin{(\frac{n\pi}{L}x)}$
+
+### Schalenmodell / Orbitalmodell
+
+Zustände werden über "stehende Wellen" definiert → Lösungen der Schrödinger Gleichung
+
+**Energieniveaus**
