@@ -865,4 +865,10 @@ $$i \frac{h}{2\pi} \frac{\partial \Psi}{\partial t}=\hat{H}\Psi$$
 
  - Ein System wird durch die Zustandsfunktion $\Psi$ beschrieben
  - Aussagen über Ort und Impuls (Geschwindigkeit) eines Teilchens zu einem bestimmten Zeitpunkt sind in der Zustandsfunktion enthalten
- - Wahrscheinlichkeit, dass ein Quantenobjekt in einem gewissen Ortsbereich nachgewiesen werden kann, ist direkt proportional zum Betrasquadrat der Zustandsfunktion ($|\Phi|^{2}$)
+ - Wahrscheinlichkeit, dass ein Quantenobjekt in einem gewissen Ortsbereich nachgewiesen werden kann, ist direkt proportional zum Betragsquadrat der Zustandsfunktion ($|\Phi|^{2}$)
+
+#### Unendlich tiefer eindimensionaler Potenzialtopf
+
+Modell für gebundene Objekte:
+- Elektronen können sich nur in einem Bereich entlang der x-Achse frei bewegen($0<x<L$)
+- Diese Einschränkung führt zu diskreten Energieniveaus
