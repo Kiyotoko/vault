@@ -872,3 +872,18 @@ $$i \frac{h}{2\pi} \frac{\partial \Psi}{\partial t}=\hat{H}\Psi$$
 Modell für gebundene Objekte:
 - Elektronen können sich nur in einem Bereich entlang der x-Achse frei bewegen($0<x<L$)
 - Diese Einschränkung führt zu diskreten Energieniveaus
+
+Energieniveaus
+
+$mv=p=\frac{h}{\lambda}$
+$L=\frac{n}{2}\lambda\quad n\in\mathbb{N}$
+$E=\frac{m}{2}v^{2}=\frac{m^{2}v^{2}}{2m}=\frac{p^{2}}{2m}=\frac{h^{2}}{2m\lambda^{2}}=\frac{h^{2}n^{2}}{2m4L^{2}}=\frac{h^{2}}{8mL^{2}}n^{2}$
+
+Energie des Grundzustandes
+$E_{1}=\frac{h^{2}}{8mL^{2}}$
+
+Energieniveau
+$E=E_{1}n^{2}$
+
+Lösen der Schrödinger Gleichung führt zu folgender Zustandsfunktion:
+$\Phi_{n}(x)\sim\sin{(\frac{n\pi}{L}x)}$
