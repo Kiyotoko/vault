@@ -850,3 +850,19 @@ Grenzen
 - Widerspruch von diskreten Bahnen (Kreisbahnen) zur Quantentheorie (Quantenteilchen bewegen sich nicht auf konkreten Bahnen)
 - Modell versagt bei Vorhersagen für Atome mit mehr als einem Elektron (nur Wasserstoffatom beschreibbar)
 - Postulate erscheinen willkürlich (Elektronen senden keine Strahlen aus)
+
+
+## Quantenmechanisches Atommodell
+
+### Schrödinger Gleichung
+
+$i$ imaginäre Einheit (komplexe Zahlen)
+$\Psi$ Wellenfunktion oder Zustandsfunktion eines Quantenteilchens
+$\hat{H}$ Hamiltonoperator (gibt Energieinformation und Zeitentwicklung eines quantenmechanischen Systems an)
+$$i \frac{h}{2\pi} \frac{\partial \Psi}{\partial t}=\hat{H}\Psi$$
+
+### Zustandsfunktion
+
+ - Ein System wird durch die Zustandsfunktion $\Psi$ beschrieben
+ - Aussagen über Ort und Impuls (Geschwindigkeit) eines Teilchens zu einem bestimmten Zeitpunkt sind in der Zustandsfunktion enthalten
+ - Wahrscheinlichkeit, dass ein Quantenobjekt in einem gewissen Ortsbereich nachgewiesen werden kann, ist direkt proportional zum Betrasquadrat der Zustandsfunktion ($|\Phi|^{2}$)
