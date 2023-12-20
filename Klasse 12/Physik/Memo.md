@@ -892,4 +892,26 @@ $\Phi_{n}(x)\sim\sin{(\frac{n\pi}{L}x)}$
 
 Zustände werden über "stehende Wellen" definiert → Lösungen der Schrödinger Gleichung
 
-**Energieniveaus**
+EIner vorgegebenen Hauptquantenzahl $n$ kann man $2n^{2}$ verschiedene Kombinationen aus $n,l,m$ und $s$ zuordnen → Anzahl Elektronen pro Schale
+
+#### Pauli-Prinzip
+
+In einem Atom können niemals mehrere Elektronen in allen Quantenzahlen übereinstimmen.
+
+#### Quantenzahlen
+
+| Quantenzahl                   | Bedeutung                                       | Mögliche Werte      |
+| ----------------------------- | ----------------------------------------------- | ------------------- |
+| Hauptquantenzahl $n$          | Energieniveau in Atomhülle bzw. Schale          | $n=0,1,2,\dots$     |
+| Bahndrehimpulsquantenzahl $l$ | Kennzeichnet das Orbital                        | $l=0,1,2,\dots,n-1$ |
+| Magnetquantenzahl $m$         | Kennzeichnet Orbitale nach Orientierung im Raum | $m=-l,\dots,+l$     |
+| Spinquantenzahl $s$           | Richtung der Eigenrotation des Elektrons        | $s=\pm \frac{1}{2}$ |
+
+#### Elektronenkonfiguration
+
+**Beispiele**
+Lithium $1s^{2}2s^{2}$
+In der ersten Schale beim s-Orbital 2 Elektronen
+
+Magnesium $1s^{2}2s^{2}2p^{6}3s^{2}$
+12 Elektronen gesamt
