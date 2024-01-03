@@ -235,3 +235,20 @@ $F(x)=\ln{(|x+1|)}+c$
 
 $f(x)^=-\frac{1}{x^{2}}=-x^{-2}$
 $F(x)=x^{-1}=\frac{1}{x}+c$
+
+---
+
+Bestimme die Fläche zwischen $f(x)=x^{2}$ und der Abszisse über dem Intervall $[-1:2]$.
+
+$F(x)=\frac{1}{3}x^{3}$
+$\int_{-1}^{2}f(x)\;\mathrm{d}x=[F(x)]_{-1}^{2}=F(2)-F(-1)=\frac{8}{3}+ \frac{1}{3}=3$
+
+Bestimme die Fläche für $f(x)=x^{2}-1$
+
+$x^{2}-1=0$
+$x^{2}=1$
+$x_{1}=1$
+$x_{2}=-1$
+
+$F(x)=\frac{1}{3}x^{3}-x$
+$\int_{-1}^{1}f(x)\;\mathrm{d}x+\int_{1}^{2}f(x)\;\mathrm{d}x=[F(x)]_{-1}^{1}+[F(x)]_{1}^{2}=|F(1)-F(-1)|+|F(2)-F(1)|=|-\frac{2}{3}-(\frac{2}{3})|+|\frac{2}{3}+ \frac{2}{3}|=3$
