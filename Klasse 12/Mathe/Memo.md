@@ -297,7 +297,7 @@ $\lim\limits_{n\to\infty}U_{n}=\lim\limits_{n\to\infty}O_{n}=\int\limits_{a}^{b}
 
 ### Hauptsatz der Differential- und Integralrechnung
 
-Eine stetige Funktion $f$ ist die Ableitung der Integralfunktion $I$. Es gilt $J'(x)=f(x)$.
+Eine stetige Funktion $f$ ist die Ableitung der Integralfunktion $I$. Es gilt $I'(x)=f(x)$.
 ➡️ Integriert man eine Funktion und differenziert man sie anschließend wieder, so erhält man die Ausgangsfunktion.
 
 ## Stammfunktion und unbestimmtes Integral
@@ -317,11 +317,19 @@ Konstanten fallen beim Ableiten weg. Jede reelle Zahl kann als Konstante an die 
 
 ### Ermitteln von Stammfunktion
 
-| Funktion              | Stammfunktion                |
-| --------------------- | ---------------------------- |
-| $x^{n}$               | $\frac{1}{n+1}x^{n+1}+c$     |
-| $k\cdot f(x)$         | $k\cdot F(x)+c$ |
-| $u(x)\pm v(x)$ | $GU(x)\pm V(x)+c$        |
+| Funktion          | Stammfunktion                    |
+| ----------------- | -------------------------------- |
+| $0$               | $c$                              |
+| $k\cdot f(x)$     | $k\cdot F(x)+c$                  |
+| $x^{n}$           | $\frac{1}{n+1}x^{n+1}+c$         |
+| $\sqrt[b]{x^{a}}$ | $\frac{a+b}{b}\sqrt[b]{x^{a+b}}$ |
+| $x^{-1}$          | $\ln{x}$                         |
+| $u(x)\pm v(x)$    | $U(x)\pm V(x)+c$                 |
+| $u(v(x))$         | $\frac{1}{v'(x)}U(v(x))$         |
+| $\sin{x}$         | $-\cos{x}+c$                     |
+| $\cos{x}$         | $\sin{x}+c$                      |
+| $e^{x}$           | $e^{x}$                          |
+| $a^{x}$           | $\frac{1}{\ln{a}}a^{x}$          |
 
 ## Das bestimmte Integral
 
