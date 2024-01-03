@@ -526,3 +526,21 @@ Da $v=\frac{nh}{2\pi mr}$ gilt, ist bei $n=10$ die Geschwindigkeit ein zehntel v
 ---
 
 $F=G \frac{m_{1}\cdot m_{2}}{r^{2}}=6.673\cdot10^{-11} \frac{m^{3}}{kg\cdot s^{2}} 9.10939\cdot10^{-31}kg\cdot \frac{1.67493\cdot10^{-27}kg+1.67262\cdot10^{-27}kg}{(0.053nm)^{2}}=1.086\cdot10^{-36}N$
+
+
+## 2024-01-03
+
+Die Stromstärke sinkt nach dem Auftreffen der Elektronen mit den Helium-Atomen. Beim Erhöhen der Spannung erhöht sich auch die Energie der Elektronen. Wenn die Elektronen auf die Atome mit genug Energie aufstoßen, erreicht das Atom einen höheren Energiezustand und das Elektron verliert an Energie.
+Bei Helium werden höhere Energiezustände im Abstand von etwa 22 V im Gegensatz zu 4.9 V vom Quecksilber erreicht erreicht.
+
+---
+
+Abstand Maximum zu Maximum:
+$\Delta U=22.5V$
+
+$E_{\text{kin}}=e\cdot \Delta U=3.60495\cdot10^{-18}J$
+
+---
+
+
+Die Ergebnisse des Experimentes zeigen, dass gleiche Mengen an Energie (feste Abstände) für das Anheben des Energieniveaus benötigt wird. Es gibt feste Energieniveaus. Dies stützt das dritte Postulat.

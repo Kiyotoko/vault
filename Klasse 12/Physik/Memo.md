@@ -892,7 +892,7 @@ $\Phi_{n}(x)\sim\sin{(\frac{n\pi}{L}x)}$
 
 Zustände werden über "stehende Wellen" definiert → Lösungen der Schrödinger Gleichung
 
-EIner vorgegebenen Hauptquantenzahl $n$ kann man $2n^{2}$ verschiedene Kombinationen aus $n,l,m$ und $s$ zuordnen → Anzahl Elektronen pro Schale
+Einer vorgegebenen Hauptquantenzahl $n$ kann man $2n^{2}$ verschiedene Kombinationen aus $n,l,m$ und $s$ zuordnen → Anzahl Elektronen pro Schale
 
 #### Pauli-Prinzip
 
@@ -919,4 +919,29 @@ Magnesium $1s^{2}2s^{2}2p^{6}3s^{2}$
 ## Franck-Hertz-Experiment
 
 - Durchgeführt von James Franck und Gustav Hertz (1911-1914)
-- 
+
+**Interpretation**
+Durch die Beschleunigungsspannung $U_{B}$ werden die Elektronen von der Kathode bis zur Anode beschleunigt. Ab einer gewissen Spannung $U_{B}$ stoßen die Elektronen unelastisch mit den $Hg$-Atomen zusammen. Dadurch werden von den $Hg$-Atomen von dem Grundzustand in den nächst höheren Energiezustand gehoben. Wenn diese wieder in den Grundzustand zurückfallen, werden Photonen ausgesendet (Gas leuchtet).
+Freie Elektronen, die durch unelastische Stöße mit dem $Hg$-Atomen Energie abgeben haben, besitzen nicht genug kinetische Energie, um die Gegenspannung zu überwinden. Dadurch kommen weniger Elektronen an der Anode an und die Stromstärke sinkt.
+
+## Resonanzabsorption und Lumineszenz
+
+Resonanzabsorption
+- Bei Bestrahlung mit weißem Licht wird ein Atom von Photonen unterschiedlichster Frequenz bzw. Energie getroffen
+- Das Atom kann ein Photon nur dann absorbieren wenn dessen Energie genau der Differenz zwischen zwei Atomaren Energieniveaus $E_{1}$ und $E_{2}$ entspricht
+- $E_{\text{ph}}=h\cdot f=E_{2}-E_{1}$
+
+Lumineszenz
+- Das Photon der Resonanzabsorption wird für eine gewisse Zeit gespeichert
+- Beim Übergang in ein niedrigeres Energieniveau wird das Photon wieder ausgesendet
+
+Fluoreszenz
+- Emittiertes Licht hat selbe Frequenz wie absorbiertes Licht
+- Innerhalb von $10^{-8}s$
+
+Phosphoreszenz
+- Prozess deutlich Länger
+
+Frequenzänderung bei Lumineszenz
+- Beim Aussenden des Photons bleibt ein Teil der Energie im Atom zurück
+- Da das Photon mit weniger Energie emittiert wird, ist die Frequenz auch kleiner 
