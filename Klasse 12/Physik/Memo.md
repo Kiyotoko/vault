@@ -944,4 +944,4 @@ Phosphoreszenz
 
 Frequenzänderung bei Lumineszenz
 - Beim Aussenden des Photons bleibt ein Teil der Energie im Atom zurück
-- Da das Photon mit weniger Energie emittiert wird, ist die Frequenz auch kleiner 
+- Da das Photon mit weniger Energie emittiert wird, ist die Frequenz auch kleiner

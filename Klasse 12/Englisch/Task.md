@@ -159,3 +159,18 @@ Karl Zschiebsch
 Explain the term Circular Reporting!
 
 Publisher A publishes something wrong. Publisher B reprints the article from A. A uses the article from B as a source for his false publication.
+
+## 2024-01-03
+
+- **Pros**
+	- Every thread could possibly contains fake news
+	- You could drastically reduce fake news
+	- Harassment and hate speech should be blocked
+	- Protecting minorities and individuals from public harassment
+
+- **Cons**
+	- Platforms could censor critics as fake news
+	- Preventive blocking of critics
+	- It restricts the freedom of speech
+	- You could promote fake news from the platform itself or the goverment as trustworthy, because every other fake news was removed from the platform
+	- Power may be abused
