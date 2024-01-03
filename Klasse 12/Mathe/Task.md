@@ -217,3 +217,21 @@ $\int - \frac{3}{5}x^{5}+ \frac{1}{4}x^{3}$
 $\int \frac{4}{3}x^3+16x+8x^{2}$
 $\int \frac{1}{8}x^{4}-2x^{3}+ \frac{1}{6}x^{2}- \sqrt{2}x^2$
 $\int 2x^{4}- 4x^{3}$
+
+## 2024-01-03
+
+Bilde jeweils die Stammfunktion:
+$f_{t}(x)=tx^{2}-2t^{2}x+4t$
+$F_{t}(x)=\frac{t}{3}x^{3}- t^{2}x^{2}+4tx+c$
+
+$f(x)=3\cos{(2\pi x)}$
+$F(x)=\frac{3}{2\pi}\sin{(2\pi x)}+c$
+
+$f(x)=(3x-8)^{5}$
+$F(x)=\frac{1}{18}(3x+8)^{6}$
+
+$f(x)=\frac{1}{x+1}=(x+1)^{-1}$
+$F(x)=\ln{(|x+1|)}+c$
+
+$f(x)^=-\frac{1}{x^{2}}=-x^{-2}$
+$F(x)=x^{-1}=\frac{1}{x}+c$
