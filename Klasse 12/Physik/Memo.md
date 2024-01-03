@@ -915,3 +915,8 @@ In der ersten Schale beim s-Orbital 2 Elektronen
 
 Magnesium $1s^{2}2s^{2}2p^{6}3s^{2}$
 12 Elektronen gesamt
+
+## Franck-Hertz-Experiment
+
+- Durchgeführt von James Franck und Gustav Hertz (1911-1914)
+- 
