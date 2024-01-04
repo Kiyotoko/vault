@@ -94,13 +94,21 @@ Zweiter Demographischer Übergang
 - sinkende Nachfrage nach Wirtschaftsgütern
 - zunehmende Arbeitslosigkeit und Unterbeschäftigung
 - Veränderung der Altersstruktur durch stärkere Zunahme der jüngeren Bevölkerungsanteile
-- 
-## Begriffe
+- höhere Versorgungslasten für die arbeitende Bevölkerung
+- sinkendes Pro-Kopf-Einkommen und sinkender Lebensstandart
+- steigende Kosten für das Bildungswesen
 
+**Demographische Alterung**
+
+## Prozess der Verstädterung
+
+**Grundbegriffe**
 - Verstädterung - Vergrößerung/Ausdehnung von Städten
 - Urbanisierung - Ausbreitung von Städten auch aus sozialen oder ökonomischen Aspekten
 - Pushfaktoren - Faktoren, die einen von etwas weg ziehen, Bsp. Keine Arbeit
 - Pullfaktoren - Faktoren, die einen in die Städte ziehen, Bsp. Infrastruktur
+
+****
 
 ## Unterschiede beim Stadtwachstum zwischen Entwicklungs- und Industrieländern
 
