@@ -108,6 +108,19 @@ Zweiter Demographischer Übergang
 - Pushfaktoren - Faktoren, die einen von etwas weg ziehen, Bsp. Keine Arbeit
 - Pullfaktoren - Faktoren, die einen in die Städte ziehen, Bsp. Infrastruktur
 
+**Der geographische Stadbegriff**
+- Stadt - Verwaltungsrechtlich bestimmte Siedlungseinheit, die durch eine Stadtgrenze definiert ist
+- Zentralität - Bedeutungsüberschuss einer Stadt gegenüber ihrem Umland
+
+```mermaid
+graph LR;
+S[Siedlung]-->A[Stadt]
+S[Siedlung]-->B[Ländliche Siedlung]
+A-->C[Geographisch]
+A-->D[Statistisch-Administrativ]
+A-->E[Rechtlich-Historisch]
+```
+
 ## Unterschiede beim Stadtwachstum zwischen Entwicklungs- und Industrieländern
 
 | Entwicklungsland                                      | Industrieland                                                                                        |
