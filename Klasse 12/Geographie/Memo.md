@@ -78,6 +78,23 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 > 2. In der Zunahme städtischer Siedlungen innerhalb eines Gebietes oder Landes
 > 3. In der Zunahme des Anteils der Menschen an der Gesamtbevölkerung, die in Städten leben.
 
+## Demographischer Übergang
+
+![Demographischer Übergang](Working%20Materials/Bevölkerungsentwicklung%20und%20Verstädterung/Demographischer%20Übergang.png)
+
+Erster Demographischer Übergang
+
+Zweiter Demographischer Übergang
+
+## Auswirkung des Bevölkerungswachstums
+
+**Folgen eines starken Bevölkerungswachstums in Entwicklungsländern**
+- Sinkende Sparleistung und sinkende Kaufkraft
+- das Wirtschaftswachstum wird gebremst
+- sinkende Nachfrage nach Wirtschaftsgütern
+- zunehmende Arbeitslosigkeit und Unterbeschäftigung
+- Veränderung der Altersstruktur durch stärkere Zunahme der jüngeren Bevölkerungsanteile
+- 
 ## Begriffe
 
 - Verstädterung - Vergrößerung/Ausdehnung von Städten
@@ -94,4 +111,4 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 | Pull: Attraktive Strukturmerkmale im Städtischem Raum | Push: Demographischer Wandel                                                                         |
 | Pull: Medien                                          | Pull: Infrastruktur und öffentliche Einrichtungen                                                                                                     |
 
-![Push und Pull Faktoren](Working%20Materials/Verstädterung/Push%20und%20Pull%20Faktoren.jpeg)
+![Push und Pull Faktoren](Working%20Materials/Bevölkerungsentwicklung%20und%20Verstädterung/Push%20und%20Pull%20Faktoren.jpeg)
