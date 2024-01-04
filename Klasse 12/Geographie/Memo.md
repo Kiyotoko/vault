@@ -71,7 +71,7 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 
 ![](Working%20Materials/Globale%20Disparität/Bedürfnispyramide.jpeg)
 
-# Befölkerungsentwicklung und Verstädterung
+# Bevölkerungsentwicklung und Verstädterung
 
 > Verstädterung beschreibt zunächst die zunehmende Konzentration von Menschen in städtischen Gebieten. Kann durch eines der drei Faktoren zum Ausdruck kommen:
 > 1. Im Wachstum der der Städte eines Gebietes oder Landes hinsichtlich der Einwohnerzahl und/oder Fläche
