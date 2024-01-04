@@ -108,8 +108,6 @@ Zweiter Demographischer Übergang
 - Pushfaktoren - Faktoren, die einen von etwas weg ziehen, Bsp. Keine Arbeit
 - Pullfaktoren - Faktoren, die einen in die Städte ziehen, Bsp. Infrastruktur
 
-****
-
 ## Unterschiede beim Stadtwachstum zwischen Entwicklungs- und Industrieländern
 
 | Entwicklungsland                                      | Industrieland                                                                                        |
