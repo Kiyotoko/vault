@@ -321,11 +321,11 @@ Konstanten fallen beim Ableiten weg. Jede reelle Zahl kann als Konstante an die 
 | ----------------- | -------------------------------- |
 | $0$               | $c$                              |
 | $k\cdot f(x)$     | $k\cdot F(x)+c$                  |
+| $f(mx+n$          | $\frac{1}{m}F(mx+n)$             |
 | $x^{n}$           | $\frac{1}{n+1}x^{n+1}+c$         |
 | $\sqrt[b]{x^{a}}$ | $\frac{a+b}{b}\sqrt[b]{x^{a+b}}$ |
 | $x^{-1}$          | $\ln{x}$                         |
 | $u(x)\pm v(x)$    | $U(x)\pm V(x)+c$                 |
-| $u(v(x))$         | $\frac{1}{v'(x)}U(v(x))$         |
 | $\sin{x}$         | $-\cos{x}+c$                     |
 | $\cos{x}$         | $\sin{x}+c$                      |
 | $e^{x}$           | $e^{x}$                          |

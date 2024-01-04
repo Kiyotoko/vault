@@ -93,3 +93,5 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 | Push: Arbeitslosigkeit                                | Pull: Teilnahme am sozialen Leben                                                                    |
 | Pull: Attraktive Strukturmerkmale im Städtischem Raum | Push: Demographischer Wandel                                                                         |
 | Pull: Medien                                          | Pull: Infrastruktur und öffentliche Einrichtungen                                                                                                     |
+
+![Push und Pull Faktoren](Working%20Materials/Verstädterung/Push%20und%20Pull%20Faktoren.jpeg)
