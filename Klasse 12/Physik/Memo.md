@@ -936,6 +936,7 @@ Lumineszenz
 - Beim Übergang in ein niedrigeres Energieniveau wird das Photon wieder ausgesendet
 
 Fluoreszenz
+- Bestrahlung mit Licht
 - Emittiertes Licht hat selbe Frequenz wie absorbiertes Licht
 - Innerhalb von $10^{-8}s$
 
@@ -945,3 +946,14 @@ Phosphoreszenz
 Frequenzänderung bei Lumineszenz
 - Beim Aussenden des Photons bleibt ein Teil der Energie im Atom zurück
 - Da das Photon mit weniger Energie emittiert wird, ist die Frequenz auch kleiner
+
+### Emissionsspektrum
+
+- Nur die emittierte Frequenz ist sichtbar, alle anderen Teile des Spektrums sind schwarz
+
+### Absorptionsspektrum
+
+- Nur die absorbierte Frequenz ist schwarz, alle anderen Teile des Spektrums sind sichtbar
+
+## Laser
+

@@ -544,3 +544,18 @@ $E_{\text{kin}}=e\cdot \Delta U=3.60495\cdot10^{-18}J$
 
 
 Die Ergebnisse des Experimentes zeigen, dass gleiche Mengen an Energie (feste Abstände) für das Anheben des Energieniveaus benötigt wird. Es gibt feste Energieniveaus. Dies stützt das dritte Postulat.
+
+## 2024-01-08
+
+Bei der Fluoreszenz wird ein Photon in einem Atom absorbiert. Die Energie wird in dem Atom durch das Erreichen eines höheres Energieniveau gespeichert. Wenn das Atom die Energie emittiert, wird ein Photon wieder ausgesendet, wobei ein Teil der Energie im Atom zurückbleibt. Da dass Photon mit weniger Energie emittiert wurde, als es absorbiert wurde, hat es auch eine kleinere Frequenz nach $E=h\cdot f$.
+
+---
+
+Nach der Absorption wird zwar ein Photon gleicher Frequenz wieder emittiert, aber die Aussendung der Photonen erfolgt ungerichtet in den gesamten Raum. Somit wird weniger Licht an dieser Stelle in die ursprüngliche Strahlungsrichtung ausgesendet. Dadurch ergibt sich eine Verdunklung im Spektrum.
+
+---
+
+|          | Elektronen                                                                                           | Photonen                                                                              |
+| -------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Anregung | erfolgt durch Zusammenstöße zwischen freien Elektronen und den Atomen/Molekülen                      | Photonen werden absorbiert und sind danach auch nicht mehr existent                   |
+| Energie  | Energie des Elektrons muss mindestens der Energiedifferenz zwischen dem Energienivieaus entsprechen. | Energie des Photons muss der Energiedifferenz zwischen den Energieniveaus entsprechen |
