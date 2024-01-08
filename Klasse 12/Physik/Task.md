@@ -559,3 +559,14 @@ Nach der Absorption wird zwar ein Photon gleicher Frequenz wieder emittiert, abe
 | -------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Anregung | erfolgt durch Zusammenstöße zwischen freien Elektronen und den Atomen/Molekülen                      | Photonen werden absorbiert und sind danach auch nicht mehr existent                   |
 | Energie  | Energie des Elektrons muss mindestens der Energiedifferenz zwischen dem Energienivieaus entsprechen. | Energie des Photons muss der Energiedifferenz zwischen den Energieniveaus entsprechen |
+
+---
+
+$t=100fs=100\cdot10^{-15}s$
+$W=10TW=10\cdot10^{12}W$
+
+---
+
+$p=m\cdot v=\frac{E}{c}=\frac{10\cdot10^{12}W\cdot100\cdot10^{-15}s}{3\cdot10^{8} \frac{m}{s}}=3.33\cdot10^{8}N\cdot s$
+
+$v=\frac{p}{1g}=3.33\cdot10^{-6} \frac{m}{s}$
