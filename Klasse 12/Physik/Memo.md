@@ -979,3 +979,9 @@ Wirkungsweise
 - ist kohärentes Licht
 
 Durch stimulierte (induzierte) Emission werden Photonen erzeugt, die in Bewegungsrichtung, Phasenbeziehung und Frequenz mit anderen zuvor ausgelösten Photonen übereinstimmen.
+
+Besetzungsinversion:
+- Je höher die Energie eines Zustands, umso geringer ist die Besetzungswahrscheinlichkeit
+- Für Lichtverstärkung muss die Mehrheit der Atome in höhere Energieniveaus befördert werden
+- Obere Laserniveaus sind relativ langlebig und werden somit durch spontane Übergänge nicht abgebaut
+- Untere Laserniveaus sind relativ kurzlebig, wodurch die Laserstrahlung nicht durch Absorption stark abgeschwächt wird
