@@ -962,3 +962,20 @@ Frequenzänderung bei Lumineszenz
 Spontane Emission: Emission eines Photons erfolgt spontan nach einer nicht genau bestimmten Zeit.
 
 Stimulierte/Induzierte Emission: Emission eines Photons wird durch ein Photon mit gleicher Wellenlänge ausgelöst.
+
+Wirkungsweise
+- Energiequelle bringt Atome des aktiven Mediums (= Lasermedium) in einem angeregten Zustand
+- durch spontane Emission werden Photonen ausgesendet
+- diese Photonen lösen durch stimulierte weitere Photonen aus
+- an den Spiegeln werden die Photonen reflektiert und verstärken somit die induziert Emission
+- ein Teil der Photonen verlässt das aktive Medium als Laserstrahlung durch den halbdurchlässigen Spiegel
+
+### Eigenschaften Laserstrahlung
+
+- ist paralleles Licht
+- besitzt eine hohe Leistungsdichte
+- ist monochromatisch (besitzt bestimmte Frequenz)
+- ist vollständig polarisiert
+- ist kohärentes Licht
+
+Durch stimulierte (induzierte) Emission werden Photonen erzeugt, die in Bewegungsrichtung, Phasenbeziehung und Frequenz mit anderen zuvor ausgelösten Photonen übereinstimmen.
