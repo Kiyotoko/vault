@@ -957,3 +957,8 @@ Frequenzänderung bei Lumineszenz
 
 ## Laser
 
+### Funktionsprinzip Laser
+
+Spontane Emission: Emission eines Photons erfolgt spontan nach einer nicht genau bestimmten Zeit.
+
+Stimulierte/Induzierte Emission: Emission eines Photons wird durch ein Photon mit gleicher Wellenlänge ausgelöst.
