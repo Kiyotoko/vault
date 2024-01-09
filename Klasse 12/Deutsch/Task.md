@@ -207,3 +207,20 @@ Psychologisch
 ## 2023-12-13
 
 Kafkaesk: „in der Art der Schilderungen Kafkas, auf rätselhafte Weise unheimlich, bedrohlich"
+
+# Woyzeck
+
+## 2024-01-09
+
+"Draußen so dunkel wie gestern auf dem Nachhauseweg" -> Lange Arbeitszeiten
+"Pest und einen Heuwagen" -> Anspielung auf Wahnsinnige Christen im 14 Jahrhundert
+"Bewege 'ne Wand von Paketen durchs Land" -> Paketbote
+"Ob bei Schnee oder Sandsturm mit Gegenwind", "Ich hab kein Leben, doch ich lebe noch" -> Arbeitsbedingungen
+"Gerechtigkeitskrieger-Twitterbubble", "Anarchie-Emblem" -> Doppelmoral
+
+- Vergleich Woyzeck zu Lyrisches Ich
+	- wird ausgebeutet
+	- Beide sind Arm
+	- Beide haben mehrere Nebenjobs
+
+Woyzeck wird durch seinem Umfeld so, 
