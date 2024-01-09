@@ -223,4 +223,5 @@ Kafkaesk: „in der Art der Schilderungen Kafkas, auf rätselhafte Weise unheiml
 	- Beide sind Arm
 	- Beide haben mehrere Nebenjobs
 
-Woyzeck wird durch seinem Umfeld so, 
+---
+
