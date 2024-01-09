@@ -294,5 +294,16 @@ $x^{2}=1$
 $x=1$
 $x=-1$
 $\int_{-1}^{1}f(x)\;\mathrm{d}x+\int_{1}^{2}f(x)\;\mathrm{d}x=[\frac{1}{3}x^{3}-x]_{-1}^{1}+[\frac{1}{3}x^{3}-x]_{1}^{2}=|-\frac{4}{3}|+|\frac{4}{3}|=\frac{8}{3}$
- 
-$\int_{-\pi}^{\pi}\sin{x}\;\mathrm{d}x=4\int_{0}^{\pi}\sin{x}\;\mathrm{d}x=4\cdot \frac{360}{\pi}=\frac{1440}{\pi}$
+
+$f(x)=-x^{2}-4x-3$
+$F(x)=- \frac{1}{3}x^{3}-2x^{2}-3x$
+
+$-x^{2}-4x-3=0$
+$x^{2}+4x+3=0$
+$x_{1,2}=- \frac{4}{2}\pm\sqrt{(\frac{4}{2})^{2}-3}$
+$x_{1,2}=-2\pm\sqrt{1}$
+$x_{1}=-1$
+$x_{2}=-3$
+$\int_{-1}^{-3}f(x)\;\mathrm{d}x+\int_{-3}^{-4}\;\mathrm{d}x=[F(x)]_{-1}^{-3}+[F(x)]_{-3}^{-4}=|9-2\cdot9+9- (\frac{1}{3}+-2+3)|+| \frac{1}{3}4^{3}-2\cdot16+12|=\frac{8}{3}$
+
+$\int_{-\pi}^{\pi}\sin{x}\;\mathrm{d}x=2\int_{0}^{\pi}\sin{x}\;\mathrm{d}x=2\cdot 2=4$
