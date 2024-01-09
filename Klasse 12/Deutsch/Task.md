@@ -222,6 +222,3 @@ Kafkaesk: „in der Art der Schilderungen Kafkas, auf rätselhafte Weise unheiml
 	- wird ausgebeutet
 	- Beide sind Arm
 	- Beide haben mehrere Nebenjobs
-
----
-
