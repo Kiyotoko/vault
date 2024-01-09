@@ -65,3 +65,13 @@ Fragment (Bruchstück), Torso (Stumf) oder non Finito (unvollendet) wirken unvol
 - Ready made: ein zur Kunst umgewidmetes Industrieprodukt
 - Mit dieser „Antikunst“ stellt Duchamp 1917 die traditionelle Kunstauffassung in Frage. Eine Provokation, die bis heute nachwirkt.
 - Akkumulation = Zusammensetzung von vielen gleichen, industriell angefertigten Stücken
+
+
+# Fotografie
+
+## Fotografie als Kunstgattung
+
+Wann ist Fotografie Kunst?
+- Originalität/Neue Idee
+- Kunstanspruch
+- Denkanstoß/Interpretation
