@@ -988,6 +988,8 @@ Besetzungsinversion:
 
 # Thermodynamik
 
+## Innere Energie
+
 Innere Energie $U$: Sämtliche Energieformen, die innerhalb eines Systems $s$ vorliegen, werden in der Summe als innere Energie $U$ bezeichnet.
 
 **Beispiele**
@@ -1006,3 +1008,22 @@ Bei Flüssigkeiten gilt:
 
 Bei Gasen gilt:
 - $U=E_{\text{kin}}$ (Translation & Rotation, $E_{\text{pot}}\approx0$)
+
+### Boltzmann Verteilung
+
+![](Working%20Materials/Thermodynamik/Boltzmann%20Verteilung.png)
+
+## Ideales Gas
+
+### Druck und Temperatur
+
+$p= \frac{F}{A}$
+
+|         | Formelzeichen | Einheit       | Fixpunkt                              |
+| ------- | ------------- | ------------- | ------------------------------------- |
+| Celsius | $\vartheta$   | ${}^{\circ}C$ | 100 °C Siedepunkt und 0° Schmelzpunkt |
+| Kelvin  | $T$           | $K$           | absoluter Nullpunkt                   |
+
+$0K = -273^{\circ}C$
+
+$T\;\text{in}\;K=\vartheta\;\text{in}^{\circ}C+273$

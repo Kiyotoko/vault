@@ -570,3 +570,37 @@ $W=10TW=10\cdot10^{12}W$
 $p=m\cdot v=\frac{E}{c}=\frac{10\cdot10^{12}W\cdot100\cdot10^{-15}s}{3\cdot10^{8} \frac{m}{s}}=3.33\cdot10^{8}N\cdot s$
 
 $v=\frac{p}{1g}=3.33\cdot10^{-6} \frac{m}{s}$
+# Thermodynamik
+
+## 2024-01-10
+
+Lb. S. 283 Nr. 1
+
+Das Material nimmt Wärme von der Umgebung auf. Diese wird genutzt, um das Material zu schmelzen. Dadurch findet keine Temperaturerhöhung statt.
+
+---
+
+$P=1.7kW$
+$q_{v}=2260 \frac{kJ}{kg}$
+
+$Q_{v}=q_{v}\cdot m$
+$P=q_{v}\cdot \frac{m}{t}$
+$\frac{m}{t}= \frac{P}{q_{v}}=\frac{1.7kW}{2260 \frac{kJ}{kg}}=\frac{1.7kg}{2260}=752\cdot10^{-6} \frac{kg}{s}=0.752 \frac{g}{s}$
+
+---
+
+Verdunsten: Übergang von flüssig zu gasförmig unterhalb der Siedetemperatur.
+
+Das Wasser dring durch die poröse Wand nach Außen und verdunstet. Dazu ist Wärme notwendig, die der Umgebung und dem Wasser im Gefäß entzogen wird (Verdunstungswärme). Somit sinkt die Temperatur und es kommt zu Abkühlung.
+
+---
+
+Lb. S. 283 Nr. 4
+
+Durch einen Unterdruck wird der Siedepunkt und somit die Änderung des Aggregatzustandes nach unten Verlagert. Durch die Änderung wird jedoch mehr Energie benötigt, um höhere Temperaturen zu erreichen, weshalb es nicht sinnvoll ist.
+
+---
+
+Offenes System: Turbine oder Mensch, tauscht Energie bzw. Wärme und Materie aus.
+Geschlossenes System: Kühlschrank oder Wasserkocher, tauscht Energie bzw. Wärme aus.
+Abgeschlossenes System: Thermoskanne, tauscht weder Energie bzw. Wärme noch Materie aus.
