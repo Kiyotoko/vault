@@ -985,3 +985,7 @@ Besetzungsinversion:
 - Für Lichtverstärkung muss die Mehrheit der Atome in höhere Energieniveaus befördert werden
 - Obere Laserniveaus sind relativ langlebig und werden somit durch spontane Übergänge nicht abgebaut
 - Untere Laserniveaus sind relativ kurzlebig, wodurch die Laserstrahlung nicht durch Absorption stark abgeschwächt wird
+
+
+# Thermodynamik
+
