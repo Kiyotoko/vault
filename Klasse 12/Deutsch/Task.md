@@ -222,3 +222,33 @@ Kafkaesk: „in der Art der Schilderungen Kafkas, auf rätselhafte Weise unheiml
 	- wird ausgebeutet
 	- Beide sind Arm
 	- Beide haben mehrere Nebenjobs
+
+## 2024-01-10
+
+Idealismus ist das Verfolgen von Idealen.
+
+Materialismus ist das Verfolgen von materiellen Objekten.
+
+---
+
+Idealismus -> Ideen als Ursprung der Realität
+
+Materialismus -> Philosophische Gegenbewegung zum Idealismus, Material als Ursprung der Realität
+
+---
+
+Die Bernstein-Hypothese besagt, dass die Mittel und Oberschicht sich Sprachlich anpassen und eine gemeinsame Sprache, hier elaborierten Code (formal language), verwenden, während die Unterschicht einen eigene Sprache, hier restringierten Code (public language) verwendet. Beide Codes sind unterschiedlich Leistungsfähig.
+
+---
+
+Hauptmann und Doktor: elaborierter Code
+Woyzeck: restringierter Code
+
+Doktor: "apoplektische Konstitution" (S. 22, V. 16)
+Woyzeck: "Ja wohl!" (S. 22, V. 24)
+
+Woyzeck wird durch eine überlegene Sprache auf eine niedrigere Ebene gestellt.
+
+---
+
+Die Bernstein-Hypothese hat in meiner Lebenswelt keine Bedeutung. Ziel in der Sprache ist es, dass ich die Anzahl der Individuen, mit denen ich kommunizieren kann, maximal ist. Da ich in einem Umfeld unterwegs bin, in denen es sprachlich kaum reelle unterschiede gibt, gibt es weder Erfahrungen, die die These bestätigen noch widerlegen.

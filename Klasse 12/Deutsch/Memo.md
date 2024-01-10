@@ -113,3 +113,17 @@ Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Bei
 1. Analyse und Deutung von Gedicht A, dann von Gedicht B, dann der Vergleich
 2. Analyse und Deutung von Gedicht A, dann Gedicht B, auf Basis aufgabenentsprechender und selbstgewählter Kriterien (diachrones Verfahren)
 3. Aspektorientiert vergleichende Gedichtanalyse beider Gedichte (synchrones Verfahren)
+
+## Naturalismus
+
+## Impressionismus
+
+# Werke
+
+## Woyzeck
+
+### Themen und Motive
+
+### Theoretischer Kontext
+
+### Sprache im Drama
