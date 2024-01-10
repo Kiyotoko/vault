@@ -986,6 +986,23 @@ Besetzungsinversion:
 - Obere Laserniveaus sind relativ langlebig und werden somit durch spontane Übergänge nicht abgebaut
 - Untere Laserniveaus sind relativ kurzlebig, wodurch die Laserstrahlung nicht durch Absorption stark abgeschwächt wird
 
-
 # Thermodynamik
 
+Innere Energie $U$: Sämtliche Energieformen, die innerhalb eines Systems $s$ vorliegen, werden in der Summe als innere Energie $U$ bezeichnet.
+
+**Beispiele**
+- potenzielle Energie der Teilchenschwingung
+- kinetische Energie von Teilchen
+- (chemische) Bindungsenergie
+
+Bei Festkörpern gilt:
+- $U=E_{\text{kin}}+E_{\text{pot}}$ (Teilchenschwingung)
+- Innere Energie, die man benötigt um einen Körper zu Schmelzen wird als Schmelzwärme $Q_{s}$ bezeichnet: $Q_{s}=q_{s}\cdot m$, wobei $q_{s}$ die spezifische Schmelzwärme ist
+- $[q_{s}]= \frac{kJ}{kg}$
+
+Bei Flüssigkeiten gilt:
+- $U=E_{\text{kin}}+E_{\text{pot}}$ ($E_{\text{pot}}$ geringer als bei Festkörpern)
+- Verdampfungsprozess $U=Q_{v}=q_{v}\cdot m$ (Verdampfungswärme)
+
+Bei Gasen gilt:
+- $U=E_{\text{kin}}$ (Translation & Rotation, $E_{\text{pot}}\approx0$)
