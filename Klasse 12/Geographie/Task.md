@@ -111,3 +111,17 @@ Reiche haben prozentual deutlich mehr gated Communities als Ärmere.
 - Neugebaute, bunte Wohnanlagen mit Balkon, die im Zuge des stadtplanerischen Projekts zur Aufwertung von Slums in Rio entstanden sind
 - Umfragen zufolge sind die Bewohner mit den Verbesserungen, welche das Programm geschaffen hat, sehr zufrieden
 - Aufgrund fehlender Finanzen zur weiteren Realisierung eingestellt, wodurch weder der Abwasserkanal noch die beiden anderen Straßen, die ebenfalls wie die Rua 4 aufgewertet werden sollten, saniert werden konnten
+
+## 2024-01-11
+
+Was sind Beleuchtungszonen und wie entstehen sie?
+- Zenitstand: Sonne steht senkrecht über der Erde
+- Wendekreis
+- Folgen von Rotation
+- Schrägstellung der Erde: Geneigt um 23.5°, führt zu Polartag und Polarnacht, welche dauerhaft Tag bzw. Nacht haben.
+
+Strahlungs- und Wärmehaushalt der Erde
+
+Klimazonen der Erde
+
+Auswerten von Klimadiagrammen
