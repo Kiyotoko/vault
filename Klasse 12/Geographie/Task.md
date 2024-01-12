@@ -112,6 +112,8 @@ Reiche haben prozentual deutlich mehr gated Communities als Ärmere.
 - Umfragen zufolge sind die Bewohner mit den Verbesserungen, welche das Programm geschaffen hat, sehr zufrieden
 - Aufgrund fehlender Finanzen zur weiteren Realisierung eingestellt, wodurch weder der Abwasserkanal noch die beiden anderen Straßen, die ebenfalls wie die Rua 4 aufgewertet werden sollten, saniert werden konnten
 
+# Geographische Zonen
+
 ## 2024-01-11
 
 Was sind Beleuchtungszonen und wie entstehen sie?
@@ -125,3 +127,14 @@ Strahlungs- und Wärmehaushalt der Erde
 Klimazonen der Erde
 
 Auswerten von Klimadiagrammen
+
+## 2024-01-12
+
+- Monate abgebildet von Juli bis Juni
+- Niederschlag  ist von Oktober bis April Humid
+- Niederschlag ist von Mai bis September Arid
+- Niederschlagssumme von 1490 mm pro Quadratmeter
+- Temperatur Jahresmittel 28 °C
+- Jahrestemperatur Äqutorialer Type (d)
+- Niederschlag Monsum Typ (h)
+- Südhalbkugel
