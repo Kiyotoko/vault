@@ -138,3 +138,5 @@ Auswerten von Klimadiagrammen
 - Jahrestemperatur Äqutorialer Type (d)
 - Niederschlag Monsum Typ (h)
 - Südhalbkugel
+- Im Sommer ITC
+- Passatwind
