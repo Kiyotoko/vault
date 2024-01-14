@@ -7,8 +7,17 @@ tags:
 
 # Nullstellen
 
-Funktion $0$ setzen.
+Funktion $0$ setzen. Synonym zum Schnittpunkt mit der $x$-Achse.
 $0=f(x)$
+
+```js
+solve(f(x) = 0, x)
+```
+
+## PQ-Formel
+
+Für quadratische Funktionen der Form $x^{2}+px+q=0$ gilt:
+$x=- \frac{p}{2}\pm\sqrt{(\frac{p}{2})^{2}-q}$
 
 ## Vielfachheit von NSt
 
@@ -19,7 +28,11 @@ Anzahl der Nullstellen.
 Bei der Funktion $0$ einsetzen.
 $y=f(0)$
 
-# Definitionsbereich
+# Bereiche
+
+## Definitionsbereich
+
+$$\mathbb{D}=x\in\mathbb{R}$$
 
 Teilen durch $0$.
 $f(x)=\frac{n}{x}$
@@ -29,6 +42,19 @@ Logarithmus mit Werten unter $0$
 $f(x)=\log{x}$
 Einschränkungen durch die Aufgabenstellung
 $i=[\dots]$
+
+## Wertebereich
+
+$$\mathbb{W}=y\in\mathbb{R}$$
+
+Asymptoten bzw. Limes
+$\lim\limits_{x\to\infty}\sum\limits_{n=1}^{x} \frac{1}{2^{n}}=1$
+Wurzel hat keine Werte unter $0$
+$\sqrt{x}\ge0$
+Logarithmus hat keine Werte unter $0$
+$\log{x}\ge0$
+EInschränkung durch die Aufgabenstellung
+$i=[\cdots]$
 
 # Asymptoten
 
@@ -47,10 +73,6 @@ Man ermittelt sie, indem man den Nenner gleich $0$ setzt.
 $f(x)=\frac{2x^2-1}{x-1}$
 $0=x-1\quad x=1$
 
-~~~functionplot
-f(x)=(4+x)/(2x)
-~~~
-
 # Symmetrie
 
 ## Achsensymmetrie
@@ -58,19 +80,11 @@ f(x)=(4+x)/(2x)
 Achsensymmetrie zur $y$-Achse: $f(x)=f(-x)$
 $f(x)=x^4+x^2+4$
 
-~~~functionplot
-f(x)=x^4+x^2+4
-~~~
-
 ## Punktsymmetrie
 
 Punktsymmetrie zu einem Punkt, meist Koordinatenursprung.
 $f(x)=-f(-x)$
 $-f(x)=f(-x)$
-
-~~~functionplot
-f(x)=x^5+x^3+x
-~~~
 
 # Extrempunkte / Extremstellen
 
@@ -93,14 +107,6 @@ $0\neq2$
   oder
 - Minimum: $f'(x)=-\to f'(x)=+$
 - Maximum: $f'(x)=+\to f'(x)=-$
-
-~~~functionplot
----
-disableZoom: true
----
-f(x)=x^2
-f'(x)=2x
-~~~
 
 $f(x)=x^2$
 $f'(x)=2x$
