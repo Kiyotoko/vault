@@ -101,6 +101,8 @@ Die Konjunktion ist eine Wortart im Deutschen. Sie verbindet Sätze, Satzteile s
 
 ### Ablativus Absolutus
 
+
+
 # Wörterbuch
 
 Römische Ziffern ($I,II,III,VI$) untergliedern ein Stichwort in verschiedene Wortarten und Verben, wie zum Beispiel Konjunktionen.
