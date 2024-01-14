@@ -92,7 +92,7 @@ An Extremstellen gilt:
 - $f'(x)=0$ (notwendig)
 - $f''(x)\neq0$ (hinreichend)
 
-**Beispiel:**
+**Beispiel**
 $f(x)=x^2-2x+1$
 $f'(x)=2x-2$
 $f''(x)=2$
@@ -102,12 +102,11 @@ $0\neq2$
 
 ## Nachweis der Art des Extrems
 
-- Minimum: $f''(x_E)>0$
-- Maximum:$f''(x_E)<0$
-  oder
-- Minimum: $f'(x)=-\to f'(x)=+$
-- Maximum: $f'(x)=+\to f'(x)=-$
+Minimum: $f''(x_{E})>0$
+Maximum: $f''(x_{E})<0$
+Sattelpunkt: $f''(x_{E})=0$
 
+  **Beispiel**
 $f(x)=x^2$
 $f'(x)=2x$
 $f''(x)=2$
@@ -115,9 +114,9 @@ $f''(x)=2$
 $0=2x_E\quad x_E=0$
 
 Sattelpunkt, da:
-- $f'(0)=0$
-- $f''(0)=0$
-- $f(0)=0$
+$f(0)=0$
+$f'(0)=0$
+$f''(0)=0$
 
 ## Absolute Extrema
 
