@@ -63,19 +63,23 @@ Einer vorgegebenen Hauptquantenzahl $n$ kann man $2n^{2}$ verschiedene Kombinati
 Durch die Beschleunigungsspannung $U_{B}$ werden die Elektronen von der Kathode bis zur Anode beschleunigt. Ab einer gewissen Spannung $U_{B}$ stoßen die Elektronen unelastisch mit den $Hg$-Atomen zusammen. Dadurch werden von den $Hg$-Atomen von dem Grundzustand in den nächst höheren Energiezustand gehoben. Wenn diese wieder in den Grundzustand zurückfallen, werden Photonen ausgesendet (Gas leuchtet).
 Freie Elektronen, die durch unelastische Stöße mit dem $Hg$-Atomen Energie abgeben haben, besitzen nicht genug kinetische Energie, um die Gegenspannung zu überwinden. Dadurch kommen weniger Elektronen an der Anode an und die Stromstärke sinkt.
 
-# Floreszenz und Lumineszenz
+# Lumineszenz und Floreszenz
 
-## Floreszenz
+## Lumineszenz
 
 - Bei Bestrahlung mit weißem Licht wird ein Atom von Photonen unterschiedlichster Frequenz bzw. Energie getroffen
 - Das Atom kann ein Photon nur dann absorbieren wenn dessen Energie genau der Differenz zwischen zwei Atomaren Energieniveaus $E_{1}$ und $E_{2}$ entspricht
 - $E_{\text{ph}}=h\cdot f=E_{2}-E_{1}$
 - Das Photon der Resonanzabsorption wird für eine gewisse Zeit gespeichert
 - Beim Übergang in ein niedrigeres Energieniveau wird das Photon wieder ausgesendet
+- Das emittierte Photon hat eine niedrigere Frequenz als das absorbierte Photon, da ein Teil der Energie im Atom zurückbleibt
 
-## Lumineszenz
+## Floreszenz
 
-- 
+- Bestrahlung mit Licht
+- Emittiertes Licht hat selbe Frequenz wie absorbiertes Licht
+- Nur wenig Energie bleibt im Atom zurück
+- Im Absorptionsspektrum entsteht eine Lücke, da kaum Energie im Atom zurückbleibt
 
 # Laser
 
