@@ -75,3 +75,17 @@ Wann ist Fotografie Kunst?
 - Originalität/Neue Idee
 - Kunstanspruch
 - Denkanstoß/Interpretation
+
+## Kriterien für ein gutes Foto
+
+- Motiv
+	- Interresse wecken
+	- ggf. etwas zur Zeit aussagt
+	- erfüllt Intention des Fotografen
+- Technik gut
+	- Pixel und Rauschen vermeiden
+	- Hohe Auflösung
+- Komposition
+- Perspektive
+- Licht und somit Farbe entsprechend Motiv/Intention
+- Kontrast
