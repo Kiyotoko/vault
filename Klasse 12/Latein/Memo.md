@@ -56,8 +56,10 @@ tags:
 
 ## Varusschlacht
 
-- Varos: Römischer Stadthalter in Germanien
-- Arminius: Römischer Legionär
+- Publius Quinctillius Varus: Römischer Stadthalter in Germanien
+- Arminius: Römischer Legionär, stammt aus Germanien und verrät Varus
+- 9 n. Chr.
+- Drei römische Legionen samt Hilfstruppen und Tross erlitten in Germanien eine vernichtende Niederlage
 
 # Grammatik
 
