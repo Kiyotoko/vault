@@ -216,7 +216,7 @@ Begrenzt eines Voids (Bereiche, die das Netz des Kosmos begrenzt)
 Die Spektren von Sternen bestehen aus einem Kontinuum. Bei Untersuchungen stelle man jedoch fest, dass die Linien fast alle Spektrallinien verschoben waren. Dies liegt daran, dass sich fast alle Sterne und Galaxien von uns weg bewegen (Galaxienflucht), mit nur wenigen ausnahmen. Durch die Bewegung tritt der Dopplereffekt auf, wodurch das Spektrum rot oder blau verschoben wird. Bewegen sich die Galaxien von uns weg, gibt es eine Rotverschiebung, ansonsten eine Blauverschiebung.
 
 Fluchtgeschwindigkeit
-$$v_{F}=\frac{\Delta\lambda}{\lambda_{0}}\cdot c=H_{0}\cdot r\quad\text{mit }\Delta\lambda=\lambda-\lambda_{0}$$
+$$v_{F}=\frac{\Delta\lambda}{\lambda_{0}}\cdot c=H_{0}\cdot r\quad\text{mit}\;\Delta\lambda=\lambda-\lambda_{0}$$
 
 ## Extreme Materie
 
