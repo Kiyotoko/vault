@@ -35,6 +35,8 @@ $f=\frac{E_{\text{ph}}}{h}=R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$
 
 ## Unendlich hoher Potenzialtopf
 
+## Schrödinger Gleichung
+
 $$i \frac{h}{2\pi} \frac{\partial \Psi}{\partial t}=\hat{H}\Psi$$
 
 ## Orbitale
