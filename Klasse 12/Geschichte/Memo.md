@@ -141,3 +141,49 @@ Akzeptanz des NS-Regimes durch jeden Einzelnen
 - **Ethos** Glaubwürdigkeit des Sprechers
 - **Pathos** Wecken von Emotionen, das Publikum soll sich angesprochen fühlen
 - **Logos** Ansprache der Logik; Argumentation/Beweise/Fakten
+
+## NS-Wirtschaft
+
+- Mefo-Wechsel (Kredite und Schulden "To Infinity and Beyond")
+- Weniger Einsatz von Maschinen -> Mehr Einsatz von günstigen Arbeitskräften -> Senken der Arbeitslosigkeit
+- Einführung des Reichsarbeitsdienstes
+- Aufrüstung
+- Verdrängen von Frauen aus dem Erwerbsleben
+
+## Holocaust
+
+- Beispielloser Versuch alle europäischen Juden und Jüdinnen zu ermorden und ihre Kultur auszulöschen
+- Erschütterung der menschlichen Weltordnung in ihren Grundfesten
+- kein spontanes oder unvermeidbares Ereignis, sondern als Prozess (Verwaltung und aktives Mitwirken großer Bevölkerungsteile)
+- Industrieller Massenmord, strukturiertes Töten in millionenfacher Ausführung
+
+## Phasen der Judenverfolgung
+
+| Phase          | Zeit  | Unterscheidung                                |
+| -------------- | ----- | --------------------------------------------- |
+| Boykott        | 33-35 | Verbannung aus dem öffentlichen Leben         |
+| Entrechtung    | 35-38 | Aberkennung von Rechtsstatus & Menschlichkeit |
+| Ghettoisierung | 38-41 | Deportation und Internierung                  |
+| Vernichtung    | 41-45 | Massenmord                                    |
+
+### Boykott
+
+- Arisierung
+
+### Entrechtung
+
+- Nürnberger Gesetze
+- Jüdischer Ausschluss deutscher Schulen
+- Zutritt zu öffentlichen Einrichtung wird untersagt
+- Entzug des Wahlrechts
+- Verkauf jüdischer Geschäfte/Betriebe
+- Reichsprogromnacht
+
+### Ghettoisierung
+
+- Jüdische Auswanderungs- und Fluchtbewegung
+- Ausreiseverbot (1941)
+
+### Vernichtung
+
+- Industrieller Massenmord in Konzentrationslagern
