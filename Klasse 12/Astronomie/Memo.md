@@ -253,3 +253,8 @@ Antimaterie: 
 
 dunkle Materie: 
 - etwas mit Masse, ohne Leuchtkraft
+
+## Neutronensterne
+
+- Massenreiche Hauptreihensterne
+- Nicht fusionierbares Eisen im Kern
