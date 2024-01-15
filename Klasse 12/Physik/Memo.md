@@ -789,7 +789,7 @@ $F_{\text{Coloumb}}=F_{R}\Rightarrow \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{r^{
 Kraft in Energie einsetzen
 $E_{\text{kin}}=\frac{1}{2} \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{r}=\frac{1}{8\pi\epsilon_{0}} \frac{e^{2}}{r}$
 $W_{R}=\Delta E_{\text{pot}}=E_{\text{pot}}(r)-E_{\text{pot}}(\infty)=E_{\text{pot}} (r)-0=E_{\text{pot}}(r)$
-$W_{R}=E_{\text{pot}}(r)=\displaystyle\int_{\infty}^{r}F\mathrm{d}s=\displaystyle\int_{\infty}^{r} \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{s^{2}}\mathrm{d}s=\frac{e^{2}}{4\pi\epsilon_{0}} \displaystyle\int_{\infty}^{r} \frac{1}{s^{2}}\mathrm{d}s=\frac{e^{2}}{4\pi\epsilon_{0}}[-s^{-1}]_{\infty}^{r}=\frac{e^{2}}{4\pi\epsilon_{0}} \lim_{b\to\infty}(- \frac{1}{r}+ \frac{1}{b})=\frac{-e^{2}}{4\pi\epsilon_{0}} \frac{1}{r}(<0)$
+$\begin{split}W_{R}&=E_{\text{pot}}(r)=\displaystyle\int_{\infty}^{r}F\mathrm{d}s\\ &=\displaystyle\int_{\infty}^{r} \frac{1}{4\pi\epsilon_{0}} \frac{e^{2}}{s^{2}}\mathrm{d}s=\frac{e^{2}}{4\pi\epsilon_{0}} \displaystyle\int_{\infty}^{r} \frac{1}{s^{2}}\mathrm{d}s\\ &=\frac{e^{2}}{4\pi\epsilon_{0}}[-s^{-1}]_{\infty}^{r}=\frac{e^{2}}{4\pi\epsilon_{0}} \lim_{b\to\infty}(- \frac{1}{r}+ \frac{1}{b})\\ &=\frac{-e^{2}}{4\pi\epsilon_{0}} \frac{1}{r}(<0)\end{split}$
 
 $E_{\text{ges}}$ ergibt sich aus potentieller und kinetischer Energie
 $E_{\text{ges}}=E_{\text{kin}}+E_{\text{pot}}=\frac{e^{2}}{8\pi\epsilon_{0}} \frac{1}{r}- \frac{e^{2}}{4\pi\epsilon_{0}} \frac{1}{r}=- \frac{e^{2}}{8\pi\epsilon_{0}} \frac{1}{r}$
@@ -850,7 +850,6 @@ Grenzen
 - Widerspruch von diskreten Bahnen (Kreisbahnen) zur Quantentheorie (Quantenteilchen bewegen sich nicht auf konkreten Bahnen)
 - Modell versagt bei Vorhersagen für Atome mit mehr als einem Elektron (nur Wasserstoffatom beschreibbar)
 - Postulate erscheinen willkürlich (Elektronen senden keine Strahlen aus)
-
 
 ## Quantenmechanisches Atommodell
 
