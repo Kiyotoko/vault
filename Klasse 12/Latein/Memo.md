@@ -103,7 +103,15 @@ Die Konjunktion ist eine Wortart im Deutschen. Sie verbindet Sätze, Satzteile s
 
 ### Ablativus Absolutus
 
-
+- Ablativus Absolutus einfach erklärt: Der Ablativ Absolutus ist eine Funktion des Ablativs und wird mit einem eigenen Satz übersetzt, entweder einem Haupt- oder Nebensatz.
+- Ablativus Absolutus – erkennen: Du kannst den Ablativus Absolutus erkennen, indem Du nach einem Substantiv im Ablativ sowie einem KNG-kongruenten Partizip Perfekt Passiv (PPP) oder Partizip Präsens Aktiv (PPA) Ausschau hältst.
+- Ablativus Absolutus übersetzen: Sowohl bei der Beiordnung als auch der Unterordnung kann der Ablativus Absolutus nach folgenden Sinnrichtungen übersetzt werden:
+    - temporal
+    - kausal
+    - modal
+    - konzessiv
+    - konditional
+- Nominaler Ablativus Absolutus (Latein): Bei einem nominalen Ablativus Absolutus ist statt eines Partizips ein Substantiv oder Adjektiv mit dem Ablativ KNG-kongruent.
 
 # Wörterbuch
 
