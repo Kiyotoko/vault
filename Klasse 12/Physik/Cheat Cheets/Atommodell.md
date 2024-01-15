@@ -31,9 +31,17 @@ $f=\frac{E_{\text{ph}}}{h}=R_{H}(\frac{1}{n^{2}}- \frac{1}{m^{2}})$
 | Spektrallinien für Wasserstoff können berechnet werden                                          | Modell versagt bei Vorhersagen für Atome mit mehr als einem Elektron (nur Wasserstoffatom beschreibbar)                     |
 | Führt quantentheoretische Erkenntnisse in die Atomtheorie ein (Emission & Absorption von Licht) | Postulate erscheinen willkürlich (Elektronen senden keine Strahlen aus)                                                     |
 
-# Quantenmeschanisches Atommodell
+# Quantenmeschanische Atommodell
+
+## Heisenbergsche Unbestimmtheitsrelation
+
+Ort und Impuls $\Delta x\cdot\Delta p_{x}\ge \frac{h}{4\pi}$
+
+Energie und Zeit $\Delta E\cdot\Delta t\ge \frac{h}{4\pi}$
 
 ## Unendlich hoher Potenzialtopf
+
+$E_{n}=\frac{h^{2}}{8mL^{2}}n^{2}\quad\text{mit}\;n=1,2,3,\dots$
 
 ## Schrödinger Gleichung
 
