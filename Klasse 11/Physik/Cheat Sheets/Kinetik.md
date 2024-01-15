@@ -13,6 +13,8 @@ $F=m\cdot a$
 
 ## Schiefe Ebene
 
+![](../Working%20Materials/Kinematik/Schiefe%20Ebene%201.png)
+
 Gewichtskraft $F_{G}$
 Reibungskraft $F_{R}$
 Motorkraft $F_{M}$

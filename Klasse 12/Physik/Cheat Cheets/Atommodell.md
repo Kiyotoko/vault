@@ -49,6 +49,8 @@ $$i \frac{h}{2\pi} \frac{\partial \Psi}{\partial t}=\hat{H}\Psi$$
 
 ## Orbitale
 
+![](../Working%20Materials/Atommodell/Orbitale.png)
+
 Zustände werden über "stehende Wellen" definiert → Lösungen der Schrödinger Gleichung
 
 Einer vorgegebenen Hauptquantenzahl $n$ kann man $2n^{2}$ verschiedene Kombinationen aus $n,l,m$ und $s$ zuordnen → Anzahl Elektronen pro Schale
@@ -65,3 +67,14 @@ Freie Elektronen, die durch unelastische Stöße mit dem $Hg$-Atomen Energie abg
 ## Lumineszenz
 
 # Laser
+
+Spontane Emission: Emission eines Photons erfolgt spontan nach einer nicht genau bestimmten Zeit.
+
+Stimulierte/Induzierte Emission: Emission eines Photons wird durch ein Photon mit gleicher Wellenlänge ausgelöst.
+
+Wirkungsweise
+- Energiequelle bringt Atome des aktiven Mediums (= Lasermedium) in einem angeregten Zustand
+- durch spontane Emission werden Photonen ausgesendet
+- diese Photonen lösen durch stimulierte weitere Photonen aus
+- an den Spiegeln werden die Photonen reflektiert und verstärken somit die induziert Emission
+- ein Teil der Photonen verlässt das aktive Medium als Laserstrahlung durch den halbdurchlässigen Spiegel
