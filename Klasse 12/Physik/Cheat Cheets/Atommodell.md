@@ -67,7 +67,15 @@ Freie Elektronen, die durch unelastische Stöße mit dem $Hg$-Atomen Energie abg
 
 ## Floreszenz
 
+- Bei Bestrahlung mit weißem Licht wird ein Atom von Photonen unterschiedlichster Frequenz bzw. Energie getroffen
+- Das Atom kann ein Photon nur dann absorbieren wenn dessen Energie genau der Differenz zwischen zwei Atomaren Energieniveaus $E_{1}$ und $E_{2}$ entspricht
+- $E_{\text{ph}}=h\cdot f=E_{2}-E_{1}$
+- Das Photon der Resonanzabsorption wird für eine gewisse Zeit gespeichert
+- Beim Übergang in ein niedrigeres Energieniveau wird das Photon wieder ausgesendet
+
 ## Lumineszenz
+
+- 
 
 # Laser
 
