@@ -41,7 +41,7 @@ Energie und Zeit $\Delta E\cdot\Delta t\ge \frac{h}{4\pi}$
 
 ## Unendlich hoher Potenzialtopf
 
-<img src="../Working%20Materials/Atommodell/Potenzialtopf.png" width=50px alt="Potenzialtopf">
+![](../Working%20Materials/Atommodell/Potenzialtopf.png)
 
 $V_{n}(x)=|\Psi_{n}|^{2}$
 $E_{n}=\frac{h^{2}}{8mL^{2}}n^{2}\quad\text{mit}\;n=1,2,3,\dots$
