@@ -89,9 +89,9 @@ Stimulierte/Induzierte Emission: Emission eines Photons wird durch ein Photon mi
 
 ![](../Working%20Materials/Atommodell/Stimulierte%20Emission.jpg)
 
-Wirkungsweise
+**Wirkungsweise**
 - Energiequelle bringt Atome des aktiven Mediums (= Lasermedium) in einem angeregten Zustand (Pumpen)
-- durch spontane Emission werden Photonen ausgesendet
-- diese Photonen lösen durch stimulierte weitere Photonen aus
-- an den Spiegeln werden die Photonen reflektiert und verstärken somit die induziert Emission
-- ein Teil der Photonen verlässt das aktive Medium als Laserstrahlung durch den halbdurchlässigen Spiegel
+- Durch spontane Emission werden Photonen ausgesendet
+- Diese Photonen lösen durch stimulierte weitere Photonen aus
+- An den Spiegeln werden die Photonen reflektiert und verstärken somit die induziert Emission
+- Ein Teil der Photonen verlässt das aktive Medium als Laserstrahlung durch den halbdurchlässigen Spiegel
