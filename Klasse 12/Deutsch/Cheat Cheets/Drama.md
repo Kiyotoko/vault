@@ -56,8 +56,19 @@
 
 ## Klassisches Drama
 
-Aristotelisches Drama in 5 Akten
+- Aristotelisches Drama in 5 Akten
+- Lineare Erzählung
+- Einleitung und Schluss
+- Handelnd
+- Wenige Orte und keine Zeitsprünge
 
 ## Episches Drama
 
+- Verbindung von Drama und Epik
+- Erzählend
+- Die Erzählung springt zwischen den Ereignissen
+
 ## Offenes Drama
+
+- Keine lineare Erzählung
+- Mehrere Orte und Zeitsprünge
