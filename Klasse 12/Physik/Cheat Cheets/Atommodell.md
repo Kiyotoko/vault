@@ -87,8 +87,10 @@ Spontane Emission: Emission eines Photons erfolgt spontan nach einer nicht genau
 
 Stimulierte/Induzierte Emission: Emission eines Photons wird durch ein Photon mit gleicher Wellenlänge ausgelöst.
 
+![](../Working%20Materials/Atommodell/Stimulierte%20Emission.jpg)
+
 Wirkungsweise
-- Energiequelle bringt Atome des aktiven Mediums (= Lasermedium) in einem angeregten Zustand
+- Energiequelle bringt Atome des aktiven Mediums (= Lasermedium) in einem angeregten Zustand (Pumpen)
 - durch spontane Emission werden Photonen ausgesendet
 - diese Photonen lösen durch stimulierte weitere Photonen aus
 - an den Spiegeln werden die Photonen reflektiert und verstärken somit die induziert Emission
