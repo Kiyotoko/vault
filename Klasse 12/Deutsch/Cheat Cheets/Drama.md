@@ -1,43 +1,8 @@
----
-author: karlz
-tags: 
-- Deutsch
-- FGB
----
+# Eingenschaften Drama
 
-# Reden
 
-## Erzählperspektiven
 
-- auktorial
-	- allwissend $E>F$
-- personal
-	- Sicht einer Figur $E=F$
-- neutral
-	- $E<F$
-
-## Reden verfassen
-
-### Struktur
-
-1. Einleitung
-	- Bedeutung/Relevanz
-1. Hauptteil
-	- 3. Argumente
-2. Schluss
-	- Zusammenfassung
-
-### IDEMA-Methode
-
-- *Inventio* Ideen sammeln (Canvas, Tabelle, Liste)
-- *Dispositio* Gliederung der Gedanken (Einstieg, Hauptteil, Schluss)
-- *Elocutio* Ausformulieren der Rede (Stil, Mittel, Pausen)
-- *Memoria* Einprägung der Rede (Karteikarten)
-- *Actio* Rede Vortragen (Mimik, Gestik, Betonung, Augenkontakt, Tempo, Lautstärke)
-
-# Drama
-
-## Begriffe
+# Fachbegriffe zum Drama
 
 | Begriff               | Erklärung                                                                      |
 | --------------------- | ------------------------------------------------------------------------------ |
@@ -66,19 +31,9 @@ tags:
 | Akt/Auszug            | Einheit eines Dramas, das durch das Fallen des Vorhangs gekennzeichnet ist     |
 | Szene                 | Kleinste strukturelle Einheit eines Dramas                                     |
 
-## Historischer Kontext
+# Interpretation eines Dramenauszugs
 
-### Rollenbilder in Griechenland
-
-| Person | Rollenbild                                                |
-| ------ | --------------------------------------------------------- |
-| Männer | Rechte und Besitz über die Frau                           |
-| Frauen | Begleitung des Mannes, gebärt und macht den Haushalt      |
-| Kinder | Jungen bekommen Pädagogen, Frauen werden früh verheiratet |
-
-## Methode
-
-### Interpretation eines Dramenauszugs
+## Aufbau Interpretation
 
 1. Einleitung
 	1. Hinführung
@@ -97,34 +52,12 @@ tags:
 	1. Deutungsergebnisse zusammenfassen
 	2. Bewerten der Handlungsweise der Protagonisten
 
-### Deutungshypothese aufstellen
+# Dramenarten
 
-Die Deutungshypothese ist eine Vermutung über die Intention eines Textes. Was möchte das Werk bewirken? Welche Fragen wirft es auf?
+## Klassisches Drama
 
-### Werkimmanent
+Aristotelisches Drama in 5 Akten
 
-Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Beispiel Gesellschaft, Politik, etc.
+## Episches Drama
 
-### Werksübergreifend
-
-# Konkurrenz literarischer Motive um 19. Jahrhundert
-
-## Verfahren des Gedichtsvergleich
-
-1. Analyse und Deutung von Gedicht A, dann von Gedicht B, dann der Vergleich
-2. Analyse und Deutung von Gedicht A, dann Gedicht B, auf Basis aufgabenentsprechender und selbstgewählter Kriterien (diachrones Verfahren)
-3. Aspektorientiert vergleichende Gedichtanalyse beider Gedichte (synchrones Verfahren)
-
-## Naturalismus
-
-## Impressionismus
-
-# Werke
-
-## Woyzeck
-
-### Themen und Motive
-
-### Theoretischer Kontext
-
-### Sprache im Drama
+## Offenes Drama
