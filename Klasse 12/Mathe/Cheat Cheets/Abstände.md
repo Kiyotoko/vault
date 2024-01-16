@@ -1,59 +1,72 @@
-### Abstand Punkt Ebene
+# Hessische Normalenform
 
-- Aufstellen einer Geradengleichung durch $P E$
-- Schnittpunkt der Gerade mit der Ebene $E$ ermitteln
-- $|\vec{PS}|$ berechnen
+$$\vec{n}\circ[\vec{x}-\vec{q}]=0\equiv \frac{ax+by+cz-d}{\sqrt{a^{2}+b^{2}+c^{2}}}=0$$
 
-**Beispiel**
-$E: 2x+y+2z=-2$
-$P(2|-1|2)$
-$g: \begin{pmatrix}2 \\ -1 \\ 2\end{pmatrix}+k\begin{pmatrix}2 \\ 1 \\ 2\end{pmatrix}$
-$2(2+2k)+(-1+k)+2(2+2k)=-2$
-$4+4k-1+k+4+4k=-2$
-$9k=-9$
-$k=-1$
-$S(0|-2|0)$
-$\vec{PS}=\begin{pmatrix}-2 \\ -1 \\ -2\end{pmatrix}$
-$|\vec{PS}|=\sqrt{9}=3$
+## Von Koordinatenform
 
-### Abstand Gerade Ebene
+$E: ax+by+cz=d$
 
-- Beliebigen Punkt auf der Gerade auswählen, dann wie oben beschrieben fortfahren
+Den Faktor $d$ auf die andere Seite ziehen und durch der Normalen der Ebene teilen.
+$E: \frac{ax+by+cz-d}{\sqrt{a^{2}+b^{2}+c^{2}}}=0$
 
-### Abstand Punkt Gerade
+## Von Parameterform
 
-- Aufstellen der Punkte $P$ und $Q$
-- Vektor $\vec{PQ}$ aufstellen
+$E: \vec{A}=s\cdot\vec{B}+t\cdot\vec{C}$
+
+Das Kreuzprodukt der Richtungsvektoren ergibt die Normale der Ebene.
+$\vec{q}=\vec{A}$
+$\vec{n}=\vec{B}\times\vec{C}$
+$E:\vec{n}\circ[\vec{x}-\vec{q}]=0$
+
+# Abstände
+
+## Abstand Punkt Ebene
+
+$E:ax+bx+cx=d$
+$P(p_{1}|p_{2}|p_{3})$
+
+Hessische Normalenform
+$d=\frac{ax+bx+cx-d}{\sqrt{a^{2}+b^{2}+c^{2}}}=\frac{ap_{1}+bp_{2}+cp_{3}-d}{\sqrt{a^{2}+b^{2}+c^{2}}}$
+
+## Abstand Gerade Ebene
+
+- Wenn die Gerade durch die Ebene geht, ist der Abstand 0
+- Ansonsten muss die Gerade parallel zur Ebene sein
+- Beliebigen Punkt auf der Gerade auswählen, dann fortfahren wie Abstand Punkt Ebene
+
+## Abstand Punkt Gerade
+
+- Zwei beliebige Punkte auf Gerade wählen
 - Minimum bei der Länge des Vektors bestimmen
 
-**Beispiel**
-$g:\vec{x}=\begin{pmatrix}6 \\ 1 \\ 6\end{pmatrix}+k\begin{pmatrix}3 \\ -2 \\ 4\end{pmatrix}$
-$P(4|-5|8)$
-$Q(6+3k|1-2k|6+4k)$
-$\vec{PQ}=\begin{pmatrix}6+3k-4 \\ 1-2k+5 \\ 6+4k-8\end{pmatrix}=\begin{pmatrix}2+3k \\ 6-2k \\ -2+4k\end{pmatrix}$
-$d=\sqrt{(2+3k)^{2}+(6-2k)^{2}+(-2+4k)^{2}}$
+$g:\vec{A}+t\cdot\vec{B}$
+$P(p_{1}|p_{2}|p_{3})\equiv\vec{P}$
 
-Eingabe ins Grafikmenü des TR u. Minimum anzeigen lassen
-$TP(0.48|6.41)$
-Abstand $P-g$: $6.1$
+$g_{t=0}\mapsto\vec{Q}_{0}=\vec{A}$
+$g_{t=1}\mapsto\vec{Q}_{1}=\vec{A}+\vec{B}$
 
-### Abstand paralleler Geraden
+$d=\frac{|(\vec{P}-\vec{Q}_{0})\times(\vec{P}-\vec{Q}_{1})|}{|\vec{Q}_{0}-\vec{Q}_{1}|}$
 
-- Beliebigen Punkt auf Gerade auswählen, dann wie oben beschrieben fortfahren
+## Abstand paralleler Geraden
 
-### Abstand windschiefer Geraden
+- Beliebigen Punkt auf Gerade auswählen, dann fortfahren wie Abstand Punkt Gerade
 
-- Aufstellen einer Ebenengleichung, die $g_{1}$ enthält und parallel zu $g_{2}$ verläuft
+## Abstand windschiefer Geraden
+
+- Aufstellen einer Hilfseben, die $g_{1}$ enthält und parallel zu $g_{2}$ verläuft
 - Beliebigen Punkt auf $g_{2}$ wählen
-- Berechnen des Abstandes des Punktes von der Hilfsebene
+- Fortfahren wie bei Abstand Punkt Ebene
 
-**Beispiel**
-$g_{1}:\vec{x}=\begin{pmatrix}-2 \\ 3 \\ 5\end{pmatrix}+k\begin{pmatrix}1 \\ 2 \\ 0\end{pmatrix}$
-$g_{2}:\vec{x}=\begin{pmatrix}1 \\ -6 \\ 2\end{pmatrix}+t\begin{pmatrix}2 \\ 6 \\ 1\end{pmatrix}$
+$g_{1}:\vec{x}=\vec{A}+s\cdot\vec{B}$
+$g_{2}:\vec{x}=\vec{C}+t\cdot\vec{D}$
 
 Ebene aufstellen
-$E:\vec{x}=\begin{pmatrix}-2 \\ 3 \\ 5\end{pmatrix}+k\begin{pmatrix}1 \\ 2 \\ 0\end{pmatrix}+t\begin{pmatrix}2 \\ 6 \\ 1\end{pmatrix}$
-$2x-y+2z=3$
+$E:\vec{x}=\vec{A}+s\cdot\vec{B}+t\cdot\vec{D}$
 
-$\frac{2x-y+2z-3}{\sqrt{2^{2}+(-1)^{2}+2^{2}}}=0$
-$d=\frac{2\cdot1-(-6)+2\cdot2-3}{3}=\frac{2+6+4-3}{3}=3$
+$\vec{q}=\vec{A}$
+$\vec{n}=\vec{B}\times\vec{D}$
+
+$E:\vec{n}\circ\big[\vec{x}-\vec{q}\big]\mapsto ax+by+cz=d\quad\text{mit}\;\vec{x}=\vec{C}$
+
+Abstand berechnen
+$d=\frac{ax+by+cz-d}{\sqrt{a^{2}+b^{2}+c^{2}}}=\frac{a\vec{C}_{x}+b\vec{C}_{y}+c\vec{C}_{z}-d}{\sqrt{a^{2}+b^{2}+c^{2}}}$
