@@ -187,3 +187,5 @@ Akzeptanz des NS-Regimes durch jeden Einzelnen
 ### Vernichtung
 
 - Industrieller Massenmord in Konzentrationslagern
+
+(Siehe Folie 196)
