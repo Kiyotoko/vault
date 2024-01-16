@@ -16,13 +16,9 @@ $\cos{\alpha}=\frac{\vec{a}\circ\vec{b}}{|\vec{a}|\cdot|\vec{b}|}$
 
 Zwei Vektoren sind orthogonal zueinander (einen Winkel von 90° einschließen), wenn das Skalarprodukt Null ist.
 
-### Winkel zwischen zwei Ebenen
+Winkel zwischen zwei Ebenen: $\cos{\alpha}=\frac{\vec{n_{1}}\circ\vec{n_{2}}}{|\vec{n_{1}}|\cdot|\vec{n_{2}}|}$
 
-$\cos{\alpha}=\frac{\vec{n_{1}}\circ\vec{n_{2}}}{|\vec{n_{1}}|\cdot|\vec{n_{2}}|}$
-
-### Winkel zwischen Gerade und Ebene
-
-$\sin{\alpha}=\frac{\vec{v}\circ\vec{n}}{|\vec{v|\cdot|\vec{n}}|}$
+Winkel zwischen Gerade und Ebene: $\sin{\alpha}=\frac{\vec{v}\circ\vec{n}}{|\vec{v|\cdot|\vec{n}}|}$
 
 ## Vektorprodukt
 
