@@ -1026,3 +1026,12 @@ $p= \frac{F}{A}$
 $0K = -273^{\circ}C$
 
 $T\;\text{in}\;K=\vartheta\;\text{in}^{\circ}C+273$
+
+### Eigenschaften
+
+- Lösen nur vollkommen elastische Stöße untereinander aus.
+- Es gibt keine weiteren Anziehungs- oder Abstoßungskräfte untereinander
+- Gesamtenergie der Teilchen ist ausschließlich ihre kinetische Energie ihrer Translationsbewegung
+- Keine Aggregatzustandsänderung
+
+$$p \cdot V=n \cdot R \cdot T$$
