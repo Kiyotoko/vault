@@ -1035,3 +1035,5 @@ $T\;\text{in}\;K=\vartheta\;\text{in}^{\circ}C+273$
 - Keine Aggregatzustandsänderung
 
 $$p \cdot V=n \cdot R \cdot T$$
+
+> $p$, $T$ und $V$ sind Zustandsgrößen!

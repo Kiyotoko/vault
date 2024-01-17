@@ -570,6 +570,7 @@ $W=10TW=10\cdot10^{12}W$
 $p=m\cdot v=\frac{E}{c}=\frac{10\cdot10^{12}W\cdot100\cdot10^{-15}s}{3\cdot10^{8} \frac{m}{s}}=3.33\cdot10^{8}N\cdot s$
 
 $v=\frac{p}{1g}=3.33\cdot10^{-6} \frac{m}{s}$
+
 # Thermodynamik
 
 ## 2024-01-10
@@ -604,3 +605,11 @@ Durch einen Unterdruck wird der Siedepunkt und somit die Änderung des Aggregatz
 Offenes System: Turbine oder Mensch, tauscht Energie bzw. Wärme und Materie aus.
 Geschlossenes System: Kühlschrank oder Wasserkocher, tauscht Energie bzw. Wärme aus.
 Abgeschlossenes System: Thermoskanne, tauscht weder Energie bzw. Wärme noch Materie aus.
+
+## 2024-01-17
+
+$\approx3bar$
+
+---
+
+$V=\frac{nRT}{p}$
