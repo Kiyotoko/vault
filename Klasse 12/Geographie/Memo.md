@@ -131,3 +131,29 @@ A-->E[Rechtlich-Historisch]
 | Pull: Medien                                          | Pull: Infrastruktur und öffentliche Einrichtungen                                                                                                     |
 
 ![Push und Pull Faktoren](Working%20Materials/Bevölkerungsentwicklung%20und%20Verstädterung/Push%20und%20Pull%20Faktoren.jpeg)
+# Landschaftszonen und Landnutzungskonflikte
+
+## Landschaftszonen
+
+Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosphäre, Pedosphäre, etc.) in bestimmter Weise geprägter Bereich der Erdoberfläche, der sich durch charakteristische äußere Merkmale von anderen Landschaften unterscheidet.
+
+**Faktoren**
+- Wasserhaushalt
+- Klima
+- Mensch (Raumnutzung)
+- Relief
+- Gesteine
+- Böden
+- Faune
+
+## Landwirtschaft in den immerfeuchten Tropen
+
+### Shifting Cultivation
+
+- Zyklische Wechseln von Agrarfläche im Sekundärregenwald im Abstand von 15 bis 30 Jahren
+- Primärregenwald wurde abgeholzt und wird regelmäßig nachgeflanzt → Wanderfeldbau
+- Nährstoffe der abgeholzten Fläche dienen als Dünger
+- Die Felder verbrauchen die Nährstoffe für den Ertrag
+- Durch den Wechsel wird der Fläche neue Nährstoffe hinzugefügt
+- Ist das Intervall, indem die Felder gewechselt werden, zu kurz, so können nicht genug Nährstoffe erneuert werden → Ertrag sinkt Langfristig stetig
+- Brachjahre sind stets länger als Anbaujahre
