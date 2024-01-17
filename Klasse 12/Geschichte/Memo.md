@@ -166,6 +166,8 @@ Akzeptanz des NS-Regimes durch jeden Einzelnen
 | Ghettoisierung | 38-41 | Deportation und Internierung                  |
 | Vernichtung    | 41-45 | Massenmord                                    |
 
+Wannseekonferenz 1942
+
 ### Boykott
 
 - Arisierung
@@ -188,4 +190,19 @@ Akzeptanz des NS-Regimes durch jeden Einzelnen
 
 - Industrieller Massenmord in Konzentrationslagern
 
-(Siehe Folie 196)
+## Wiederstand im dritten Reich
+
+![](Working%20Materials/Stufen%20des%20Widerstandes.png)
+
+- Nonkonformität
+	- Nichtübereinstimmung der individuellen Haltung mit den allgemeinen anerkannten Normen und Ansichten.
+	- Beispiel: Auswanderung
+- Verweigerung
+	- Genereller und politischer Verstoß gegen Norme des Systems, Widersetzen von Anordnungen.
+	- Beispiel: Verweigerung des Hitlergrußes
+- Protest
+	- Ablehnung des Systems; Versuch, mit eigenen Ansichten auf öffentliche Meinung Einfluss zu nehmen.
+	- Beispiel: Demonstration
+- Wiederstand
+	- Ablehnung des NS-Regimes als Ganzes: Maßnahmen zur Vorbereitung eines Sturzes im Rahmen der individuellen Handlungsmöglichkeiten.
+	- Beispiel: Attentat auf Hitler
