@@ -183,5 +183,5 @@ Publisher A publishes something wrong. Publisher B reprints the article from A. 
 | Ebay         | Education          | Streaming |
 | Amazon       | Virtual Assistance | Art       |
 | Merch        | Marketing          | FOSS      |
-| Dropshipping | Remote Work        |           |
+| Dropshipping | Remote Work        | Tutorials |
 |              | Couching           |           |
