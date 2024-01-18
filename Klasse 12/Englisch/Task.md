@@ -174,3 +174,14 @@ Publisher A publishes something wrong. Publisher B reprints the article from A. 
 	- It restricts the freedom of speech
 	- You could promote fake news from the platform itself or the goverment as trustworthy, because every other fake news was removed from the platform
 	- Power may be abused
+
+## 2024-01-18
+
+| Product      | Service            | Content   |
+| ------------ | ------------------ | --------- |
+| Reselling    | Freelancing        | YouTube   |
+| Ebay         | Education          | Streaming |
+| Amazon       | Virtual Assistance | Art       |
+| Merch        | Marketing          | FOSS      |
+| Dropshipping | Remote Work        |           |
+|              | Couching           |           |
