@@ -102,6 +102,13 @@ Eine Relation befindet sich in der 3. Normalform, wenn sie die 2. NF erfüllt un
 
 ## Farbmodelle
 
+| Rgb                     | CMYK                   | HSB                       | Lab                                |
+| ----------------------- | ---------------------- | ------------------------- | ---------------------------------- |
+| Red Green Blue          | Cyan Magnet Yellow Key | Hue Saturation Brightness | Luminan a-axes b-axes              |
+| RGB [%]                 | CMYK [%]               | H [°], SB [%]             | L [0:100], a [-150:1] b [-100:150] |
+| Additiv                 | Subtraktiv             | Additiv                   | Additiv                            |
+| Farbmischung am Monitor | Drucktechnik           | Grafikprogram             | Theoretisches                                   |
+
 ### RGB
 
 - Red Green Blue
