@@ -33,6 +33,7 @@
 # Soziales
 
 - Amnestiepolitik (Eingliederung ehemalier Amtsträger im NS-Staat)
+- Wiedergutmachungspolitik gegenüber Israel und den Juden
 
 # Militärisch
 
