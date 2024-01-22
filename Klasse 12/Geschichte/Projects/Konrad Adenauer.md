@@ -29,11 +29,12 @@
 - Marshallplan hilft Deutschland
 - Vertraute auf Hermann Josef Abs, welcher von 1957 und 1967 Aufsichtsratsvorsitzender der Deutschen Bank war
 - Abs war einer der Hauptakteure der Arisierung und bereits Vorstand der Deutschen Bank AG im dritten Reich
-- 
 
 # Soziales
+
+- Amnestiepolitik (Eingliederung ehemalier Amtsträger im NS-Staat)
 
 # Militärisch
 
 - Westintegration (Amt des Außenministers)
-- Nato
+- Nato Beitritt
