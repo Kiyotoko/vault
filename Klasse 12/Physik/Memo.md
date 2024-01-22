@@ -1037,3 +1037,49 @@ $T\;\text{in}\;K=\vartheta\;\text{in}^{\circ}C+273$
 $$p \cdot V=n \cdot R \cdot T$$
 
 > $p$, $T$ und $V$ sind Zustandsgrößen!
+
+## Thermodynamisches Gleichgewicht und Wärme
+
+### Mechanisches & chemisches Gleichgewicht
+
+Besteht bei zwei miteinander verbundenen Systemen ein Druck- oder Konzentrationsunterschied, so gleichen sich Druck und Konzentration über die Zeit aus.
+
+### Thermisches Gleichgewicht
+
+Besitzen zwei miteinander verbundene Systeme einen Temperaturunterschied, so gleicht sich die Temperatur der Systeme über die Zeit an.
+
+### Wärme $Q$
+
+Thermische Energie, die von einem System aufgenommen oder abgegeben wird, aufgrund eines Temperaturunterschiedes.
+
+$$Q=mc\cdot \Delta T=mc\cdot (T_{\text{end}}-T_{\text{an}})$$
+$\Delta T$ Temperaturunterschied
+$m$ Masse
+$c$ Spezifische Wärmekapazität ($c_{p}$ wenn Druck konstant, $c_{v}$, wenn Volumen konstant)
+
+> $Q>0$ Wärmeaufnahme
+> $Q<0$ Wärmeabgabe
+
+**Beispiel**
+$c_{\ce{H2O}}=4.19\frac{kJ}{kg\cdot K}$
+Man benötig 4.19 kJ, um 1 kg Wasser um 1 K zu erwärmen.
+
+> Temperaturdifferenzen sind unabhängig ob gegeben in Kelvin oder Grad Celisus.
+
+### Mischtemperatur
+
+$m_{1}c_{\ce{H2O}}(T_{1}-T_{m})+m_{1}c_{\ce{H2O}}(T_{2}-T_{M})=0$
+$T_{M}(m_{1}c_{\ce{H2O}})+m_{2}c_{\ce{H2O}}=m_{1}c_{\ce{H2O}}T_{1}+m_{2}c_{\ce{H2O}}+T_{2}$
+$T_{M}=\frac{m_{1}c_{\ce{H2O}}T_{1}+m_{2}c_{\ce{H2O}}T_{2}}{m_{1}c_{\ce{H2O}}+m_{2}c_{\ce{H2O}}}$
+
+### Wärmestrahlung
+
+Körper, welche wärmer sind als die Umgebung, emittieren Wärme, wobei sie Energie über Zeit an die Umgebung abgeben (Strahlung). Dies passiert solange, bis sich Körper und Umgebungstemperatur ausgeglichen haben.
+
+### Wärmeleitung
+
+Ist an Materie gebunden, wobei Teilchen durch Bewegung bzw. Schwingung Energie austauschen. Wärmeleitfähigkeit hängt von der Kopplung der Teilchen untereinander ab sowie der elektrischen Leitfähigkeit.
+
+### Wärmeströmung
+
+Wärmetransport durch Stofftransport.
