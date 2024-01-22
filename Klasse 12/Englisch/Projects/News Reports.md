@@ -18,6 +18,12 @@ Für die geplanten Verfahrensvereinfachungen zur Abschiebung warb Bundesinnenmin
 
 Der Entwurf für ein "Rückführungsverbesserungsgesetz" sehe teils Maßnahmen vor, die einen "Eingriff in elementare Grundrechte" darstellten, kritisierte Grünenpolitikerin Polat. Ihre Fraktion wolle daher genau prüfen, ob dies gerechtfertigt sei. Der FDP-Innenpolitiker Stephan Thomae sagte dagegen, es sei eine Reform mit Augenmaß. Das Vorhaben soll dafür sorgen, dass Abschiebungen nicht mehr so oft im letzten Moment scheitern, etwa weil die Betroffenen nicht auffindbar sind.
 
+### Mehr Rechte für Polizei bei Durchsuchungen
+
+In der Vergangenheit scheiterten Abschiebungen immer wieder daran, dass Betroffene untertauchten und nicht mehr auffindbar waren. Deshalb wird etwa die gesetzliche Höchstdauer des Ausreisegewahrsams von bislang 10 Tagen auf 28 Tage verlängert. Außerdem dürfen Behördenvertreter künftig in Gemeinschaftsunterkünften auch andere Räume betreten als nur das Zimmer des Abzuschiebenden.
+
+Der Gesetzentwurf war in der letzten Sitzungswoche vor Weihnachten kurzfristig von der Tagesordnung des Bundestags genommen worden, weil die Grünen noch Nachbesserungen gefordert hatten. Auf ihr Drängen soll den Betroffenen nun ein Anwalt zur Seite gestellt werden. Für Familien mit minderjährigen Kindern wird zudem die Abschiebehaft grundsätzlich ausgeschlossen.
+
 ### Verlängerung des Ausreisegewahrsams
 
 Die Höchstdauer des Ausreisegewahrsams soll von derzeit zehn auf 28 Tage verlängert werden. Ferner sind erweiterte Befugnisse von Behörden vorgesehen, etwa sollen Behördenvertreter in Gemeinschaftsunterkünften auch andere Räume als das Zimmer des Abzuschiebenden betreten dürfen. Schleuser sollen zudem schneller ausgewiesen werden können.
@@ -29,6 +35,10 @@ Es sei zwar zu begrüßen, dass die Ampelkoalition nun erste Anstrengungen unter
 In den Jahren 2021 und 2022 gab es pro Jahr etwa 12.000 Abschiebungen. Im Gesetzentwurf heißt es, es werde angenommen, dass durch die verschärften Regelungen jährlich etwa 600 Ausreisepflichtige mehr als bisher abgeschoben werden könnten. Ende Oktober hielten sich nach Angaben des Bundesinnenministeriums 250.749 Ausreisepflichtige in Deutschland auf.
 
 Unter ihnen waren 201.084 Menschen, die eine Duldung besaßen, also eine temporäre Aussetzung der Abschiebung. Gründe für eine Duldung können etwa eine Erkrankung sein oder fehlende Ausweisdokumente.
+
+### Integrationsleistungen sollen belohnt werden
+
+Einbürgerungen werden schon nach fünf statt wie bisher acht Jahren möglich, bei "besonderen Integrationsleistungen" sogar nach drei Jahren. Das können besonders gute Leistungen in Schule oder Beruf oder bürgerschaftliches Engagement sein. Kinder ausländischer Eltern bekommen künftig mit der Geburt die deutsche Staatsbürgerschaft, wenn ein Elternteil hierzulande seit fünf Jahren rechtmäßig wohnt. Das war bisher erst nach acht Jahren der Fall.
 
 ### Kritiken von der CDU
 
