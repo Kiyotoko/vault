@@ -76,7 +76,7 @@ Wann ist Fotografie Kunst?
 - Kunstanspruch
 - Denkanstoß/Interpretation
 
-## Kriterien für ein gutes Foto
+## Qualitätskriterien
 
 - Motiv
 	- Interresse wecken
@@ -89,3 +89,8 @@ Wann ist Fotografie Kunst?
 - Perspektive
 - Licht und somit Farbe entsprechend Motiv/Intention
 - Kontrast
+
+## Bild bewerten
+
+- Ersteindruck / Inhalt / Formalia
+- Wie wirkt es? Wodurch wird die Wirkung erzielt? Wie ist es dargestellt? Perspektive, Kameraausschnitt, Format
