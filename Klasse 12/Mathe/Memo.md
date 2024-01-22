@@ -364,3 +364,11 @@ $\int\limits_{0}^{4}-x^{2}+4x\;\mathrm{d}x=[- \frac{1}{3}x^{3}+2x^{2}]_{0}^{3}=-
 - Fläche ist oberhalb der x-Achse
 - untere Integrationsgrenze ist kleiner als obere Integrationsgrenze
 - keine Nullstelle und keine Polstellen im Integrationsintervall
+
+## Fläche zwischen zwei Funktionen
+
+Wenn $f$ und $g$ zwei Funktionen sind, die auf dem Intervall $[a:b]$ stetig sind und $g(x)\le f(x)$ für alle $x$ in $[a; b]$, dann ist die Fläche, die von beiden Funktionen eingeschlossen wird gleich
+
+$$A=\int_{a}^{b}[f(x)-g(x)]\;\mathrm{d}x$$
+
+Wenn die Funktionen Schnittpunkte besitzen, so muss man Teilintegrale für diese Abschnitte aufstellen.
