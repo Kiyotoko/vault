@@ -613,3 +613,47 @@ $\approx3bar$
 ---
 
 $V=\frac{nRT}{p}$
+
+## 2024-01-22
+
+$m=1kg$
+$q_{s}=334 \frac{kJ}{kg}$
+$q_{v}=2260 \frac{kJ}{kg}$
+$c=4.186 \frac{kJ}{kg\cdot K}$
+
+$Q_{s}=q_{s}\cdot m=334 \frac{kJ}{kg}\cdot1kg=334kJ$
+$Q_{0\to100}=m\cdot c\cdot 100K=419kJ$
+$Q_{v}=q_{v}\cdot m=2260 \frac{kJ}{kg}=2260kJ$
+
+---
+
+$\varrho=1 \frac{g}{cm^{3}}$
+$V=1000L=1000kg$
+$c_\ce{H2O}=4.19 \frac{kJ}{kg\cdot K}$
+
+$Q=m\cdot c\cdot\Delta T=m\cdot c(90^{\circ}-20^{\circ})=1000kg\cdot 4.19 \frac{kJ}{kg\cdot K}\cdot70K=293300kJ$
+
+---
+
+$c_{v}=1.01 \frac{kJ}{kg\cdot K}$
+$V=\frac{Q}{\varrho\cdot c\cdot \Delta T}=\frac{293300kJ}{1.29 \frac{kg}{m^{3}}\cdot1.01 \frac{kJ}{kg\cdot K}\cdot 4K}=56278m^{3}$
+
+---
+
+$m_{A}=\frac{1}{2}L$
+$T_{A,1}=25^{\circ}C$
+$T_{A,2}=10^{\circ}C$
+$m_{E}=10g$
+$T_{E}=-18^{\circ}C$
+
+$c_{\text{Eis}}=2.09 \frac{kJ}{kg\cdot K}$
+$c_{\text{Wasser}}=4.19 \frac{kJ}{kg\cdot K}$
+$q_{s}=334 \frac{kJ}{kg}$
+
+$Q_{-10\to0}=0.01g\cdot c\cdot 10K=0.01g\cdot2.09 \frac{kJ}{kg\cdot K}\cdot10K$
+$Q_{s}=q_{s}\cdot 0.01g=0.01g\cdot 334 \frac{kJ}{kg}$
+$Q_{0\to10}=m\cdot c\cdot10K=0.01g\cdot 4.19 \frac{kJ}{kg\cdot K}\cdot10K$
+$Q_{25\to10}=m\cdot c\cdot 15K=0.5kg\cdot 4.19 \frac{kJ}{kg\cdot K}\cdot15K=31.4kJ$
+
+$n\cdot Q_{auf}=Q_{ab}$
+$n=\frac{Q_{ab}}{Q_{auf}}=\frac{0.5kg\cdot 4.19 \frac{kJ}{kg\cdot K}\cdot15K}{0.01kg\cdot(2.09\frac{kJ}{kg\cdot K}\cdot10k+334 \frac{kJ}{kg})+4.19 \frac{kJ}{kg\cdot K}\cdot10K}=7.9\approx8$
