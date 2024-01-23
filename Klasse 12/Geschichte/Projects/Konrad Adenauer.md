@@ -21,6 +21,8 @@
 - Enge Anbindung an die westeuropäischen Staaten
 - Gliedert Deutschland in die Pakte des Westens mit ein
 - Westen = Siegermächte USA, Frankreich und England sowie deren Verbündeten
+- Trizone (Zusammenschließen der 3 westlichen Besatzungszonen zur BRD)
+- Westdeutschland als Bollwerk gegen den sowjetischen Kommunismus
 
 ## Wirtschaft
 
@@ -49,6 +51,7 @@
 ## Militärisch
 
 - Nato Beitritt
+- Truman-Doktrin (Eindämmung des Kommunismus) → Kalter Krieg
 
 # Literatur
 
