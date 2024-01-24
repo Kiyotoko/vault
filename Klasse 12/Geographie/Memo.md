@@ -179,6 +179,21 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - Nur Möglich bei geringer Bevölkerungsdichte, da genug Anbaufläche vorhanden
 - Bevölkerung wächst → verstärkter Nahrungsbedarf → Brachzeiten verkürzt → Qualität der Sekundärvegetation nimmt ab
 
+#### Ecofarming
+
+**Alte und neue Nutzungsformen Ecofarming**
+- Kombination alter und neuer Nutzungsformen
+- Alte Pflanzenarten (höhere Resistenz gegen Krankheiten u. Schädlinge)
+
+**Ziele des Ecofarming**
+- Low-external-input --> entgegenwirken struktureller Engpässe der ländlichen/ländlichen Entwicklung, ökologische Risiken
+- Bodenfruchtbarkeit sichern --> organischer Dünger, Erosionsschutz, Agrofortselemente (Bäume, Sträucher)
+
+**Grenzen des Standorts**
+- extreme Bodennährstoffdefiziten benötigen größere Zeiträume
+- um das ökologische Gleichgewicht herzustellen
+- Wassermangel kann zu einen straken limitierenden Produktionsfaktor führen
+
 ### Vegetation
 
 ### Klimatische Bedingungen
