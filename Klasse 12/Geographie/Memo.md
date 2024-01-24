@@ -208,7 +208,7 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 	- naturnah, standortgerecht, bodenschonend & ökologisch
 - ständige Beschattung = konstante Bodentemperatur
 - verzweigtes Wurzelwerk = weniger Bodenabtragung
-- Monokulturen -> Anfälligkeit für Schädlinge
+- Monokulturen -> Anfälligkeit für Schädlinge, Schlecht für die Artenvielfalt
 - Bodenauslaugungen (entziehen Boden einseitig Nährstoffe)
 - viel Düngung, Pestizide notwendig
 
