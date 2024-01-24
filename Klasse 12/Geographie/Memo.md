@@ -148,7 +148,9 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 
 ## Landwirtschaft in den immer feuchten Tropen
 
-### Shifting Cultivation
+### Anthropogene Nutzung
+
+#### Shifting Cultivation
 
 **Entstehung**
 - 0.5 bis 2 ha vom Primärwald wird gerodet
@@ -176,3 +178,13 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - Nach drei Jahren unterschreitet der Nährstoffgehalt eine kritische Grenze, der den Ertrag nicht länger ökonomisch lukrativ macht
 - Nur Möglich bei geringer Bevölkerungsdichte, da genug Anbaufläche vorhanden
 - Bevölkerung wächst → verstärkter Nahrungsbedarf → Brachzeiten verkürzt → Qualität der Sekundärvegetation nimmt ab
+
+### Vegetation
+
+### Klimatische Bedingungen
+
+**Beispiel**
+- Padang liegt nordöstlich von Australien
+
+
+### Eigenschaften des Bodens
