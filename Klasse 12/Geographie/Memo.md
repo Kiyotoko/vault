@@ -165,7 +165,6 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - Ist das Intervall, indem die Felder gewechselt werden, zu kurz, so können nicht genug Nährstoffe erneuert werden → Ertrag sinkt Langfristig stetig
 - Brachjahre sind stets länger als Anbaujahre
 
-
 **Vorteile**
 - Geringste Degradation (Entwertung der Bodenqualität) des tropischen Regenwaldes
 - Mobilisierung von Nährstoffen durch Mykorrhiza (Symbiose von Pilzen und Pflanzen)
@@ -194,12 +193,23 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - um das ökologische Gleichgewicht herzustellen
 - Wassermangel kann zu einen straken limitierenden Produktionsfaktor führen
 
+#### Plantagenwirtschaft
+
+
+
 ### Vegetation
 
 ### Klimatische Bedingungen
 
 **Beispiel**
-- Padang liegt nordöstlich von Australien
-
+- Madang liegt nordöstlich von Australien
+- Madang liegt in der ITC -> zusammenströmen von Nordost- und Südostpassate 
+    - hohe Niederschläge -> 3378mm  
+- Durchschnittstemperatur 26,7° -> Madang liegt am Äquator  
+    - Küstennähe -> nimmt Einfluss auf die Temperaturen (wenig Temperaturschwankungen)
+    - hohe Sonneneinstrahlung, aufgrund der Nähe zum Äquator, sorgt für ganzjährig hohe Temperaturen (gleichzeitig auch zusammen mit dem hohen Niederschlag Grund für die Bildung vom Regenwald)
+- In Äquatorialer Klimazone, deswegen Äquatorialklima -> feucht und warm 
+    - Humides Klima
+	- Verteilung Niederschlag: Oktober bis Mai am meisten Niederschlag; Juni bis September Niederschlag tief
 
 ### Eigenschaften des Bodens
