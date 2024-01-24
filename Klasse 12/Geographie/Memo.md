@@ -146,14 +146,33 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - Böden
 - Faune
 
-## Landwirtschaft in den immerfeuchten Tropen
+## Landwirtschaft in den immer feuchten Tropen
 
 ### Shifting Cultivation
 
+**Entstehung**
+- 0.5 bis 2 ha vom Primärwald wird gerodet
+- Bäume werden gefällt, Baumstümpfe bleiben
+- Holzreste werden verbrannt, Asche steigert die natürlich geringe Ertragfähigkeit tropischer Böden aka. Nährstoffe der abgeholzten Fläche dienen als Dünger
+- Angebaut wird Hauptsächlich Trockenreis in den asiatischen Böden, Maniok und Mais in Afrika und Lateinamerika
+
+**Zyklus**
 - Zyklische Wechseln von Agrarfläche im Sekundärregenwald im Abstand von 15 bis 30 Jahren
 - Primärregenwald wurde abgeholzt und wird regelmäßig nachgeflanzt → Wanderfeldbau
-- Nährstoffe der abgeholzten Fläche dienen als Dünger
-- Die Felder verbrauchen die Nährstoffe für den Ertrag
 - Durch den Wechsel wird der Fläche neue Nährstoffe hinzugefügt
 - Ist das Intervall, indem die Felder gewechselt werden, zu kurz, so können nicht genug Nährstoffe erneuert werden → Ertrag sinkt Langfristig stetig
 - Brachjahre sind stets länger als Anbaujahre
+
+
+**Vorteile**
+- Geringste Degradation (Entwertung der Bodenqualität) des tropischen Regenwaldes
+- Mobilisierung von Nährstoffen durch Mykorrhiza (Symbiose von Pilzen und Pflanzen)
+- Asche versorg Böden mit Nährstoffen 
+- Unkraut und Schädlinge werden durch Feuer vernichtet
+
+**Nachteile**
+- Anbau nur 1 bis 4 Jahre möglich, Abhängig von Region
+- Asche wird durch Starkregen weggeschwemmt oder durch Bodenwasserstrom in die Tiefe transportiert, sodass Wurzeln der Pflanzen die Nährstoffe nicht mehr erreichen
+- Nach drei Jahren unterschreitet der Nährstoffgehalt eine kritische Grenze, der den Ertrag nicht länger ökonomisch lukrativ macht
+- Nur Möglich bei geringer Bevölkerungsdichte, da genug Anbaufläche vorhanden
+- Bevölkerung wächst → verstärkter Nahrungsbedarf → Brachzeiten verkürzt → Qualität der Sekundärvegetation nimmt ab
