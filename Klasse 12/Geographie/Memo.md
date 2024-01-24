@@ -185,8 +185,8 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - Alte Pflanzenarten (höhere Resistenz gegen Krankheiten u. Schädlinge)
 
 **Ziele des Ecofarming**
-- Low-external-input --> entgegenwirken struktureller Engpässe der ländlichen/ländlichen Entwicklung, ökologische Risiken
-- Bodenfruchtbarkeit sichern --> organischer Dünger, Erosionsschutz, Agrofortselemente (Bäume, Sträucher)
+- Low-external-input → entgegenwirken struktureller Engpässe der ländlichen/ländlichen Entwicklung, ökologische Risiken
+- Bodenfruchtbarkeit sichern → organischer Dünger, Erosionsschutz, Agrofortselemente (Bäume, Sträucher)
 
 **Grenzen des Standorts**
 - extreme Bodennährstoffdefiziten benötigen größere Zeiträume
@@ -195,7 +195,28 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 
 #### Plantagenwirtschaft
 
+**Definition**
+- Landwirtschaftliche Großbetriebe
+- hoher Aufwand an Kapital -> Produkte für Weltmarkt erzeugen
+- meist mehrjährige Nutzpflanzen o. Dauerkulturen
+- Aufbereitungs- und Vermarktungsanlagen mit Infrastruktur
+- Weist Züge des Agrobusiness auf
 
+**Ökologische Aspekte**
+- Anbau von Strauch- und Baumkulturen
+	- natürlicher Vegetation der feuchten Tropen ähnlich 
+	- naturnah, standortgerecht, bodenschonend & ökologisch
+- ständige Beschattung = konstante Bodentemperatur
+- verzweigtes Wurzelwerk = weniger Bodenabtragung
+- Monokulturen -> Anfälligkeit für Schädlinge
+- Bodenauslaugungen (entziehen Boden einseitig Nährstoffe)
+- viel Düngung, Pestizide notwendig
+
+**Anbau von Ölpalmen**
+- nicht grundsätzlich schlecht, da höchste Ertrag aller Ölpflanzen
+- Bedienung steigender Nachfrage nach Pflanzenölen
+- Förderung von anderen Pflanzenölen = ähnliche Probleme in anderen Ländern
+- wichtiger wirtschaftlicher Faktor in Anbauländern + wichtige Arbeitsplätze
 
 ### Vegetation
 
@@ -213,3 +234,22 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 	- Verteilung Niederschlag: Oktober bis Mai am meisten Niederschlag; Juni bis September Niederschlag tief
 
 ### Eigenschaften des Bodens
+
+**Aufbau**
+- Pilze
+- kleine Pflanzen
+
+**Humusschicht**
+- Nährstoffreich
+- Absterbende Blätter, Bäume, etc.
+- meiste Wurzeln in 20 bis 30 cm, Festigung des Bodens
+
+**Unterer Teil**
+- Nährstoffarm, hard
+- Verwitterunganteil 5 bis 20 m
+- Wurzeln kommen nicht durch
+- Bodenacidität hoch: 3.5 ph -> Hemmung Nährstoffaufnahme
+- Vernässung
+	- oxidation der vielen Metalle
+	- "Rostet" wird undurchdringlich
+
