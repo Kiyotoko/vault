@@ -2,7 +2,6 @@
 
 Die Griechen belagerten die Stadt Troja schon seit zehn Jahren, konnten sie jedoch nicht erobern.  
 
-
 > Tandem Ulixes consilium ==cepit== Troianos ==dolosuperare==.
 
  Schließlich fasste Odysseus den Entschluss, die Trojaner durch List zu überlisten.
@@ -13,11 +12,11 @@ Er rief die Könige der Griechen zusammen und sagte:
 
 > "Iam diu", ==inquit==, "frustra urbeem hostium ==oppugnamus==.
 
-Aber bald wird uns ein Ausweg geboten sein.
+"Aber bald wird uns ein Ausweg geboten sein.
 
 > Sed mox nobis spex vectoriae ==erit==.
 
-"Schon lange belagern wir vergeblich die Stadt des Feindes.
+Schon lange belagern wir vergeblich die Stadt des Feindes.
 
 > Equum ligneum aedificabimus ==est== ..."
 
