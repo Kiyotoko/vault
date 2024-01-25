@@ -185,3 +185,10 @@ Publisher A publishes something wrong. Publisher B reprints the article from A. 
 | Merch        | Marketing          | FOSS      |
 | Dropshipping | Remote Work        | Tutorials |
 |              | Couching           |           |
+
+## 2024-01-25
+
+1. What is Meta planning to do?
+2. How much will this cost users?
+3. Why have they decided to do this?
+4. Would you rather pay for social media with money or with personal information?
