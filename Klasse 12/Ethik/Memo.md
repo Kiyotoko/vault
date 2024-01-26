@@ -128,4 +128,3 @@ Aus Pflicht
 # Gerechtigkeit
 
 ## Thomas Hobbes - Leviathan
-

@@ -87,3 +87,19 @@ Auf der rechten Darstellung der Justicia hebt diese ihre Augenbinde an. Auf der 
 - Regel/System/Aktion ist gerecht/ungerecht
 
 Der Begriff "Gerechtigkeit" wird nicht immer im moralischen Sinn gebraucht, sondern auch im Sinne von Fairness, Gleichheit und etwas "gerecht" werden, die Erwartungen zu erfüllen, genutzt,
+
+## 2024-01-26
+
+1. Welche Probleme (Naturzustand und Naturrecht) Thomas Hobbes veranlassen, sich zum Thema "Frieden" zu äußern.
+
+Naturzustand: Jeder kann Theoretisch jeden besiegen => Vorsicht vor den anderen
+Man versucht, sich des anderen zu bemächtigen, bis es keine größere Macht mehr gibt
+
+Jeder Krieg ist im Krieg mit jeden anderen
+Naturrecht: Recht jedem auf alles
+
+Erreichung des Friedens und Wahrung dessen
+
+2. Arbeiten sie heraus, welchen Ausweg er aus dieser problematischen Situationen sieht.
+
+Einer mit der Macht aller zur Gewährleistung von Frieden => Entsagen aller auf alle Rechte
