@@ -128,3 +128,8 @@ Aus Pflicht
 # Gerechtigkeit
 
 ## Thomas Hobbes - Leviathan
+
+Naturgesetze (gründen sich auf Vernunft: "man muss etwas tun")
+
+1. Mensch ist auf der Suche nach dauerhaftem Frieden, da er von Natur aus das Ziel der Selbsterhaltung verfolgt.
+2. Alle Menschen verzichten zugunsten des Friedens und der Sicherheit auf ihr Naturrecht (→ Einschränkung der Freiheit)
