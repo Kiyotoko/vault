@@ -125,3 +125,7 @@ Aus Pflicht
 
 ## Kritik an Kants Ethik
 
+# Gerechtigkeit
+
+## Thomas Hobbes - Leviathan
+
