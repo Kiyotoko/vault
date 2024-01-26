@@ -130,6 +130,17 @@ Aus Pflicht
 ## Thomas Hobbes - Leviathan
 
 Naturgesetze (gründen sich auf Vernunft: "man muss etwas tun")
-
 1. Mensch ist auf der Suche nach dauerhaftem Frieden, da er von Natur aus das Ziel der Selbsterhaltung verfolgt.
 2. Alle Menschen verzichten zugunsten des Friedens und der Sicherheit auf ihr Naturrecht (→ Einschränkung der Freiheit)
+
+Leviathan
+- Alleinherrscher (staatliches Gewaltmonopol in Form eines absolutistischen Monarchen) garantiert die Naturgesetze
+- Friede ist gesichert, Recht und Ordnung werden durch eine Autorität gewährleistet
+- Herrscht über Staat und Kirche
+- Aus Menschen werden Bürger
+- Durch den Gesellschaftsvertrag wird der Staat geboren (Gemeinschaftswillen)
+
+Naturzustand
+- Alle haben das gleiche Recht
+- Es wird ein Vertrag geschlossen, indem alle auf ihr gesamtes Recht verzichten
+- Zugunsten eines Souveräns, der alle Rechte behält und dafür Schutz verspricht
