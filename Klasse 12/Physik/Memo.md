@@ -1083,3 +1083,26 @@ Ist an Materie gebunden, wobei Teilchen durch Bewegung bzw. Schwingung Energie a
 ### Wärmeströmung
 
 Wärmetransport durch Stofftransport.
+
+## Erster Hauptsatz der Thermodynamik
+
+$$\Delta U=Q+W$$
+$\Delta U$ Änderung der inneren Energie
+$Q$ Wärme
+$W$ Arbeit
+
+### Isochore Zustandsänderung
+
+$V=\text{konst.}$
+
+### Isobare Zustandsänderung
+
+$p=\text{konst.}$
+
+### Isotherme Zustandsänderung
+
+$T=\text{konst.}$
+
+### Adiabatische Zustandsänderung
+
+$Q=0$
