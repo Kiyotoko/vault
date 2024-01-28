@@ -1086,6 +1086,7 @@ Wärmetransport durch Stofftransport.
 
 ## Erster Hauptsatz der Thermodynamik
 
+Bilanzgleichung der inneren Energie muss immer erfüllt sein, damit die Energie eines abgeschlossenen Systemes konstant ist.
 $$\Delta U=Q+W$$
 $\Delta U$ Änderung der inneren Energie
 $Q$ Wärme
@@ -1094,6 +1095,8 @@ $W$ Arbeit
 ### Isochore Zustandsänderung
 
 $V=\text{konst.}$
+
+y
 
 ### Isobare Zustandsänderung
 
