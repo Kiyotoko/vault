@@ -10,9 +10,9 @@
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Getting Started](#getting%20started)
 	- [Read-Only](#read-only)
-	- [With Obsidian](#with-obsidian)
+	- [With Obsidian](#with%20obsidian)
 - [Navigation](#navigation)
 
 ## Getting Started
