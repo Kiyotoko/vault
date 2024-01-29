@@ -1086,11 +1086,14 @@ Wärmetransport durch Stofftransport.
 
 ## Erster Hauptsatz der Thermodynamik
 
-Bilanzgleichung der inneren Energie muss immer erfüllt sein, damit die Energie eines abgeschlossenen Systemes konstant ist.
+Die innere Energie $U$ eines Systems kann durch Zufuhr oder Entzug von mechanischer Arbeit $W$ oder Wärmemenge $Q$ erhöht oder verringert werden:
 $$\Delta U=Q+W$$
 $\Delta U$ Änderung der inneren Energie
 $Q$ Wärme
 $W$ Arbeit
+
+$\Delta U>0$ Energieaufnahme
+$\Delta U<0$ Energieabgabe
 
 ### Isochore Zustandsänderung
 
