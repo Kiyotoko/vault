@@ -92,6 +92,17 @@ Interstellare Materie
 10. Nennen Sie die Nebelart, die besonders m blauen Bereich leuchtet: Reflexionsnebel
 11. Nennen Sie die ungefähre Anzahl der Sterne in der Milchstraße: 100 - 300 Milliarden
 12. Nennen den Wert für 1 Parsec in Lichtjahren $1\pu{pc}=3.26\pu{Ly}$
-13. Nenne den Universalgelehrten, der als erster beobachtete, dass das Milchstraßenband aus Sternen besteht: Galieleo Galile
+13. Nenne den Universalgelehrten, der als erster beobachtete, dass das Milchstraßenband aus Sternen besteht: Galileo Galile
 14. Nenne das häufigste Element im Universum: Wasserstoff
 15. Nenne eine Eigenschaft von H-II-Regionen, durch die sie sich von H-I unterscheiden: Bei H-I-Regionen liegt neutraler Wasserstoff vor, bei H-II liegt Wasserstoff in ionisierter Form vor
+
+---
+
+Protostern Merkmale
+- Aggregationsscheibe
+- Infrarotstrahlung besonders Intensiv
+- Spektralklassen F bis M
+
+Schwarzes Loch
+- Singularität
+- Große Gravitation
