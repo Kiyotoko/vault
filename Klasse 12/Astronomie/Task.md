@@ -77,3 +77,21 @@ End-Hauptreihenstadium
 Interstellare Materie
 
 - Materie zwischen 
+
+## 2024-01-29
+
+1. Nennen Sie ein riesiges Objekt im Zentrum der Milchstraße: Schwarzes Loch (Sagitarius A)
+2. Nennen Sie den Durchmesser des Zentrums unserer Milchstraße: 1300 Sonnenmassen
+3. Nennen Sie den Wert einer astronomischen Einheit: $150\cdot10^{6}\pu{km}$
+4. Nennen Sie die Galaxienart, zu der unsere Milchstraße gehört: Balkenspiralgalaxie
+5. Nennen Sie eine Nachbargalaxie der Milchstraße: Andromedagalaxie
+6. Nennen Sie den Durchmesser der Scheibe unserer Milchstraße: $30000\pu{pc}$
+7. Nennen Sie den Wert der Lichtgeschwindigkeit: $3\cdot10^{8}\pu{m // s}$
+8. Nennen Sie die Zeitdauer für einen Umlauf des Sonnensystems um das Zentrum unserer Galaxie: 250000 Jahre
+9. Nennen Sie das Sternbild, in dem sich das Zentrum und das schwarze Loch unsere Milchstraße befindet: Schützen
+10. Nennen Sie die Nebelart, die besonders m blauen Bereich leuchtet: Reflexionsnebel
+11. Nennen Sie die ungefähre Anzahl der Sterne in der Milchstraße: 100 - 300 Milliarden
+12. Nennen den Wert für 1 Parsec in Lichtjahren $1\pu{pc}=3.26\pu{Ly}$
+13. Nenne den Universalgelehrten, der als erster beobachtete, dass das Milchstraßenband aus Sternen besteht: Galieleo Galile
+14. Nenne das häufigste Element im Universum: Wasserstoff
+15. Nenne eine Eigenschaft von H-II-Regionen, durch die sie sich von H-I unterscheiden: Bei H-I-Regionen liegt neutraler Wasserstoff vor, bei H-II liegt Wasserstoff in ionisierter Form vor
