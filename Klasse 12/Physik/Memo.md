@@ -1120,3 +1120,21 @@ $Q=0\to \Delta U=W=mc_{V}(T_{2}-T_{1})$
 
 ## Carnot-Prozess
 
+### Zustandsänderung von 1 zu 2
+
+- isotherm
+- $Q_{12}=0$
+
+$W_{12}=\int_{V_{1}}^{V_{2}}p\;\mathrm{d}V=\int_{V_{1}}^{V_{2}} \frac{nRT}{V}\mathrm{d}V=\frac{nRT}{V}\int_{V_{1}}^{V_{2}}\mathrm{d}V=nRT[\ln{|V|}]_{V_{1}}^{V_{2}}=nRT\ln{\frac{V_{2}}{V_{1}}}$
+
+$W_{12}>0$ Arbeit wird am System verrichtet
+
+### Zustandsänderung von 2 zu 3
+
+- adiabatisch
+- $\Delta U=0\to Q=-W$
+
+$k=pV^{\gamma}=\text{konst.}$
+$\gamma$ adiabatischer Koeffizient
+
+$W_{23}=\int_{V_{1}}^{V_{2}}p\;\mathrm{d}V=\int_{V_{1}}^{V_{2}}\frac{k}{V^{\gamma}} \;\mathrm{d}V$
