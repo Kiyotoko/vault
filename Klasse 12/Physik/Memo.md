@@ -1097,18 +1097,23 @@ $\Delta U<0$ Energieabgabe
 
 ### Isochore Zustandsänderung
 
-$V=\text{konst.}$
-
-y
+$V=\text{konst.}\to \mathrm{d}V=0\to W=0$
+$\Delta U=Q+W=Q+0=Q=m\cdot c_{V}\cdot\Delta T$
 
 ### Isobare Zustandsänderung
 
-$p=\text{konst.}$
+$p=\text{konst.}\to W=\int p\mathrm{d}V=p\int\mathrm{d}V$
+$\Delta U=Q+W=mc_{p}\Delta T+p\int_{V_{0}}^{V_{1}}\mathrm{d}V=mc_{p}\Delta T+p(V_{0}-V_{1})$
 
 ### Isotherme Zustandsänderung
 
-$T=\text{konst.}$
+$T=\text{konst.}\to \Delta U=0$
+$0=Q+W\to Q=-W$
+
+Erfolgt so langsam, dass sich die Temperatur des Systems mit der Umgebungstemperatur immer ausgleicht.
 
 ### Adiabatische Zustandsänderung
 
-$Q=0$
+Erfolgt so schnell oder gut isoliert, dass kein Wärmeaustausch mit der Umgebung stattfindet
+
+$Q=0\to \Delta U=W=mc_{V}(T_{2}-T_{1})$
