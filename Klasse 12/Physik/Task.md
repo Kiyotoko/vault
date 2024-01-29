@@ -657,3 +657,45 @@ $Q_{25\to10}=m\cdot c\cdot 15K=0.5kg\cdot 4.19 \frac{kJ}{kg\cdot K}\cdot15K=31.4
 
 $n\cdot Q_{auf}=Q_{ab}$
 $n=\frac{Q_{ab}}{Q_{auf}}=\frac{0.5kg\cdot 4.19 \frac{kJ}{kg\cdot K}\cdot15K}{0.01kg\cdot(2.09\frac{kJ}{kg\cdot K}\cdot10k+334 \frac{kJ}{kg})+4.19 \frac{kJ}{kg\cdot K}\cdot10K}=7.9\approx8$
+
+## 2024-01-29
+
+$p=0.1\pu{MPa}$
+$T_{0}=293\pu{K}\;(20\pu{^\circ C})$
+$T_{1}=100 ^{\circ} C$
+
+$W=p \Delta V=p(V_{1}-V_{0})$
+$\frac{V_{0}}{T_{0}}=\frac{V_{1}}{T_{1}}\to V_{1}=V_{0} \frac{T_{1}}{T_{0}}$
+
+$W=p(V_{0} \frac{T_{1}}{T_{0}}- V_{0})=pV_{0}(\frac{T_{1}}{T_{0}}-1)=100000Pa\cdot1\pu{cm3}(\frac{273K}{293K}-1)\approx27300J$
+
+---
+
+$p_{2}=200000\pu{Pa}$
+$c_{V}=718\pu{J // kg K}$
+$V=\text{konst.}\to\mathrm{d}V=0\to W=0$
+
+$Q=mc_{V}(T_{2}-T_{1})$
+
+$\frac{p_{2}}{T_{2}}=\frac{p_{1}}{T_{1}}\to T_{2}=T_{1} \frac{p_{2}}{p_{1}}$
+$Q=mc_{V}(T_{1} \frac{p_{2}}{p_{1}}-T_{1})=mc_{V}T_{1}(\frac{p_{2}}{p_{1}}-1)$
+
+$m=\varrho V=1.29 \pu{kg // m3}1\pu{m3}=1.29\pu{kg}$
+
+$Q=1.29kg 718\pu{J // kgK} 293K(\frac{0.2}{0.1}-1)\approx271.4 kJ$ 
+
+---
+
+$p_{a}=101300\pu{Pa}$
+$R_{0}=283\pu{K}$
+$Q=126\pu{J}$
+$T_{1}=333\pu{K}\;(60\pu{^\circ C})$
+
+$P_\text{ges}=P_{a}+P_\text{Kolben}=P_{a}+ \frac{F_{g}}{A}=101300\pu{Pa}+ \frac{0.5\pu{kg}\cdot9.81\pu{m //s2}}{40\cdot 10^{-4}\pu{m2}}\approx102526\pu{Pa}$
+
+---
+
+isobarer Prozess ($p=\text{konst.}$)
+$\frac{V_{1}}{V_{2}}=\frac{T_{1}}{T_{2}}\quad\text{mit}\;\begin{matrix}V_{1}=A\cdot h_{1} \\ V_{2}=A\cdot h_{2}\end{matrix}$
+$V_{2}=\frac{T_{2}}{T_{1}}V_{1}$
+$h_{2}=\frac{T_{2}}{T_{1}}h_{1}=\frac{333\pu{K}}{283\pu{K}}49.6\pu{cm}\approx58.4\pu{cm}$
