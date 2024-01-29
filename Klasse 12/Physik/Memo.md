@@ -1117,3 +1117,6 @@ Erfolgt so langsam, dass sich die Temperatur des Systems mit der Umgebungstemper
 Erfolgt so schnell oder gut isoliert, dass kein Wärmeaustausch mit der Umgebung stattfindet
 
 $Q=0\to \Delta U=W=mc_{V}(T_{2}-T_{1})$
+
+## Carnot-Prozess
+
