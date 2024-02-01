@@ -255,4 +255,11 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 
 # Raumanalyse
 
-## Stadtentwicklungs
+## Stadtentwicklungsetappen und räumlich-funktionale Gliederungen
+
+| Stadttyp        | Gliederungen                                                                                              |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+| Römisch         | Geordnete Wohnbauten (Schachbrettmuster), dazwischen verteilte bedeutende Bauten, Marktplatz in der Mitte |
+| Mittelalterlich | Wälle, Stadtmauern, Kirche (religiöses Zentrum)                                                           |
+| Neuzeitlich     | Geplante u. geordnete Residenzen nach feudalem Stand                                                      |
+| Geplant         | Trennung Industrie u. Wohnsiedlung                                                                        |
