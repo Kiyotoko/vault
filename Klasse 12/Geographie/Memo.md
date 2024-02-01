@@ -253,3 +253,6 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 	- oxidation der vielen Metalle
 	- "Rostet" wird undurchdringlich
 
+# Raumanalyse
+
+## Stadtentwicklungs
