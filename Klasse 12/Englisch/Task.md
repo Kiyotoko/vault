@@ -192,3 +192,10 @@ Publisher A publishes something wrong. Publisher B reprints the article from A. 
 2. How much will this cost users?
 3. Why have they decided to do this?
 4. Would you rather pay for social media with money or with personal information?
+
+## 2024-02-01
+
+| Text type and purpose | Structure                                                                                                               | Language and style                                                   |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Broadsheet newspaper  | Headline: main information, Lead: most important point, wh-questions, researched                                        | fact focused, package information, not emotionally attached, neutral |
+| Tabloid newspaper     | Headline: sensationalised as shot and snappy as possible, Lead: most exiting point, Body: short, simple and superficial | Emotional, over dramatic                                             |
