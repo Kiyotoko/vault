@@ -108,9 +108,12 @@ Einer mit der Macht aller zur Gewährleistung von Frieden => Entsagen aller auf 
 Naturzustand
 - Der Mensch ist Frei
 - Kein Mensch herrscht über den anderen
+- Die Menschen sind perse Frei
+- Konkurrenz
 
 Gesellschaftsvertrag
-- Des Stärkere ist nie stark genug, immer Herr zu sein
+- Um Konkurrenz zu beenden, braucht es eine Ordnung
+- Der Stärkere ist nie stark genug, immer Herr zu sein
 	- Stärke zu Recht
 	- Gehorsam zu Pflicht
 - Aus Stärke als Vermögen kommt keine Verpflichtung -> Stärke schafft kein recht
@@ -126,4 +129,3 @@ Erläutere die Gründe, weshalb die Menschen sich genötigt sehen, den Naturzust
 - Ziel: Form des Zusammenschlusses finden, indem die alle Kraft aller Individuen gesammelt ist und gleichzeitig jedes Individuum genau so frei bleibt wie zuvor
 - Vertrag ist allgemein angenommen → Jeder muss sich daran halten
 - Jeder gibt sich voll für alle hin → Gleiche Aufgabe für alle
-- 
