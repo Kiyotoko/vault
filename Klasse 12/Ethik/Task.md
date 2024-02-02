@@ -108,8 +108,8 @@ Einer mit der Macht aller zur Gewährleistung von Frieden => Entsagen aller auf 
 Naturzustand
 - Der Mensch ist Frei
 - Kein Mensch herrscht über den anderen
-- Die Menschen sind perse Frei
-- Konkurrenz
+- Die Menschen sind perse Gleich
+- Konkurrenz → Selbstschutz vor dem Stärkeren
 
 Gesellschaftsvertrag
 - Um Konkurrenz zu beenden, braucht es eine Ordnung
