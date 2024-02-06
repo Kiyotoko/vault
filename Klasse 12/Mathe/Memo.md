@@ -378,3 +378,6 @@ Wenn die Funktionen Schnittpunkte besitzen, so muss man Teilintegrale für diese
 - Nullstellen des Graphen werden zu den Extremstellen des Integrals
 - Extremstellen des Graphen werden zu den Wendestellen des Integrals
 - Positive Werte des Graphen werden zum positiven Anstieg des Integrals
+
+## Rotationskörper
+
