@@ -381,3 +381,4 @@ Wenn die Funktionen Schnittpunkte besitzen, so muss man Teilintegrale für diese
 
 ## Rotationskörper
 
+$$V=\pi \int_{a}^{b} \big(f(x)\big)^{2}\;\mathrm{d}x$$

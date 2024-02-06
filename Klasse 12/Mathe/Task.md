@@ -475,3 +475,24 @@ $A=a\cdot b=4$
 $A=a\cdot b$
 $400=a\pi+2b$
 $a=\frac{400-2b}{\pi}$
+
+## 2024-02-06
+
+$i=[1:4]$
+$f(x)=e^{x}$
+
+$V=\pi\int_{1}^{4}\big(f(x)\big)^{2}\;\mathrm{d}x=4670.87$
+
+---
+
+$i=[0:2]$
+$f(x)=x-1$
+
+$V=\pi\int_{0}^{2}f(x)\;\mathrm{d}x=\pi\frac{2}{3}$
+
+---
+
+$i=[-1:1]$
+$f(x)=\sqrt{x^{2}+1}$
+
+$V=\pi\int_{-1}^{1} f(x)^{2}\;\mathrm{d}x=\pi \frac{8}{3}$
