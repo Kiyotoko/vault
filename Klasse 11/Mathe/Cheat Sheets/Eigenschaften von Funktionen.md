@@ -14,6 +14,10 @@ $0=f(x)$
 solve(f(x) = 0, x)
 ```
 
+```js
+zeros(f(x), x)
+```
+
 ## PQ-Formel
 
 Für quadratische Funktionen der Form $x^{2}+px+q=0$ gilt:

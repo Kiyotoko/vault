@@ -27,11 +27,13 @@ tags:
 
 **Beispiel**
 $f(x)=x^2\quad x_0=2$
-- $f'(x)=2x$
-- $P(2|f(2))=P(2|4)$
-- $m=f'(2)=4$
-- $4=4*2+n\to n=-4$
-- $t(x)=4x-4$
+
+$f'(x)=2x$
+$P(2|f(2))=P(2|4)$
+
+$m=f'(2)=4$
+$4=4\cdot2+n\to n=-4$
+$t(x)=4x-4$
 
 ## Von externen Punkten
 
