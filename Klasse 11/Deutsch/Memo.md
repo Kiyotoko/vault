@@ -7,31 +7,31 @@ tags:
 
 # Interpretation
 
-## Interpretation Eines Lyrischen Textes
+## Interpretation eines lyrischen Textes
 
 1. **Einleitung**
 	1. Einleitung mit Hinführung
-1. **Hauptteil**
+2. **Hauptteil**
 	1. Inhalt
-	1. Aufbau
-	1. Sprachliche Gestaltung
-	1. Lyrische Ich
-	1. Thema und Motive
-	1. Externe Deutungsaspekte
-1. **Schluss**
+	2. Aufbau
+	3. Sprachliche Gestaltung
+	4. Lyrische Ich
+	5. Thema und Motive
+	6. Externe Deutungsaspekte
+3. **Schluss**
 	1. Zusammenfassung
-	1. Fazit
+	2. Fazit
 
-## Metrum Und Rhythmus
+## Metrum und Rhythmus
 
-- Jambus \[X x\]
-- Trochäus \[x X\]
-- Anapäst \[X x x\]
-- Daktylus \[x x X\]
+- Jambus $[X, o]$
+- Trochäus $[o, X]$
+- Anapäst $[X, o, o]$
+- Daktylus $[o, o, X]$
 
 # Erörterung
 
-## Erörterung Eines Literarischen Textes
+## Erörterung eines literarischen Textes
 
 1. **Einleitung**
 	1. Hinführung

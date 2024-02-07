@@ -1,7 +1,3 @@
-# Eingenschaften Drama
-
-
-
 # Fachbegriffe zum Drama
 
 | Begriff               | Erklärung                                                                      |
@@ -35,22 +31,34 @@
 
 ## Aufbau Interpretation
 
-1. Einleitung
+1. **Einleitung**
 	1. Hinführung
 	2. Allgemeine Informationen
 	3. Eventuell historischen Kontext
 	4. Dramenart
 	5. Deutungshypothese
-2. Hauptteil
+2. **Hauptteil**
 	1. Funktion im Zusammenhang
 	2. Figuren des Dialogs
 	3. Aufbau des Gesprächs/Monologs
 	4. Sprachfunktionen
 	5. Sprachanalyse
 	6. Bezug zum Zuschauer
-3. Schluss
+3. **Schluss**
 	1. Deutungsergebnisse zusammenfassen
 	2. Bewerten der Handlungsweise der Protagonisten
+
+## Deutungshypothese aufstellen
+
+Die Deutungshypothese ist eine Vermutung über die Intention eines Textes. Was möchte das Werk bewirken? Welche Fragen wirft es auf?
+
+## Werkimmanent
+
+Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Beispiel Gesellschaft, Politik, etc.
+
+## Zitieren
+
+- Zitieren von Zeilen
 
 # Dramenarten
 

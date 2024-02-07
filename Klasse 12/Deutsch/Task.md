@@ -248,3 +248,7 @@ Doktor: "apoplektische Konstitution" (S. 22, V. 16)
 Woyzeck: "Ja wohl!" (S. 22, V. 24)
 
 Woyzeck wird durch eine überlegene Sprache auf eine niedrigere Ebene gestellt.
+
+
+# Besuch der alten Dame
+
