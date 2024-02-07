@@ -1095,6 +1095,8 @@ $W$ Arbeit
 $\Delta U>0$ Energieaufnahme
 $\Delta U<0$ Energieabgabe
 
+$$Q_{p}=mc_{p}\Delta T=\Delta U$$
+
 ### Isochore Zustandsänderung
 
 $V=\text{konst.}\to \mathrm{d}V=0\to W=0$
@@ -1122,19 +1124,66 @@ $Q=0\to \Delta U=W=mc_{V}(T_{2}-T_{1})$
 
 ### Zustandsänderung von 1 zu 2
 
-- isotherm
-- $Q_{12}=0$
+isotherm -> $\Delta U=0$
 
-$W_{12}=\int_{V_{1}}^{V_{2}}p\;\mathrm{d}V=\int_{V_{1}}^{V_{2}} \frac{nRT}{V}\mathrm{d}V=\frac{nRT}{V}\int_{V_{1}}^{V_{2}}\mathrm{d}V=nRT[\ln{|V|}]_{V_{1}}^{V_{2}}=nRT\ln{\frac{V_{2}}{V_{1}}}$
+$\displaystyle\begin{split} W_{1,2}&=\int_{V_{1}}^{V_{2}}p\;\mathrm{d}V=\int_{V_{1}}^{V_{2}} \frac{nRT}{V}\mathrm{d}V \\ &=\frac{nRT}{V}\int_{V_{1}}^{V_{2}}\mathrm{d}V=nRT[\ln{|V|}]_{V_{1}}^{V_{2}}\\ &=nRT\ln{\frac{V_{2}}{V_{1}}}\end{split}$
 
-$W_{12}>0$ Arbeit wird am System verrichtet
+$W_{1,2}>0$ Arbeit wird am System verrichtet
+isotherm: System gibt Wärme ab, da $T=\text{konst.}$ und $Q_{1,2}<0$
 
 ### Zustandsänderung von 2 zu 3
 
-- adiabatisch
-- $\Delta U=0\to Q=-W$
+adiabatisch $Q_{2,3}=0$
 
 $k=pV^{\gamma}=\text{konst.}$
-$\gamma$ adiabatischer Koeffizient
+$\gamma>1$ adiabatischer Koeffizient
 
-$W_{23}=\int_{V_{1}}^{V_{2}}p\;\mathrm{d}V=\int_{V_{1}}^{V_{2}}\frac{k}{V^{\gamma}} \;\mathrm{d}V$
+$\frac{nRT}{V} V^{\gamma}=\text{konst.}$
+$TV^{\gamma-1}= \text{konst.}$
+$T_{2}V_{2}^{\gamma-1}=T_{3}V_{3}^{\gamma-1}$
+$\frac{V_{2}^{\gamma-1}}{V_{3}^{\gamma-1}}=\frac{T_{3}}{T_{2}}$
+
+$\displaystyle\begin{split}W_{2,3}&=\int_{V_{2}}^{V_{3}}p\;\mathrm{d}V=\int_{V_{2}}^{V_{3}}\frac{k}{V^{\gamma}} \;\mathrm{d}V\\ &=k\int_{V_{2}}^{V_{3}}V^{-\gamma}\;\mathrm{d}V=k\Big[\frac{V^{-\gamma+1}}{-\gamma+1}\Big]_{V_{2}}^{V_{3}}\\ &=\frac{k}{-\gamma+1}(V_{3}^{-\gamma+1}- V_{2}^{-\gamma+1})=\frac{p_{2}V_{2}^{\gamma}}{-\gamma+1}(V_{3}^{-\gamma+1}- V_{2}^{-\gamma+1})\\ &=\frac{p_{2}}{-\gamma+1}(V_{2}^{\gamma}V_{3}^{-\gamma+1}- V_{2}^{\gamma}V_{2}^{-\gamma+1})=\frac{p_{2}}{-\gamma+1}(V_{2}^{\gamma}V_{3}^{-\gamma+1}- V_{2})\\ &=\frac{p_{2}V_{2}}{-\gamma+1}(V_{2}^{\gamma-1}V_{3}^{-(\gamma-1)}-1)=\frac{p_{2}V_{2}}{-\gamma+1}\Big(\frac{V_{2}^{\gamma-1}}{V_{3}^{\gamma-1}}-1\Big)\\ &=\frac{nRT_{2}}{-\gamma+1}\Big(\frac{T_{3}}{T_{2}}-1\Big)= n \frac{R}{-\gamma+1}(T_{3}-T_{2})=n\cdot c_{V} \Delta T=Q_{V}\end{split}$
+
+### Zustandsänderung von 3 zu 4
+
+isotherm $\Delta U=0$
+$W_{3,4}=-Q_{3,4}$
+$W_{3,4}=nRT_{3} \ln{\frac{V_{4}}{V_{3}}}$
+
+### Zustandsänderung von 4 zu 1
+
+adiabatisch $Q=0$
+
+$\Delta U=W=Q_{V}$
+$W_{2,3}=n \frac{R}{-\gamma+1} (T_{3}-T_{2})=n \frac{T}{-\gamma+1} (T_{3}-T_{1})$
+
+$W_{4,1}=n \frac{R}{-\gamma+1}(T_{1}-T_{3})=-n \frac{R}{\gamma+1}(T_{3}-T_{1})=-W_{2,3}$
+
+### Übersicht
+
+$T_{1}=T_{2}=\text{konst.}$
+$T_{3}=T_{4}=\text{konst.}$
+
+$W_{1,2}>0$
+$Q_{1,2}<0$
+
+$W_{2,3}>0$
+$Q_{2,3}=0$
+
+$W_{1,2}<0$
+$Q_{1,2}>0$
+
+$W_{4,1}<0$
+$Q_{4,1}=0$
+
+### Wirkungsgrad
+
+$TV^{\gamma-1}=\text{konst.}$
+$T_{2}V_{2}^{\gamma-1}=T_{1}V_{2}^{\gamma-1}=T_{3}V_{3}^{\gamma-1}$
+$\ce{T2->[isotherm]T1}$
+$T_{4}V_{4}^{\gamma-1}=T_{3}V_{4}^{\gamma-1}=T_{1}V_{1}^{\gamma-1}$
+$\frac{T_{1}}{T_{3}}=(\frac{V_{3}}{V_{2}})^{\gamma-1}=(\frac{V_{4}}{V_{1}})^{\gamma-1}$
+$(\frac{V_{1}}{V_{2}})^{\gamma-1}=(\frac{V_{4}}{V_{3}})^{\gamma-1}\to \frac{V_1}{V_2}=\frac{V_{4}}{V_{3}}\to \frac{V_{2}}{V_{1}}= \frac{V_{4}}{V_{3}}^{-1}$
+
+$\displaystyle\begin{split}\eta&= \frac{E_{\text{nutz}}}{E_{\text{zu}}}=\frac{W_{\text{nutz}}}{Q_{\text{zu}}}=\frac{W_{1,2}+W_{2,3}+W_{3,4}+W_{4,1}}{Q_{3,4}}\\&=\frac{W_{1,2}+W_{2,3}+W_{3,4}-W_{2,3}}{Q_{3,4}}=\frac{W_{1,2}+W_{3,4}}{Q_{3,4}}\\ &=\frac{nR(T_{1}\ln{\frac{V_{2}}{V_{1}}}+T_{3}\ln{\frac{V_{4}}{V_{3}}})}{nRT_{3}\ln{\frac{V_{4}}{V_{3}}}}=\frac{(T_{1}\ln{(\frac{V_{4}}{V_{3}})^{-1}}+T_{3}\ln{\frac{V_{4}}{V_{3}}})}{T_{3}\ln{\frac{V_{4}}{V_{3}}}}\\ &=\frac{-T_{1}\ln{\frac{V_{4}}{V_{3}}}}{T_{3}\ln{\frac{V_{4}}{V_{3}}}}+1=1 - \frac{T_{1}}{T_{3}}\end{split}$

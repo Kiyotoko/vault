@@ -699,3 +699,42 @@ isobarer Prozess ($p=\text{konst.}$)
 $\frac{V_{1}}{V_{2}}=\frac{T_{1}}{T_{2}}\quad\text{mit}\;\begin{matrix}V_{1}=A\cdot h_{1} \\ V_{2}=A\cdot h_{2}\end{matrix}$
 $V_{2}=\frac{T_{2}}{T_{1}}V_{1}$
 $h_{2}=\frac{T_{2}}{T_{1}}h_{1}=\frac{333\pu{K}}{283\pu{K}}49.6\pu{cm}\approx58.4\pu{cm}$
+
+---
+
+Lb. S. 295
+
+**Ansatz**
+
+$Q_{p}=Q_{v}+W$
+
+$Q_{v}$ Erwärmung
+$W$ Arbeit für Änderung Volumen
+
+$Q_{p}=mc_{v}\Delta T + p(V_{2}-V_{1})$
+$m=\frac{Q_{p}-pV_{2}-V_{1}}{c_{v}\Delta T}$
+$m=\frac{126\pu{J}-102526\pu{Pa}\cdot0.004\pu{m2}(0.584\pu{m}-0.496\pu{m})}{718\pu{J // kg K}\cdot50\pu{K}}=2.50\pu{g}$
+
+---
+
+$\ce{O2}:32\pu{g //mol} (21\%)$
+$\ce{N2}:28\pu{g //mol} (78\%)$
+$\ce{Ar}:40\pu{g//mol} (1\%)$
+
+$n\approx 0.0864\pu{mol}$
+
+$\frac{m}{n}=0.21\cdot32\pu{g//mol}+ 0.78\cdot28\pu{g//mol}+ 0.01\cdot40\pu{g//mol}\approx28.96\pu{g//mol}$
+$m=28.9\pu{g//mol}6\cdot0.0864\pu{mol}\approx 2.5\pu{g}$
+
+## 2024-02-07
+
+$T_{1}=40+273K$
+$T_{2}=120+273K$
+
+$\eta=1 - \frac{T_{1}}{T_{2}}=0.204$
+
+---
+
+$2\cdot0.204=1-\frac{T_{1}}{T_{2}}$
+$2\cdot0.204-1=-\frac{T_{1}}{T_{2}}$
+$T_{2}=-\frac{T_{1}}{2\cdot0.204-1}=527.935K$
