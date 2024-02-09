@@ -145,6 +145,11 @@ Aus Pflicht
 - Folge: Absolute Freiheit, die zur Unsicherheit führt und in den Krieg aller gegen alle mündet
 - Recht: Selbsterhaltung durch Verteidigung
 
+### Gesellschaftsvertrag
+
+- Verzicht aller auf alle individuellen Rechte und Freiheiten, dass eine für alle geltende Rechtsordnung durchgesetzt und von einem absoluten Herrscher (Leviatan) garantiert wird
+- Individuelles Eigentum kann nur geschützt und gesellschaftlicher Wohlstand nur geschaffen werden, wenn ein Herrscher die politische und tatsächliche Macht aufbringt, den »Menschen vor sich selbst« zu schützen
+
 ### Leviathan
 
 - Alleinherrscher (staatliches Gewaltmonopol in Form eines absolutistischen Monarchen) garantiert die Naturgesetze
