@@ -32,9 +32,9 @@ Die Ableitung ist definiert mit $\lim\limits_{h\to0}f'(x)=\frac{f(x)-f(x+h)}{h}$
 ## Extremwertaufgaben
 
 1. Aufstellen einer Gleichung für die Größe, die einen extremalen Wert annehmen soll. (Hauptbedingung)
-1. Formulieren der Nebenbedingungen (Gleichungen, die berücksichtigt werden müssen)
-1. Aufstellen der Zielfunktion durch Einsetzen der Nebenbedingung in die Hauptbedingung
-1. Ermitteln der Stelle, für die die Zielfunktion maximal oder minimal wird
+2. Formulieren der Nebenbedingungen (Gleichungen, die berücksichtigt werden müssen)
+3. Aufstellen der Zielfunktion durch Einsetzen der Nebenbedingung in die Hauptbedingung
+4. Ermitteln der Stelle, für die die Zielfunktion maximal oder minimal wird
 
 ## Steckbriefaufgaben
 
