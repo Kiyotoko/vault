@@ -17,3 +17,6 @@ tags:
 
 Zwei Ereignisse $A$ und $B$ sind genau dann von einander Unabhängig, wenn gilt $P(A\cap B)=P(A)\times P(B)$.
 
+# Binominalverteilte Zufallsgrößen
+
+$P(X=k)=\binom{n}{k}\cdot p^{k}\cdot(1-p)^{n-k}$
