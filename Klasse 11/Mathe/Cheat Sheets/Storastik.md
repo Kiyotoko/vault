@@ -16,3 +16,4 @@ tags:
 ## Stochastische Unabhängigkeit
 
 Zwei Ereignisse $A$ und $B$ sind genau dann von einander Unabhängig, wenn gilt $P(A\cap B)=P(A)\times P(B)$.
+
