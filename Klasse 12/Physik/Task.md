@@ -738,3 +738,43 @@ $\eta=1 - \frac{T_{1}}{T_{2}}=0.204$
 $2\cdot0.204=1-\frac{T_{1}}{T_{2}}$
 $2\cdot0.204-1=-\frac{T_{1}}{T_{2}}$
 $T_{2}=-\frac{T_{1}}{2\cdot0.204-1}=527.935K$
+## 2024-02-26
+
+$n=0.1\pu{mol}$
+$\frac{V_{2}}{V_{1}}=4$
+$T_{2}=1200\pu{K}$
+
+Isobare Zustandsänderung
+$\frac{V_{1}}{T_{1}}=\frac{V_{2}}{T_{2}}$
+$T_{1}=\frac{V_{1}}{V_{2}}T_{2}=\frac{1}{4}\cdot1200\pu{K}=300K$
+
+---
+
+$\begin{split}W_{3,1}&=\int p\;\mathrm{d}V=-\int \frac{nRT_{2}}{V}\;\mathrm{d}V \\ &=-nRT_2[\ln{V}]^{V_{2}}_{V_{1}}=-nRT_{2}(\ln{V_{1}-\ln{V_{2}}})\\ &=-nRT_{2}\ln{\frac{V_{2}}{V_{1}}}=-0.1\pu{mol}\cdot8.314 \pu{J //mol K}1200K\cdot\ln{4}=-1383J\end{split}$
+
+---
+
+$V_{1}=500\pu{m3}$
+$p_{1}=1.1\cdot10^{5}\pu{Pa}$
+$W_{1,2}=20\pu{kW h}$
+$T=298K$
+
+Isotherm
+$p_{1}\cdot V_{1}=p_{2}\cdot V_{2}$
+
+$W=-nRT\ln{\frac{V_{2}}{V_{1}}}$
+$W=-nRT\ln{\frac{p_{1}}{p_{2}}}$
+$\ln{\frac{p_{1}}{p_{2}}}=-\frac{W}{nRT}$
+$\frac{p_{1}}{p_{2}}=e^{- \frac{W}{nRT}}$
+
+Da $p_{1}V_{1}=nRT$
+$p_2=p_{1}e^{\frac{W}{nRT}}=p_{1}e^{\frac{W}{nRT}}=p_{1}e^{\frac{W}{p_{1}V_{1}}}=1.1\cdot10^{5}\cdot e^\frac{20000\cdot3600}{500}=4.07\cdot10^{5}\pu{Pa}$
+
+---
+
+$\eta=0.6$
+$W=2000J$
+$T=900k$
+
+$\eta=1- \frac{T_{N}}{T_{H}}$
+$T_{N}=T_{H}(1-\eta)=900\pu{K}(1-0.6)=360\pu{K}$
