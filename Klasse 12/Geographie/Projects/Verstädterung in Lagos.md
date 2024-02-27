@@ -1,0 +1,1 @@
+Die Problematik, dass Kinder in Lagos erwachsen werden sollen, aber nicht können, wird durch das Wachstum des Anteils der Minderjährigen hervorgerufen. Es strömen etwa 800 tausend Jugendlich
