@@ -263,3 +263,27 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 | Mittelalterlich | Wälle, Stadtmauern, Kirche (religiöses Zentrum)                                                           |
 | Neuzeitlich     | Geplante u. geordnete Residenzen nach feudalem Stand                                                      |
 | Geplant         | Trennung Industrie u. Wohnsiedlung                                                                        |
+
+## Agglomerationsräume
+
+### Urbanisierung
+
+- Umzug in die Stadt
+- Wirtschaftliches Wachstum
+- Kulturzentrum
+
+### Suburbanisierung
+
+- Umzug in das Umland der Stadt
+- Abwanderung der Wirtschaft
+- Umland als Naherholung
+
+### Desurbanisierung
+
+- Rückgang des gesamten Gebietes
+- Strukturwandel
+- Alte Sektoren gehen zurück, neue Sektoren können entstehen
+
+### Reurbanisierungsphase
+
+- Rückkehr der Bevölkerung
