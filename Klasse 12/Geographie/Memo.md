@@ -284,6 +284,7 @@ Landschaft ist der durch das Zusammenwirken verschiedener Sphären (z.B. Atmosp
 - Strukturwandel
 - Alte Sektoren gehen zurück, neue Sektoren können entstehen
 
-### Reurbanisierungsphase
+### Reurbanisierung
 
 - Rückkehr der Bevölkerung
+- Wiederbelebung mit neuen Perspektiven
