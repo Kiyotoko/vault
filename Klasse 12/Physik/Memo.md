@@ -1191,3 +1191,54 @@ $\displaystyle\begin{split}\eta&= \frac{E_{\text{nutz}}}{E_{\text{zu}}}=\frac{W_
 ## Stirling-Motor (Heisluftmotor)
 
 Kreisprozess im p(V)-Diagramm
+
+### Zustandsänderung von 1 bis 2
+
+Isotherm $T_{1}=T_{1}$
+$\Delta U=0\to Q_{1,2}=-W_{1,2}$
+
+$W_{1,2}=\int_{V_{1}}^{V_{2}}p\;\mathrm{d}V=-nRT_{1}\int_{V_{1}}^{V_{2}} \frac{1}{V}\;\mathrm{d}V=-nRT_{1}[\ln{V}]_{V_{1}}^{V_{2}}=-nRT_{1}\ln{\frac{V_{2}}{V_{1}}}$
+
+$Q_{1,2}=-W_{1,2}=nRT_{1}\ln{\frac{V_{2}}{V_{1}}}$
+
+### Zustandsänderung von 2 bis 3
+
+Isochor $V=\text{konst.}$
+$\mathrm{d}V=0$
+
+$W_{2,3}=0$
+$Q_{2,3}=mv_{V}(T_{3}-T_{1})$
+
+### Zustandsänderung von 3 bis 4
+
+Isotherm $T_{3}=T_{4}$
+
+$W_{3,4}=-\int_{V_{3}}^{V_{4}}p\;\mathrm{d}V=\dots=-nRT_{3}\ln{\frac{V_{4}}{V_{3}}}$
+
+$Q_{3,4}=-W_{3,4}=nRT_{3}\ln{\frac{V_{4}}{V_{3}}}$
+
+Da $V_{2}=V_{3}$ und $V_{4}=V_{1}$:
+$Q_{3,4}=nRT_{3}\ln{\frac{V_{1}}{V_{2}}}$
+
+### Zustandsänderung von 4 bis 1
+
+Isochor $V_{4}=V_{1}$
+
+$W_{4,1}=0$
+
+$Q_{4,1}=mc_{V}(T_{1}-T_{3})=-mc_{V}(T_{3}-T_{1})=-Q_{2,3}$
+
+### Wirkungsgrad
+
+$\eta=\frac{W_\text{ges}}{Q_{zu}}=\frac{W_{1,2}+W_{3,4}}{Q_{2,3}+Q_{3,4}}$
+
+Regenerator speichert $Q_{4,1}$ und gibt diese Wärme als $Q_{2,3}$ wieder ab.
+$\eta=\frac{W_{1,2}+W_{3,4}}{Q_{3,4}}=\frac{-nRT_{1}\ln{\frac{V_{2}}{V_{1}}}-nRT_{3}\ln{\frac{V_{1}}{V_{2}}}}{nRT_{3}\ln{\frac{V_{1}}{V_{2}}}}=\frac{nRT_{1}\ln{\Big(\big(\frac{V_{2}}{V_{1}}\big)^{-1}\Big)}-nRT_{3}\ln{\frac{V_{1}}{V_{2}}}}{nRT_{3}\ln{\frac{V_{1}}{V_{2}}}}=\frac{nRT_{1}\ln{\frac{V_{1}}{V_{2}}}-nRT_{3}\ln{\frac{V_{1}}{V_{2}}}}{nRT_{3}\ln{\frac{V_{1}}{V_{2}}}}=\frac{T_{1}-T_{3}}{T_{3}}=\frac{T_{1}}{T_{3}}-1$
+
+$\eta=\frac{|T_{1}}{T_{3}}-1|=1-\frac{T_{1}}{T_{3}}=1- \frac{T_{N}}{T_{H}}$
+
+### Regenerator
+
+Dieser Speichert die bei der isochoren Abkühlung die abgegebene Wärmemenge $Q_{4,1}$. Bei der isochoren Erwärmung gibt der Generator die zuvor aufgenommene Wärmemenge als $Q_{2,3}$ in das System ab. 
+
+Regeneratoren können nicht 100% der Wärme speichern, abgeben oder aufnehmen. Somit ist der Wirkungsgrad in der Realität des Sirling-Prozesses kleiner als der des Carnot-Prozesses.
