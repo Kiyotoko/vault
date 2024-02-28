@@ -1242,3 +1242,13 @@ $\eta=\frac{|T_{1}}{T_{3}}-1|=1-\frac{T_{1}}{T_{3}}=1- \frac{T_{N}}{T_{H}}$
 Dieser Speichert die bei der isochoren Abkühlung die abgegebene Wärmemenge $Q_{4,1}$. Bei der isochoren Erwärmung gibt der Generator die zuvor aufgenommene Wärmemenge als $Q_{2,3}$ in das System ab. 
 
 Regeneratoren können nicht 100% der Wärme speichern, abgeben oder aufnehmen. Somit ist der Wirkungsgrad in der Realität des Sirling-Prozesses kleiner als der des Carnot-Prozesses.
+
+### Einsatzgebiete
+
+(Lb. S. 299)
+
+Gebieten Afrikas zum Pumpen von Wasser. Geringe Temperaturunterschied von 20K sind ausreichend für de Betrieb des Motors, weshalb er bereits mit Sonnenenergie betrieben werden kann (Solar-Stirling).
+
+Blockheizkraftwerken, Motor versorgt Gebäude mit Strom und Wärme, wobei die Abwärme des Motors zu Beheizung des Gebäudes genutzt wird.
+
+Verwendung bei Nasa für Radioisotopengeneratoren, da diese einen höheren Wirkungsgrad haben und weniger Plutonium benötigt.

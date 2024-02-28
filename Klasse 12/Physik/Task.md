@@ -778,3 +778,14 @@ $T=900k$
 
 $\eta=1- \frac{T_{N}}{T_{H}}$
 $T_{N}=T_{H}(1-\eta)=900\pu{K}(1-0.6)=360\pu{K}$
+## 2024-02-28
+
+$P=5.8\pu{kW}$
+
+Pufferwärmespeicher: $T_{N}$
+
+$\eta=\frac{P_{el}}{P_{zu}}=1 - \frac{T_{N}}{T_{H}}$
+
+$P_{zu}=\frac{P_{el}}{1- \frac{T_{N}}{T_{H}}}$
+
+Da $P_{el}$ konstant bleiben soll und der Wirkungsgrad abhängig von der Pufferspeichertemperatur $T_{N}$ ist, muss sich die Wärmeleistung ändern, um die elektrische Leistung konstant zu halten.
