@@ -559,4 +559,4 @@ $l=\int_{1}^{2}\sqrt{1+(f'(x))^{2}}\;\mathrm{d}x=\frac{59}{24}=2.458$
 
 ---
 
-$f(x)=10\pu{cm}\sin{x}$
+$f(x)=5\pu{cm}\sin{\big(\frac{15}{500\pu{cm}} \cdot2\pi x\big)}$
