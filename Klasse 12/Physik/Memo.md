@@ -1187,3 +1187,7 @@ $\frac{T_{1}}{T_{3}}=(\frac{V_{3}}{V_{2}})^{\gamma-1}=(\frac{V_{4}}{V_{1}})^{\ga
 $(\frac{V_{1}}{V_{2}})^{\gamma-1}=(\frac{V_{4}}{V_{3}})^{\gamma-1}\to \frac{V_1}{V_2}=\frac{V_{4}}{V_{3}}\to \frac{V_{2}}{V_{1}}= \frac{V_{4}}{V_{3}}^{-1}$
 
 $\displaystyle\begin{split}\eta&= \frac{E_{\text{nutz}}}{E_{\text{zu}}}=\frac{W_{\text{nutz}}}{Q_{\text{zu}}}=\frac{W_{1,2}+W_{2,3}+W_{3,4}+W_{4,1}}{Q_{3,4}}\\&=\frac{W_{1,2}+W_{2,3}+W_{3,4}-W_{2,3}}{Q_{3,4}}=\frac{W_{1,2}+W_{3,4}}{Q_{3,4}}\\ &=\frac{nR(T_{1}\ln{\frac{V_{2}}{V_{1}}}+T_{3}\ln{\frac{V_{4}}{V_{3}}})}{nRT_{3}\ln{\frac{V_{4}}{V_{3}}}}=\frac{(T_{1}\ln{(\frac{V_{4}}{V_{3}})^{-1}}+T_{3}\ln{\frac{V_{4}}{V_{3}}})}{T_{3}\ln{\frac{V_{4}}{V_{3}}}}\\ &=\frac{-T_{1}\ln{\frac{V_{4}}{V_{3}}}}{T_{3}\ln{\frac{V_{4}}{V_{3}}}}+1=1 - \frac{T_{1}}{T_{3}}\end{split}$
+
+## Stirling-Motor (Heisluftmotor)
+
+Kreisprozess im p(V)-Diagramm
