@@ -382,3 +382,6 @@ Wenn die Funktionen Schnittpunkte besitzen, so muss man Teilintegrale für diese
 ## Rotationskörper
 
 $$V=\pi \int_{a}^{b} \big(f(x)\big)^{2}\;\mathrm{d}x$$
+## Bodenlänge einer Funktion
+
+$\displaystyle\begin{split}l&=\sqrt{\Delta x^{2}+\Delta y^{2}}\\ &=\sum\limits_{i=1}^{n}\sqrt{\Delta x^{2}+\Delta y_{i}^{2}}\\ &=\sum\limits_{i=1}^{n}\sqrt{\Delta x^{2}(1+\frac{\Delta y_{i}^{2}}{\Delta x^{2}})}\\ &=\sum\limits_{i=1}^{n}\sqrt{1+\frac{\Delta y_{i}^{2}}{\Delta x^{2}}}\Delta x^{2}\\ &=\int_{a}^{b}\sqrt{1+\frac{\Delta y_{i}}{\Delta x}^{2}}\;\mathrm{d}x\\ &=\int_{a}^{b}\sqrt{1+f'(x)^{2}}\;\mathrm{d}x\end{split}$
