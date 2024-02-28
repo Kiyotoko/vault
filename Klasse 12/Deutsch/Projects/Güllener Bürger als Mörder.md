@@ -6,7 +6,11 @@ Die Presse
 
 2. Der Mord als kollektive Tat der Güllener Bürger (Kurzanalyse, Funktion, Vgl. mit Frühfassung)
 
+-
+
 3. Bedeutung des Schlusschors (Analyse, Vgl. griechische Tragödie „Antigone“, Chorfunktion)
+
+- In "Antigone" von Sophokles geht es um den Konflikt zwischen 
 
 ## Kreativaufgabe
 
