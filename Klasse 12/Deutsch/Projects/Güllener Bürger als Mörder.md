@@ -4,21 +4,24 @@
 
 | Figur         | Beteiligung                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------- |
-| Radiosprecher |                                                                                               |
+| Radiosprecher | Gibt die Perspektive eines Außenstehenden wieder, Reales Geschehen verzerrt                   |
 | Bürgermeister | Einleitung und Schlussabstimmung, Verkündet Tod aus Freude                                    |
 | Lehrer        | Hält eine Rede                                                                                |
 | Polizei       | Schweigt bei Abstimmung                                                                       |
 | Pfarrer       | Schweigt bei Abstimmung                                                                       |
-| Ill           | ruft aus                                                                                      |
+| Ill           | Teilgenommen                                                                                  |
 | Gemeinde      | Stimmen ab bei der Schlussabstimmung                                                          |
 | Kameramann    | Bring Bürgermeister zur Wiederholung der Schlussabstimmung, zieht die Abstimmung ins Kroteske |
 | Artzt         | Schweigt bei Abstimmmung                                                                      |
 
 - Die Presse gibt die Ereignisse der Figuren verzerrt wieder.
+- Der Mord wird als "Tod durch Freude" bezeichnet
+- Durch die Verzerrung entsteht die Komik
 
 2. Der Mord als kollektive Tat der Güllener Bürger (Kurzanalyse, Funktion, Vgl. mit Frühfassung)
 
-- Rede 
+- Kollektives Zustimmen des Mordes
+- Abstimmung
 
 3. Bedeutung des Schlusschors (Analyse, Vgl. griechische Tragödie „Antigone“, Chorfunktion)
 
