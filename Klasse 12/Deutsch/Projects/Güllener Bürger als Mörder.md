@@ -21,7 +21,7 @@
 2. Der Mord als kollektive Tat der Güllener Bürger (Kurzanalyse, Funktion, Vgl. mit Frühfassung)
 
 - Kollektives Zustimmen des Mordes
-- Abstimmung
+- Kontrast zwischen der "Gerechtigkeit" und dem Mord
 
 3. Bedeutung des Schlusschors (Analyse, Vgl. griechische Tragödie „Antigone“, Chorfunktion)
 
