@@ -2,11 +2,23 @@
 
 1. Die Gemeindeversammlung als mediale Inszenierung (Analyse und Vergleich aller beteiligten Figuren → Tabellen, Schaubilder); Die Rolle der Presse (angedeutete „Pressekritik“)
 
-Die Presse
+| Figur         | Beteiligung                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------- |
+| Radiosprecher |                                                                                               |
+| Bürgermeister | Einleitung und Schlussabstimmung, Verkündet Tod aus Freude                                    |
+| Lehrer        | Hält eine Rede                                                                                |
+| Polizei       | Schweigt bei Abstimmung                                                                       |
+| Pfarrer       | Schweigt bei Abstimmung                                                                       |
+| Ill           | ruft aus                                                                                      |
+| Gemeinde      | Stimmen ab bei der Schlussabstimmung                                                          |
+| Kameramann    | Bring Bürgermeister zur Wiederholung der Schlussabstimmung, zieht die Abstimmung ins Kroteske |
+| Artzt         | Schweigt bei Abstimmmung                                                                      |
+
+- Die Presse gibt die Ereignisse der Figuren verzerrt wieder.
 
 2. Der Mord als kollektive Tat der Güllener Bürger (Kurzanalyse, Funktion, Vgl. mit Frühfassung)
 
--
+- Rede 
 
 3. Bedeutung des Schlusschors (Analyse, Vgl. griechische Tragödie „Antigone“, Chorfunktion)
 
