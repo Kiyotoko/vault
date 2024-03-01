@@ -25,7 +25,9 @@
 
 3. Bedeutung des Schlusschors (Analyse, Vgl. griechische Tragödie „Antigone“, Chorfunktion)
 
-Antigone trauert um ihren verstorbenen Bruder Polyneikes, der im Kampf um die Stadt Theben ums Leben gekommen war. Sein Onkel Kreon, der Herrscher von Theben, ließ Poylneikes‘ Leichnam einfach auf dem Schlachtfeld liegen und wollte ihn nicht bestatten. Denn Polyneikes hatte sich mit dem Angriff auf Theben gegen seinen Onkel und somit auch gegen seine eigene Familie gewandt. Für Kreon gilt Polyneikes deshalb als Verräter.
+In Antigone trauert die gleichnamige Hauptcharaktärin um ihren verstorbenen Bruder Polyneikes, der im Kampf um die Stadt Theben ums Leben gekommen war. Sein Onkel Kreon, der Herrscher von Theben, ließ Poylneikes‘ Leichnam einfach auf dem Schlachtfeld liegen und wollte ihn nicht bestatten. Denn Polyneikes hatte sich mit dem Angriff auf Theben gegen seinen Onkel und somit auch gegen seine eigene Familie gewandt. Für Kreon gilt Polyneikes deshalb als Verräter.
+
+Am Ende dieses Werkes
 
 ## Kreativaufgabe
 
