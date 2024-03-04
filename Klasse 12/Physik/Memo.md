@@ -1253,4 +1253,6 @@ Blockheizkraftwerken, Motor versorgt Gebäude mit Strom und Wärme, wobei die Ab
 
 Verwendung bei Nasa für Radioisotopengeneratoren, da diese einen höheren Wirkungsgrad haben und weniger Plutonium benötigt.
 
-## Kühlschrank
+## Wärmepumpe und Kältemaschine
+
+Es handelt sich hierbei um einen "rückwärtsablaufenden" Carnot-Prozess. Dem System wird Arbeit zugeführt, damit Wärme transportiert werden kann.
