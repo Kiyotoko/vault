@@ -1252,3 +1252,5 @@ Gebieten Afrikas zum Pumpen von Wasser. Geringe Temperaturunterschied von 20K si
 Blockheizkraftwerken, Motor versorgt Gebäude mit Strom und Wärme, wobei die Abwärme des Motors zu Beheizung des Gebäudes genutzt wird.
 
 Verwendung bei Nasa für Radioisotopengeneratoren, da diese einen höheren Wirkungsgrad haben und weniger Plutonium benötigt.
+
+## Kühlschrank
