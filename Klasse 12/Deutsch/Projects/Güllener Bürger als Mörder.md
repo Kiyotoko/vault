@@ -1,4 +1,4 @@
-## 
+## Analyse
 
 1. Die Gemeindeversammlung als mediale Inszenierung (Analyse und Vergleich aller beteiligten Figuren → Tabellen, Schaubilder); Die Rolle der Presse (angedeutete „Pressekritik“)
 
