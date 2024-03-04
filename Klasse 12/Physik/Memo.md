@@ -1256,3 +1256,8 @@ Verwendung bei Nasa für Radioisotopengeneratoren, da diese einen höheren Wirku
 ## Wärmepumpe und Kältemaschine
 
 Es handelt sich hierbei um einen "rückwärtsablaufenden" Carnot-Prozess. Dem System wird Arbeit zugeführt, damit Wärme transportiert werden kann.
+
+1. Arbeitsmedium wird verdichtet (komprimiert) und erwärmt sicht (adiabatische Kompression).
+2. Über Kondensator gibt Arbeitsmedium Wärme an Umgebung ab (isotherme Kompression).
+3. Über die Drossel gelangt nur wenig vom Arbeitsmedium in den Verdampfer (adiabatische Expansion). Das Arbeitsmedium kühlt sich ab.
+4. Über den Verdampfer nimmt das Arbeitsmedium Wärme von der Umgebung auf (isotherme Expansion).
