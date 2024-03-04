@@ -789,3 +789,58 @@ $\eta=\frac{P_{el}}{P_{zu}}=1 - \frac{T_{N}}{T_{H}}$
 $P_{zu}=\frac{P_{el}}{1- \frac{T_{N}}{T_{H}}}$
 
 Da $P_{el}$ konstant bleiben soll und der Wirkungsgrad abhängig von der Pufferspeichertemperatur $T_{N}$ ist, muss sich die Wärmeleistung ändern, um die elektrische Leistung konstant zu halten.
+
+## 2024-03-04
+
+$T_{N}=5^{\circ}C=287\pu{K}$
+$T_{H}=30=303\pu{K}$
+
+$T_{B,N}=5=378\pu{K}$
+$T_{B,H}=25=398\pu{K}$
+$\Delta T=25\pu{K}$
+
+$P_{el}=1200W$
+$V=3\cdot25\pu{l}=200\pu{kg}$
+
+$Q=m\cdot c_{V}\cdot\Delta T=200\pu{kg}\cdot4.19\pu{kJ//kgK}\cdot20\pu{K}=16.760\pu{kJ}$
+
+$\epsilon_{KM}=\frac{Q_{N}}{W_{el}}=\frac{T_{N}}{T_{H}-T_{N}}$
+$Q_{N}=W_{el}\cdot\frac{T_{N}}{T_{H}-T_{N}}$
+$P_{N}=P_{el}\cdot \frac{T_N}{T_H-T_{N}}=1.2\pu{kW} \frac{278\pu{K}}{303\pu{K}-278\pu{K}}\approx13.334\pu{kW}$
+
+$t=\frac{Q}{P_{N}}=\frac{6.760\pu{kJ}}{13.334\pu{kW}}\approx1256\pu{s}$
+
+---
+
+$T_{zu}=-10^{\circ}\pu{C}=263\pu{K}$
+$T_{ab}=17^{\circ}\pu{C}=290\pu{K}$
+$W=37\pu{kJ}$
+
+$\epsilon_{WM}=\frac{T_{ab}}{T_{ab}-T_{zu}}=\frac{290\pu{K}}{290\pu{K}-263\pu{K}}=10.7$
+
+$Q_{H}=Q_{N}+W$
+$\epsilon=\frac{Q_{H}}{W}$
+
+$W\cdot\epsilon=Q_{N}+W$
+
+---
+
+Die Temperatur wird sich langfristig erwärmen, da die zugeführte und abgeführte Wärme im selben abgeschlossenen Raum sich austauscht, sich durch den Kühlschrank die Temperatur sich nicht senk, da die Effizienz jedoch nicht 100% ist, durch Abwärme bei der Kühlung die Temperatur sich erhöht.
+
+---
+
+$P=1.5\pu{kW}$
+$m=1\pu{kg}$
+
+$c_{S}=334\pu{kJ//kg}$
+$Q_{S}=m\cdot q_{S}=1\pu{kg}\cdot334\pu{kJ//kg}=334\pu{kJ}$
+$P=\frac{Q_{S}}{t}$
+$t=\frac{Q_{S}}{P}=\frac{334\pu{kJ}}{1.5\pu{kW}}=222.7\pu{s}=3.71\pu{min}$
+
+---
+
+$\Delta S=\frac{334\pu{kJ}}{273\pu{K}}=1.22\pu{kJ//K}$
+
+Da die Temperatur beim Schmelzprozess konstant ist (273K), vereinfacht sich das Integral:
+
+$\Delta S=\int_{1}^{2} \frac{\mathrm{d}Q}{T}=\frac{1}{T}\int_{1}^{2}\mathrm{d}Q=\frac{Q}{T}$

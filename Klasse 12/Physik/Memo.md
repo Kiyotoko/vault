@@ -1261,3 +1261,49 @@ Es handelt sich hierbei um einen "rückwärtsablaufenden" Carnot-Prozess. Dem Sy
 2. Über Kondensator gibt Arbeitsmedium Wärme an Umgebung ab (isotherme Kompression).
 3. Über die Drossel gelangt nur wenig vom Arbeitsmedium in den Verdampfer (adiabatische Expansion). Das Arbeitsmedium kühlt sich ab.
 4. Über den Verdampfer nimmt das Arbeitsmedium Wärme von der Umgebung auf (isotherme Expansion).
+
+### Leistungszahl
+
+Das Verhältnis von transportierter Wärme zu zugeführter Arbeit ist die Leistungszahl:
+
+Kältemaschine
+$\epsilon=\frac{|Q_{N}|}{W}=\frac{T_{N}}{T_{H}-T_{N}}\ge1$
+
+Wärmepumpe
+$\epsilon=\frac{|Q_{H}|}{W}=\frac{T_{H}}{T_{H}-T_{N}}\ge1$
+
+## Entropie
+
+Die Entropie $S$ ist ein Maß für die Unordnung eines Systems. Je größer die Entropie $S$ ist, desto größer ist die Unordnung
+
+### Irreversible Prozesse
+
+Prozesse für deren Umkehrung Energie von außen dem System  zugeführt werden muss (Umkehrung erfolgt nicht von alleine).
+
+**Beispiele**
+- Ein Glas, welches zerspringt
+- Alle Prozesse bei denen Reibung stattfindet
+- Durchmischung von Gasen bzw. Flüssigkeiten
+
+### Reversible Prozesse
+
+Prozesse, für deren Umkehrung keine Energie zugeführt werden muss (Umkehrung erfolgt von alleine).
+
+**Beispiele**
+- Elastische Verformung
+- Kompression eines Gases in einem abgeschlossenen Zylinder mit Kolben
+
+## Zweiter Hauptsatz der Thermodynamik
+
+In einem abgeschlossenen System ist die Entropieänderung $\Delta S\ge0$.
+
+**Formel**
+$\Delta S\approx \frac{Q_{rev}}{T}$
+- Gilt für annähernd konstanter Temperatur $T$
+- $Q_{rev}$ Wärmeänderung für reversible Prozesse
+
+$\Delta S=\int_{1}^{2} \frac{1}{T}\;\mathrm{d}Q$ (allgemein)
+
+## Dritter Hauptsatz der Thermodynamik
+
+Der absolute Nullpunkt ($T=0\pu{K}$) der Temperatur ist nicht zu erreichen.
