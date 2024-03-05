@@ -450,32 +450,6 @@ $a=f(x)$
 $A(x)=x\cdot f(x)$
 $A'(x)=x\cdot f'(x)$
 
----
-
-$A=a\cdot b$
-$2a+2b=8$
-$a=4-x$
-$b=x$
-
-$A(x)=a\cdot b=(4-x)x=4x-x^{2}$
-$A'(x)=4-2x$
-
-$A'(x)=0$
-$4-2x=0$
-$2x=4$
-$x=2$
-
-$a=4-2=2$
-$b=2$
-
-$A=a\cdot b=4$
-
----
-
-$A=a\cdot b$
-$400=a\pi+2b$
-$a=\frac{400-2b}{\pi}$
-
 ## 2024-02-06
 
 $i=[1:4]$
@@ -497,25 +471,6 @@ $f(x)=\sqrt{x^{2}+1}$
 
 $V=\pi\int_{-1}^{1} f(x)^{2}\;\mathrm{d}x=\pi \frac{8}{3}$
 
-## 2024-02-07
-
-$V=a^{2}\cdot x$
-$A=(a+2x)^{2}$
-$12\pu{cm}=a+2x$
-
-$a=12\pu{cm}-2x$
-$V=(12\pu{cm}-2x)^{2} \cdot x$
-
-$V'(x)=0$
-$x_{1}=2$
-$x_{2}=6$
-
-$V'(x_{1})=-48$
-$V'(x_{2})=48$
-
-$x=2\pu{cm}$
-
-$V(2)=200\pu{m3}$
 ## 2024-02-28
 
 $y^{2}=x^{3}$
@@ -560,3 +515,74 @@ $l=\int_{1}^{2}\sqrt{1+(f'(x))^{2}}\;\mathrm{d}x=\frac{59}{24}=2.458$
 ---
 
 $f(x)=5\pu{cm}\sin{\big(\frac{15}{500\pu{cm}} \cdot2\pi x\big)}$
+
+# Abiturvorbereitung
+
+## 2024-02-07
+
+$V=a^{2}\cdot x$
+$A=(a+2x)^{2}$
+$12\pu{cm}=a+2x$
+
+$a=12\pu{cm}-2x$
+$V=(12\pu{cm}-2x)^{2} \cdot x$
+
+$V'(x)=0$
+$x_{1}=2$
+$x_{2}=6$
+
+$V''(x_{1})=-48$
+$V''(x_{2})=48$
+
+$x=2\pu{cm}$
+
+$V(2)=200\pu{m3}$
+
+---
+
+$A=a\cdot b$
+$2a+2b=8$
+$a=4-x$
+$b=x$
+
+$A(x)=a\cdot b=(4-x)x=4x-x^{2}$
+$A'(x)=4-2x$
+
+$A'(x)=0$
+$4-2x=0$
+$2x=4$
+$x=2$
+
+$a=4-2=2$
+$b=2$
+
+$A=a\cdot b=4$
+
+---
+
+$A=r\cdot b$
+$u=400=2r\pi+2b$
+$b=\frac{400}{2}-r\pi=200-2r\pi$
+
+$A(r)=2r(200-r\pi)$
+
+$A'(r)=0$
+$r=0$
+$r=\frac{100}{\pi}$
+
+## 2024-03-05
+
+$V=h\cdot A_{G}=h\cdot \pi\cdot r^{2}$
+$A_{O}=h\cdot u+2\cdot A_{G}=2h\pi+2r^{2}\pi$
+
+$h=\frac{V}{\pi\cdot r^{2}}$
+$r=\sqrt{\frac{V}{\pi h}}$
+
+$A_{O}(r)=2\pi \frac{V}{\pi r^{2}}+2r^{2}\pi=\frac{2V}{r^{2}}+2r^{2}\pi$
+$A_{O}'(r)=0$
+
+$r_{1}=- \frac{\sqrt[4]{V}}{\sqrt[4]{\pi}}=-\sqrt[4]{\frac{V}{\pi}}$
+$r_{2}=\sqrt[4]{\frac{V}{\pi}}$
+
+$A_{O}''(r_{1})=16\pi$
+$A_{O}''(r_{2})=16\pi$
