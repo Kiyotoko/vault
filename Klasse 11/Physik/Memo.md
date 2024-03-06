@@ -27,9 +27,9 @@ Modell eines ausgedehnten Körpers. Er beschreibt den jeweiligen Ort des Körper
 
 ## Bezugssystem
 
-Ein gedachtes raum-zeitliches Gebilde, das erforderlich ist, um das Verhalten ortsabhängiger Größen eindeutig und vollständig zu beschreiben. Insbesondere kann die Lage und Bewegung von physikalischen Körpern nur relativ zu einem Bezugssystem angegeben werden.
+Ein gedachtes raum-zeitliches Gebilde, das erforderlich ist, um das Verhalten ortsabhängiger Größen eindeutig und vollständig zu beschreiben. Insbesondere kann die Lage und Bewegung von physikalischen Körpern nur relativ zu einem Bezugssystem angegeben werden. 
 
-## Ort Und Weg
+## Ort und Weg
 
 Beschreibt die Position eines Körpers zu einem bestimmten Zeitpunkt $t$.
 - Formelzeichen $r$ bzw. $r(t)$ o. $x$ bzw. $x(t)$
