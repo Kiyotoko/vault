@@ -1307,3 +1307,33 @@ $\Delta S=\int_{1}^{2} \frac{1}{T}\;\mathrm{d}Q$ (allgemein)
 ## Dritter Hauptsatz der Thermodynamik
 
 Der absolute Nullpunkt ($T=0\pu{K}$) der Temperatur ist nicht zu erreichen.
+# Kernphysik
+
+## Aufbau von Kernen
+
+| Begriff               | Bedeutung                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------- |
+| Kernladungszahl       | Anzahl der Protonen im Kern                                                                          |
+| Nukleonen             | bestehen aus einem Proton und Neutron, bestimmen die Eigenschaften des Atomkerns                     |
+| Nukleonenzahl         | Anzahl an Nukleonen im Kern                                                                          |
+| Nuklide               | Kerne mit einer bestimmten Zusammensetzung, Nuklide gleicher Ordnungszahl gehören zum selben Element |
+| Isotope               | Atom hat eine andere Neutronenzahl als Ordnungszahl                                                  |
+| Atomare Masseneinheit | Grundgröße der Atomphysik, entspricht ein zwölftel der Masse eines Kohlenstoffatoms                  |
+
+### Nuklidkarte
+
+Darstellung sämtlicher vorkommender Nuklide.
+
+## Nachweis ionisierender Strahlung
+
+### Fotografische Detektoren
+
+### Geifer-Müller-Zählrohr
+
+### Zählrate und Nullrate
+
+### Nebelkammer
+
+### Szentillationsdetektoren
+
+### Halbleiterdetektoren
