@@ -11,7 +11,7 @@ tags:
 
 (Lb. S. 48)
 
-Die wirkenden Kraft ist direkt proportional zur Auslenkung der Feder ist: $F=Ds$
+Die wirkenden Kraft ist direkt proportional zur Auslenkung der Feder ist: $F=D\cdot s$
 - $D$ Federkonstante
 - $s$ Auslenkung
 
