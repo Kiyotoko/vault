@@ -1330,12 +1330,29 @@ Darstellung sämtlicher vorkommender Nuklide.
 
 ### Fotografische Detektoren
 
+- In einer empfindlichen Schicht lösen auftreffende Teilchen eine chemische Reaktion aus
+- Reaktion führt eine Schwärzung hervor abhängig von Art und Intensität der Strahlung
+
 ### Geifer-Müller-Zählrohr
+
+- Strahlung ionisiert die Moleküle in der Luft
+- Elektroskop ist geladen
+- Die Elektronen und Ionen neutralisieren die Ladung des Elektroskops → Zeiger geht zurück
 
 ### Zählrate und Nullrate
 
+- Zählrate: Anzahl der Teilchen, die pro Zeit registriert werden
+- Nullrate: Natürliche Rate von der Umgebung, die von der Zählrate abgezogen werden muss
+
 ### Nebelkammer
 
+- Detektor zur sichtbarmachung von Bahnspuren
+- In einem Nebel erzeugt Straglung entlag ihrer Bahn Ionen
+- Der Dampf kondensiert entlang der Teilchenspur
+
 ### Szentillationsdetektoren
+
+- Fluoreszenzlichtblitze werden von Kristallen beim Eintreffen von Strahlung ausgesendet
+
 
 ### Halbleiterdetektoren
