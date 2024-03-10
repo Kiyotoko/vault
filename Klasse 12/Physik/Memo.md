@@ -1311,6 +1311,8 @@ Der absolute Nullpunkt ($T=0\pu{K}$) der Temperatur ist nicht zu erreichen.
 
 ## Aufbau von Kernen
 
+$$\ce{^{Nukleonenzahl}_{Ordnungszahl}\text{Element}}$$
+
 | Begriff               | Bedeutung                                                                                            |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
 | Kernladungszahl       | Anzahl der Protonen im Kern                                                                          |
