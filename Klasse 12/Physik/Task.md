@@ -852,6 +852,11 @@ $\ce{^{14}_{6}C}$ bedeutet, dass ein Kohlenstoff-Atom mit der Ordnungszahl 6 14 
 Ein C-14 Atom kann bei vollständiger Ionisierung 6 Elektronen abgeben.
 
 ---
+$N_A=6.0221\cdot10^{23} \pu{mol-1}$
+
+$1\pu{kmol}=6.0221\cdot10^{26}$
 
 $m_{A}=14\pu{u}$
 $1\pu{u}=1.660539\cdot10^{-27}\pu{kg}$
+
+$n=\frac{m_{ges}}{m_{C}}=\frac{1\pu{kg}}{14\cdot1.66\cdot10^{-27}\pu{kg}}\approx4.3\cdot10^{25}$
