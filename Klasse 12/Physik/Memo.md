@@ -1361,3 +1361,7 @@ Darstellung sämtlicher vorkommender Nuklide.
 - Tritt ionisierte Strahlung auf, so bilden sich Elektronen-Loch-Paare
 - Die Paare werden durch eine angelegte Spannung abgeführt → Stromstärke wird gemessen
 - Anzahl der Elektronen-Loch-Paare ist proportional zu
+
+## Strahlung aus dem Atomkern: Kernstrahlung
+
+-
