@@ -844,3 +844,10 @@ $\Delta S=\frac{334\pu{kJ}}{273\pu{K}}=1.22\pu{kJ//K}$
 Da die Temperatur beim Schmelzprozess konstant ist (273K), vereinfacht sich das Integral:
 
 $\Delta S=\int_{1}^{2} \frac{\mathrm{d}Q}{T}=\frac{1}{T}\int_{1}^{2}\mathrm{d}Q=\frac{Q}{T}$
+
+---
+
+$W_{2,3}>W_{1,2}$
+
+$W_{1,2}$ Volumenarbeit positiv
+$W_{2,3}$ Volumenarbeit negativ
