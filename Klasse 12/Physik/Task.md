@@ -849,9 +849,9 @@ $\Delta S=\int_{1}^{2} \frac{\mathrm{d}Q}{T}=\frac{1}{T}\int_{1}^{2}\mathrm{d}Q=
 ## 2024-03-10
 
 $\ce{^{14}_{6}C}$ bedeutet, dass ein Kohlenstoff-Atom mit der Ordnungszahl 6 14 Nukleonen hat.
-Ein C-14 Atom kann bei vollständiger Ionisierung 4 Elektronen abgeben.
+Ein C-14 Atom kann bei vollständiger Ionisierung 6 Elektronen abgeben.
 
 ---
 
-$m_{A}=12.01\pu{u}$
+$m_{A}=14\pu{u}$
 $1\pu{u}=1.660539\cdot10^{-27}\pu{kg}$

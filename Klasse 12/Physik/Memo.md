@@ -1353,6 +1353,11 @@ Darstellung sämtlicher vorkommender Nuklide.
 ### Szentillationsdetektoren
 
 - Fluoreszenzlichtblitze werden von Kristallen beim Eintreffen von Strahlung ausgesendet
-
+- Lichtblitze lösen wiederum Fluoreszens aus → Kettenreaktion
 
 ### Halbleiterdetektoren
+
+- n-p-Dioden werden in Sperrichtung betrieben
+- Tritt ionisierte Strahlung auf, so bilden sich Elektronen-Loch-Paare
+- Die Paare werden durch eine angelegte Spannung abgeführt → Stromstärke wird gemessen
+- Anzahl der Elektronen-Loch-Paare ist proportional zu
