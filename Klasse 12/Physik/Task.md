@@ -860,3 +860,21 @@ $m_{A}=14\pu{u}$
 $1\pu{u}=1.660539\cdot10^{-27}\pu{kg}$
 
 $n=\frac{m_{ges}}{m_{C}}=\frac{1\pu{kg}}{14\cdot1.66\cdot10^{-27}\pu{kg}}\approx4.3\cdot10^{25}$
+## 2024-03-11
+
+$\ce{^{62}_{28}Ni}$
+$m_{Kern}=61.912985\pu{u}$
+
+$m_{Nuk}=28m_{P}+34m_{N}=62.498338u$
+$\Delta m=m_{Nuk}-m_{Kern}=62.498338u-61.912985\pu{u}=0.585353u$
+
+$E_{B}=\Delta m\cdot c^{2}=0.585353\cdot1.660539\cdot10^{-27}\pu{kg}\cdot(3\cdot10^{8}\pu{m//s})^{2}=8.74801\cdot10^{-10}\pu{J}$
+$E_{B}=\frac{8.74801\cdot10^{-10}\pu{J}}{1.6602\cdot10^{-19}\pu{As}}=546\pu{MeV}$
+
+$\overline{E_{B}}=\frac{E_{B}}{A}=8.8\pu{MeV}$
+
+---
+
+$\Delta m=0.137\pu{u}$
+$E_{B}=128\pu{MeV}$
+$\overline{E_{B}}=\frac{E_{B}}{A}=8\pu{MeV}$
