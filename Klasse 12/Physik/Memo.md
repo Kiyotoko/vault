@@ -1451,3 +1451,33 @@ $$Q=\Delta E=E_\text{Ausganskern}-E_\text{Endkern}$$
 
 Exotherme Kernumwandlung: $Q>0$, Energie wird freigesetzt
 Endotherme Kernumwandlung: $Q<0$, Energie muss aufgewendet werden
+
+**Beispiel**
+
+Kernfusion (Verschmelzung von Kernen)
+$\ce{^{2}_{1}H +^{3}_{1}H->^{4}_{2}He +^{1}_{0}n}$
+
+$m_{1}=m_{\text{Deu}}+m_{\text{Tri}}=2.014\pu{u}+3.016\pu{u}=5.030\pu{u}$
+$m_{2}=m_{\ce{He}}+m_{\ce{N}}4.003\pu{u}+1.009\pu{u}=5.012\pu{u}$
+$\Delta m=m_{1}-m_{2}=5.030\pu{u}-5.012\pu{u}=0.018\pu{u}$
+$Q=\Delta E=\Delta m\cdot c^{2}=0.018\cdot1.66\cdot10^{-27}\pu{kg}\cdot(3\cdot10^{8}\pu{m//s})^{2}=16.8\pu{MeV}$
+
+Energie für 1 Gramm Deuterium-Tritium-Gemisch:
+$Q=\Delta E=2.691\cdot10^{-12}\pu{J}$
+
+$n=\frac{0.001\pu{kg}}{5.030\cdot1.66\cdot10^{-27}\pu{kg}}\approx1.198\cdot10^{23}$
+$E_\text{ges}=n\cdot Q=2.691\cdot10^{-12}\pu{J}\cdot1.198\cdot10^{23}\approx3.224\cdot10^{11}\pu{J}$
+
+Kernspaltung
+$\ce{^{235}_{92}U + ^{1}_{0}N -> ^{139}_{56}Ba +^{94}_{36}Kr +3^{1}_{0}n}$
+
+$m_{1}=m_{\ce{U}}+m_{\ce{N}}=234.993\pu{u}+1.007\pu{u}=236\pu{u}$
+$m_{2}=m_{\ce{Ba}}+m_{\ce{Kr}}+3m_{\ce{N}}=138.878\pu{u}+93.914\pu{u}+3\cdot1.007\pu{u}=235.813\pu{u}$
+$\Delta m=m_{1}-m_{2}=236\pu{u}-235.813\pu{u}=0.187\pu{u}$
+$Q=\Delta E=\Delta m\cdot c^{2}=174\pu{MeV}$
+
+Energie für 1 Gramm Uran:
+
+$n=\frac{0.001\pu{kg}}{234.933\cdot1.66\cdot10^{-27}\pu{kg}}\approx4.255\cdot10^{21}$
+$\Delta E=2.787\cdot10^{-11}\pu{J}$
+$E_{ges}=n\cdot\Delta E=4.255\cdot10^{21}\cdot2.787\cdot10^{-11}\pu{J}=1.186\cdot10^{11}\pu{J}$ (in Wärme umgewandelt $7.74\cdot10^{10}\pu{J}$)
