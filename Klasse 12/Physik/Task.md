@@ -858,9 +858,38 @@ $W_{2,3}$ Volumenarbeit negativ
 ## 2024-03-10
 
 $\ce{^{14}_{6}C}$ bedeutet, dass ein Kohlenstoff-Atom mit der Ordnungszahl 6 14 Nukleonen hat.
-Ein C-14 Atom kann bei vollständiger Ionisierung 4 Elektronen abgeben.
+Ein C-14 Atom kann bei vollständiger Ionisierung 6 Elektronen abgeben.
+
+---
+
+$N_A=6.0221\cdot10^{23} \pu{mol-1}$
+
+$1\pu{kmol}=6.0221\cdot10^{26}$
+
+$m_{A}=14\pu{u}$
+$1\pu{u}=1.660539\cdot10^{-27}\pu{kg}$
+
+$n=\frac{m_{ges}}{m_{C}}=\frac{1\pu{kg}}{14\cdot1.66\cdot10^{-27}\pu{kg}}\approx4.3\cdot10^{25}$
+
+## 2024-03-11
+
+$\ce{^{62}_{28}Ni}$
+$m_{Kern}=61.912985\pu{u}$
+
+$m_{Nuk}=28m_{P}+34m_{N}=62.498338u$
+$\Delta m=m_{Nuk}-m_{Kern}=62.498338u-61.912985\pu{u}=0.585353u$
+
+$E_{B}=\Delta m\cdot c^{2}=0.585353\cdot1.660539\cdot10^{-27}\pu{kg}\cdot(3\cdot10^{8}\pu{m//s})^{2}=8.74801\cdot10^{-10}\pu{J}$
+$E_{B}=\frac{8.74801\cdot10^{-10}\pu{J}}{1.6602\cdot10^{-19}\pu{As}}=546\pu{MeV}$
+
+$\overline{E_{B}}=\frac{E_{B}}{A}=8.8\pu{MeV}$
 
 ---
 
 $m_{A}=12.01\pu{u}$
 $1\pu{u}=1.660539\cdot10^{-27}\pu{kg}$
+
+$\Delta m=0.137\pu{u}$
+$E_{B}=128\pu{MeV}$
+$\overline{E_{B}}=\frac{E_{B}}{A}=8\pu{MeV}$
+
