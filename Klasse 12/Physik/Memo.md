@@ -11,7 +11,7 @@ tags:
 
 (Lb. S. 48)
 
-Die wirkenden Kraft ist direkt proportional zur Auslenkung der Feder ist: $F=Ds$
+Die wirkenden Kraft ist direkt proportional zur Auslenkung der Feder ist: $F=D\cdot s$
 - $D$ Federkonstante
 - $s$ Auslenkung
 
@@ -1307,3 +1307,52 @@ $\Delta S=\int_{1}^{2} \frac{1}{T}\;\mathrm{d}Q$ (allgemein)
 ## Dritter Hauptsatz der Thermodynamik
 
 Der absolute Nullpunkt ($T=0\pu{K}$) der Temperatur ist nicht zu erreichen.
+# Kernphysik
+
+## Aufbau von Kernen
+
+$$\ce{^{Nukleonenzahl}_{Ordnungszahl}\text{Element}}$$
+
+| Begriff               | Bedeutung                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------- |
+| Kernladungszahl       | Anzahl der Protonen im Kern                                                                          |
+| Nukleonen             | bestehen aus einem Proton und Neutron, bestimmen die Eigenschaften des Atomkerns                     |
+| Nukleonenzahl         | Anzahl an Nukleonen im Kern                                                                          |
+| Nuklide               | Kerne mit einer bestimmten Zusammensetzung, Nuklide gleicher Ordnungszahl gehören zum selben Element |
+| Isotope               | Atom hat eine andere Neutronenzahl als Ordnungszahl                                                  |
+| Atomare Masseneinheit | Grundgröße der Atomphysik, entspricht ein zwölftel der Masse eines Kohlenstoffatoms                  |
+
+### Nuklidkarte
+
+Darstellung sämtlicher vorkommender Nuklide.
+
+## Nachweis ionisierender Strahlung
+
+### Fotografische Detektoren
+
+- In einer empfindlichen Schicht lösen auftreffende Teilchen eine chemische Reaktion aus
+- Reaktion führt eine Schwärzung hervor abhängig von Art und Intensität der Strahlung
+
+### Geifer-Müller-Zählrohr
+
+- Strahlung ionisiert die Moleküle in der Luft
+- Elektroskop ist geladen
+- Die Elektronen und Ionen neutralisieren die Ladung des Elektroskops → Zeiger geht zurück
+
+### Zählrate und Nullrate
+
+- Zählrate: Anzahl der Teilchen, die pro Zeit registriert werden
+- Nullrate: Natürliche Rate von der Umgebung, die von der Zählrate abgezogen werden muss
+
+### Nebelkammer
+
+- Detektor zur sichtbarmachung von Bahnspuren
+- In einem Nebel erzeugt Straglung entlag ihrer Bahn Ionen
+- Der Dampf kondensiert entlang der Teilchenspur
+
+### Szentillationsdetektoren
+
+- Fluoreszenzlichtblitze werden von Kristallen beim Eintreffen von Strahlung ausgesendet
+
+
+### Halbleiterdetektoren

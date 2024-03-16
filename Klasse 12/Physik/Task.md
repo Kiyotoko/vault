@@ -844,6 +844,7 @@ $\Delta S=\frac{334\pu{kJ}}{273\pu{K}}=1.22\pu{kJ//K}$
 Da die Temperatur beim Schmelzprozess konstant ist (273K), vereinfacht sich das Integral:
 
 $\Delta S=\int_{1}^{2} \frac{\mathrm{d}Q}{T}=\frac{1}{T}\int_{1}^{2}\mathrm{d}Q=\frac{Q}{T}$
+<<<<<<< HEAD
 
 ---
 
@@ -851,3 +852,15 @@ $W_{2,3}>W_{1,2}$
 
 $W_{1,2}$ Volumenarbeit positiv
 $W_{2,3}$ Volumenarbeit negativ
+=======
+# Kernphysik
+
+## 2024-03-10
+
+$\ce{^{14}_{6}C}$ bedeutet, dass ein Kohlenstoff-Atom mit der Ordnungszahl 6 14 Nukleonen hat.
+Ein C-14 Atom kann bei vollständiger Ionisierung 4 Elektronen abgeben.
+
+---
+
+$m_{A}=12.01\pu{u}$
+$1\pu{u}=1.660539\cdot10^{-27}\pu{kg}$
