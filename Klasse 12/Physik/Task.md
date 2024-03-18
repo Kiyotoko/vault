@@ -897,4 +897,11 @@ $\overline{E_{B}}=\frac{E_{B}}{A}=8\pu{MeV}$
 
 ## 2024-03-18
 
-Im Diagramm sind verschiedene Materialien dargestellt
+Im Diagramm sind verschiedene Materialien dargestellt. Auf der x-Achse ist die Energie in Mega Elektronenvolt der Strahlung abgebildet. Auf der y-Achse ist die Reichweite in Centimeter bzw. Millimetern abhängig von der Energie dargestellt. Während Alphastrahlung bei Luft eine hohe Reichweite hat, ist die Reichweite im Gewebe sehr gering (unter 1 mm). Somit ist Alphastrahlung für den Körper harmlos.
+
+Aufnahme von Fremdkörpern im Organismus = Inkorporation
+
+---
+
+Halbwertszeit $51s$
+Zerfallskonstante $$

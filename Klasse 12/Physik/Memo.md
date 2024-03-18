@@ -1491,3 +1491,27 @@ Energie für 1 Gramm Uran:
 $n=\frac{0.001\pu{kg}}{234.933\cdot1.66\cdot10^{-27}\pu{kg}}\approx4.255\cdot10^{21}$
 $\Delta E=2.787\cdot10^{-11}\pu{J}$
 $E_{ges}=n\cdot\Delta E=4.255\cdot10^{21}\cdot2.787\cdot10^{-11}\pu{J}=1.186\cdot10^{11}\pu{J}$ (in Wärme umgewandelt $7.74\cdot10^{10}\pu{J}$)
+
+## Aktivität und Zerfallsgesetze
+
+### Zerfallsgesetz
+
+Der Zerfall von Kernen ist ein spontaner, statistischer Prozess. Jeder noch nicht zerfallene Kern hat eine Wahrscheinlichkeit, in einer festen Zeitspanne zu zerfallen. Für die Anzahl der noch nicht umgewandelten Kerne gilt:
+
+$N(t)=N(0)\cdot e^{-\lambda\cdot t}$
+
+Die Zerfallskonstante $\lambda$ gibt den Zerfall für den jeweiligen Nuklid an.
+
+### Aktivität
+
+Die Aktivität eines Präparats gibt an, wie viele Kerne in einer Zeitspann zerfallen
+
+Einheit: Becquerel ($Bq$) = Zerfall pro Sekunde
+
+$A(t)=- \frac{\mathrm{d}N}{\mathrm{d}t}$
+
+### Halbwertszeit
+
+Die Halbwertszeit gibt an, nach welcher Zeit die Aktivität eines Präparats auf die Hälfte des Ausgangswerts abgesunken ist.
+
+$T_\frac{1}{2}=\frac{\ln{2}}{\lambda}$
