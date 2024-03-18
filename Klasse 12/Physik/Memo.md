@@ -1406,6 +1406,16 @@ Strahlung, die bei Kernumwandlungen freigesetzt werden.
 | Energie: $1-10\pu{MeV}$                                                            | Energie: $\approx1\pu{MeV}$                                                                                                                                            | Energie $\approx1\pu{MeV}$                                                     |
 | geringes Durchdringungs-vermögen                                                   | mittleres Durchdringungs-vermögen                                                                                                                                      | größtes Durchdringungs-vermögen                                                |
 
+### Unterscheidung der Strahlungsarten
+
+- Ioniesierungsvermögen → Reichweite in Materie
+- Durchdringungsvermögen
+- Ablenkbarkeit in elektrischen und magnetischen Feldern
+- Strahlungsintensität wird mithilfe der Zählrate bestimmt
+- Verschiedene Strahlungsarten werden unterschiedlich stark von einem homogenen Magnetfeld abgelenkt
+- Wie unterscheidet man Neutronen- und Elektronenstrahlung?
+- Wie unterscheidet man Positronen- und Alphastrahlung?
+
 ## Massendefekt und Bindungsenergie
 
 ### Massendefekt

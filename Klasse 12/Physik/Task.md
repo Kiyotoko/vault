@@ -893,3 +893,8 @@ $\Delta m=0.137\pu{u}$
 $E_{B}=128\pu{MeV}$
 $\overline{E_{B}}=\frac{E_{B}}{A}=8\pu{MeV}$
 
+
+
+## 2024-03-18
+
+Im Diagramm sind verschiedene Materialien dargestellt
