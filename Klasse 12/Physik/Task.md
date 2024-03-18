@@ -903,5 +903,24 @@ Aufnahme von Fremdkörpern im Organismus = Inkorporation
 
 ---
 
-Halbwertszeit $51s$
-Zerfallskonstante $$
+Lösen über linerare Regression $mx+n$
+
+Zerfallskonstante $0.014s^{-1}$
+Halbwertszeit $49.5105s$
+
+---
+
+Präparat A: Aktivität = 1, Halbwertszeit = 0.5
+Präparat B: Aktivität = 0.5, Halbwertszeit = 1
+
+$A_{A}=1$
+$T_{\frac{1}{2},A}=0.5$
+
+$A_{B}=0.5$
+$T_{\frac{1}{2},B}=1$
+
+$\lambda_{A}=\frac{\ln{2}}{T_{\frac{1}{2},A}}=2\ln{2}$
+$\lambda_{B}=\frac{\ln{2}}{T_{\frac{1}{2},B}}=\ln{2}$
+
+$A_{A}=1\cdot e^{-2\ln{2}\cdot t}=\frac{1}{4}^{t}$
+$A_{B}=0.5\cdot e^{-\ln{2}\cdot t}=\frac{1}{2}\cdot \frac{1}{2}^{t}$
