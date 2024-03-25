@@ -1515,3 +1515,23 @@ $A(t)=- \frac{\mathrm{d}N}{\mathrm{d}t}$
 Die Halbwertszeit gibt an, nach welcher Zeit die Aktivität eines Präparats auf die Hälfte des Ausgangswerts abgesunken ist.
 
 $T_\frac{1}{2}=\frac{\ln{2}}{\lambda}$
+
+## Altersbestimmung
+
+### Radiokarbonmethode
+
+- in oberen Atmosphärenschichten werden durch Höhenstrahlung Stickstoffkerne durch aufnehmen eines Neutrons in C-14 umgewandelt
+- C-14 zerfällt nach 5730 Jahren wieder in Stickstoff
+- Lebewesen bauen in ihren Organismus während ihres Lebens C-14 ein
+- durch Tod eines Lebewesens wird kein neuer C-14 mehr aufgenommen → Verhältnis von C-14 zu C-12 sinkt
+- Was ist $\overline{v}$?
+
+$\frac{N_{T}(t)}{N_{M}(t)}=\frac{N_{0}-N(t)}{N(t)}=\frac{1}{e^{-\lambda\cdot t}}-1$
+
+### Uran-Blei-Methode
+
+- Uran-238 und Uran-235 zerfällt in Blei-206 und Blei-207
+- Aus dem Verhältnis der Konzentration ergibt sich das Alter
+
+$N(\ce{Pb-206})=N(\ce{U-238})\cdot e^{\lambda(\ce{U-238})\cdot t}-1$
+$N(\ce{Pb-207})=N(\ce{U-235})\cdot e^{\lambda(\ce{U-235})\cdot t}-1$
