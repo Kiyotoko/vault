@@ -133,6 +133,8 @@ Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Bei
 
 - Meist in Zeilen statt Versen
 - Hat Erzählperspektiven
+- Roman: Corpus Delicti
+- Novelle: Der Sandmann
 
 # Lyrik
 
@@ -145,3 +147,8 @@ Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Bei
 	- Balladen:
 		- Gedicht
 		- Länge und Handlung eines epischen Textes
+
+# Dramatik
+
+- Der Besuch der alten Dame
+- Woyzeck
