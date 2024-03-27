@@ -143,4 +143,5 @@ Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Bei
 		- Inhaltlicher Bruch
 		- Typisch für Barock
 	- Balladen:
-		- 
+		- Gedicht
+		- Länge und Handlung eines epischen Textes
