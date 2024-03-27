@@ -152,3 +152,6 @@ Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Bei
 
 - Der Besuch der alten Dame
 - Woyzeck
+- Komödie
+- Tragädie
+- Soziales Drama
