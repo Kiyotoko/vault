@@ -128,3 +128,19 @@ Interpretieren nur am Text belegt, kein Aufgreifen externer Faktoren wie zum Bei
 ### Theoretischer Kontext
 
 ### Sprache im Drama
+
+# Epik
+
+- Meist in Zeilen statt Versen
+- Hat Erzählperspektiven
+
+# Lyrik
+
+- Kein Erzählperspektiven
+- Lyrisches Ich / Lyrischer Sprecher
+- Sonnette / Balladen
+	- Sonette:
+		- Inhaltlicher Bruch
+		- Typisch für Barock
+	- Balladen:
+		- 
