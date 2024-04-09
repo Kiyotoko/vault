@@ -16,8 +16,11 @@
 - Dadurch werden von den $Hg$-Atomen von dem Grundzustand in den nächst höheren Energiezustand gehoben
 - Wenn diese wieder in den Grundzustand zurückfallen, werden Photonen ausgesendet (Gas leuchtet)
 - Freie Elektronen, die durch unelastische Stöße mit dem $Hg$-Atomen Energie abgeben haben, besitzen nicht genug kinetische Energie, um die Gegenspannung zu überwinden → weniger Elektronen kommen an der Anode an und die Stromstärke sinkt → Kurz davor wurde maximum erreicht
-- Abstände der lokalen Maxima
-- Existenz lokaler Minima
+- Bei ausreichend Energie können mehrere Stöße mit den Atomen passieren
+- Der Energiebetrag für das Anregen der Atome ist jedoch konstant → Folglich sind Abstände der lokalen Maxima konstant
 - Energie fällt nie auf null, da Elektronen, selbst wenn sie genug Energie haben, nicht auf ein Atom treffen müssen
 
 ## Hall-Effekt
+
+- Fließt senkrecht zu einem Magnetfeld ein Strom, so wirkt auf die sich bewegenden Elektronen im Magnetfeld eine Lorentz-Kraft
+- Diese Kraft sorgt dafür, dass auf einer Seite des Hall-Elements ein Elektronenüberschuss  entsteht, auf der anderen Seite ein Elektronenmangel → Dieser Ladungsunterschied zwischen Ober- und Unterseite kann in Form einer Spannung zwischen Ober- und Unterseite gemessen werden.
