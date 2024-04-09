@@ -1,7 +1,7 @@
 ## Michelson-Experiment
 
 - Theorie besagt, das Licht ein Ausbreitungsmedium, der Äther, benötigt
-- Da sich die Erde im Äther fortbewegt, muss die Geschwindigkeit des Lichts von der Raumrichtung abhängen
+- Da sich die Erde im Äther fortbewegt, muss die Geschwindigkeit des Lichtes von der Raumrichtung abhängen
 - Experiment hat gezeigt, das die Theorie falsch ist -> Konstanz der Lichtgeschwindigkeit bewiesen
 
 ## Millikan-Versuch
