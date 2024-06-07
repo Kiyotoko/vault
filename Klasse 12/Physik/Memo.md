@@ -1413,8 +1413,8 @@ Strahlung, die bei Kernumwandlungen freigesetzt werden.
 - Ablenkbarkeit in elektrischen und magnetischen Feldern
 - Strahlungsintensität wird mithilfe der Zählrate bestimmt
 - Verschiedene Strahlungsarten werden unterschiedlich stark von einem homogenen Magnetfeld abgelenkt
-- Wie unterscheidet man Neutronen- und Elektronenstrahlung?
-- Wie unterscheidet man Positronen- und Alphastrahlung?
+- Man unterscheidet Positronen und $\alpha$-Teilchen durch den Grümmungsradius
+- Man unterscheidet Neutronen und Gammastrahlung durch abschirmung
 
 ## Massendefekt und Bindungsenergie
 
@@ -1524,7 +1524,11 @@ $T_\frac{1}{2}=\frac{\ln{2}}{\lambda}$
 - C-14 zerfällt nach 5730 Jahren wieder in Stickstoff
 - Lebewesen bauen in ihren Organismus während ihres Lebens C-14 ein
 - durch Tod eines Lebewesens wird kein neuer C-14 mehr aufgenommen → Verhältnis von C-14 zu C-12 sinkt
-- Was ist $\overline{v}$?
+
+**Neutrinos**
+- Elektrisch neutrales Elementarteilschen geringer Masse
+- $\overline{v}$ ist ein Antineutrino → $\ce{\beta-}$ Strahlung Energie
+- $v$ ist ein Neutrino → $\ce{\beta+}$ Strahlung Energie
 
 $\frac{N_{T}(t)}{N_{M}(t)}=\frac{N_{0}-N(t)}{N(t)}=\frac{1}{e^{-\lambda\cdot t}}-1$
 
