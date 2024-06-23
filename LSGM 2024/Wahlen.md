@@ -40,5 +40,7 @@ $k=5\quad N=100$
 | 14       | C>E>D>B>A   |
 
 Beim ersten System: A Gewinnt
+Beim zweiten System: C Gewinnt
 Beim dritten System: C fliegt raus, D fliegt raus, B fliegt raus, A fliegt raus, E gewinnt
 Beim vierten System: B gewinnt
+Beim fünften System: D gewinnt
