@@ -58,5 +58,5 @@ e) Eine Erststimme muss relevant sein/bleiben
 | a   | ✅   | ❌   | ✅   | ✅   | ❌   |
 | b   | ❌   | ✅   | ✅   | ✅   | ✅   |
 | c   | ✅   | ✅   | ✅   | ✅   | ✅   |
-| d   |     |     | ✅   |     |     |
+| d   | ❌   |     | ❌   | ❌   |     |
 | e   | ✅   | ✅   | ✅   | ✅   | ❌   |
