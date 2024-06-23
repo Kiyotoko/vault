@@ -1539,3 +1539,7 @@ $\frac{N_{T}(t)}{N_{M}(t)}=\frac{N_{0}-N(t)}{N(t)}=\frac{1}{e^{-\lambda\cdot t}}
 
 $N(\ce{Pb-206})=N(\ce{U-238})\cdot e^{\lambda(\ce{U-238})\cdot t}-1$
 $N(\ce{Pb-207})=N(\ce{U-235})\cdot e^{\lambda(\ce{U-235})\cdot t}-1$
+
+$$
+\text{2wads}
+$$
