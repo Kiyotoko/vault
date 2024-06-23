@@ -22,8 +22,8 @@ Wahlsystem Funktion: $\{(R_{1},R_{2},\dots,R_{i}),\dots\}\to A$
 3. Integrierte Stichwahl/Ranked Choice (Australien)
 	- wenigsten Erststimmen raus
 	- 
-1. Stichwahl zwischen Top 2 (Fra)
-2. Eliminierung: meiste letzte Stimmen raus
+4. Stichwahl zwischen Top 2 (Fra)
+5. Eliminierung: meiste letzte Stimmen raus
 	- dann neu abstimmen
 
 ---
@@ -44,3 +44,19 @@ Beim zweiten System: C Gewinnt
 Beim dritten System: C fliegt raus, D fliegt raus, B fliegt raus, A fliegt raus, E gewinnt
 Beim vierten System: B gewinnt
 Beim fünften System: D gewinnt
+
+## Kriterien
+
+a) Majorität: Ein Kandidat mit > 50% Erststimmen gewinnt
+b) Autiz-Majorität: Ein Kandidat mit > 50% Letztstimmen gewinnt nicht
+c) Pareto: Wenn jeder $X$ vor $Y$ sieht, soll $Y$ nicht gewinnen
+d) Condoret: Wenn $X$ jede Stichwahl gewinnt, soll $X$ gewinnen
+e) Eine Erststimme muss relevant sein/bleiben
+
+|     | 1   | 2   | 3   | 4   | 5   |
+| --- | --- | --- | --- | --- | --- |
+| a   | ✅   | ❌   | ✅   | ✅   | ❌   |
+| b   | ❌   | ✅   | ✅   | ✅   | ✅   |
+| c   | ✅   | ✅   | ✅   | ✅   | ✅   |
+| d   |     |     | ✅   |     |     |
+| e   | ✅   | ✅   | ✅   | ✅   | ❌   |
