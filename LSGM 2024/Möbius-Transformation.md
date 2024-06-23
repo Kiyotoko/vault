@@ -57,3 +57,18 @@ $z_{2}=1-i\implies M_{i}(z_{2})=\frac{1}{z_{2}}=\frac{1+i}{2}$
 $z_{0}=2i\implies M_{i}(z_{0})=\frac{1}{z_{0}}=\frac{-2i}{4}=- \frac{1}{2}i$
 $z_{1}=2+2i\implies M_{i}(z_{1})=\frac{1}{z_{1}}=\frac{1}{2+2i}= \frac{2-2i}{8}=\frac{1}{4}-\frac{1}{4}i$
 $z_{2}=-2+2i\implies M_{i}(z_{2})=\frac{1}{z_{2}}=\frac{1}{-2+2i}= \frac{-2-2i}{8}=-\frac{1}{4}-\frac{1}{4}i$
+
+---
+
+Je weiter der Abstand der Gerade zum Koordiatenursprung ist, in desto kleinere Kreise werden sie transformiert
+
+## Dreh-Streckung
+
+$M_{0}(z)=a\cdot z\quad(b=0,c=0,d=1)$
+$a\in\mathbb{C}\quad(a=|a|\cdot e^{i\alpha})$ Streckung um den Faktor $|a|$ sowie Drehung un den Winkel $\alpha$.
+
+**Beispiel**
+$a=2+i$, d.h. $M_{0}(z)=(2+i)z$
+$M_{0}(z_{0})=M_{0}(0)=0$
+$M_{1}(z_{1})=M_{1}(1+i)=(2+i)(1+i)=2+2i+i+i^{2}=1+3i$
+$M_2(z_{2})=M_{2}(-1-i)=-1-3i$
