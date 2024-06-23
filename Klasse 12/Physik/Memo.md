@@ -1145,6 +1145,10 @@ $\frac{V_{2}^{\gamma-1}}{V_{3}^{\gamma-1}}=\frac{T_{3}}{T_{2}}$
 
 $\displaystyle\begin{split}W_{2,3}&=\int_{V_{2}}^{V_{3}}p\;\mathrm{d}V=\int_{V_{2}}^{V_{3}}\frac{k}{V^{\gamma}} \;\mathrm{d}V\\ &=k\int_{V_{2}}^{V_{3}}V^{-\gamma}\;\mathrm{d}V=k\Big[\frac{V^{-\gamma+1}}{-\gamma+1}\Big]_{V_{2}}^{V_{3}}\\ &=\frac{k}{-\gamma+1}(V_{3}^{-\gamma+1}- V_{2}^{-\gamma+1})=\frac{p_{2}V_{2}^{\gamma}}{-\gamma+1}(V_{3}^{-\gamma+1}- V_{2}^{-\gamma+1})\\ &=\frac{p_{2}}{-\gamma+1}(V_{2}^{\gamma}V_{3}^{-\gamma+1}- V_{2}^{\gamma}V_{2}^{-\gamma+1})=\frac{p_{2}}{-\gamma+1}(V_{2}^{\gamma}V_{3}^{-\gamma+1}- V_{2})\\ &=\frac{p_{2}V_{2}}{-\gamma+1}(V_{2}^{\gamma-1}V_{3}^{-(\gamma-1)}-1)=\frac{p_{2}V_{2}}{-\gamma+1}\Big(\frac{V_{2}^{\gamma-1}}{V_{3}^{\gamma-1}}-1\Big)\\ &=\frac{nRT_{2}}{-\gamma+1}\Big(\frac{T_{3}}{T_{2}}-1\Big)= n \frac{R}{-\gamma+1}(T_{3}-T_{2})=n\cdot c_{V} \Delta T=Q_{V}\end{split}$
 
+$$
+\frac{p_{1}V_{4}}{-\gamma+1}(V_{4}^{\gamma-1}V_{1}^{-(\gamma-1)}-1)=\frac{p_{1]V_{4}}{-\gamma+1}\Big(\frac{V_{4}^{\gamma-1}}{V_{1}^{\gamma-1}}-1\Big)
+$$
+
 ### Zustandsänderung von 3 zu 4
 
 isotherm $\Delta U=0$
