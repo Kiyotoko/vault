@@ -1,10 +1,3 @@
----
-author: karlz
-tags:
-- Mathe
-- LSGM
----
-
 ## Das Josephus-Problem
 
 - $n$ nummerierte Objekte werden im Kreis angeordnet.

@@ -32,7 +32,7 @@ Der Gini-Koeffizient oder auch Gini-Index ist ein statistisches Maß für die Un
 	- Arbeit
 	- Selbstbestimmung
 
-### Human-Development-Index
+#### Human-Development-Index
 
 Der Human Development Index der Vereinten Nationen ist ein Indikator für Staaten, der auch als Wohlstandsindikator bezeichnet wird. Der HDI wird seit 1990 im jährlich erscheinenden Bericht über die menschliche Entwicklung des Entwicklungsprogramms der Vereinten Nationen (UNDP) veröffentlicht.
 
@@ -63,3 +63,23 @@ Geodeterminismus ist ein Forschungsansatz der Wirtschaftsraumanalyse, der besagt
 ### Bedürfnispyramide
 
 ![](Working%20Materials/Globale%20Disparität/Bedürfnispyramide.jpeg)
+
+## Demographischer Wandel
+
+### Begriffe
+
+- Geburtenrate: Anzahl der Personen, die jedes Jahr geboren werden
+- Sterberate: Anzahl der Personen, die jedes Jahr sterben
+- Zuwachsrate: Geburtenrate abzüglich der Sterberate
+- Fertilitätsrate: Zusammengefasste Fruchtbarkeitsziffer; Anzahl der Kinder, die eine Frau durchschnittlich im Laufe des Lebens hätte
+
+### Grundformen
+
+- Pyramidenform: hohe und über längere Zeit konstante Geburten- und Sterberate bedingen langsames Wachstum
+	- $\text{Geburtenrate}=\text{konst.}>\text{Sterberate}=\text{konst.}$
+- Bienenkorbform: über längere Zeit gleich bleibende niedrige Geburten- und Sterberate sowie eine hohe Lebenserwartung bedingen gleich bleibende Bevölkerungszahl
+	- $\text{Geburtenrate}=\text{Sterberate}$
+- Glockenform: aufgrund eines Ansteigens der Geburten bei gleichbleibenden niedriger Sterblichkeit beginnt die Bevölkerung wieder zu wachsen.
+	- $\text{Geburtenrate}>\text{Sterberate}$
+- Urnenform: bei hoher Lebenserwartung und kontinuierlich abnehmender Geburtenzahl schrumpft die Bevölkerung über lange Zeit
+	- $\text{Geburtenrate}<\text{Sterberate}$

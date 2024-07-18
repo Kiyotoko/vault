@@ -1,10 +1,3 @@
----
-author: karlz
-tags:
-- Mathe
-- LSGM
----
-
 # Primzahlen
 
 $\DeclareMathOperator\rev{rev}$

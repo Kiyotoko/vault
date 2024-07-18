@@ -1,10 +1,3 @@
----
-author: karlz
-tags:
-- Mathe
-- LSGM
----
-
 # Hackenbusch
 
 * 2 Spieler

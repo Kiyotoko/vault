@@ -1,10 +1,3 @@
----
-author: karlz
-tags:
-- Mathe
-- LSGM
----
-
 # Funktionalgleichungen
 
 Finde alle Funktionen $f: R\in\mathbb{R}$ mit $a*f(ab)= f(b)$

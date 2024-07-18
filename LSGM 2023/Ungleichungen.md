@@ -1,10 +1,3 @@
----
-author: karlz
-tags:
-- Mathe
-- LSGM
----
-
 # Multiplizieren / Dividieren Negativer Zahlen
 
 $3x>5x+1|-5x$

@@ -1,10 +1,3 @@
----
-author: karlz
-tags:
-- Mathe
-- LSGM
----
-
 # Quadratische Ungleichungen
 
 Die wichtigste aller Ungleichungen ist $x^2\geq0$.

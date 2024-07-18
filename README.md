@@ -7,4 +7,4 @@
     <img alt="Language" src="https://img.shields.io/badge/language-Deutsch-crimson">
 </div>
 
-Dieses Repo enthält alle Mitschriften der 10 bis 12 Klassen, sowie der Datein vom LSGM.
+Dieses Repository enthält die Mitschriften der 11 sowie 12 Klassen als auch der Datein vom LSGM.
